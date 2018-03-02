@@ -1,0 +1,317 @@
+{
+  "listdata": [
+    {
+      "md5": "85a5fc6f3d6b0e3036936b8c15bd6efd", 
+      "name": "ApplyListLayer.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "ceb711cc07926ba3acb8e1d9a2d53fed", 
+      "name": "BankLayer.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "4f18f884f38197e49e6f6f3b9e119d0c", 
+      "name": "filemd5List.json", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "1db134b7aefd1fa7df17bb1a8d5b7f37", 
+      "name": "game_bank.plist", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "cb724ae7d5fe1d92fe73e4d6834d86c6", 
+      "name": "game_bank.png", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "7fbd92f58cb01875f89e5130fed73648", 
+      "name": "game_res.plist", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "0c3de369f5ac1176dc7eaba6dd4b549b", 
+      "name": "game_res.png", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "536d2c758558d6e9b319d54fb61e684e", 
+      "name": "GameFailed.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "11c470bf4478744a08a863d5b63fb9d1", 
+      "name": "GameScene.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "71c8e50cb69232eac229fd2adb539136", 
+      "name": "GameWin.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "01aa8324979bb5a17d62ece6ec803a92", 
+      "name": "im_card.png", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "2e0d567070a93807f92723eb9156fe5b", 
+      "name": "LudanLayer.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "d7f5df18f5cbda70d1ce63a7e6e214ca", 
+      "name": "SettingLayer.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "f5d9438c505897a8386fe544e46abb92", 
+      "name": "SitRoleNode.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "8d3297b9f1263f8cbf66e922dbb81dd2", 
+      "name": "UserItem.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "b9e3438fec89532dc9be833d1c758074", 
+      "name": "UserListLayer.csb", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "5f76ca84668423a7d2aa859e4bc8d7aa", 
+      "name": "win_effect.plist", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "2b82c3dbaf4fc6e569344745b9c2b475", 
+      "name": "win_effect.png", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "a470f2d75567158369a282043609884a", 
+      "name": "im_game_bg.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "2358b434f6d17d8b50cc45c182d523df", 
+      "name": "num_failed.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "349bf63ee53eba8a099d5e82b6118fcd", 
+      "name": "num_point.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "d3105fa527f45e8e1cdd1e30d3fdfa3d", 
+      "name": "num_score_add.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "ca092f1083b26cb933871d26640609c6", 
+      "name": "num_score_plus.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "1a449ad9a035bfa4843b59fdf78c2a0c", 
+      "name": "num_time.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "22c5fb433e363ff24afac705556b91c4", 
+      "name": "num_win.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "d586de7b0c82f63d36cfc695e131d9a2", 
+      "name": "icon_roomlist_0.png", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "cb215b06007855266ab73c16eb528be0", 
+      "name": "icon_roomlist_1.png", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "d586de7b0c82f63d36cfc695e131d9a2", 
+      "name": "icon_roomlist_2.png", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "2164d44dde0c9b168d9b0ebe8fb59c8c", 
+      "name": "bt_click.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "4a3835913e4f9d7716a1f4f17283aa41", 
+      "name": "choice_score.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "73c2f928be820b211c83df31eaed8ac0", 
+      "name": "coinCollide.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "3fa563b4b3ed8a2ca5ca164b9617cf7f", 
+      "name": "coins_fly_in.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "605dc4c5e976e94e90fd407a47cbbf42", 
+      "name": "gameLose.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "281fdbfc0e3c61ace84b1d0e57299151", 
+      "name": "gameWin.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "bddc38dff6ec5b840358a8b7872bd8f7", 
+      "name": "ingameBGMMono.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "71c98c32e27524ec7312c59f16bde944", 
+      "name": "open_card.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "8d5a6082b0fec40dec891d8becf455f8", 
+      "name": "OX_0_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "dde0dad41311976957a097eff8a0d57e", 
+      "name": "OX_10_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "8a40c26535f13de116852d773b6518f1", 
+      "name": "OX_1_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "c998f1dfd746f850a683e5554c0b30ae", 
+      "name": "OX_2_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "c975aa9b386471acb7ab948108258f77", 
+      "name": "OX_3_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "c56c0b002da1b7fb4a77e62ba581ffe8", 
+      "name": "OX_4_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "564f96e32864fe6d0dfcd612e530ddf4", 
+      "name": "OX_5_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "5822474f462f1b145e6ef30d0e279c51", 
+      "name": "OX_6_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "6317e27f003a1a29a67fecfddb0edee2", 
+      "name": "OX_7_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "832c7f8c248de34663e8563e5603cbcf", 
+      "name": "OX_8_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "eb86345c1b9b4435f798ac20de4596ba", 
+      "name": "OX_9_BANKER_SOUND.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "2164d44dde0c9b168d9b0ebe8fb59c8c", 
+      "name": "send_card.wav", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "6e3ae2e48306368e45a732856da11373", 
+      "name": "CMD_Game.luac", 
+      "path": "oxbattle/src/models/"
+    }, 
+    {
+      "md5": "394e851bab99617d9fc3a0cda20a2e35", 
+      "name": "GameFrame.luac", 
+      "path": "oxbattle/src/models/"
+    }, 
+    {
+      "md5": "4188fa9d1b70cbf597e3691f80e705fd", 
+      "name": "GameLogic.luac", 
+      "path": "oxbattle/src/models/"
+    }, 
+    {
+      "md5": "193ef663ba12e0c71df689726f1376e6", 
+      "name": "GameLayer.luac", 
+      "path": "oxbattle/src/views/"
+    }, 
+    {
+      "md5": "cfd6ea6949a44762cf72da1dc9353ded", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "oxbattle/src/views/"
+    }, 
+    {
+      "md5": "f23b5ddb99ba751c27e6e25824cdb835", 
+      "name": "ApplyListLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "b793474ef7305ad3fc01533af6b1c382", 
+      "name": "CardSprite.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "b32c18db4e3ef68f5cd7ab234f0cd7a7", 
+      "name": "GameRecordLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "89b2808f6f28520fbed69e75184a38fc", 
+      "name": "GameResultLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "f1ed1dc48fe621d9e5f8ce7d5c5addc9", 
+      "name": "GameViewLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "8d570704d9158e492237013a8c17e282", 
+      "name": "SettingLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "e1ae62047fa27a2d5d074be2306d1dfc", 
+      "name": "SitRoleNode.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "8e06d3d7b33a1a941f6c20cca12acef8", 
+      "name": "UserItem.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "8a921c5a86538a71a0dfdcac1f2860aa", 
+      "name": "UserListLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "allcount": 62
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "listdata": [
+    {
+      "md5": "1b2c03ff14c603f32ed54212f2e4541c", 
+      "name": "filemd5List.json", 
+      "path": "baccaratnew/res/"
+    }, 
+    {
+      "md5": "31b1e443d722f385f512d12a4813d489", 
+      "name": "bank.plist", 
+      "path": "baccaratnew/res/bank/"
+    }, 
+    {
+      "md5": "90c881f81c83fa0ee2a65d17a224303f", 
+      "name": "bank.png", 
+      "path": "baccaratnew/res/bank/"
+    }, 
+    {
+      "md5": "11aa5523ea2591a20b39188b1be23668", 
+      "name": "BankLayer.csb", 
+      "path": "baccaratnew/res/bank/"
+    }, 
+    {
+      "md5": "ce7c39cf12015420f818c65aca025683", 
+      "name": "ApplyListLayer.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "d3105fa527f45e8e1cdd1e30d3fdfa3d", 
+      "name": "atlas_add.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "ca092f1083b26cb933871d26640609c6", 
+      "name": "atlas_sub.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "cea4bf40738a3dcbcf5fc17e656bee50", 
+      "name": "atlas_time_num.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "e504e7f7f74bc4f4eae87698a786ccc8", 
+      "name": "card.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "088130e87cbd68013d56fbf7f110525a", 
+      "name": "game.plist", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "a26cc41641ad63b5d39a79c98688ffec", 
+      "name": "game.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "381f946921611f485d6f6763c4d6a771", 
+      "name": "GameCardLayer.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "61f6a7c05d9b1e7a41784b9ecfafe0d4", 
+      "name": "GameClockNode.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "72075aa4d16bc369f81a9b4023060517", 
+      "name": "GameLayer.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "4a5d1e1b34020dc0c0027405007ca8d7", 
+      "name": "GameResultLayer.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "fa9d604308708fa6ad427cd9cd21be01", 
+      "name": "JettonNode.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "0338487433d9fade243ea6bc452b2f2e", 
+      "name": "pk_card.plist", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "7fa8b4ce27ad0ab06448d58f27ef01a1", 
+      "name": "pk_card.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "31be79b7b620240871af24918eb0fda8", 
+      "name": "room_chipbg.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "7af631f47612ead3d5eca3b04f5670a0", 
+      "name": "room_clearing_no2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "121d41f3ce6a6ddc3ea4984a417c7efb", 
+      "name": "room_clearing_no3.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "141a19df84f068670f85a09cc24a3ba5", 
+      "name": "SimpleWallBill.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "ce095bf42fe578ce60bc01458e9b927c", 
+      "name": "SitRoleNode.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "92fa10a40527f5e8085cef19dd557d58", 
+      "name": "UserItem.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "4aa1021508f6d788532873e9d01134f0", 
+      "name": "UserListLayer.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "0a1639faf39a60e2ff00d452133f4264", 
+      "name": "WallBill.csb", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "1042b1e0329fb2211ac535f05d9d3dae", 
+      "name": "public_res.plist", 
+      "path": "baccaratnew/res/public_res/"
+    }, 
+    {
+      "md5": "05fae9603718b2ea27429169d5e4307b", 
+      "name": "public_res.png", 
+      "path": "baccaratnew/res/public_res/"
+    }, 
+    {
+      "md5": "fe53cd2a02eb685a449bc3358c2091d5", 
+      "name": "icon_roomlist_0.png", 
+      "path": "baccaratnew/res/roomlist/"
+    }, 
+    {
+      "md5": "2efacc8b8108bcb0d1479986b209277e", 
+      "name": "icon_roomlist_1.png", 
+      "path": "baccaratnew/res/roomlist/"
+    }, 
+    {
+      "md5": "bc89f9546491e1e84f5480063fce1e1a", 
+      "name": "icon_roomlist_2.png", 
+      "path": "baccaratnew/res/roomlist/"
+    }, 
+    {
+      "md5": "7545afaa322d4d9c4d876b2ad45fef4c", 
+      "name": "setting.plist", 
+      "path": "baccaratnew/res/setting/"
+    }, 
+    {
+      "md5": "62d631aff3b1388702b4189d860dec0f", 
+      "name": "setting.png", 
+      "path": "baccaratnew/res/setting/"
+    }, 
+    {
+      "md5": "36e11eabda79d6e876a97df639705f6d", 
+      "name": "SettingLayer.csb", 
+      "path": "baccaratnew/res/setting/"
+    }, 
+    {
+      "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
+      "name": "ADD_SCORE.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "ced92613990690a81051a46c43a69659", 
+      "name": "Click.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "fcc3386a181ff12533aeba7916e6e98c", 
+      "name": "END_DRAW.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "8def92de49cdf75151f138482e2293e8", 
+      "name": "END_LOST.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "0a75b76681fec910ebb76229ed4d15d2", 
+      "name": "END_WIN.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "d82fb502b4bf91030094b7ee82375b5c", 
+      "name": "GAME_BLACKGROUND.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "7f59f079bac8a9991d7d879cb6a3b479", 
+      "name": "GAME_START.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "d6a458185a137b53e0767fc21bf8a88e", 
+      "name": "open_alert.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "07f87fe30da5d77c89279cfbe2c38a44", 
+      "name": "SEND_CARD.wav", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
+      "md5": "b18cd32a57da2eaebaff111ffd6c65a6", 
+      "name": "bjlGameDefine.luac", 
+      "path": "baccaratnew/src/models/"
+    }, 
+    {
+      "md5": "616b3d650b4c94333ffcd6ba4473e0b4", 
+      "name": "CMD_Game.luac", 
+      "path": "baccaratnew/src/models/"
+    }, 
+    {
+      "md5": "bd2d912442f5de5428eceb9decec4ea4", 
+      "name": "GameFrame.luac", 
+      "path": "baccaratnew/src/models/"
+    }, 
+    {
+      "md5": "d77ebebcd3917eec9eea0703d9f1ce01", 
+      "name": "GameLogic.luac", 
+      "path": "baccaratnew/src/models/"
+    }, 
+    {
+      "md5": "f5c0f04ac5251bae32b3eeb50bb6a7b3", 
+      "name": "GameLayer.luac", 
+      "path": "baccaratnew/src/views/"
+    }, 
+    {
+      "md5": "a39eee7550463be60ac8d80384a32059", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "baccaratnew/src/views/"
+    }, 
+    {
+      "md5": "27c02768e3bc8926784009ec00e420aa", 
+      "name": "GameCardLayer.luac", 
+      "path": "baccaratnew/src/views/layer/"
+    }, 
+    {
+      "md5": "9bcd66ed553b5b66d33c315294824637", 
+      "name": "GameResultLayer.luac", 
+      "path": "baccaratnew/src/views/layer/"
+    }, 
+    {
+      "md5": "8854ae3ad7de12daa5a480f2ba97e4e8", 
+      "name": "GameViewLayer.luac", 
+      "path": "baccaratnew/src/views/layer/"
+    }, 
+    {
+      "md5": "df3e4ffade5998ad384d2f429acc2d43", 
+      "name": "SettingLayer.luac", 
+      "path": "baccaratnew/src/views/layer/"
+    }, 
+    {
+      "md5": "f64aef393c51f21f627b33f82e0809e0", 
+      "name": "SitRoleNode.luac", 
+      "path": "baccaratnew/src/views/layer/"
+    }, 
+    {
+      "md5": "c64eed7543783859d94c621b9988acfa", 
+      "name": "WallBillLayer.luac", 
+      "path": "baccaratnew/src/views/layer/"
+    }, 
+    {
+      "md5": "6367f88e592b5ced482e0d306acacea6", 
+      "name": "CardsNode.luac", 
+      "path": "baccaratnew/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "a019df2c3a886b7df992cf6cf094e4c0", 
+      "name": "CardSprite.luac", 
+      "path": "baccaratnew/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "6d8e14dccd60d7a1f01d8e0e39d5709b", 
+      "name": "ApplyListLayer.luac", 
+      "path": "baccaratnew/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "3852fed83a537be32ecaa82e2a29420f", 
+      "name": "UserItem.luac", 
+      "path": "baccaratnew/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "4a1cadff6fe7fa4b4be7687d7fb4fbfb", 
+      "name": "UserListLayer.luac", 
+      "path": "baccaratnew/src/views/layer/userlist/"
+    }, 
+    {
+      "allcount": 60
+    }
+  ]
+}
