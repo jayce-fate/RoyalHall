@@ -4,9 +4,9 @@
 	"data":
 	{
 		"valid":true,
-		"downloadurl":"http://130.211.250.220:8081/download",
-		"clientversion":"",
-		"resversion":"",
+		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/RoyalHall/master/download",
+		"clientversion":"1",
+		"resversion":"1",
 		"ios_url":"",
 		"wxLogon":1,
 		"isOpenCard":0,
