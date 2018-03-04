@@ -826,6 +826,21 @@
       "path": "client/res/Checkin/"
     }, 
     {
+      "md5": "ca0d087b4101aa88ab8018f39a3fa997", 
+      "name": "common_backGround.jpg", 
+      "path": "client/res/common_res/"
+    }, 
+    {
+      "md5": "2f04fe90718c74045b7bcaa7d3170fe1", 
+      "name": "common_btn_back_h.png", 
+      "path": "client/res/common_res/"
+    }, 
+    {
+      "md5": "ed8a258c60b2b7d416f8cb6c02d454a1", 
+      "name": "common_btn_back_n.png", 
+      "path": "client/res/common_res/"
+    }, 
+    {
       "md5": "d80565d64f92cf96ac70f5709b64094a", 
       "name": "bt_everyday_0_0.png", 
       "path": "client/res/EveryDay/"
@@ -1739,6 +1754,131 @@
       "md5": "9acfb964b6bfb054176ed9eb83f97e71", 
       "name": "uinfo_btn_gamevideo_1.png", 
       "path": "client/res/Information/"
+    }, 
+    {
+      "md5": "5abb435f3c06aed4d94658c51c4f1eb5", 
+      "name": "btn_scaning_click.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "ab3d1fd6cdb78317fab194c911278e2f", 
+      "name": "btn_scaning_normal.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "a52223e47b9d2f0f876a4b758ba3c3de", 
+      "name": "login_account_bg_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "dfcbd6e87be8a1c5f43aa68ed757c203", 
+      "name": "login_bg.jpg", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "1d634686febf3484d1deda421a30569b", 
+      "name": "login_bottom_bar_bg.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "340478a359dd538348c24113d2901634", 
+      "name": "login_bottom_bar_text.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "bfb355e3105dbac72b62a2d0badf6324", 
+      "name": "login_btn_cs_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "1c8429ca6c87c6ee3ed5777df10cd360", 
+      "name": "login_btn_cs_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "beb86a7e424cf559ac4df2c414d7e6d9", 
+      "name": "login_btn_login_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "ae644dae86ea89a3bfe8eeffb1f47eef", 
+      "name": "login_btn_login_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "b117d0d905d8cbc80347289f75f3dcc4", 
+      "name": "login_btn_register_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "44eec9729c51bdd079d6bff0f4bfde0e", 
+      "name": "login_btn_register_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "5630612db2f38eed7c77b1fb149f0227", 
+      "name": "login_password_bg_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "bc14beebc4b30c4db2dbd85202de387f", 
+      "name": "LoginScene.csb", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "218f0a73438ef4f859650b3208c34080", 
+      "name": "regist_bg.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "68147836bc72c89b96a60b536403e010", 
+      "name": "regist_btn_register_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "d186e9d41f4b7cfeaa9a5b3b7a04d44d", 
+      "name": "regist_btn_register_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "7edb247ae2b0f1c53833fb3f99768f74", 
+      "name": "regist_logo.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "e1b095cbe7c33deec02aa989a5bcdb60", 
+      "name": "regist_text_bg.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "94789259665e140c6fe3c1b9ad51a01b", 
+      "name": "regist_title_code.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "975c93b9baf1c225bad4e573d6f5f605", 
+      "name": "regist_title_password.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "cedb7ea1071ec48662acc03c00b24982", 
+      "name": "regist_title_password_sure.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "4d7d53d9c1d867610ee8a5160856af75", 
+      "name": "regist_title_phone.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "585871d59b98aa664919274a545371ef", 
+      "name": "regist_title_register.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "b87432a5a97c522ca54a260d9830503d", 
+      "name": "RegistScene.csb", 
+      "path": "client/res/load_res/"
     }, 
     {
       "md5": "4a352cc4608129c89d104ba7ff2c5a21", 
@@ -3676,7 +3816,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "b5f6d314a30a2638ae762ed2d7f30598", 
+      "md5": "c91027812f39ae2a840a6d3167c10037", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -3816,17 +3956,17 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "5240c704411a91d0c05a1ad7785faa3e", 
+      "md5": "e1fbd0f5a01d0855aee87b830957ef2d", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "029d738063501b730ce442cc423e6a63", 
+      "md5": "0fb5036ac62c825d35284a0292125c31", 
       "name": "ForestDanceScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "297d940d3b5dcaec5b12c9282d64551b", 
+      "md5": "c9c486a41e6ac94a21709ad1cb8b5a9d", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -3881,7 +4021,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "0846fd70333fa792e4cf7e16a7396409", 
+      "md5": "bbbdf2665ba3d932d4923fa50e71ab88", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -4036,7 +4176,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "f6d930e66c809152ae067dcd3bdda3a7", 
+      "md5": "e1f18ff96224e29213bf1f6b28bf343a", 
       "name": "RoomLayer.luac", 
       "path": "client/src/plaza/views/layer/room/"
     }, 
@@ -4106,7 +4246,7 @@
       "path": "client/src/privatemode/plaza/src/models/"
     }, 
     {
-      "md5": "464d8664007e54c29ddcb4be50e40041", 
+      "md5": "5f0d48c0cdf2b895822f97120e9501a4", 
       "name": "PriRoom.luac", 
       "path": "client/src/privatemode/plaza/src/models/"
     }, 
@@ -4146,7 +4286,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 829
+      "allcount": 857
     }
   ]
 }
