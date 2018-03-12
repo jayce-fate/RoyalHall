@@ -60,6 +60,16 @@
 				"ResVersion":"0",
 				"SortID":"0",
 				"KindMark":"3"
+			},
+			{
+				"KindID":"127",
+				"KindName":"金鲨银鲨",
+				"TypeID":"0",
+				"ModuleName":"yule.sharkbattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
 			}]
 	}
 }
