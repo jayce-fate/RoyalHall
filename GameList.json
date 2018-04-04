@@ -172,6 +172,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"507",
+				"KindName":"人鱼奇缘",
+				"TypeID":"0",
+				"ModuleName":"yule.fishry",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"601",
 				"KindName":"湖南跑得快",
 				"TypeID":"0",
