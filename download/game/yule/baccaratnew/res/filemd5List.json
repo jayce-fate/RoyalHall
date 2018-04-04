@@ -1,12 +1,12 @@
 {
   "listdata": [
     {
-      "md5": "1b2c03ff14c603f32ed54212f2e4541c", 
+      "md5": "d0a05465c7a520312afdb35103f2ca36", 
       "name": "filemd5List.json", 
       "path": "baccaratnew/res/"
     }, 
     {
-      "md5": "31b1e443d722f385f512d12a4813d489", 
+      "md5": "2aaca85612af7c507d9c35b0da45b2ca", 
       "name": "bank.plist", 
       "path": "baccaratnew/res/bank/"
     }, 
@@ -46,7 +46,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "088130e87cbd68013d56fbf7f110525a", 
+      "md5": "80c9e05d969bf97e420b32e496db41d6", 
       "name": "game.plist", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -81,7 +81,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "0338487433d9fade243ea6bc452b2f2e", 
+      "md5": "43a723881625bb87fd0d5871fb78cb4f", 
       "name": "pk_card.plist", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -131,7 +131,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "1042b1e0329fb2211ac535f05d9d3dae", 
+      "md5": "12447365bf3b69458f374262a6342190", 
       "name": "public_res.plist", 
       "path": "baccaratnew/res/public_res/"
     }, 
@@ -156,7 +156,7 @@
       "path": "baccaratnew/res/roomlist/"
     }, 
     {
-      "md5": "7545afaa322d4d9c4d876b2ad45fef4c", 
+      "md5": "aa2d546fc2452b1fc4173e31360f44a1", 
       "name": "setting.plist", 
       "path": "baccaratnew/res/setting/"
     }, 
@@ -221,7 +221,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "616b3d650b4c94333ffcd6ba4473e0b4", 
+      "md5": "715b609e752583a91eb8ef34fd55f41b", 
       "name": "CMD_Game.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -236,7 +236,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "f5c0f04ac5251bae32b3eeb50bb6a7b3", 
+      "md5": "175ae38674b4209d3c2b68ceb14e76dc", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -256,7 +256,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "8854ae3ad7de12daa5a480f2ba97e4e8", 
+      "md5": "f95103df6b815400ffa7e39d7e7636b5", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 

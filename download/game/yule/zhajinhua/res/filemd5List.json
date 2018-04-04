@@ -1,7 +1,7 @@
 {
   "listdata": [
     {
-      "md5": "0e0e63d6d19b47c5bb046ade1e66624c", 
+      "md5": "a0651e71d17a1c3e51589b3317c113c3", 
       "name": "filemd5List.json", 
       "path": "zhajinhua/res/"
     }, 
@@ -21,11 +21,6 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "c323b746be5460666f2ad947f34e2302", 
-      "name": "game_roomHolder.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
       "md5": "de5c787ec89797b5eaaac799b4cfad41", 
       "name": "game_zjh_res.plist", 
       "path": "zhajinhua/res/"
@@ -34,56 +29,6 @@
       "md5": "86d1e6565b68062e7e4a737999768f42", 
       "name": "game_zjh_res.png", 
       "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "4571aa1980f75e1b8d73514aeb09d006", 
-      "name": "num_count.png", 
-      "path": "zhajinhua/res/privateroom/game/"
-    }, 
-    {
-      "md5": "fcef47278d0cf2792949342c45f8bd5f", 
-      "name": "num_roomID.png", 
-      "path": "zhajinhua/res/privateroom/game/"
-    }, 
-    {
-      "md5": "b4ca706e83332bd3e5a358afc2c45631", 
-      "name": "PrivateGameEndLayer.csb", 
-      "path": "zhajinhua/res/privateroom/game/"
-    }, 
-    {
-      "md5": "92813b54db2c87d468af43bbb4f49dce", 
-      "name": "PrivateGameLayer.csb", 
-      "path": "zhajinhua/res/privateroom/game/"
-    }, 
-    {
-      "md5": "c6f9058a6de476e8a27e2876d9f6e16b", 
-      "name": "Zhajinhua_game.plist", 
-      "path": "zhajinhua/res/privateroom/game/"
-    }, 
-    {
-      "md5": "098616dd71bcdc6facc9edae1e983ac9", 
-      "name": "Zhajinhua_game.png", 
-      "path": "zhajinhua/res/privateroom/game/"
-    }, 
-    {
-      "md5": "19f5580975f509d700afa6066fae4b55", 
-      "name": "priland_sp_limitbar.png", 
-      "path": "zhajinhua/res/privateroom/room/"
-    }, 
-    {
-      "md5": "7ef8639d86bdfc9614065e60649cf393", 
-      "name": "PrivateRoomCreateLayer.csb", 
-      "path": "zhajinhua/res/privateroom/room/"
-    }, 
-    {
-      "md5": "2ad98771929be55385be5e342da54026", 
-      "name": "Zhajinhua_room.plist", 
-      "path": "zhajinhua/res/privateroom/room/"
-    }, 
-    {
-      "md5": "49d9d6a96f8fbbf8fe735982d56a30f0", 
-      "name": "Zhajinhua_room.png", 
-      "path": "zhajinhua/res/privateroom/room/"
     }, 
     {
       "md5": "b285fd60ff611c1c47b10a5e959964c4", 
@@ -321,7 +266,7 @@
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
-      "md5": "dece41c545e943b69b2e8d23778c06b1", 
+      "md5": "42a86edf8f1b7a9d23d524f74c371a58", 
       "name": "CMD_Game.luac", 
       "path": "zhajinhua/src/models/"
     }, 
@@ -331,17 +276,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "a2ce8da0eec98f9baf330e3430fe495b", 
-      "name": "PriGameLayer.luac", 
-      "path": "zhajinhua/src/privateroom/"
-    }, 
-    {
-      "md5": "cdbfb9f9a71d3c848df119516a410373", 
-      "name": "PriRoomCreateLayer.luac", 
-      "path": "zhajinhua/src/privateroom/"
-    }, 
-    {
-      "md5": "7de0076c57a60c51214d136ab852ea53", 
+      "md5": "e55e52b7d98125d080d16952cf0060c7", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -356,12 +291,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "26927402378855db9cb94cb23583a43e", 
+      "md5": "7bdbd3450effebf08906388fad2ae39e", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "a68aa0fe084fd09c041b48df7473467b", 
+      "md5": "6449c489c4ce73c868f050fb3f679dc5", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
@@ -371,7 +306,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 74
+      "allcount": 61
     }
   ]
 }
