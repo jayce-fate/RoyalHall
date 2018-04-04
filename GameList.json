@@ -12,7 +12,57 @@
 		"isOpenCard":0,
 		"gamelist":[
 			{
-				"KindID":"100",
+				"KindID":"6",
+				"KindName":"诈金花",
+				"TypeID":"0",
+				"ModuleName":"yule.zhajinhua",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"17",
+				"KindName":"填大坑",
+				"TypeID":"0",
+				"ModuleName":"yule.TianDaKeng",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"25",
+				"KindName":"港式五张",
+				"TypeID":"0",
+				"ModuleName":"yule.hkfivecardnew",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"27",
+				"KindName":"牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxnew",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"36",
+				"KindName":"通比牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxnew",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"122",
 				"KindName":"百家乐",
 				"TypeID":"0",
 				"ModuleName":"yule.baccaratnew",
@@ -32,6 +82,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"102",
+				"KindName":"二人牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxex",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"104",
 				"KindName":"百人牛牛",
 				"TypeID":"0",
@@ -42,17 +102,17 @@
 				"KindMark":"3"
 			},
 			{
-				"KindID":"105",
-				"KindName":"房卡诈金花",
+				"KindID":"118",
+				"KindName":"百人骰宝",
 				"TypeID":"0",
-				"ModuleName":"yule.zhajinhua",
+				"ModuleName":"yule.sicbobattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
 				"SortID":"0",
 				"KindMark":"3"
 			},
 			{
-				"KindID":"108",
+				"KindID":"123",
 				"KindName":"飞禽走兽",
 				"TypeID":"0",
 				"ModuleName":"yule.animalbattle",
@@ -66,6 +126,56 @@
 				"KindName":"金鲨银鲨",
 				"TypeID":"0",
 				"ModuleName":"yule.sharkbattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"200",
+				"KindName":"斗地主",
+				"TypeID":"0",
+				"ModuleName":"qipai.land",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"238",
+				"KindName":"510K",
+				"TypeID":"0",
+				"ModuleName":"yule.510k",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"389",
+				"KindName":"红中麻将房卡版",
+				"TypeID":"0",
+				"ModuleName":"yule.sparrowhz",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"401",
+				"KindName":"五子棋",
+				"TypeID":"0",
+				"ModuleName":"yule.gobang",
+				"ClientVersion":"101122049",
+				"ResVersion":"0",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"601",
+				"KindName":"湖南跑得快",
+				"TypeID":"0",
+				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
 				"SortID":"0",
