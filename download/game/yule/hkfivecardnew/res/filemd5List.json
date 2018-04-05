@@ -306,37 +306,37 @@
       "path": "hkfivecardnew/res/sound_res/"
     }, 
     {
-      "md5": "45dfebd0300e2c267df544086f817a5a", 
+      "md5": "c06e2793e1b8d3fa73eaf752eef29349", 
       "name": "CMD_Game.luac", 
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "f91324ce8bcf671b0a83db9bbd78be01", 
+      "md5": "39d48b95e400eb1edd607e8124869be7", 
       "name": "GameLogic.luac", 
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "903d999f43b573a65c123d8209376ac8", 
+      "md5": "06a175704c3471a12c5a99d3cadeb988", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
     {
-      "md5": "f11d1f8a45bd90ef6b1ea40c05084198", 
+      "md5": "797d4277537879b2469de0a783cbfc37", 
       "name": "GameRoomLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
     {
-      "md5": "0a24e126b8baea066349a60fa470e8ba", 
+      "md5": "fd890883fc6de02d107e88c19e33ce3a", 
       "name": "CardSprite.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "5379c61d2ce3a14d2f48c6a60a48fc21", 
+      "md5": "704cff4692dc0a16e1e9c8db9e3912e3", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "800aea0253cbbec8369c5b7fdd6d2bde", 
+      "md5": "aa76356f77928e729269ac349f83e83e", 
       "name": "SettingLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
