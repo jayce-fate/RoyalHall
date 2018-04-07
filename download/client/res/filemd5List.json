@@ -826,21 +826,6 @@
       "path": "client/res/Checkin/"
     }, 
     {
-      "md5": "ca0d087b4101aa88ab8018f39a3fa997", 
-      "name": "common_backGround.jpg", 
-      "path": "client/res/common_res/"
-    }, 
-    {
-      "md5": "2f04fe90718c74045b7bcaa7d3170fe1", 
-      "name": "common_btn_back_h.png", 
-      "path": "client/res/common_res/"
-    }, 
-    {
-      "md5": "ed8a258c60b2b7d416f8cb6c02d454a1", 
-      "name": "common_btn_back_n.png", 
-      "path": "client/res/common_res/"
-    }, 
-    {
       "md5": "d80565d64f92cf96ac70f5709b64094a", 
       "name": "bt_everyday_0_0.png", 
       "path": "client/res/EveryDay/"
@@ -1426,18 +1411,228 @@
       "path": "client/res/GameList/"
     }, 
     {
+      "md5": "c97015036c19868147254c3aa9a3f79f", 
+      "name": "game_102.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
       "md5": "9936e81e639cc99c28d71e32acd227cb", 
       "name": "game_104.png", 
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "517a6831bda695fe0feeb8eadbeb948a", 
+      "md5": "368572dd505b237f8621d9a78b24e748", 
       "name": "game_105.png", 
       "path": "client/res/GameList/"
     }, 
     {
       "md5": "e49421fed5253c06ffb241e1ed540852", 
       "name": "game_108.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "8a060602e3fe5fdb204ef3a31b664bc0", 
+      "name": "game_118.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "87bf519b112fd3d4cf718091072bfac0", 
+      "name": "game_122 (1).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "1d138ec0ce06478ac3a43b8956e8fb45", 
+      "name": "game_122.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "e49421fed5253c06ffb241e1ed540852", 
+      "name": "game_123.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "77c7bfc3c4e745209946b2ade1fe025c", 
+      "name": "game_127.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "f1c7139276a07d6f24b24b6b58daece3", 
+      "name": "game_128.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "9ffd5313e3feabd3bd21aaf3ee97c405", 
+      "name": "game_140.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "cd30c1bc8f6d1a8ec5ee0b1804e5c1de", 
+      "name": "game_17.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "7138ba5e21fbbcb84fab15604821fda6", 
+      "name": "game_200 (1).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "7e797864582fe7e78aab4e96f9b593fb", 
+      "name": "game_200.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "f0cc18b3289278f2c77c6c39918f90fc", 
+      "name": "game_238 (1).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "af4d482371c915374e113fedb99cb1c1", 
+      "name": "game_238.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "d479c6bb19766948b9a0ce3756cd9a5c", 
+      "name": "game_240.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "813e0a7fc80146a6f17d55817dd311f1", 
+      "name": "game_25.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "2abf12e85f42ad2c73efe8f071d58f65", 
+      "name": "game_27 (1).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "9281a818e979a5b37e33f6eedcfa3f4a", 
+      "name": "game_27.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "34f8d7a374d4f022481cfa4e3f429c26", 
+      "name": "game_302.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "1d66ed7412e17180ffaad62e0692d847", 
+      "name": "game_36.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "ae8680a72037597be5472b013d2e181a", 
+      "name": "game_386.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "6ac748a276e13c1f27caac8b74df7bc0", 
+      "name": "game_389 (1).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "c5cb5735579db44045369733c775b553", 
+      "name": "game_389.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "070679284b8149ff00f7386b44321933", 
+      "name": "game_391.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "b22c6ceeff224c6d5a34122ab4994946", 
+      "name": "game_392.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "d8610903f4888fffdc9d79c92e361ab1", 
+      "name": "game_393.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "7b69b8ecf1b50a659efb3535248cba2c", 
+      "name": "game_394.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "cfacfa990d9e303d1f7ed93a022075c3", 
+      "name": "game_395.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "773e5b49b90d5e4c1c64e2832f578bae", 
+      "name": "game_401.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "8a6ad9660159997c6720b2e86ae05f44", 
+      "name": "game_47.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "630f9fe029e4ac6aeb99d6495deee7be", 
+      "name": "game_49.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "342b95adcd11bd2e72a690a4f2037793", 
+      "name": "game_50.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "dfccbfe992381eee14d2cb00bf677af6", 
+      "name": "game_503.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "d3373952df6a44a89e8038459bb58fa0", 
+      "name": "game_504.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "cc146d2490496bb611f2ee061fd1ed91", 
+      "name": "game_507.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "6aa259ea5d7c15c89ef7114c0ef16973", 
+      "name": "game_508.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "ad199903cdff77020cbfc6c8506435fd", 
+      "name": "game_510.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "3ed404fca9c0e23c29dddb3722febc9e", 
+      "name": "game_511.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "32d289de4cba64d1b266a89b20e8ba10", 
+      "name": "game_516.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "649cc52d6a406d018da3740fd9db143a", 
+      "name": "game_6 (1).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "517a6831bda695fe0feeb8eadbeb948a", 
+      "name": "game_6 (2).png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "d46ec922402676e0518f863cc45f68cc", 
+      "name": "game_6.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "09c188f76b301cc5af65f8442e2c8832", 
+      "name": "game_601.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1754,131 +1949,6 @@
       "md5": "9acfb964b6bfb054176ed9eb83f97e71", 
       "name": "uinfo_btn_gamevideo_1.png", 
       "path": "client/res/Information/"
-    }, 
-    {
-      "md5": "5abb435f3c06aed4d94658c51c4f1eb5", 
-      "name": "btn_scaning_click.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "ab3d1fd6cdb78317fab194c911278e2f", 
-      "name": "btn_scaning_normal.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "a52223e47b9d2f0f876a4b758ba3c3de", 
-      "name": "login_account_bg_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "dfcbd6e87be8a1c5f43aa68ed757c203", 
-      "name": "login_bg.jpg", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "1d634686febf3484d1deda421a30569b", 
-      "name": "login_bottom_bar_bg.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "340478a359dd538348c24113d2901634", 
-      "name": "login_bottom_bar_text.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "bfb355e3105dbac72b62a2d0badf6324", 
-      "name": "login_btn_cs_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "1c8429ca6c87c6ee3ed5777df10cd360", 
-      "name": "login_btn_cs_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "beb86a7e424cf559ac4df2c414d7e6d9", 
-      "name": "login_btn_login_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "ae644dae86ea89a3bfe8eeffb1f47eef", 
-      "name": "login_btn_login_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "b117d0d905d8cbc80347289f75f3dcc4", 
-      "name": "login_btn_register_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "44eec9729c51bdd079d6bff0f4bfde0e", 
-      "name": "login_btn_register_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "5630612db2f38eed7c77b1fb149f0227", 
-      "name": "login_password_bg_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "bc14beebc4b30c4db2dbd85202de387f", 
-      "name": "LoginScene.csb", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "218f0a73438ef4f859650b3208c34080", 
-      "name": "regist_bg.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "68147836bc72c89b96a60b536403e010", 
-      "name": "regist_btn_register_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "d186e9d41f4b7cfeaa9a5b3b7a04d44d", 
-      "name": "regist_btn_register_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "7edb247ae2b0f1c53833fb3f99768f74", 
-      "name": "regist_logo.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "e1b095cbe7c33deec02aa989a5bcdb60", 
-      "name": "regist_text_bg.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "94789259665e140c6fe3c1b9ad51a01b", 
-      "name": "regist_title_code.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "975c93b9baf1c225bad4e573d6f5f605", 
-      "name": "regist_title_password.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "cedb7ea1071ec48662acc03c00b24982", 
-      "name": "regist_title_password_sure.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "4d7d53d9c1d867610ee8a5160856af75", 
-      "name": "regist_title_phone.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "585871d59b98aa664919274a545371ef", 
-      "name": "regist_title_register.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "b87432a5a97c522ca54a260d9830503d", 
-      "name": "RegistScene.csb", 
-      "path": "client/res/load_res/"
     }, 
     {
       "md5": "4a352cc4608129c89d104ba7ff2c5a21", 
@@ -3816,7 +3886,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "c91027812f39ae2a840a6d3167c10037", 
+      "md5": "d1ebe5f0d98db5cc9d530fdb98da53b3", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -3886,7 +3956,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "f1749a2b4900d26216f8d50dfa5ae737", 
+      "md5": "14403e9288768f84c4d8d7c1ed510c27", 
       "name": "BaseFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -3926,7 +3996,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "69ca47bf16c3c84d4bd46ee4d8f36dcf", 
+      "md5": "0b462539847532b2be728c09cf269ce2", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -3936,7 +4006,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "213eac87711c86339fdf0861c759ebab", 
+      "md5": "9819786f8ab777d5f5a4cc0d55952892", 
       "name": "ShopDetailFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -3951,7 +4021,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "6d87245c0c24eb77c424632e252ced76", 
+      "md5": "9c6947cbbf6ee3e5a9e4f15ec80c8d06", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -3966,12 +4036,12 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "c9c486a41e6ac94a21709ad1cb8b5a9d", 
+      "md5": "9970f2d800a04a0603a578e93f4fc96d", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "528daedfa9855fab2415831d92b43e49", 
+      "md5": "a50fa7f8f65c6dcda255becf75345496", 
       "name": "UpdateScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4021,7 +4091,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "bbbdf2665ba3d932d4923fa50e71ab88", 
+      "md5": "0846fd70333fa792e4cf7e16a7396409", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -4111,7 +4181,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "97323cead64781f5c101ce2082e81146", 
+      "md5": "0f17ecc78c15f65f9468f3b82aa00ee1", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4286,7 +4356,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 857
+      "allcount": 871
     }
   ]
 }

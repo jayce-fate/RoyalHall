@@ -816,12 +816,12 @@
       "path": "animalbattle/res/sound_res/"
     }, 
     {
-      "md5": "6a10c3de92f6cb50a982dd1e6dcd4d16", 
+      "md5": "2de776d2a92b5df744c874d749867804", 
       "name": "CMD_Game.luac", 
       "path": "animalbattle/src/models/"
     }, 
     {
-      "md5": "14f938c6a524bcd77c15222f849f4d47", 
+      "md5": "22d95492995313224de2e2f6bad784d8", 
       "name": "GameLayer.luac", 
       "path": "animalbattle/src/views/"
     }, 

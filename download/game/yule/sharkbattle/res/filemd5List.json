@@ -361,7 +361,7 @@
       "path": "sharkbattle/res/sound_res/"
     }, 
     {
-      "md5": "4d5f0ff7c00dcf4631db313fd6fd6075", 
+      "md5": "2f38b1c3fd8d263e59d3132c41285555", 
       "name": "CMD_Game.luac", 
       "path": "sharkbattle/src/models/"
     }, 
@@ -376,7 +376,7 @@
       "path": "sharkbattle/src/views/"
     }, 
     {
-      "md5": "3a04e8e594da1205a408ad8ce00cf617", 
+      "md5": "657df4f687128b8b1181ce3bf5d2a61a", 
       "name": "GameViewLayer.luac", 
       "path": "sharkbattle/src/views/layer/"
     }, 
