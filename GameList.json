@@ -132,30 +132,10 @@
 				"KindMark":"3"
 			},
 			{
-				"KindID":"127",
-				"KindName":"金鲨银鲨",
-				"TypeID":"0",
-				"ModuleName":"yule.sharkbattle",
-				"ClientVersion":"101122049",
-				"ResVersion":"0",
-				"SortID":"0",
-				"KindMark":"3"
-			},
-			{
 				"KindID":"200",
 				"KindName":"斗地主",
 				"TypeID":"0",
 				"ModuleName":"qipai.land",
-				"ClientVersion":"101122049",
-				"ResVersion":"0",
-				"SortID":"0",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"238",
-				"KindName":"510K",
-				"TypeID":"0",
-				"ModuleName":"yule.510k",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
 				"SortID":"0",
@@ -176,36 +156,6 @@
 				"KindName":"五子棋",
 				"TypeID":"0",
 				"ModuleName":"yule.gobang",
-				"ClientVersion":"101122049",
-				"ResVersion":"0",
-				"SortID":"0",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"507",
-				"KindName":"人鱼奇缘",
-				"TypeID":"0",
-				"ModuleName":"yule.fishry",
-				"ClientVersion":"101122049",
-				"ResVersion":"0",
-				"SortID":"0",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"510",
-				"KindName":"李逵劈鱼",
-				"TypeID":"0",
-				"ModuleName":"yule.fishlk",
-				"ClientVersion":"101122049",
-				"ResVersion":"0",
-				"SortID":"0",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"511",
-				"KindName":"摇钱树",
-				"TypeID":"0",
-				"ModuleName":"yule.fishyqs",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
 				"SortID":"0",
