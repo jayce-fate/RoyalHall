@@ -18,7 +18,7 @@
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -28,7 +28,7 @@
 				"ModuleName":"qipai.tdk",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -38,7 +38,7 @@
 				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"2",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -58,7 +58,7 @@
 				"ModuleName":"yule.oxsixex",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -68,7 +68,7 @@
 				"ModuleName":"qipai.thirteenx",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -78,7 +78,7 @@
 				"ModuleName":"yule.luxurycar",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -88,7 +88,7 @@
 				"ModuleName":"yule.oxex",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -108,7 +108,7 @@
 				"ModuleName":"yule.sicbobattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -118,7 +118,7 @@
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -128,7 +128,7 @@
 				"ModuleName":"yule.animalbattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -148,7 +148,7 @@
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -158,7 +158,7 @@
 				"ModuleName":"yule.gobang",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -168,7 +168,7 @@
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
 				"ResVersion":"0",
-				"SortID":"0",
+				"SortID":"100",
 				"KindMark":"3"
 			}]
 	}
