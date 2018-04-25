@@ -1506,11 +1506,6 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "87bf519b112fd3d4cf718091072bfac0", 
-      "name": "game_122 (1).png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
       "md5": "1d138ec0ce06478ac3a43b8956e8fb45", 
       "name": "game_122.png", 
       "path": "client/res/GameList/"
@@ -1541,18 +1536,8 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "7138ba5e21fbbcb84fab15604821fda6", 
-      "name": "game_200 (1).png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
       "md5": "7e797864582fe7e78aab4e96f9b593fb", 
       "name": "game_200.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "f0cc18b3289278f2c77c6c39918f90fc", 
-      "name": "game_238 (1).png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1568,11 +1553,6 @@
     {
       "md5": "813e0a7fc80146a6f17d55817dd311f1", 
       "name": "game_25.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "2abf12e85f42ad2c73efe8f071d58f65", 
-      "name": "game_27 (1).png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1593,11 +1573,6 @@
     {
       "md5": "ae8680a72037597be5472b013d2e181a", 
       "name": "game_386.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "6ac748a276e13c1f27caac8b74df7bc0", 
-      "name": "game_389 (1).png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1683,16 +1658,6 @@
     {
       "md5": "32d289de4cba64d1b266a89b20e8ba10", 
       "name": "game_516.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "649cc52d6a406d018da3740fd9db143a", 
-      "name": "game_6 (1).png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "517a6831bda695fe0feeb8eadbeb948a", 
-      "name": "game_6 (2).png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -5211,7 +5176,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1042
+      "allcount": 1035
     }
   ]
 }
