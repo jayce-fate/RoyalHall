@@ -5,8 +5,8 @@
 	{
 		"valid":true,
 		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/RoyalHall/master/download",
-		"clientversion":"10",
-		"resversion":"1",
+		"clientversion":"1",
+		"resversion":"10",
 		"ios_url":"https://www.google.com",
 		"wxLogon":1,
 		"isOpenCard":0,
@@ -17,7 +17,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -27,7 +27,7 @@
 				"TypeID":"0",
 				"ModuleName":"qipai.tdk",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -47,7 +47,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"2",
 				"KindMark":"3"
 			},
@@ -57,7 +57,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxsixex",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -67,7 +67,7 @@
 				"TypeID":"0",
 				"ModuleName":"qipai.thirteenx",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -77,7 +77,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.luxurycar",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -87,7 +87,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxex",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -97,7 +97,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"1",
 				"KindMark":"3"
 			},
@@ -107,7 +107,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.sicbobattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -117,7 +117,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -127,7 +127,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.animalbattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -137,7 +137,7 @@
 				"TypeID":"0",
 				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"3",
 				"KindMark":"3"
 			},
@@ -147,7 +147,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -157,7 +157,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.gobang",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -167,7 +167,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
-				"ResVersion":"0",
+				"ResVersion":"10",
 				"SortID":"100",
 				"KindMark":"3"
 			}]
