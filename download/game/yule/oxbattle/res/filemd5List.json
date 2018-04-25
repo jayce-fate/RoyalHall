@@ -141,6 +141,11 @@
       "path": "oxbattle/res/roomlist/"
     }, 
     {
+      "md5": "eeb8c6c7664133432890c06194c896df", 
+      "name": "roomlist_title.png", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
       "md5": "2164d44dde0c9b168d9b0ebe8fb59c8c", 
       "name": "bt_click.wav", 
       "path": "oxbattle/res/sound_res/"
@@ -261,7 +266,7 @@
       "path": "oxbattle/src/views/"
     }, 
     {
-      "md5": "cfd6ea6949a44762cf72da1dc9353ded", 
+      "md5": "7a8eb85abaa866f995081c4d83f76590", 
       "name": "GameRoomListLayer.luac", 
       "path": "oxbattle/src/views/"
     }, 
@@ -311,7 +316,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 62
+      "allcount": 63
     }
   ]
 }

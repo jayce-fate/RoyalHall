@@ -156,6 +156,11 @@
       "path": "baccaratnew/res/roomlist/"
     }, 
     {
+      "md5": "690e6d851d88f01927a8fd9569e2f3bb", 
+      "name": "roomlist_title.png", 
+      "path": "baccaratnew/res/roomlist/"
+    }, 
+    {
       "md5": "aa2d546fc2452b1fc4173e31360f44a1", 
       "name": "setting.plist", 
       "path": "baccaratnew/res/setting/"
@@ -301,7 +306,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 60
+      "allcount": 61
     }
   ]
 }

@@ -836,7 +836,7 @@
       "path": "animalbattle/src/views/"
     }, 
     {
-      "md5": "106f0605c2e78bc32ee82bf03b9667ce", 
+      "md5": "af04ca322685c23f6a49ec5cbcd04270", 
       "name": "BankLayer.luac", 
       "path": "animalbattle/src/views/layer/"
     }, 
@@ -856,22 +856,17 @@
       "path": "animalbattle/src/views/layer/"
     }, 
     {
-      "md5": "1906486ab4e4136b8097931529fc4c1b", 
+      "md5": "f6d9c11f4df4b824127a635471d2491d", 
       "name": "PlayerlistLayer.luac", 
       "path": "animalbattle/src/views/layer/"
     }, 
     {
-      "md5": "b6d9098a3ffe337a53ba88a76a25d886", 
-      "name": "PopupLayer.luac", 
-      "path": "animalbattle/src/views/layer/"
-    }, 
-    {
-      "md5": "4afd949ea4a31514fc4eb8251db20fa0", 
+      "md5": "ccfbf00016cb2561a09f2b37d20f0208", 
       "name": "SettingLayer.luac", 
       "path": "animalbattle/src/views/layer/"
     }, 
     {
-      "allcount": 174
+      "allcount": 173
     }
   ]
 }

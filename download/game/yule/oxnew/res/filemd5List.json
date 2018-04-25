@@ -451,6 +451,11 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
+      "md5": "58de613a32c17ab6961e51c6cd6101f3", 
+      "name": "roomlist_title.png", 
+      "path": "oxnew/res/roomlist/"
+    }, 
+    {
       "md5": "31e91476717dbd0b6d2c2740228afe24", 
       "name": "roomtable.png", 
       "path": "oxnew/res/roomlist/"
@@ -651,7 +656,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 130
+      "allcount": 131
     }
   ]
 }

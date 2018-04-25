@@ -96,6 +96,11 @@
       "path": "land/res/roomlist/"
     }, 
     {
+      "md5": "54f5edf60dcfb4c1b836cb4970fe39ec", 
+      "name": "roomlist_title.png", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
       "md5": "b473c3c8133a8317a58032cb40f894b2", 
       "name": "roomtable.png", 
       "path": "land/res/roomlist/"
@@ -521,6 +526,16 @@
       "path": "land/src/views/"
     }, 
     {
+      "md5": "ea7d955355c4f73863c608ce11f9f94e", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "land/src/views/"
+    }, 
+    {
+      "md5": "35f02b44520f72486eb59701097d0340", 
+      "name": "Rule.txt", 
+      "path": "land/src/views/"
+    }, 
+    {
       "md5": "d2de67f0a1dc9751faedfccc82dbc1e6", 
       "name": "GameResultLayer.luac", 
       "path": "land/src/views/layer/"
@@ -551,7 +566,7 @@
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 110
+      "allcount": 113
     }
   ]
 }

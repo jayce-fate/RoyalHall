@@ -71,6 +71,16 @@
       "path": "client/res/Agent/"
     }, 
     {
+      "md5": "dee7c4a21c3695c6bc6dd594bf055048", 
+      "name": "ancmt_title.png", 
+      "path": "client/res/announcement/"
+    }, 
+    {
+      "md5": "34a3ddfc7894275e85dfa270ccf1c80c", 
+      "name": "AncmtNode.csb", 
+      "path": "client/res/announcement/"
+    }, 
+    {
       "md5": "004e3b1c9412a5b1a5a5704d37028a16", 
       "name": "BagRecordLayer.csb", 
       "path": "client/res/Bag/"
@@ -824,6 +834,66 @@
       "md5": "b9a5c46b88cd307aad79a2f3994c495a", 
       "name": "title_checkin.png", 
       "path": "client/res/Checkin/"
+    }, 
+    {
+      "md5": "48e18fe4683ad1f86818d5585187f44b", 
+      "name": "common_ani_lattern_0.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "0e9f145977c399798a12b5c1db6de543", 
+      "name": "common_ani_lattern_1.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "187c82e525ca21e70c28ec911d917453", 
+      "name": "common_ani_lattern_2.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "a0c8792671215ed6cd501e513f56908c", 
+      "name": "common_ani_lattern_3.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "fae62f30214dc4e8d0deac87f3a09795", 
+      "name": "common_btn_close.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "8c75e3bd8ad0809a60e29bff9963f04b", 
+      "name": "common_rule_title.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "827d2ff4cbeac1dedac0e8c58e06fbc8", 
+      "name": "common_whiteboard_bg.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "0b94b9d900009479ac6eb759a99298b5", 
+      "name": "HowToPlayNode.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "69042387a22736b20fa1ba2d16b2385c", 
+      "name": "LatternAni.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "443426c4c0ad9edb0cfc83afd8d59066", 
+      "name": "common_btn_back_h.png", 
+      "path": "client/res/common_res/"
+    }, 
+    {
+      "md5": "f725c6449eb2491fc50f25a51a9a94a9", 
+      "name": "common_btn_back_n.png", 
+      "path": "client/res/common_res/"
+    }, 
+    {
+      "md5": "d91ee923e6030c62f108dff3aa11ce5f", 
+      "name": "common_text_big.png", 
+      "path": "client/res/common_res/"
     }, 
     {
       "md5": "d80565d64f92cf96ac70f5709b64094a", 
@@ -1636,6 +1706,26 @@
       "path": "client/res/GameList/"
     }, 
     {
+      "md5": "1544c999b431d98d5caf08c9c997a647", 
+      "name": "lobby_game_100.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "03408659d0c4fb1515cf5ef4de8978b1", 
+      "name": "lobby_game_104.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "04c252d649352b861ccd3d965d9ddee5", 
+      "name": "lobby_game_200.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "1b0eba808a9e1dd0857327722543c9e0", 
+      "name": "lobby_game_27.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
       "md5": "84a617f106ae420ae0a3205c63841901", 
       "name": "spinner_circle.png", 
       "path": "client/res/GameList/"
@@ -1949,6 +2039,181 @@
       "md5": "9acfb964b6bfb054176ed9eb83f97e71", 
       "name": "uinfo_btn_gamevideo_1.png", 
       "path": "client/res/Information/"
+    }, 
+    {
+      "md5": "5abb435f3c06aed4d94658c51c4f1eb5", 
+      "name": "btn_scaning_click.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "ab3d1fd6cdb78317fab194c911278e2f", 
+      "name": "btn_scaning_normal.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "8c5a3c1c9366b5c6327ec542f0b3ab26", 
+      "name": "login_account_bg_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "611a848c9792fc60c6e5bfc0a7a8fef2", 
+      "name": "login_bg.jpg", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "1d634686febf3484d1deda421a30569b", 
+      "name": "login_bottom_bar_bg.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "340478a359dd538348c24113d2901634", 
+      "name": "login_bottom_bar_text.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "a9c6bb36fb38f66cbaec3a84e298a692", 
+      "name": "login_btn_cs_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "8656753be0fa576388622864ce8096fc", 
+      "name": "login_btn_cs_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "4d0c16384052cfc9a3b5acb3b8b80f85", 
+      "name": "login_btn_login_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "b4c306632d4ffdeb5ec50199c73ba8e5", 
+      "name": "login_btn_login_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "8e8a56f336962e073b18bb7392f6bfb7", 
+      "name": "login_btn_register_h.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "88c9fe7cafdd8b752842d2ec561e7c77", 
+      "name": "login_btn_register_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "8c5a3c1c9366b5c6327ec542f0b3ab26", 
+      "name": "login_password_bg_n.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "cb86de7e921b85b89f72927fa79d0361", 
+      "name": "LoginView.csb", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "4c355c8dc68bebe8b27fe89df13eaa1f", 
+      "name": "regist_account.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "bb184502de37190153dfaab7be4ad78f", 
+      "name": "regist_bg.jpg", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "218f0a73438ef4f859650b3208c34080", 
+      "name": "regist_bg.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "e889f000e18f3ddfa097936adebdff25", 
+      "name": "regist_confirm.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "7edb247ae2b0f1c53833fb3f99768f74", 
+      "name": "regist_logo.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "2d29fb6c1c262b6fd6ccc361c7adf292", 
+      "name": "RegistScene.csb", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "a44a701aeb893ecb9ef1febe273a3b2d", 
+      "name": "reigist_password.png", 
+      "path": "client/res/load_res/"
+    }, 
+    {
+      "md5": "be04c613e6d2266b6505eff8515e57a4", 
+      "name": "login_bg.jpg", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "67d8b60967622a3ec57ee9f93e0cf720", 
+      "name": "login_btn_account.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "ea32d9e60f62c013bc8eb75a82b73c3d", 
+      "name": "login_btn_guest.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "5d5baead64a92cba28e53203f97450cd", 
+      "name": "login_btn_login.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "3d1137606ba6bf771b0c9d54031e9f57", 
+      "name": "login_btn_register.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "0969e9e3b19805064b024994307cf163", 
+      "name": "login_title.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "5d442570e05cad07f12cc8f3e62d3baa", 
+      "name": "LoginNode.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "525c48987717767d20b24c6490413d80", 
+      "name": "LoginView.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "0abef59ea2bfa0383f1d3fd00e64d383", 
+      "name": "register_bg.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "aca4a2ec09108bf67a55b77ff3ee7296", 
+      "name": "register_btn_sure.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "3b544ca5e63b1d26a43f12f169cd072a", 
+      "name": "register_textfield_bg.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "edf40afcaf24c9104e6476116c7318f6", 
+      "name": "register_title.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "225322c970f56e80ef0238e53e0bf43b", 
+      "name": "RegisterNode.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "7e4bf98b78e2a16cfd91a5cce79ada76", 
+      "name": "RegistScene.csb", 
+      "path": "client/res/login/"
     }, 
     {
       "md5": "4a352cc4608129c89d104ba7ff2c5a21", 
@@ -2266,6 +2531,236 @@
       "path": "client/res/OrderRecord/"
     }, 
     {
+      "md5": "e460806ed4a46cee1aee5e3c79849e67", 
+      "name": "AvatarModifyNode.csb", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "2fca2bd9ce39ee2e50f1fca4b5059a21", 
+      "name": "btn_closure_h.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "18a3aeb9db791081a7742abee8e3091c", 
+      "name": "btn_closure_n.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "c1cde5c92f7f2f333325abd819546d1a", 
+      "name": "btn_sure_click.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "de7ea3eecebdce8f3239b7d52943905f", 
+      "name": "btn_sure_normal.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "3ad7445baf6691d29e3d3bb7c9209423", 
+      "name": "head_frame_click.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "b9d49a3cf3ca42c3d27bc1abe76fb52f", 
+      "name": "head_frame_normal.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "2530df826c7dc24dc29ff83183c62d22", 
+      "name": "im_head_bg.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "aa804679a199566810d93de7f3ea45ab", 
+      "name": "info_bankPassModifyBtn.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "863759b79d73fbb940f42c3363a853ae", 
+      "name": "info_bankpwdIcon.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "9d4c64d3f604d122694a18f81b5f46cd", 
+      "name": "info_btn_complete_h.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "14a6b6aee9750cfd890c7290272dc2d3", 
+      "name": "info_btn_complete_n.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "16aa9c685246b7917683806c6ea16da9", 
+      "name": "info_btn_submit_h.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "6df045dffaa04723dca804c9bfb0cc14", 
+      "name": "info_btn_submit_n.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "78c4ca3242f950b70a21202c8f3bda12", 
+      "name": "info_commonText.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "0c4443eca54a06d0ae56dad0bd043577", 
+      "name": "info_exchange_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "3232a8e07036a82219195d205bbb40b6", 
+      "name": "info_exchange_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "1dee4e7b3f52a48e79c0ddbe81339323", 
+      "name": "info_level_bar0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "a5e7beb49519b19abec51f7751f36118", 
+      "name": "info_level_bar1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "ea40d7231b59fd3ae83364fe666d0a03", 
+      "name": "info_levelIcon.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "1dbb3aefd908d06093a1fcfd1d1226bd", 
+      "name": "info_levelNum.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "65767bb31b4bf2c6155762d8fcb412e1", 
+      "name": "info_loginPassModifyBtn.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "ad2eb33dacf5a506552ef7e17fdb694b", 
+      "name": "info_nickText.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "880bdccba5bf6ca9b24629c7d3d4420f", 
+      "name": "info_parchase_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "b3678f9bae607c393af7161b6a998b27", 
+      "name": "info_parchase_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "6d99fbbdda2c29ce36380a44e9074c8b", 
+      "name": "info_personal_bg.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "f43765fb059be12e44369fb44a494c79", 
+      "name": "info_personalBtn.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "d8d0429ef9f2b09af0596ec543c0951b", 
+      "name": "info_personalIcon.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "31bd9857c05da070d605d212159a7bcd", 
+      "name": "info_pwdIcon.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "0f5998febcc593479780e990e836f793", 
+      "name": "info_sex_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "5aefb41aa38bdaf134ff5eb0402fbe6e", 
+      "name": "info_sex_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "7529c1fa5d0f3d939f8430124825f5cc", 
+      "name": "info_sureModify.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "a4b0d0e2f16be1c2272799563d061141", 
+      "name": "info_sureModify1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "24b19561f0b18eabcf732360d1b404d2", 
+      "name": "info_take_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "8132aec39c3070c11bc79de4ece3bcad", 
+      "name": "info_take_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "036d87164b12d9561d438c3b35852ee5", 
+      "name": "info_textfield_bg.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "b26d3e0f279d99e6da24c24d8e47e0c4", 
+      "name": "info_upload_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "44c8a668385d79c28cdcea521d5cd236", 
+      "name": "info_upload_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "088bcffc4a83b4d56087484982d833a7", 
+      "name": "Personal.csb", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "18a3aeb9db791081a7742abee8e3091c", 
+      "name": "set_close_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "2fca2bd9ce39ee2e50f1fca4b5059a21", 
+      "name": "set_close_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "577df0485fbcb57ad1f3cd91ce5f75a4", 
+      "name": "tag_bk.jpg", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "b7607413457b723f3d341164e2ca158e", 
+      "name": "tag_title.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "10e01ee0d4300408b5277d93cf66c9a9", 
+      "name": "title_personal.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "bb16898fcb6be5207e12952549c0e61d", 
+      "name": "userinfo_modiyNick_0.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
+      "md5": "d2ed2de3714035cc338a64c49e7bb0e9", 
+      "name": "userinfo_modiyNick_1.png", 
+      "path": "client/res/personal_res/"
+    }, 
+    {
       "md5": "12f02254f4d27de5cb9f217f9adb291f", 
       "name": "ad_pub_noshowtips.png", 
       "path": "client/res/plaza/"
@@ -2369,6 +2864,131 @@
       "md5": "60cd4557658265e29e09fe2daf034510", 
       "name": "WebViewLayer.csb", 
       "path": "client/res/plaza/"
+    }, 
+    {
+      "md5": "443426c4c0ad9edb0cfc83afd8d59066", 
+      "name": "common_btn_back_h.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "f725c6449eb2491fc50f25a51a9a94a9", 
+      "name": "common_btn_back_n.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "36c7e4a32ea0720141dc27fc0b9aae30", 
+      "name": "lobby_banner.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "2f84722d69bd23bb5a3a84bc583394d4", 
+      "name": "lobby_bg.jpg", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "86b41c95ea10e8f322069da69326df43", 
+      "name": "lobby_btn_charge_01.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "635b9c148ea57e2028f9b9f8ed759208", 
+      "name": "lobby_btn_charge_02.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "2ee62a49dc895f7e193a4f5c24607a40", 
+      "name": "lobby_btn_charge_03.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "c9d58f7cdae01612133296b74fda13c8", 
+      "name": "lobby_btn_charge_04.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "87dbb3ccb40d36cee1a1df4f023b21c9", 
+      "name": "lobby_btn_charge_05.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "c97f49845da6f408bf53a1123592eaef", 
+      "name": "lobby_btn_home_call.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "812239e51b0f81bec65cea92c168d3a2", 
+      "name": "lobby_btn_home_changer.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "bc83ba3131abd808bc4300afdf9c0db3", 
+      "name": "lobby_btn_home_mail.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "5d9064e38a750c9b88cc4fd49719db6c", 
+      "name": "lobby_btn_home_news.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "27ac8eda0834cca2066b5e713fc830bc", 
+      "name": "lobby_btn_home_rank.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "af9f7a1735c1fdcd97ad87aa0cba4e9c", 
+      "name": "lobby_btn_home_safty_box.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "3bfb5272af6deb3bee31bac95fb9c964", 
+      "name": "lobby_btn_home_setting.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "0e2d62282179f8db3023346ba956d8de", 
+      "name": "lobby_btn_money_add.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "22c648ab89ab9e3798153258cc81c14a", 
+      "name": "lobby_money_bg.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "422bba50356a27dcdc370c4da586b516", 
+      "name": "lobby_poster.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "edd7563c5054045495af04b9c507e5a2", 
+      "name": "lobby_trumpet_bg.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "dcc5c3b1f002833d4b28118949f5e128", 
+      "name": "lobby_wave_left.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "c7dabd96b7f966182fb1485ac1a15f76", 
+      "name": "lobby_wave_right.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "2e2a8c20d92d0ed2d2efa4afe941d850", 
+      "name": "PlazzLayer.csb", 
+      "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "c66eac3f57d3228b27de59e5f92c1b4e", 
+      "name": "avatars.plist", 
+      "path": "client/res/public/"
+    }, 
+    {
+      "md5": "b9d813b05485e0ae4b380fd3f36f0be3", 
+      "name": "avatars.png", 
+      "path": "client/res/public/"
     }, 
     {
       "md5": "d740771a681d49a73b198ac36320af5b", 
@@ -2721,6 +3341,61 @@
       "path": "client/res/RoomList/"
     }, 
     {
+      "md5": "eeb8c6c7664133432890c06194c896df", 
+      "name": "room_title_hundred_nn.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "81e331fb2b990a835f45be3bcd590dd3", 
+      "name": "roomlist_bg.jpg", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "591f9518e535533359eb40a55b6f9853", 
+      "name": "roomlist_btn_exit.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "98e988c5f72f7f7c2363300082d02c6b", 
+      "name": "roomlist_btn_faststart.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "f689fd0c5788083f40db716f95a7c57f", 
+      "name": "roomlist_btn_info.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "f5557e29c661fa2a98733736f9480990", 
+      "name": "roomlist_room_0.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "12897a250a79b2529cf3922596449639", 
+      "name": "roomlist_room_1.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "d8d182d0ca31791158484cabcb14ae7d", 
+      "name": "roomlist_room_2.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "4644208ef03e757b302f0e61baf1b088", 
+      "name": "roomlist_room_3.png", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "13099e083530b8b3ec4e278074b7967f", 
+      "name": "RoomListItemNode.csb", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "8f8f662425d18105bac8780fa3997030", 
+      "name": "RoomListNode.csb", 
+      "path": "client/res/RoomList/"
+    }, 
+    {
       "md5": "e9ddcedf6728ae314d341dae85295930", 
       "name": "sp_pwedit_bg.png", 
       "path": "client/res/RoomList/"
@@ -2814,6 +3489,36 @@
       "md5": "167c6ceb0ef4870939b7fca401d458ce", 
       "name": "title_service.png", 
       "path": "client/res/Service/"
+    }, 
+    {
+      "md5": "b0d274e80563a9d9afbccc6d6f1cd5b8", 
+      "name": "setting_bg.png", 
+      "path": "client/res/setting/"
+    }, 
+    {
+      "md5": "651162b055fbfb6c9d1aa6171308a528", 
+      "name": "setting_btn_logout.png", 
+      "path": "client/res/setting/"
+    }, 
+    {
+      "md5": "3ebcac7361671d81f0cd56ef54d1c389", 
+      "name": "setting_slider.png", 
+      "path": "client/res/setting/"
+    }, 
+    {
+      "md5": "daa1fdbd58a87a33220c597a0d2d811f", 
+      "name": "setting_slider_empty.png", 
+      "path": "client/res/setting/"
+    }, 
+    {
+      "md5": "f78853d5f546e600112e4a9f2709c1b3", 
+      "name": "setting_slider_full.png", 
+      "path": "client/res/setting/"
+    }, 
+    {
+      "md5": "452e6c23e151dc9a529d3b0d11063ae0", 
+      "name": "SettingNode.csb", 
+      "path": "client/res/setting/"
     }, 
     {
       "md5": "5975100821a830bdc565e97f5bbd63b4", 
@@ -3846,6 +4551,46 @@
       "path": "client/res/Task/"
     }, 
     {
+      "md5": "7410bf9a4e61cf9fd33a266a05d72e03", 
+      "name": "ChangeAvatar.csb", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "37cf34c6bc83c4ae5e7e47a53c0739c7", 
+      "name": "changeavatar_title.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "ac567d370fcf53dbee2f011844da300e", 
+      "name": "ChangeName.csb", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "d8e78a5f6526e38f1379f1e595dfd6d7", 
+      "name": "changename_bg.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "16091f00fa92ce8e565095a2f20d1e86", 
+      "name": "changename_btn_sure.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "83beeb0fea4f732d78294045cec79862", 
+      "name": "changename_text.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "f6431cf103c1327bfd6679aea3212772", 
+      "name": "changename_textfield_bg.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "0b2b46436fc2a08944e4b3d5d733a2c5", 
+      "name": "changename_title.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
       "md5": "8e28ef71ced86cf132ca886efee44c9c", 
       "name": "PromoterInputLayer.csb", 
       "path": "client/res/userinfo/"
@@ -3866,6 +4611,11 @@
       "path": "client/res/userinfo/"
     }, 
     {
+      "md5": "c12468cddd191645de671928e0c389b2", 
+      "name": "UserInfo.csb", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
       "md5": "80458e6014643113c250ce6b1004ef3c", 
       "name": "userinfo.plist", 
       "path": "client/res/userinfo/"
@@ -3873,6 +4623,76 @@
     {
       "md5": "2c050555008019d479ad908abd9c1fc2", 
       "name": "userinfo.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "eaac688a133f9eb5380241d26a155475", 
+      "name": "userinfo_avatar_frame.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "765cdbcc360968061ff67ead885fb8b8", 
+      "name": "userinfo_bg.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "e3f7a52b8cad59ac612cef08904ccd20", 
+      "name": "userinfo_bg_cover.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "b253cab5019192e8af9bc9dfd9bdbd0a", 
+      "name": "userinfo_btn_bond_alipay.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "2f1a8aac3ed2640669fe62e09fde5712", 
+      "name": "userinfo_btn_bond_bankcard.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "e3ff0ac0efe4837601a9a71f36ad6b67", 
+      "name": "userinfo_btn_bond_phone.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "f0d1d9527bb79c9b2a0a6e0abf1fd3bf", 
+      "name": "userinfo_btn_change_name.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "9d2e548a58539067200ab8a999f5efe7", 
+      "name": "userinfo_btn_sex_female.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "901026ae6a4a60ecad4895e224179446", 
+      "name": "userinfo_btn_sex_female_press.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "9596b5725af171c4d24df2dc03d27394", 
+      "name": "userinfo_btn_sex_male.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "8609cd228bb4c813c94acb0e8032f04e", 
+      "name": "userinfo_btn_sex_male_press.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "572e724c6ca73ed1a406e89538620281", 
+      "name": "userinfo_btn_user_account.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "0b06deb6a9053aa86d3b6df1f5435c23", 
+      "name": "userinfo_textfield_bg.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "6100182852c9cd05e4f0f57aff4b7157", 
+      "name": "userinfo_title.png", 
       "path": "client/res/userinfo/"
     }, 
     {
@@ -3886,12 +4706,12 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "d1ebe5f0d98db5cc9d530fdb98da53b3", 
+      "md5": "35c06d9891124a722894f7abb523769a", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
     {
-      "md5": "a51eac9d6e13893fa2af2fc02fd070cf", 
+      "md5": "55fa11bbafbea643e99be36b2e4c6f5f", 
       "name": "HeadSprite.luac", 
       "path": "client/src/external/"
     }, 
@@ -4026,7 +4846,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "e1fbd0f5a01d0855aee87b830957ef2d", 
+      "md5": "b54c98f10dbbe61ef34bfb8a7e0f859f", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4036,7 +4856,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "9970f2d800a04a0603a578e93f4fc96d", 
+      "md5": "b3d5abbad32fe30715cac55c98313f9d", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4086,23 +4906,33 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
+      "md5": "044b58fed547ae2252c066625369dc35", 
+      "name": "HowToPlayLayer.luac", 
+      "path": "client/src/plaza/views/layer/game/"
+    }, 
+    {
       "md5": "a8841fc94b08c227ad06466d4f8d7aaf", 
       "name": "VoiceRecorderKit.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "0846fd70333fa792e4cf7e16a7396409", 
+      "md5": "1b7a609b5c921bded2afe0b89d3a9643", 
+      "name": "LoginView.luac", 
+      "path": "client/src/plaza/views/layer/logon/"
+    }, 
+    {
+      "md5": "f0ce7b7bf0bce7def1ed91614cec43d1", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "808f5d1b3c03688ec928e1d9a68e7e67", 
+      "md5": "46eddd22fd3914f7e7329cbb20fe78b6", 
       "name": "RegisterView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "421c73bab181af0ce1c8acc7db06379d", 
-      "name": "OptionLayer.luac", 
+      "md5": "b6d9098a3ffe337a53ba88a76a25d886", 
+      "name": "PopupLayer.luac", 
       "path": "client/src/plaza/views/layer/other/"
     }, 
     {
@@ -4118,6 +4948,11 @@
     {
       "md5": "e7309631955db16fdc77e8aec5ce5947", 
       "name": "AgentLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "184e5b268b26e1dd51464d67b556a048", 
+      "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -4161,6 +4996,16 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "b08ca7c808ea5a23a3cc0088f7c4736b", 
+      "name": "ChangeAvatarLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "1db0294ab17c8363e10b7bb53a35a5ee", 
+      "name": "ChangeNameLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "23405527e942a3cc6cc2e8514843d599", 
       "name": "CheckinLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -4181,7 +5026,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "0f17ecc78c15f65f9468f3b82aa00ee1", 
+      "md5": "b303185c135567e069d7bd996e0c2230", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4196,6 +5041,11 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "156827f28385b4b93998ec6d5fa3ad7b", 
+      "name": "OptionLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "c49b43e614271a88c26d6b64b138b101", 
       "name": "OrderRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -4206,7 +5056,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "045fc556e52a5e9c1e58800eb874922b", 
+      "md5": "59f5a40dc9f26ee281f1056842b618d6", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4236,13 +5086,18 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3d74c267c691f390cfdefda1f60310c0", 
+      "md5": "22a6fee100a1ebc7cf8bcfa9d61c14a8", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
       "md5": "503ec659387e6af7fd9f0b57f5206e41", 
       "name": "WebViewLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "1dc61a91959ef02f3011b05081ba4427", 
+      "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -4356,7 +5211,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 871
+      "allcount": 1042
     }
   ]
 }
