@@ -6,11 +6,6 @@
       "path": "hkfivecardnew/res/"
     }, 
     {
-      "md5": "32761386ec491cfb400f871692193a84", 
-      "name": "filemd5List.json", 
-      "path": "hkfivecardnew/res/"
-    }, 
-    {
       "md5": "d9f4556fbb445ec719437d4fd4c96634", 
       "name": "showHand.plist", 
       "path": "hkfivecardnew/res/animation/"
@@ -341,7 +336,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "allcount": 68
+      "allcount": 67
     }
   ]
 }

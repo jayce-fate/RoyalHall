@@ -6,11 +6,6 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "3ef9208c6fe08d1f1778a8d5f9bbb128", 
-      "name": "filemd5List.json", 
-      "path": "oxnew/res/"
-    }, 
-    {
       "md5": "534f63a0f7fa46b6a0cb65910cdba156", 
       "name": "game_chat_lbg.png", 
       "path": "oxnew/res/"
@@ -656,7 +651,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 131
+      "allcount": 130
     }
   ]
 }

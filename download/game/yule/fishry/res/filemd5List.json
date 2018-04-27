@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "d80a0da7b3b69c17525d5452cb5f8528", 
-      "name": "filemd5List.json", 
-      "path": "fishry/res/"
-    }, 
-    {
       "md5": "56d0c3ce5db85de2e83b084a400b5ba6", 
       "name": "bank_title.png", 
       "path": "fishry/res/bank_res/"
@@ -1261,7 +1256,7 @@
       "path": "fishry/src/views/layer/"
     }, 
     {
-      "allcount": 252
+      "allcount": 251
     }
   ]
 }

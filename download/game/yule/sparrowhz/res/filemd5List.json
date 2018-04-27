@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "5a51d0e61376697e5e231795e0960940", 
-      "name": "filemd5List.json", 
-      "path": "sparrowhz/res/"
-    }, 
-    {
       "md5": "9e5bef73d83b60bb8ec2c60b8ec8a854", 
       "name": "gameScene.plist", 
       "path": "sparrowhz/res/"
@@ -1521,7 +1516,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 304
+      "allcount": 303
     }
   ]
 }

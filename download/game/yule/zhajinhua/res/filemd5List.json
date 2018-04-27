@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "a0651e71d17a1c3e51589b3317c113c3", 
-      "name": "filemd5List.json", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
       "md5": "cfff9c84c804e5e5b74e431dbde4fbc1", 
       "name": "game_desk.png", 
       "path": "zhajinhua/res/"
@@ -306,7 +301,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 61
+      "allcount": 60
     }
   ]
 }

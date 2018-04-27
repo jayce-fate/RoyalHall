@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "00a376c6c3121340e91ec93f7bd06950", 
-      "name": "filemd5List.json", 
-      "path": "sharkbattle/res/"
-    }, 
-    {
       "md5": "31b1e443d722f385f512d12a4813d489", 
       "name": "bank.plist", 
       "path": "sharkbattle/res/bank/"
@@ -391,7 +386,7 @@
       "path": "sharkbattle/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 78
+      "allcount": 77
     }
   ]
 }

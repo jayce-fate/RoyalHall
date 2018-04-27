@@ -11,11 +11,6 @@
       "path": "oxbattle/res/"
     }, 
     {
-      "md5": "4f18f884f38197e49e6f6f3b9e119d0c", 
-      "name": "filemd5List.json", 
-      "path": "oxbattle/res/"
-    }, 
-    {
       "md5": "1db134b7aefd1fa7df17bb1a8d5b7f37", 
       "name": "game_bank.plist", 
       "path": "oxbattle/res/"
@@ -316,7 +311,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 63
+      "allcount": 62
     }
   ]
 }

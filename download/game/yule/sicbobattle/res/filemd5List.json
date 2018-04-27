@@ -6,11 +6,6 @@
       "path": "sicbobattle/res/"
     }, 
     {
-      "md5": "266e735f66d22e9d69c7b79a01bf3c75", 
-      "name": "filemd5List.json", 
-      "path": "sicbobattle/res/"
-    }, 
-    {
       "md5": "8041fc9ba83f4cdf8cccb1509041c96e", 
       "name": "118_bank.plist", 
       "path": "sicbobattle/res/bank/"
@@ -271,7 +266,7 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 54
+      "allcount": 53
     }
   ]
 }

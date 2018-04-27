@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "018c15120a8de36db77a0da53484cf4f", 
-      "name": "filemd5List.json", 
-      "path": "gobang/res/"
-    }, 
-    {
       "md5": "8bd27e57c414cde8b527af09fc858eed", 
       "name": "Alert.csb", 
       "path": "gobang/res/game_res/"
@@ -526,7 +521,7 @@
       "path": "gobang/src/views/layer/"
     }, 
     {
-      "allcount": 105
+      "allcount": 104
     }
   ]
 }

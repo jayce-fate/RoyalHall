@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "14e7a408e9210df71b75fea61b166a2e", 
-      "name": "filemd5List.json", 
-      "path": "510k/res/"
-    }, 
-    {
       "md5": "dac7b20cc26a4c4ffc7bbdf0268691e6", 
       "name": "card.png", 
       "path": "510k/res/card_res/"
@@ -1166,7 +1161,7 @@
       "path": "510k/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 233
+      "allcount": 232
     }
   ]
 }

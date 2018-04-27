@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "a364d43782702383afbd15c1aeaedc62", 
-      "name": "filemd5List.json", 
-      "path": "tdk/res/"
-    }, 
-    {
       "md5": "dd1c0b673a8820abf455281b872050eb", 
       "name": "icon_roomlist_0.png", 
       "path": "tdk/res/roomlist/"
@@ -366,7 +361,7 @@
       "path": "tdk/src/views/layer/"
     }, 
     {
-      "allcount": 73
+      "allcount": 72
     }
   ]
 }

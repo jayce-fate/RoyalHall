@@ -1,11 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "d0a05465c7a520312afdb35103f2ca36", 
-      "name": "filemd5List.json", 
-      "path": "baccaratnew/res/"
-    }, 
-    {
       "md5": "2aaca85612af7c507d9c35b0da45b2ca", 
       "name": "bank.plist", 
       "path": "baccaratnew/res/bank/"
@@ -306,7 +301,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 61
+      "allcount": 60
     }
   ]
 }

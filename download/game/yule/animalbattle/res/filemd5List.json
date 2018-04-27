@@ -266,11 +266,6 @@
       "path": "animalbattle/res/"
     }, 
     {
-      "md5": "db4f7c2da4d3a0075fb9d6d855d4d414", 
-      "name": "filemd5List.json", 
-      "path": "animalbattle/res/"
-    }, 
-    {
       "md5": "7145cb5f136b51f13b644a8efe3975d6", 
       "name": "Flower.plist", 
       "path": "animalbattle/res/"
@@ -866,7 +861,7 @@
       "path": "animalbattle/src/views/layer/"
     }, 
     {
-      "allcount": 173
+      "allcount": 172
     }
   ]
 }

@@ -31,11 +31,6 @@
       "path": "oxex/res/"
     }, 
     {
-      "md5": "5b051711b01c3e3d7fb00dcc8d6ef01a", 
-      "name": "filemd5List.json", 
-      "path": "oxex/res/"
-    }, 
-    {
       "md5": "534f63a0f7fa46b6a0cb65910cdba156", 
       "name": "game_chat_lbg.png", 
       "path": "oxex/res/"
@@ -551,7 +546,7 @@
       "path": "oxex/src/views/layer/"
     }, 
     {
-      "allcount": 110
+      "allcount": 109
     }
   ]
 }
