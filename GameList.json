@@ -5,7 +5,7 @@
 	{
 		"valid":true,
 		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/RoyalHall/master/download",
-		"clientversion":"1",
+		"clientversion":"3",
 		"resversion":"10",
 		"ios_url":"https://www.google.com",
 		"wxLogon":1,

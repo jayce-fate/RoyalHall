@@ -76,7 +76,7 @@
       "path": "client/res/announcement/"
     }, 
     {
-      "md5": "34a3ddfc7894275e85dfa270ccf1c80c", 
+      "md5": "0630603a4515aa615fe12a5abfe5aab6", 
       "name": "AncmtNode.csb", 
       "path": "client/res/announcement/"
     }, 
@@ -836,23 +836,13 @@
       "path": "client/res/Checkin/"
     }, 
     {
-      "md5": "48e18fe4683ad1f86818d5585187f44b", 
-      "name": "common_ani_lattern_0.png", 
+      "md5": "8854b4210f6ba58b7cd87e5ccde54d22", 
+      "name": "ani_lattern.plist", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "0e9f145977c399798a12b5c1db6de543", 
-      "name": "common_ani_lattern_1.png", 
-      "path": "client/res/common/"
-    }, 
-    {
-      "md5": "187c82e525ca21e70c28ec911d917453", 
-      "name": "common_ani_lattern_2.png", 
-      "path": "client/res/common/"
-    }, 
-    {
-      "md5": "a0c8792671215ed6cd501e513f56908c", 
-      "name": "common_ani_lattern_3.png", 
+      "md5": "a7c4f73ed2fc3afbeea6a8cdf2be0304", 
+      "name": "ani_lattern.png", 
       "path": "client/res/common/"
     }, 
     {
@@ -871,12 +861,12 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "0b94b9d900009479ac6eb759a99298b5", 
+      "md5": "d67e4b1042b18ef0e111dca6677fa7e9", 
       "name": "HowToPlayNode.csb", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "69042387a22736b20fa1ba2d16b2385c", 
+      "md5": "7dd260de7af44c6b8212f077175fb02c", 
       "name": "LatternAni.csb", 
       "path": "client/res/common/"
     }, 
@@ -1696,6 +1686,61 @@
       "path": "client/res/GameList/"
     }, 
     {
+      "md5": "eeb8c6c7664133432890c06194c896df", 
+      "name": "room_title_hundred_nn.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "81e331fb2b990a835f45be3bcd590dd3", 
+      "name": "roomlist_bg.jpg", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "591f9518e535533359eb40a55b6f9853", 
+      "name": "roomlist_btn_exit.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "98e988c5f72f7f7c2363300082d02c6b", 
+      "name": "roomlist_btn_faststart.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "f689fd0c5788083f40db716f95a7c57f", 
+      "name": "roomlist_btn_info.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "f5557e29c661fa2a98733736f9480990", 
+      "name": "roomlist_room_0.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "12897a250a79b2529cf3922596449639", 
+      "name": "roomlist_room_1.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "d8d182d0ca31791158484cabcb14ae7d", 
+      "name": "roomlist_room_2.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "4644208ef03e757b302f0e61baf1b088", 
+      "name": "roomlist_room_3.png", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "b9ba7a15311c9951727d11b9f2b07fe9", 
+      "name": "RoomListItemNode.csb", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
+      "md5": "9b0c28befc1d202c800efdc6e934bf6e", 
+      "name": "RoomListNode.csb", 
+      "path": "client/res/gameroomlist/"
+    }, 
+    {
       "md5": "df5034ad3e6dc2d69f1ab129383bad0a", 
       "name": "bt_cancel_0.png", 
       "path": "client/res/General/"
@@ -2004,6 +2049,101 @@
       "md5": "9acfb964b6bfb054176ed9eb83f97e71", 
       "name": "uinfo_btn_gamevideo_1.png", 
       "path": "client/res/Information/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner1.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner10.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner11.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner12.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner13.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner14.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner15.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner16.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner17.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner18.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner19.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner2.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner3.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner4.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner5.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner6.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner7.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner8.png", 
+      "path": "client/res/justfortestneeddelete/"
+    }, 
+    {
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "name": "lobby_banner9.png", 
+      "path": "client/res/justfortestneeddelete/"
     }, 
     {
       "md5": "5abb435f3c06aed4d94658c51c4f1eb5", 
@@ -2841,7 +2981,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "36c7e4a32ea0720141dc27fc0b9aae30", 
+      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
       "name": "lobby_banner.png", 
       "path": "client/res/plazz/"
     }, 
@@ -3039,6 +3179,86 @@
       "md5": "80f8a86df8f4ec240f194e5d08219f09", 
       "name": "TargetShareLayer.csb", 
       "path": "client/res/public/"
+    }, 
+    {
+      "md5": "858a0fa58897f035dff9ff3afb6f5b4a", 
+      "name": "purchase_item_bg.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "c65f307dbac2e6113d3ebee4df69f3b7", 
+      "name": "purchase_item_btn_168.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "cc5af1b12d118097384517a244e66a23", 
+      "name": "purchase_item_btn_18.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "61652e287bb55369d446501db311b28a", 
+      "name": "purchase_item_btn_3.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "42dfcba9c4baa378b75be75e6daefdc0", 
+      "name": "purchase_item_btn_30.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "1346d37fe841c03317387a3e2da5c944", 
+      "name": "purchase_item_btn_6.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "ca2579ff8385fe223636ab5bb95b5e79", 
+      "name": "purchase_item_btn_68.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "037dd7fc4f5454b70e6de3243c054193", 
+      "name": "purchase_item_icon_168.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "a9e29017e121ed00bbd74b68a82b2191", 
+      "name": "purchase_item_icon_18.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "4eed1aafdd874ad6cabb8317140b91dc", 
+      "name": "purchase_item_icon_3.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "88522661488a6b32fd32b23496a013ab", 
+      "name": "purchase_item_icon_30.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "f778ded12c53c244aa69ac9feb1535e9", 
+      "name": "purchase_item_icon_6.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "eeaaf8b12d934e0873eaa447bcf7ae0c", 
+      "name": "purchase_item_icon_68.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "423b793a50138fc44460afd2c326cb00", 
+      "name": "purchase_title.png", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "08345c172c9cbd0d72c5a565adbbd0a0", 
+      "name": "PurchaseItemNode.csb", 
+      "path": "client/res/purchase/"
+    }, 
+    {
+      "md5": "b3ed2d31f3f9d5644385e700e2338738", 
+      "name": "PurchaseNode.csb", 
+      "path": "client/res/purchase/"
     }, 
     {
       "md5": "7d87a4e7a268d5874fc98af9360c9c79", 
@@ -3303,61 +3523,6 @@
     {
       "md5": "88db0eddc4b70bccf91e8ccfb6cb8108", 
       "name": "num_roomlist_cellscore.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "eeb8c6c7664133432890c06194c896df", 
-      "name": "room_title_hundred_nn.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "81e331fb2b990a835f45be3bcd590dd3", 
-      "name": "roomlist_bg.jpg", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "591f9518e535533359eb40a55b6f9853", 
-      "name": "roomlist_btn_exit.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "98e988c5f72f7f7c2363300082d02c6b", 
-      "name": "roomlist_btn_faststart.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "f689fd0c5788083f40db716f95a7c57f", 
-      "name": "roomlist_btn_info.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "f5557e29c661fa2a98733736f9480990", 
-      "name": "roomlist_room_0.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "12897a250a79b2529cf3922596449639", 
-      "name": "roomlist_room_1.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "d8d182d0ca31791158484cabcb14ae7d", 
-      "name": "roomlist_room_2.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "4644208ef03e757b302f0e61baf1b088", 
-      "name": "roomlist_room_3.png", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "13099e083530b8b3ec4e278074b7967f", 
-      "name": "RoomListItemNode.csb", 
-      "path": "client/res/RoomList/"
-    }, 
-    {
-      "md5": "8f8f662425d18105bac8780fa3997030", 
-      "name": "RoomListNode.csb", 
       "path": "client/res/RoomList/"
     }, 
     {
@@ -4516,7 +4681,7 @@
       "path": "client/res/Task/"
     }, 
     {
-      "md5": "7410bf9a4e61cf9fd33a266a05d72e03", 
+      "md5": "3f0306c7379bcd8bad3136a52fd98215", 
       "name": "ChangeAvatar.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4526,7 +4691,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "ac567d370fcf53dbee2f011844da300e", 
+      "md5": "026ee95535b0ccd103910be274e29299", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4576,7 +4741,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "c12468cddd191645de671928e0c389b2", 
+      "md5": "c6887ddfabc56e369d2f82db847965a3", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4648,6 +4813,11 @@
     {
       "md5": "572e724c6ca73ed1a406e89538620281", 
       "name": "userinfo_btn_user_account.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "89400f81e8df7958b7f714a27b11ecb5", 
+      "name": "userinfo_btn_user_account_user.png", 
       "path": "client/res/userinfo/"
     }, 
     {
@@ -4811,7 +4981,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "b54c98f10dbbe61ef34bfb8a7e0f859f", 
+      "md5": "6d6583b09ddea5cf1d396c0f3e285e8a", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4821,7 +4991,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "b3d5abbad32fe30715cac55c98313f9d", 
+      "md5": "f85439f86c9669b074c6879d18491373", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4831,7 +5001,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "0406d3d6c11109f072f1a0fe8f68493f", 
+      "md5": "a7947820c989503e23fd1b1970b6f82c", 
       "name": "FriendChatList.luac", 
       "path": "client/src/plaza/views/layer/friend/"
     }, 
@@ -4881,17 +5051,17 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "1b7a609b5c921bded2afe0b89d3a9643", 
+      "md5": "25de427c1d85fc7cac096ea6c993b984", 
       "name": "LoginView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "f0ce7b7bf0bce7def1ed91614cec43d1", 
+      "md5": "8582636dc1c6120d6f047dc54e0694c0", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "46eddd22fd3914f7e7329cbb20fe78b6", 
+      "md5": "5f5ee3e7daec884bb436fb88c548a327", 
       "name": "RegisterView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -4916,7 +5086,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "184e5b268b26e1dd51464d67b556a048", 
+      "md5": "4eb0d8865fc3899701b12db76f2eaea4", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4966,7 +5136,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1db0294ab17c8363e10b7bb53a35a5ee", 
+      "md5": "d249850f96932a6e459714724ec24bbe", 
       "name": "ChangeNameLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4991,7 +5161,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b303185c135567e069d7bd996e0c2230", 
+      "md5": "98b817340502dc1aa7e3e87a23481d8b", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5006,7 +5176,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "156827f28385b4b93998ec6d5fa3ad7b", 
+      "md5": "5a84eaa2d970496394ef27f0eb93821f", 
       "name": "OptionLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5016,12 +5186,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "732b5bffe28dbde67f7d9a03adb64a5c", 
+      "name": "PurchaseLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "8f2b032eba6c7be27eb81ec7257b7faf", 
       "name": "RankingListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "59f5a40dc9f26ee281f1056842b618d6", 
+      "md5": "d3cbbb3ced3e4486afa48b90d01a3e03", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5051,7 +5226,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "22a6fee100a1ebc7cf8bcfa9d61c14a8", 
+      "md5": "d7b1b7eb095c783faa5fa74f0722779c", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5061,7 +5236,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1dc61a91959ef02f3011b05081ba4427", 
+      "md5": "38b702e36b85dd103b7a8a258febc27a", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5176,7 +5351,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1035
+      "allcount": 1070
     }
   ]
 }
