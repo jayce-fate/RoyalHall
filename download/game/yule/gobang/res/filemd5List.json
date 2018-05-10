@@ -476,6 +476,11 @@
       "path": "gobang/res/roomlist/"
     }, 
     {
+      "md5": "cf41c6a3d821001f0b363fefe7330c8e", 
+      "name": "roomlist_title.png", 
+      "path": "gobang/res/roomlist/"
+    }, 
+    {
       "md5": "08847b2463a6056b36158e68cace24d5", 
       "name": "roomtable.png", 
       "path": "gobang/res/roomlist/"
@@ -486,7 +491,12 @@
       "path": "gobang/res/roomlist/"
     }, 
     {
-      "md5": "0b96ac05d45d9ff14304bb9e81ad4123", 
+      "md5": "8145707b74ee6f91ce16aa94f2d50f6c", 
+      "name": "Rule.txt", 
+      "path": "gobang/res/roomlist/"
+    }, 
+    {
+      "md5": "28e342ac76fab4947a6b713bc195bc0f", 
       "name": "cmd_game.luac", 
       "path": "gobang/src/models/"
     }, 
@@ -496,13 +506,18 @@
       "path": "gobang/src/models/"
     }, 
     {
-      "md5": "7bc0763c93acc559d4f9c21de594aa75", 
+      "md5": "d74e24dbb2579bda131cbede1c8d5a42", 
       "name": "GameLayer.luac", 
       "path": "gobang/src/views/"
     }, 
     {
       "md5": "063bdad5f78cd1b912dd87f6007ebb71", 
       "name": "GameRoomLayer.luac", 
+      "path": "gobang/src/views/"
+    }, 
+    {
+      "md5": "f803bd741224c16ae61c7ccc87a7c48c", 
+      "name": "GameRoomListLayer.luac", 
       "path": "gobang/src/views/"
     }, 
     {
@@ -516,12 +531,12 @@
       "path": "gobang/src/views/layer/"
     }, 
     {
-      "md5": "3543071f2b65fdf85a546ad8b98a8c89", 
+      "md5": "3bc3edf2f27ca06000e07b07f9ca6bee", 
       "name": "GameViewLayer.luac", 
       "path": "gobang/src/views/layer/"
     }, 
     {
-      "allcount": 104
+      "allcount": 107
     }
   ]
 }

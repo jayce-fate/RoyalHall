@@ -76,7 +76,7 @@
       "path": "client/res/announcement/"
     }, 
     {
-      "md5": "0630603a4515aa615fe12a5abfe5aab6", 
+      "md5": "f3f53da90649fcb66b3db8c7725551ce", 
       "name": "AncmtNode.csb", 
       "path": "client/res/announcement/"
     }, 
@@ -836,12 +836,12 @@
       "path": "client/res/Checkin/"
     }, 
     {
-      "md5": "8854b4210f6ba58b7cd87e5ccde54d22", 
+      "md5": "4b06c94cca337eecd4915f74d6f0f7ec", 
       "name": "ani_lattern.plist", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "a7c4f73ed2fc3afbeea6a8cdf2be0304", 
+      "md5": "256520680bc570cdfee36d837bbebd70", 
       "name": "ani_lattern.png", 
       "path": "client/res/common/"
     }, 
@@ -861,12 +861,12 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "d67e4b1042b18ef0e111dca6677fa7e9", 
+      "md5": "83a5703551add2fdfce8969ac9be55dc", 
       "name": "HowToPlayNode.csb", 
       "path": "client/res/common/"
     }, 
     {
-      "md5": "7dd260de7af44c6b8212f077175fb02c", 
+      "md5": "8de5ce7b9c5c20b4814a0419af0c6856", 
       "name": "LatternAni.csb", 
       "path": "client/res/common/"
     }, 
@@ -884,6 +884,41 @@
       "md5": "d91ee923e6030c62f108dff3aa11ce5f", 
       "name": "common_text_big.png", 
       "path": "client/res/common_res/"
+    }, 
+    {
+      "md5": "fa79821349dd686f516187283bc2fb8c", 
+      "name": "Button_Disable.png", 
+      "path": "client/res/Default/"
+    }, 
+    {
+      "md5": "5f8329d6525b01810d68e39036e5f066", 
+      "name": "Button_Normal.png", 
+      "path": "client/res/Default/"
+    }, 
+    {
+      "md5": "ea5e72abd451a76f62a2906abb7ef4bf", 
+      "name": "Button_Press.png", 
+      "path": "client/res/Default/"
+    }, 
+    {
+      "md5": "8b8ddbe2391511ba6e05d975dd2d9dba", 
+      "name": "ImageFile.png", 
+      "path": "client/res/Default/"
+    }, 
+    {
+      "md5": "3ee7a87d45853ac7278b7325d4c64d6c", 
+      "name": "SliderNode_Disable.png", 
+      "path": "client/res/Default/"
+    }, 
+    {
+      "md5": "380f19a83e69524450a3fc2b466dc275", 
+      "name": "Sprite.png", 
+      "path": "client/res/Default/"
+    }, 
+    {
+      "md5": "f80be8acc64da02fb7f2bf9a6cb644e2", 
+      "name": "TextAtlas.png", 
+      "path": "client/res/Default/"
     }, 
     {
       "md5": "d80565d64f92cf96ac70f5709b64094a", 
@@ -1736,7 +1771,7 @@
       "path": "client/res/gameroomlist/"
     }, 
     {
-      "md5": "9b0c28befc1d202c800efdc6e934bf6e", 
+      "md5": "2c0a6138bf38a0be379f9c8ad8c8b225", 
       "name": "RoomListNode.csb", 
       "path": "client/res/gameroomlist/"
     }, 
@@ -2049,101 +2084,6 @@
       "md5": "9acfb964b6bfb054176ed9eb83f97e71", 
       "name": "uinfo_btn_gamevideo_1.png", 
       "path": "client/res/Information/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner1.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner10.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner11.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner12.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner13.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner14.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner15.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner16.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner17.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner18.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner19.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner2.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner3.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner4.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner5.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner6.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner7.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner8.png", 
-      "path": "client/res/justfortestneeddelete/"
-    }, 
-    {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
-      "name": "lobby_banner9.png", 
-      "path": "client/res/justfortestneeddelete/"
     }, 
     {
       "md5": "5abb435f3c06aed4d94658c51c4f1eb5", 
@@ -3081,7 +3021,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "2e2a8c20d92d0ed2d2efa4afe941d850", 
+      "md5": "fbb8b3bd79055bb23f629e33ef70e372", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -3256,7 +3196,7 @@
       "path": "client/res/purchase/"
     }, 
     {
-      "md5": "b3ed2d31f3f9d5644385e700e2338738", 
+      "md5": "531ede6f03db32e70b3bb20014011950", 
       "name": "PurchaseNode.csb", 
       "path": "client/res/purchase/"
     }, 
@@ -4681,7 +4621,7 @@
       "path": "client/res/Task/"
     }, 
     {
-      "md5": "3f0306c7379bcd8bad3136a52fd98215", 
+      "md5": "de1066cdf3cc011f82066cb0aefdc1a9", 
       "name": "ChangeAvatar.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4691,7 +4631,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "026ee95535b0ccd103910be274e29299", 
+      "md5": "908d24ce6098f6b616f31893270e05aa", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4741,7 +4681,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "c6887ddfabc56e369d2f82db847965a3", 
+      "md5": "6ab42ce19440e115560c80b599ee6b42", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4846,7 +4786,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "55fa11bbafbea643e99be36b2e4c6f5f", 
+      "md5": "c8e3b6814334f78d1842d35698338d54", 
       "name": "HeadSprite.luac", 
       "path": "client/src/external/"
     }, 
@@ -4861,7 +4801,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "fd9594064bfdddbc5e19b3f9a21c1b82", 
+      "md5": "a7b6ba2f05c1e02e6fbf069b77f9220e", 
       "name": "PopupInfoHead.luac", 
       "path": "client/src/external/"
     }, 
@@ -4911,7 +4851,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "14403e9288768f84c4d8d7c1ed510c27", 
+      "md5": "f8756c5498640502be5cb8c62d363823", 
       "name": "BaseFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4926,7 +4866,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "75fdba13b81b24f4fc9c83ece1410cb6", 
+      "md5": "1040ceada0f8e81a51d4504445eb6357", 
       "name": "FriendMgr.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4981,17 +4921,17 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "6d6583b09ddea5cf1d396c0f3e285e8a", 
+      "md5": "7830de8c4b3f53934622a368b3fa9267", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "0fb5036ac62c825d35284a0292125c31", 
+      "md5": "834a2cc4b8dc73da72fff7d0848b01f0", 
       "name": "ForestDanceScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "f85439f86c9669b074c6879d18491373", 
+      "md5": "9f665ff1f8bdf5c02f82742613fa0e61", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5041,7 +4981,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "044b58fed547ae2252c066625369dc35", 
+      "md5": "dc24b81ce6b69b54a80960f47efcd5e5", 
       "name": "HowToPlayLayer.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
@@ -5161,7 +5101,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "98b817340502dc1aa7e3e87a23481d8b", 
+      "md5": "ac9fb2dbef3900a3d4dc054f51d4a1cc", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5176,7 +5116,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "5a84eaa2d970496394ef27f0eb93821f", 
+      "md5": "3eb7f21f64ab1c3064edd35f11cbe405", 
       "name": "OptionLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5186,7 +5126,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "732b5bffe28dbde67f7d9a03adb64a5c", 
+      "md5": "f64081f033117fdab32ed4fb949bd9ad", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5196,7 +5136,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d3cbbb3ced3e4486afa48b90d01a3e03", 
+      "md5": "2186214b300ba11f0c9b3b31208fead3", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5236,12 +5176,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "38b702e36b85dd103b7a8a258febc27a", 
+      "md5": "fb29a1ecba7d9be022f90ab5864a08ba", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e1f18ff96224e29213bf1f6b28bf343a", 
+      "md5": "dd80589dfede6a13437851bbc8604ba1", 
       "name": "RoomLayer.luac", 
       "path": "client/src/plaza/views/layer/room/"
     }, 
@@ -5311,7 +5251,7 @@
       "path": "client/src/privatemode/plaza/src/models/"
     }, 
     {
-      "md5": "5f0d48c0cdf2b895822f97120e9501a4", 
+      "md5": "c3275cd22f213e91e0b6ec408a1b702e", 
       "name": "PriRoom.luac", 
       "path": "client/src/privatemode/plaza/src/models/"
     }, 
@@ -5351,7 +5291,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1070
+      "allcount": 1058
     }
   ]
 }
