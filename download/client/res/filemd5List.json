@@ -851,6 +851,11 @@
       "path": "client/res/common/"
     }, 
     {
+      "md5": "16091f00fa92ce8e565095a2f20d1e86", 
+      "name": "common_btn_sure.png", 
+      "path": "client/res/common/"
+    }, 
+    {
       "md5": "8c75e3bd8ad0809a60e29bff9963f04b", 
       "name": "common_rule_title.png", 
       "path": "client/res/common/"
@@ -861,7 +866,7 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "83a5703551add2fdfce8969ac9be55dc", 
+      "md5": "57a837c47213591f7e4506cefb0658b5", 
       "name": "HowToPlayNode.csb", 
       "path": "client/res/common/"
     }, 
@@ -1631,7 +1636,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "773e5b49b90d5e4c1c64e2832f578bae", 
+      "md5": "bfd68b90dc741a75d64911e7e5d353b9", 
       "name": "game_401.png", 
       "path": "client/res/GameList/"
     }, 
@@ -2086,111 +2091,6 @@
       "path": "client/res/Information/"
     }, 
     {
-      "md5": "5abb435f3c06aed4d94658c51c4f1eb5", 
-      "name": "btn_scaning_click.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "ab3d1fd6cdb78317fab194c911278e2f", 
-      "name": "btn_scaning_normal.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "8c5a3c1c9366b5c6327ec542f0b3ab26", 
-      "name": "login_account_bg_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "611a848c9792fc60c6e5bfc0a7a8fef2", 
-      "name": "login_bg.jpg", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "1d634686febf3484d1deda421a30569b", 
-      "name": "login_bottom_bar_bg.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "340478a359dd538348c24113d2901634", 
-      "name": "login_bottom_bar_text.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "a9c6bb36fb38f66cbaec3a84e298a692", 
-      "name": "login_btn_cs_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "8656753be0fa576388622864ce8096fc", 
-      "name": "login_btn_cs_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "4d0c16384052cfc9a3b5acb3b8b80f85", 
-      "name": "login_btn_login_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "b4c306632d4ffdeb5ec50199c73ba8e5", 
-      "name": "login_btn_login_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "8e8a56f336962e073b18bb7392f6bfb7", 
-      "name": "login_btn_register_h.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "88c9fe7cafdd8b752842d2ec561e7c77", 
-      "name": "login_btn_register_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "8c5a3c1c9366b5c6327ec542f0b3ab26", 
-      "name": "login_password_bg_n.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "cb86de7e921b85b89f72927fa79d0361", 
-      "name": "LoginView.csb", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "4c355c8dc68bebe8b27fe89df13eaa1f", 
-      "name": "regist_account.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "bb184502de37190153dfaab7be4ad78f", 
-      "name": "regist_bg.jpg", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "218f0a73438ef4f859650b3208c34080", 
-      "name": "regist_bg.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "e889f000e18f3ddfa097936adebdff25", 
-      "name": "regist_confirm.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "7edb247ae2b0f1c53833fb3f99768f74", 
-      "name": "regist_logo.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "2d29fb6c1c262b6fd6ccc361c7adf292", 
-      "name": "RegistScene.csb", 
-      "path": "client/res/load_res/"
-    }, 
-    {
-      "md5": "a44a701aeb893ecb9ef1febe273a3b2d", 
-      "name": "reigist_password.png", 
-      "path": "client/res/load_res/"
-    }, 
-    {
       "md5": "be04c613e6d2266b6505eff8515e57a4", 
       "name": "login_bg.jpg", 
       "path": "client/res/login/"
@@ -2308,11 +2208,6 @@
     {
       "md5": "5cd6a166336fc10dfca82eb2474b51c8", 
       "name": "logon_button_2.png", 
-      "path": "client/res/Logon/"
-    }, 
-    {
-      "md5": "deeb37a682846f32f2ff4d6708643558", 
-      "name": "logon_logo.png", 
       "path": "client/res/Logon/"
     }, 
     {
@@ -2574,236 +2469,6 @@
       "md5": "8b90288b8f4eac62d7985e98ab47c36a", 
       "name": "title_orderrecord.png", 
       "path": "client/res/OrderRecord/"
-    }, 
-    {
-      "md5": "e460806ed4a46cee1aee5e3c79849e67", 
-      "name": "AvatarModifyNode.csb", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "2fca2bd9ce39ee2e50f1fca4b5059a21", 
-      "name": "btn_closure_h.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "18a3aeb9db791081a7742abee8e3091c", 
-      "name": "btn_closure_n.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "c1cde5c92f7f2f333325abd819546d1a", 
-      "name": "btn_sure_click.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "de7ea3eecebdce8f3239b7d52943905f", 
-      "name": "btn_sure_normal.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "3ad7445baf6691d29e3d3bb7c9209423", 
-      "name": "head_frame_click.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "b9d49a3cf3ca42c3d27bc1abe76fb52f", 
-      "name": "head_frame_normal.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "2530df826c7dc24dc29ff83183c62d22", 
-      "name": "im_head_bg.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "aa804679a199566810d93de7f3ea45ab", 
-      "name": "info_bankPassModifyBtn.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "863759b79d73fbb940f42c3363a853ae", 
-      "name": "info_bankpwdIcon.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "9d4c64d3f604d122694a18f81b5f46cd", 
-      "name": "info_btn_complete_h.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "14a6b6aee9750cfd890c7290272dc2d3", 
-      "name": "info_btn_complete_n.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "16aa9c685246b7917683806c6ea16da9", 
-      "name": "info_btn_submit_h.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "6df045dffaa04723dca804c9bfb0cc14", 
-      "name": "info_btn_submit_n.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "78c4ca3242f950b70a21202c8f3bda12", 
-      "name": "info_commonText.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "0c4443eca54a06d0ae56dad0bd043577", 
-      "name": "info_exchange_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "3232a8e07036a82219195d205bbb40b6", 
-      "name": "info_exchange_1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "1dee4e7b3f52a48e79c0ddbe81339323", 
-      "name": "info_level_bar0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "a5e7beb49519b19abec51f7751f36118", 
-      "name": "info_level_bar1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "ea40d7231b59fd3ae83364fe666d0a03", 
-      "name": "info_levelIcon.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "1dbb3aefd908d06093a1fcfd1d1226bd", 
-      "name": "info_levelNum.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "65767bb31b4bf2c6155762d8fcb412e1", 
-      "name": "info_loginPassModifyBtn.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "ad2eb33dacf5a506552ef7e17fdb694b", 
-      "name": "info_nickText.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "880bdccba5bf6ca9b24629c7d3d4420f", 
-      "name": "info_parchase_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "b3678f9bae607c393af7161b6a998b27", 
-      "name": "info_parchase_1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "6d99fbbdda2c29ce36380a44e9074c8b", 
-      "name": "info_personal_bg.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "f43765fb059be12e44369fb44a494c79", 
-      "name": "info_personalBtn.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "d8d0429ef9f2b09af0596ec543c0951b", 
-      "name": "info_personalIcon.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "31bd9857c05da070d605d212159a7bcd", 
-      "name": "info_pwdIcon.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "0f5998febcc593479780e990e836f793", 
-      "name": "info_sex_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "5aefb41aa38bdaf134ff5eb0402fbe6e", 
-      "name": "info_sex_1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "7529c1fa5d0f3d939f8430124825f5cc", 
-      "name": "info_sureModify.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "a4b0d0e2f16be1c2272799563d061141", 
-      "name": "info_sureModify1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "24b19561f0b18eabcf732360d1b404d2", 
-      "name": "info_take_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "8132aec39c3070c11bc79de4ece3bcad", 
-      "name": "info_take_1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "036d87164b12d9561d438c3b35852ee5", 
-      "name": "info_textfield_bg.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "b26d3e0f279d99e6da24c24d8e47e0c4", 
-      "name": "info_upload_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "44c8a668385d79c28cdcea521d5cd236", 
-      "name": "info_upload_1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "088bcffc4a83b4d56087484982d833a7", 
-      "name": "Personal.csb", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "18a3aeb9db791081a7742abee8e3091c", 
-      "name": "set_close_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "2fca2bd9ce39ee2e50f1fca4b5059a21", 
-      "name": "set_close_1.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "577df0485fbcb57ad1f3cd91ce5f75a4", 
-      "name": "tag_bk.jpg", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "b7607413457b723f3d341164e2ca158e", 
-      "name": "tag_title.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "10e01ee0d4300408b5277d93cf66c9a9", 
-      "name": "title_personal.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "bb16898fcb6be5207e12952549c0e61d", 
-      "name": "userinfo_modiyNick_0.png", 
-      "path": "client/res/personal_res/"
-    }, 
-    {
-      "md5": "d2ed2de3714035cc338a64c49e7bb0e9", 
-      "name": "userinfo_modiyNick_1.png", 
-      "path": "client/res/personal_res/"
     }, 
     {
       "md5": "12f02254f4d27de5cb9f217f9adb291f", 
@@ -3076,16 +2741,6 @@
       "path": "client/res/public/"
     }, 
     {
-      "md5": "89f7ffe311af2ed929310ec381541d8b", 
-      "name": "im_head.plist", 
-      "path": "client/res/public/"
-    }, 
-    {
-      "md5": "26d00130b3df2c7fa3e787a60eeb429c", 
-      "name": "im_head.png", 
-      "path": "client/res/public/"
-    }, 
-    {
       "md5": "9314de2eea0b7d886664c7b0d6f52327", 
       "name": "im_head_frame.plist", 
       "path": "client/res/public/"
@@ -3316,6 +2971,131 @@
       "path": "client/res/Rank/"
     }, 
     {
+      "md5": "c2c0d1ee6cea99d1ed228ec6c3655372", 
+      "name": "ranking_avatar_frame.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "be9d6d81b74c287ce2d7903ecd692b83", 
+      "name": "ranking_btn_info.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "02f685fd64bd091e1f004c291ee7099d", 
+      "name": "ranking_btn_lastweek_h.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "e48d291dc58876fa8bb935b8b5270ac9", 
+      "name": "ranking_btn_lastweek_n.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "60b9915ebb8422558da1a4d0466598b0", 
+      "name": "ranking_btn_thisweek_h.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "52e1c00dc57715ca1ce0ba550fc1a90e", 
+      "name": "ranking_btn_thisweek_n.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "09d66d47ae357f81a4abdf089d47f79d", 
+      "name": "ranking_btn_today_h.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "c1c6f0f5c8743ec26adfc2fb55ed0055", 
+      "name": "ranking_btn_today_n.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "e1993960748dd683c0030d3b3104729a", 
+      "name": "ranking_mine.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "b60d18e956857a9084c03804312142b9", 
+      "name": "ranking_money_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "468fab5ddec1fc9ac740acef9163e9fd", 
+      "name": "ranking_out_rank.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "8db3045282a846e92cc7241fd775387d", 
+      "name": "ranking_rank_0.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "374a52e2c084337461faa7fc2779158d", 
+      "name": "ranking_rank_1.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "bb9b393fd9daf8ec4a3f2407be4dfcf3", 
+      "name": "ranking_rank_2.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "97b466b4ce968a12d02bd15537fba4ef", 
+      "name": "ranking_rank_3.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "f3121610277d8db628e5c6940d5daaf9", 
+      "name": "ranking_rank_4.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "13b4a786599129131a205822a04d107e", 
+      "name": "ranking_rank_5.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "0579b73d7d02604b017e3f570d2049fe", 
+      "name": "ranking_rule_title.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "2a23d42ff273a135cbb65147b94d30e9", 
+      "name": "ranking_table_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "505abdc83912b270197d02ba2d55ead5", 
+      "name": "ranking_title.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "b75ca691ae77af359cfae0288eec3c79", 
+      "name": "ranking_title_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "df8bcfc3ac9826f34e1e7d9589b6797a", 
+      "name": "RankingCellNode.csb", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "3211564f98800fa59d25e5f323655ba9", 
+      "name": "RankingChart.csb", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "e9115733deeb75558f85c4b2f643d31b", 
+      "name": "rankingRule.txt", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "97204e3dca76dcf51671b5ef0ddc5fae", 
+      "name": "RankingRuleNode.csb", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
       "md5": "afe1ac587c9a754fc7b10ccf2c946197", 
       "name": "bt_cancel_0.png", 
       "path": "client/res/Regist/"
@@ -3529,6 +3309,81 @@
       "md5": "b67e0ec0d6bbc3c2ff1c7b0bbb8b7814", 
       "name": "title_icon_9.png", 
       "path": "client/res/RoomList/"
+    }, 
+    {
+      "md5": "d99ecc047fca881b4b067d146db5ee4f", 
+      "name": "SafeBox.csb", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "4e3ec44676f88f85a7d1cc6fd00c9bd4", 
+      "name": "safebox_bg_cover.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "8d10e43c159ef3aafd38e6a3a57dd821", 
+      "name": "safebox_btn_all.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "4d5f762b21cd2490ba2b1d0a5bbd043c", 
+      "name": "safebox_btn_close.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "33bf47b52bb48469432149d632770706", 
+      "name": "safebox_btn_deposit_h.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "8c39d93be70ed54d1a0c3995111c0032", 
+      "name": "safebox_btn_deposit_n.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "a097018adec32b020f2872dcfcd00846", 
+      "name": "safebox_btn_withdraw_h.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "e421e9355de4009d83e25fc7741a5129", 
+      "name": "safebox_btn_withdraw_n.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "7be3e340f00b6e42610c0a2f11f60fb2", 
+      "name": "safebox_icon.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "b3c41c694d17f0811eb507181df46fb9", 
+      "name": "safebox_money_bg.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "a114b002a772c824f33635c45714eb25", 
+      "name": "safebox_percent_bg.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "615ecb3384ba7639acf2e697cd2a4e4c", 
+      "name": "safebox_setpassword_title.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "bc3e4fab6d98b1e86c8120a7f145df69", 
+      "name": "safebox_textfield_bg.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "be4a21c69d6fc36f0ffb99c5bc19c4db", 
+      "name": "safebox_title.png", 
+      "path": "client/res/safebox/"
+    }, 
+    {
+      "md5": "bb3e83ff13bc1332952c325582db388a", 
+      "name": "SetBankPwdNode.csb", 
+      "path": "client/res/safebox/"
     }, 
     {
       "md5": "4c8d6688c2d495252d610fc742eca1b3", 
@@ -4631,7 +4486,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "908d24ce6098f6b616f31893270e05aa", 
+      "md5": "dc237b1fd515ece8b57f3a4243f499df", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4661,38 +4516,8 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "8e28ef71ced86cf132ca886efee44c9c", 
-      "name": "PromoterInputLayer.csb", 
-      "path": "client/res/userinfo/"
-    }, 
-    {
-      "md5": "ac8bf853944a2af9cdf175e91afb7233", 
-      "name": "QrCodeLayer.csb", 
-      "path": "client/res/userinfo/"
-    }, 
-    {
-      "md5": "bd28719f4ad387a57b3fde3b6a99fa0a", 
-      "name": "SelectHeadLayer.csb", 
-      "path": "client/res/userinfo/"
-    }, 
-    {
-      "md5": "fadabb1972046fe7653be1bb54dffec3", 
-      "name": "uinfo_atlas_sendcount.png", 
-      "path": "client/res/userinfo/"
-    }, 
-    {
-      "md5": "6ab42ce19440e115560c80b599ee6b42", 
+      "md5": "03b78fd9177a9d80e4b32e4914d78e88", 
       "name": "UserInfo.csb", 
-      "path": "client/res/userinfo/"
-    }, 
-    {
-      "md5": "80458e6014643113c250ce6b1004ef3c", 
-      "name": "userinfo.plist", 
-      "path": "client/res/userinfo/"
-    }, 
-    {
-      "md5": "2c050555008019d479ad908abd9c1fc2", 
-      "name": "userinfo.png", 
       "path": "client/res/userinfo/"
     }, 
     {
@@ -4781,7 +4606,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "35c06d9891124a722894f7abb523769a", 
+      "md5": "76acd66347561f6226d5dd3450b56175", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -4921,7 +4746,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "7830de8c4b3f53934622a368b3fa9267", 
+      "md5": "17100df82f5ada4389cef94430d0b708", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4931,7 +4756,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "9f665ff1f8bdf5c02f82742613fa0e61", 
+      "md5": "77ab37481ba3e1ba24bbdf278c632cb7", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4981,7 +4806,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "dc24b81ce6b69b54a80960f47efcd5e5", 
+      "md5": "2551a8dfe4c9ecd68a5f089d18666a9c", 
       "name": "HowToPlayLayer.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
@@ -5016,7 +4841,7 @@
       "path": "client/src/plaza/views/layer/other/"
     }, 
     {
-      "md5": "fc003f0b78c589b4620c8b5238b293d1", 
+      "md5": "8eff0e769e4056801f33a41aadc03d51", 
       "name": "ServiceLayer.luac", 
       "path": "client/src/plaza/views/layer/other/"
     }, 
@@ -5026,7 +4851,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4eb0d8865fc3899701b12db76f2eaea4", 
+      "md5": "66d2395189d0bdf7ff68b8510de17f12", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5071,12 +4896,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b08ca7c808ea5a23a3cc0088f7c4736b", 
+      "md5": "b35b96c520a739073548423af73d50d2", 
       "name": "ChangeAvatarLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d249850f96932a6e459714724ec24bbe", 
+      "md5": "9443afe53a7796fda5f0954462853597", 
       "name": "ChangeNameLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5101,7 +4926,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ac9fb2dbef3900a3d4dc054f51d4a1cc", 
+      "md5": "969cde99084d3023ec7142880a457368", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5116,7 +4941,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3eb7f21f64ab1c3064edd35f11cbe405", 
+      "md5": "7c2b31572b72880da1bfddee14ca1321", 
       "name": "OptionLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5126,18 +4951,38 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "f64081f033117fdab32ed4fb949bd9ad", 
+      "md5": "3adbf48f47af6e53620b821d5dcb4980", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8f2b032eba6c7be27eb81ec7257b7faf", 
+      "md5": "a6b5645e04450533a5c466e98e9b2799", 
+      "name": "RankingChartLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "d477a94ecd78c57175940a968b1ae5f3", 
       "name": "RankingListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2186214b300ba11f0c9b3b31208fead3", 
+      "md5": "1459392dd224f54af04ab32bc676a873", 
+      "name": "RankingRuleLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "7c9981d62670b65f1cb4a485fa86c15b", 
       "name": "RoomListLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "32d8d80bdca3c185eb72e995214799bc", 
+      "name": "SafeBoxLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "36af39d5cc93f7c71fd9e6de69f66eb9", 
+      "name": "SetBankPwdLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -5166,7 +5011,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d7b1b7eb095c783faa5fa74f0722779c", 
+      "md5": "44b53d96ab84147ed48bacb12d638e80", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5291,7 +5136,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1058
+      "allcount": 1027
     }
   ]
 }

@@ -106,6 +106,11 @@
       "path": "land/res/roomlist/"
     }, 
     {
+      "md5": "35f02b44520f72486eb59701097d0340", 
+      "name": "Rule.txt", 
+      "path": "land/res/roomlist/"
+    }, 
+    {
       "md5": "b3bebd0055f4f926c31ea72b96588939", 
       "name": "SettingLayer.csb", 
       "path": "land/res/setting/"
@@ -523,11 +528,6 @@
     {
       "md5": "ea7d955355c4f73863c608ce11f9f94e", 
       "name": "GameRoomListLayer.luac", 
-      "path": "land/src/views/"
-    }, 
-    {
-      "md5": "35f02b44520f72486eb59701097d0340", 
-      "name": "Rule.txt", 
       "path": "land/src/views/"
     }, 
     {
