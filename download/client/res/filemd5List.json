@@ -641,44 +641,39 @@
       "path": "client/res/BankRecord/"
     }, 
     {
-      "md5": "bb06c34b763f1714b904db709b0cd6fc", 
-      "name": "bt_binding_0.png", 
-      "path": "client/res/Binding/"
+      "md5": "97dcc5e8911ffcf1bc22d40e9eb5dfdb", 
+      "name": "binding_bg.png", 
+      "path": "client/res/binding/"
     }, 
     {
-      "md5": "1d7431489fcc1515629713d4fa7524bf", 
-      "name": "bt_binding_1.png", 
-      "path": "client/res/Binding/"
+      "md5": "b4e537179da57465f25fbfbecd3a9f37", 
+      "name": "binding_btn_bind.png", 
+      "path": "client/res/binding/"
     }, 
     {
-      "md5": "584c2931d2cc3f111f4629799304c8aa", 
-      "name": "bt_registerbind.png", 
-      "path": "client/res/Binding/"
+      "md5": "9e6b1f7782c4ef5df805e665ab905e63", 
+      "name": "binding_btn_nowbind.png", 
+      "path": "client/res/binding/"
     }, 
     {
-      "md5": "b192c6783ad255fd520731d7a6e43234", 
-      "name": "frame_binding_0.png", 
-      "path": "client/res/Binding/"
+      "md5": "bc554d8772391e532b4615c65822e74d", 
+      "name": "binding_line.png", 
+      "path": "client/res/binding/"
     }, 
     {
-      "md5": "ed32389ece50abb3b1c096464e36e999", 
-      "name": "text_binding_0.png", 
-      "path": "client/res/Binding/"
+      "md5": "1feffefb692698f52778102014960877", 
+      "name": "binding_title.png", 
+      "path": "client/res/binding/"
     }, 
     {
-      "md5": "1c053bd1a20891ff6c66cad6b5bac9a4", 
-      "name": "text_binding_1.png", 
-      "path": "client/res/Binding/"
+      "md5": "a2f1e6e2e7f71a5b43f35bba0882ce19", 
+      "name": "BindingAccountNode.csb", 
+      "path": "client/res/binding/"
     }, 
     {
-      "md5": "9341d47316202b9eb4329e7db2d6735b", 
-      "name": "text_binding_2.png", 
-      "path": "client/res/Binding/"
-    }, 
-    {
-      "md5": "27a76ee35c2e5efcb04b0a1c1feab1ca", 
-      "name": "title_binding.png", 
-      "path": "client/res/Binding/"
+      "md5": "53b4519aef6c2a8b74f40fa60455b694", 
+      "name": "BindingGiftNode.csb", 
+      "path": "client/res/binding/"
     }, 
     {
       "md5": "6ad3d36b0fb3dd1aafb518f369c226e4", 
@@ -2101,6 +2096,11 @@
       "path": "client/res/login/"
     }, 
     {
+      "md5": "21e5eeb98b5b362a46316855442551c4", 
+      "name": "login_btn_accounts.png", 
+      "path": "client/res/login/"
+    }, 
+    {
       "md5": "ea32d9e60f62c013bc8eb75a82b73c3d", 
       "name": "login_btn_guest.png", 
       "path": "client/res/login/"
@@ -2116,8 +2116,33 @@
       "path": "client/res/login/"
     }, 
     {
+      "md5": "012d46b4350ef1ff90621bd490aed18a", 
+      "name": "login_btn_varifycode.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "b459387258cdd5d64ed53cd68a02aeb3", 
+      "name": "login_btn_varifycode_h.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "f6a5c0b06c4bf0193f8b37811c667999", 
+      "name": "login_btn_varifycode_n.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "662094d5dfe2d33df6e6b4b0380c60b8", 
+      "name": "login_textfield_bg.png", 
+      "path": "client/res/login/"
+    }, 
+    {
       "md5": "0969e9e3b19805064b024994307cf163", 
       "name": "login_title.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "8a134145931e5c3d31555c2b4f31a900", 
+      "name": "LoginMobileNode.csb", 
       "path": "client/res/login/"
     }, 
     {
@@ -2126,7 +2151,7 @@
       "path": "client/res/login/"
     }, 
     {
-      "md5": "525c48987717767d20b24c6490413d80", 
+      "md5": "4b68dcdaafc63d7578ef6686f5068c68", 
       "name": "LoginView.csb", 
       "path": "client/res/login/"
     }, 
@@ -2621,6 +2646,11 @@
       "path": "client/res/plazz/"
     }, 
     {
+      "md5": "29b2963741155ca6199ec80eebc8ccb4", 
+      "name": "lobby_btn_home_binding.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
       "md5": "c97f49845da6f408bf53a1123592eaef", 
       "name": "lobby_btn_home_call.png", 
       "path": "client/res/plazz/"
@@ -2686,7 +2716,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "fbb8b3bd79055bb23f629e33ef70e372", 
+      "md5": "f5eeca6f774bd0b8726b1459e5947a1c", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -3056,6 +3086,11 @@
       "path": "client/res/rankingchart/"
     }, 
     {
+      "md5": "4ebd932bebdfb0dea5e6397bbcc53543", 
+      "name": "ranking_rank_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
       "md5": "0579b73d7d02604b017e3f570d2049fe", 
       "name": "ranking_rule_title.png", 
       "path": "client/res/rankingchart/"
@@ -3076,7 +3111,7 @@
       "path": "client/res/rankingchart/"
     }, 
     {
-      "md5": "df8bcfc3ac9826f34e1e7d9589b6797a", 
+      "md5": "970116b7d1828831c8d15a0d409422b1", 
       "name": "RankingCellNode.csb", 
       "path": "client/res/rankingchart/"
     }, 
@@ -3094,6 +3129,86 @@
       "md5": "97204e3dca76dcf51671b5ef0ddc5fae", 
       "name": "RankingRuleNode.csb", 
       "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "cbb1876c26103d3a4f3186577069f060", 
+      "name": "rank_num_brown.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "8ed9cd6a6f5d443a882076eb6da45247", 
+      "name": "rank_num_brown.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "a9d3e64f7d619e8c67c896c84181b617", 
+      "name": "rank_num_green.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "dbddd9a1d502bee085c957f97ed9320c", 
+      "name": "rank_num_green.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "2994f56cb67433403a4e7f6544a02aa0", 
+      "name": "rank_num_purple.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "cfef93f86213a69a53e533f73f129100", 
+      "name": "rank_num_purple.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "ad42ecef62f43bb00df26209ade34afb", 
+      "name": "rank_word_blue.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "ab44cb2ee509ee241afbe3f701da614e", 
+      "name": "rank_word_blue.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "b682e90733ffba144190ad0f04f15b3a", 
+      "name": "rank_word_green.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "9633cf68cb2c1df001f11d7192ef7d3c", 
+      "name": "rank_word_green.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "7879925e6eec197976a45451b3967b32", 
+      "name": "rank_word_purple.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "4dcb6570c45f33fdd8eccf5016312231", 
+      "name": "rank_word_purple.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "7dbdc1ace39bb0c134de8b4f50c2f120", 
+      "name": "rank_word_red.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "bad76564a112ab9a719f95e06001c6bf", 
+      "name": "rank_word_red.png", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "bf6692297a818435fd8bdeebaa8e6593", 
+      "name": "rank_word_yellow.fnt", 
+      "path": "client/res/rankingchart/fonts/"
+    }, 
+    {
+      "md5": "7edf410a2cd39bd4e492027ca65afb37", 
+      "name": "rank_word_yellow.png", 
+      "path": "client/res/rankingchart/fonts/"
     }, 
     {
       "md5": "afe1ac587c9a754fc7b10ccf2c946197", 
@@ -4486,7 +4601,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "dc237b1fd515ece8b57f3a4243f499df", 
+      "md5": "0c6404b0785aadb98522a416279878f0", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4516,7 +4631,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "03b78fd9177a9d80e4b32e4914d78e88", 
+      "md5": "59402919011ea3923451789807cf16ad", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4606,7 +4721,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "76acd66347561f6226d5dd3450b56175", 
+      "md5": "4aa92ee3d3c2d53b8093822bfd9a8fed", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -4706,7 +4821,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "1628b09c823e61c3d0a159bec6b37f32", 
+      "md5": "1aa1273f00e2200650b72a6e1c339736", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4716,7 +4831,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "0b462539847532b2be728c09cf269ce2", 
+      "md5": "2fd55de83d361333228df15938c804a3", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4741,12 +4856,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "9c6947cbbf6ee3e5a9e4f15ec80c8d06", 
+      "md5": "dc31af0cfae2512e8cb9eeec64dfef8a", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "17100df82f5ada4389cef94430d0b708", 
+      "md5": "defb029f6c1c37d97a7f52bedada0229", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4756,7 +4871,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "77ab37481ba3e1ba24bbdf278c632cb7", 
+      "md5": "86c365b5456ad6373b107eb72b6f666a", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4816,12 +4931,12 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "25de427c1d85fc7cac096ea6c993b984", 
+      "md5": "a35fcf13815dc362829fcb94f35594f6", 
       "name": "LoginView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "8582636dc1c6120d6f047dc54e0694c0", 
+      "md5": "a171c35f9ba44da3c559219ea4930d88", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -4886,6 +5001,16 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "aa508a654dfd3720c6ed02fd5b1a9403", 
+      "name": "BindingAccountLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "94b03f799cfc3006863eace9786851d1", 
+      "name": "BindingGiftLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "1e25cd53a691b294a76c6c957c04fbeb", 
       "name": "BindingLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -4926,7 +5051,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "969cde99084d3023ec7142880a457368", 
+      "md5": "69b7b614f90a6d3b060892d7c993718e", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4941,7 +5066,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "7c2b31572b72880da1bfddee14ca1321", 
+      "md5": "2d5894a2a3bc3a89a690615d73f12452", 
       "name": "OptionLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4951,12 +5076,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3adbf48f47af6e53620b821d5dcb4980", 
+      "md5": "dde91462c7e38928c3f2e2b3f16be5e1", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "a6b5645e04450533a5c466e98e9b2799", 
+      "md5": "6cea937a4271b1bef8870c58bf29a2b5", 
       "name": "RankingChartLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5011,7 +5136,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "44b53d96ab84147ed48bacb12d638e80", 
+      "md5": "93cde17a743768bb5bd261ea1f1bf6c4", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5136,7 +5261,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1027
+      "allcount": 1052
     }
   ]
 }
