@@ -651,6 +651,11 @@
       "path": "client/res/binding/"
     }, 
     {
+      "md5": "79c9665570bc44d1239f7ad93f92a950", 
+      "name": "binding_btn_bindlogin.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "9e6b1f7782c4ef5df805e665ab905e63", 
       "name": "binding_btn_nowbind.png", 
       "path": "client/res/binding/"
@@ -673,6 +678,11 @@
     {
       "md5": "53b4519aef6c2a8b74f40fa60455b694", 
       "name": "BindingGiftNode.csb", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "2aef8b2173fda43cd69a5ee78b28a9d8", 
+      "name": "BindingLoginNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
@@ -838,6 +848,11 @@
     {
       "md5": "256520680bc570cdfee36d837bbebd70", 
       "name": "ani_lattern.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "caab975ef5235e002d6a14a2cc8ac1f5", 
+      "name": "blank.png", 
       "path": "client/res/common/"
     }, 
     {
@@ -2084,6 +2099,31 @@
       "md5": "9acfb964b6bfb054176ed9eb83f97e71", 
       "name": "uinfo_btn_gamevideo_1.png", 
       "path": "client/res/Information/"
+    }, 
+    {
+      "md5": "ec9e7c0ad02625ed22bc2854589fa03d", 
+      "name": "AccountCellNode.csb", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "ced4bd819023a9965078986bd47dd602", 
+      "name": "accounts_btn_login.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "8896e3a1f93b960ad1106f4b07081e97", 
+      "name": "accounts_cell_bg.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "6e3c8552ee7c79cc576e1158fc3652ba", 
+      "name": "accounts_title.png", 
+      "path": "client/res/login/"
+    }, 
+    {
+      "md5": "dd70d614bb8ac94040e8151bae8e845a", 
+      "name": "AccountsNode.csb", 
+      "path": "client/res/login/"
     }, 
     {
       "md5": "be04c613e6d2266b6505eff8515e57a4", 
@@ -4726,7 +4766,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "c8e3b6814334f78d1842d35698338d54", 
+      "md5": "c90613ff46f1adf47c641fc75daf64da", 
       "name": "HeadSprite.luac", 
       "path": "client/src/external/"
     }, 
@@ -4786,12 +4826,12 @@
       "path": "client/src/header/"
     }, 
     {
-      "md5": "26bbe243acdc6b43ae7e799c6d8dcef3", 
+      "md5": "44bed9a631012326df3ca9cb52f69928", 
       "name": "BankFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "f8756c5498640502be5cb8c62d363823", 
+      "md5": "5f18d0ef40c27c29e2ea74b20e46b7f8", 
       "name": "BaseFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4821,7 +4861,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "1aa1273f00e2200650b72a6e1c339736", 
+      "md5": "71149b78cbe3309b069b523e2f548fc4", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4831,12 +4871,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "2fd55de83d361333228df15938c804a3", 
+      "md5": "02d3bd0e1fac36a8c08c943cd2282f34", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "45033d2ff983de58f8822f2593135d71", 
+      "md5": "aa89a961bae4d6c90b517a9bb75748c6", 
       "name": "ModifyFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4861,7 +4901,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "defb029f6c1c37d97a7f52bedada0229", 
+      "md5": "bca0dfa2882445854047636b392a34f9", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4871,7 +4911,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "86c365b5456ad6373b107eb72b6f666a", 
+      "md5": "72dc620ad8ee04a18689077af7d53f74", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4931,12 +4971,17 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "a35fcf13815dc362829fcb94f35594f6", 
+      "md5": "9faa02cb55eb9844132c081530ce0854", 
+      "name": "AccountsLayer.luac", 
+      "path": "client/src/plaza/views/layer/logon/"
+    }, 
+    {
+      "md5": "c02dc313fa07338e0a27a9dbd084c5b6", 
       "name": "LoginView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "a171c35f9ba44da3c559219ea4930d88", 
+      "md5": "5426592ce63a995719f335befc1220b1", 
       "name": "LogonView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -5001,12 +5046,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "aa508a654dfd3720c6ed02fd5b1a9403", 
+      "md5": "80bd7544bcc495b93879c87bcfc1d4f3", 
       "name": "BindingAccountLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "94b03f799cfc3006863eace9786851d1", 
+      "md5": "b30c39d9a14e4e13b3d1df11a8c197a1", 
       "name": "BindingGiftLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5021,7 +5066,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b35b96c520a739073548423af73d50d2", 
+      "md5": "9a63dffb6b488239a514200d1772e436", 
       "name": "ChangeAvatarLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5136,7 +5181,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "93cde17a743768bb5bd261ea1f1bf6c4", 
+      "md5": "41ad4bf60fc05b4f05639e34279df5c8", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5261,7 +5306,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1052
+      "allcount": 1061
     }
   ]
 }
