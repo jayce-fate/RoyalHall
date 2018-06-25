@@ -38,7 +38,7 @@
 				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"2",
-				"SortID":"100",
+				"SortID":"5",
 				"KindMark":"3"
 			},
 			{
@@ -48,7 +48,7 @@
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"2",
+				"SortID":"3",
 				"KindMark":"3"
 			},
 			{
@@ -98,7 +98,7 @@
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"1",
+				"SortID":"4",
 				"KindMark":"3"
 			},
 			{
@@ -138,7 +138,7 @@
 				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"3",
+				"SortID":"1",
 				"KindMark":"3"
 			},
 			{
