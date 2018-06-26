@@ -28,7 +28,7 @@
 				"ModuleName":"qipai.tdk",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"100",
+				"SortID":"101",
 				"KindMark":"3"
 			},
 			{
@@ -58,7 +58,7 @@
 				"ModuleName":"yule.oxsixex",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"100",
+				"SortID":"101",
 				"KindMark":"3"
 			},
 			{
@@ -68,7 +68,7 @@
 				"ModuleName":"qipai.thirteenx",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"100",
+				"SortID":"101",
 				"KindMark":"3"
 			},
 			{
@@ -168,7 +168,7 @@
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
-				"SortID":"100",
+				"SortID":"101",
 				"KindMark":"3"
 			}]
 	}
