@@ -1302,7 +1302,7 @@
     }, 
     {
       "md5": "eec553015db917d168ed1cc60afdecb7", 
-      "name": "cmd_game.luac", 
+      "name": "CMD_Game.luac", 
       "path": "thirteenx/src/models/"
     }, 
     {
@@ -1321,7 +1321,7 @@
       "path": "thirteenx/src/privateroom/"
     }, 
     {
-      "md5": "c7fd9c3e932633889bac958065373cad", 
+      "md5": "73c612f1624d30a46645e7a966caa7b3", 
       "name": "GameLayer.luac", 
       "path": "thirteenx/src/views/"
     }, 

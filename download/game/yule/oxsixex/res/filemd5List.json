@@ -181,7 +181,7 @@
       "path": "oxsixex/res/sound/"
     }, 
     {
-      "md5": "1a413529ae7f8f8ac5d98b61a8be851f", 
+      "md5": "2b89733c83b207193be51cf6f22e8e05", 
       "name": "CMD_Game.luac", 
       "path": "oxsixex/src/models/"
     }, 
@@ -196,7 +196,7 @@
       "path": "oxsixex/src/netMsgBean/"
     }, 
     {
-      "md5": "3bf8b96d3dbe4bbbfa21ae9480418c32", 
+      "md5": "394f086611fea6bb7edd0f95b9b26bce", 
       "name": "GameLayer.luac", 
       "path": "oxsixex/src/views/"
     }, 

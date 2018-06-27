@@ -871,6 +871,11 @@
       "path": "client/res/common/"
     }, 
     {
+      "md5": "b1a0dead884d32c396d297bfaa81cbb0", 
+      "name": "common_txt_bg.png", 
+      "path": "client/res/common/"
+    }, 
+    {
       "md5": "827d2ff4cbeac1dedac0e8c58e06fbc8", 
       "name": "common_whiteboard_bg.png", 
       "path": "client/res/common/"
@@ -883,6 +888,11 @@
     {
       "md5": "8de5ce7b9c5c20b4814a0419af0c6856", 
       "name": "LatternAni.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "9b5da4445ada52281a07055306f73df3", 
+      "name": "ToastNode.csb", 
       "path": "client/res/common/"
     }, 
     {
@@ -1511,48 +1521,8 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "1d138ec0ce06478ac3a43b8956e8fb45", 
-      "name": "game_100.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "9ffd5313e3feabd3bd21aaf3ee97c405", 
-      "name": "game_101.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "c97015036c19868147254c3aa9a3f79f", 
-      "name": "game_102.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "9936e81e639cc99c28d71e32acd227cb", 
-      "name": "game_104.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
       "md5": "368572dd505b237f8621d9a78b24e748", 
       "name": "game_105.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "e49421fed5253c06ffb241e1ed540852", 
-      "name": "game_108.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "8a060602e3fe5fdb204ef3a31b664bc0", 
-      "name": "game_118.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "1d138ec0ce06478ac3a43b8956e8fb45", 
-      "name": "game_122.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "e49421fed5253c06ffb241e1ed540852", 
-      "name": "game_123.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1566,38 +1536,8 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "9ffd5313e3feabd3bd21aaf3ee97c405", 
-      "name": "game_140.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "cd30c1bc8f6d1a8ec5ee0b1804e5c1de", 
-      "name": "game_17.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "7e797864582fe7e78aab4e96f9b593fb", 
-      "name": "game_200.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
       "md5": "af4d482371c915374e113fedb99cb1c1", 
       "name": "game_238.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "d479c6bb19766948b9a0ce3756cd9a5c", 
-      "name": "game_240.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "813e0a7fc80146a6f17d55817dd311f1", 
-      "name": "game_25.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "9281a818e979a5b37e33f6eedcfa3f4a", 
-      "name": "game_27.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1606,18 +1546,8 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "1d66ed7412e17180ffaad62e0692d847", 
-      "name": "game_36.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
       "md5": "ae8680a72037597be5472b013d2e181a", 
       "name": "game_386.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "c5cb5735579db44045369733c775b553", 
-      "name": "game_389.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1646,18 +1576,8 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "bfd68b90dc741a75d64911e7e5d353b9", 
-      "name": "game_401.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
       "md5": "8a6ad9660159997c6720b2e86ae05f44", 
       "name": "game_47.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "630f9fe029e4ac6aeb99d6495deee7be", 
-      "name": "game_49.png", 
       "path": "client/res/GameList/"
     }, 
     {
@@ -1701,39 +1621,639 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "d46ec922402676e0518f863cc45f68cc", 
-      "name": "game_6.png", 
+      "md5": "9991cc3ba7f51dcdfa177a9d2fda7e2a", 
+      "name": "lobby_game_102.png", 
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "09c188f76b301cc5af65f8442e2c8832", 
-      "name": "game_601.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "1544c999b431d98d5caf08c9c997a647", 
-      "name": "lobby_game_100.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "03408659d0c4fb1515cf5ef4de8978b1", 
+      "md5": "cd531dfa4697593c21a24abc7b52f4b9", 
       "name": "lobby_game_104.png", 
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "04c252d649352b861ccd3d965d9ddee5", 
+      "md5": "8d5b82ec0ba3417e68f1e922a6381382", 
+      "name": "lobby_game_118.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "caf29e6fe2df9efe406d27ce74a860c5", 
+      "name": "lobby_game_122.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "4790e2a017c655ceb59c8c0d2cc6afa4", 
+      "name": "lobby_game_123.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "0b143f61303cab5c731bb5a612a256b8", 
+      "name": "lobby_game_140.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "232435540d7e71cd8fe566aab14b1a6d", 
+      "name": "lobby_game_17.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "4873237597ebc1f36d1c17456c336611", 
       "name": "lobby_game_200.png", 
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "1b0eba808a9e1dd0857327722543c9e0", 
+      "md5": "0d39d8d8c02fadd7212a7074b7b94ba2", 
+      "name": "lobby_game_25.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "9c9aa54f6460ad4c4f9437fa17b5fdeb", 
       "name": "lobby_game_27.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "c8cdf68bd009215ffd0a3bd69f2d6a2d", 
+      "name": "lobby_game_36.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "c9c06c3529c40b0fbd360c335771da03", 
+      "name": "lobby_game_389.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "61ac683ffc1ff7f7c5ffac90a872a7b6", 
+      "name": "lobby_game_401.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "675a2ba92fbf65ef846e277fd01d85df", 
+      "name": "lobby_game_49.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "ba5ce0ada9313173e231504a67798d51", 
+      "name": "lobby_game_6.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "a8703d95bb384cdd1a5909b87f9d2626", 
+      "name": "lobby_game_601.png", 
       "path": "client/res/GameList/"
     }, 
     {
       "md5": "84a617f106ae420ae0a3205c63841901", 
       "name": "spinner_circle.png", 
       "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "705be15ed7355b9c14ff5a0a4f9d2378", 
+      "name": "lobby_game_104_1.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "78d5b08d3a39390fd62625ea12173746", 
+      "name": "lobby_game_104_10.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "25ac98e9fd65e493ce5a44755e5c8c24", 
+      "name": "lobby_game_104_11.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "950af0d64494a2aa41de0ac14fdd3d94", 
+      "name": "lobby_game_104_12.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "daf93fc13a612f4d5df11278d49c4887", 
+      "name": "lobby_game_104_13.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "9d209c19bb04acf8b4aea347b71196a2", 
+      "name": "lobby_game_104_14.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "f6c46b1d03ba4852da2b2e0ef6c9f7ac", 
+      "name": "lobby_game_104_15.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "0fb3a462d09aacb3f7d7c4c38f720785", 
+      "name": "lobby_game_104_16.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "7991d5379722a5e4fdbbe120be04935c", 
+      "name": "lobby_game_104_17.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "3116471ceb25de48b14e74c0354f57d6", 
+      "name": "lobby_game_104_18.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "4fa2164d8725fbc5bb498f0007b5abaa", 
+      "name": "lobby_game_104_19.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "c5937b99e633f3f1acaccbcf7b08d5c7", 
+      "name": "lobby_game_104_2.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "69f0e071f9a65a2d1c87563c915cf84c", 
+      "name": "lobby_game_104_20.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "506c7d21d070b8b3252592fae45985ac", 
+      "name": "lobby_game_104_21.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "a21d7d6bc0dd522b2b27ba7a3d2e5c53", 
+      "name": "lobby_game_104_22.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "03a09211ff4a697b0086a1d78e821b92", 
+      "name": "lobby_game_104_23.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "aca341c4aa6f351236e20bded115fc3e", 
+      "name": "lobby_game_104_24.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "e785c635063972c845f7fdcf76e4733e", 
+      "name": "lobby_game_104_25.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "3935cce29d3cd412abd276d7824e7645", 
+      "name": "lobby_game_104_26.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "792b35e9043fcf18f7052b7f00fd452a", 
+      "name": "lobby_game_104_3.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "1a35a3df5355d94d96d0bce30e731d98", 
+      "name": "lobby_game_104_4.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "90262adb5149153dacda1414d665ef04", 
+      "name": "lobby_game_104_5.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "3d06c20e937eddc04099daeb5a77cb1a", 
+      "name": "lobby_game_104_6.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "aee7319fc6c15407f087d7f86f057346", 
+      "name": "lobby_game_104_7.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "6e3546ddcd8959978b8c352c4394efda", 
+      "name": "lobby_game_104_8.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "4b877f963c71788bb297b09d4ef71d54", 
+      "name": "lobby_game_104_9.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "caf29e6fe2df9efe406d27ce74a860c5", 
+      "name": "lobby_game_122_1.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cd1c4612a5457356e6b614150d45a58b", 
+      "name": "lobby_game_122_10.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "7d2b760398f6e406774e9a51daebd58b", 
+      "name": "lobby_game_122_11.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "54d869e1fcb6e82a97fa5c02d79c91e2", 
+      "name": "lobby_game_122_12.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b58fec5bb408a20ba60af0a6785abdef", 
+      "name": "lobby_game_122_13.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "4d9e4cef62cd0cb7445c59d0e3ac04e0", 
+      "name": "lobby_game_122_14.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "256a9d17270309df4b9f16a9e0f22eeb", 
+      "name": "lobby_game_122_15.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "27695fe90705dc1e1367d0a8806644e9", 
+      "name": "lobby_game_122_16.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cf3647b77c39ccdc46d722aad2454b67", 
+      "name": "lobby_game_122_17.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "da0df8349f040a858a0edb1c69700a92", 
+      "name": "lobby_game_122_18.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "38a9c4f8ca73b78fe4410ce462d2a576", 
+      "name": "lobby_game_122_19.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "78a25dd7faf2cfd22966e591e05d270f", 
+      "name": "lobby_game_122_2.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "d6915d29d7a743290b4c189b0a0b3fa5", 
+      "name": "lobby_game_122_20.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "e9f34ffd09201ab1e3f176efa4dc7d92", 
+      "name": "lobby_game_122_21.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "50b25a618b897856486170410ec10ff6", 
+      "name": "lobby_game_122_22.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "a9a9189851ce748065af7d35eebbe780", 
+      "name": "lobby_game_122_23.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "d0965cbb857f6a3c80684b2b1d27e3cd", 
+      "name": "lobby_game_122_3.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "5795d7a4ddb1d625359b0146e2cf2387", 
+      "name": "lobby_game_122_4.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "54d0c02709fcb365525f01845a89a8b6", 
+      "name": "lobby_game_122_5.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "9cb0145106c72be2b3ab0e668114a0a9", 
+      "name": "lobby_game_122_6.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "347ddebffda320056348bbbb8dca7ed5", 
+      "name": "lobby_game_122_7.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "54488a738976a307493ff329b33b46b9", 
+      "name": "lobby_game_122_8.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "1ab391713a814845225af30c19834f60", 
+      "name": "lobby_game_122_9.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "68602c33437ab06448d12ac3e53b376a", 
+      "name": "lobby_game_200_1.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "55412d195537f4d4249cc758680708b9", 
+      "name": "lobby_game_200_10.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "fbfd34a799aa641479c834d6a6d260cf", 
+      "name": "lobby_game_200_11.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "7c8653aa6400aebe11d3afbcb7a4f572", 
+      "name": "lobby_game_200_12.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "1167ff204d28ed9df58d9df78426b729", 
+      "name": "lobby_game_200_13.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "21fa7729e961fab430afb45c02b71fd2", 
+      "name": "lobby_game_200_14.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "701234d2eb0e886342b710b3e45575b9", 
+      "name": "lobby_game_200_15.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b429f7f7805e2d97def65d072ead9125", 
+      "name": "lobby_game_200_16.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "bed9aeedaf8e9f85a4a0d81cba7aa13f", 
+      "name": "lobby_game_200_17.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "1c2fe867304aaf7a8684c58ac1a73a40", 
+      "name": "lobby_game_200_18.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "4ff8c6d67cca3e0b5b9a437bad536128", 
+      "name": "lobby_game_200_19.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "099f490cd45fd570000a98c877f14cd2", 
+      "name": "lobby_game_200_2.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "8ea67e02ba51eae25bd01eaf11983ce7", 
+      "name": "lobby_game_200_20.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "3b734f85e1eb2763d1a3fef07bdeb901", 
+      "name": "lobby_game_200_21.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "1a49239ae6cb8fecf352d95ec8da028d", 
+      "name": "lobby_game_200_22.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b7aee6810a3a6302af56eb764b7e837d", 
+      "name": "lobby_game_200_23.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "5a7dd8f123ed2f84ffc5dd25e975be02", 
+      "name": "lobby_game_200_24.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "12705436917de62807d283c3443f05b1", 
+      "name": "lobby_game_200_25.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b435c95bad6356dbce30cf7642f08a55", 
+      "name": "lobby_game_200_26.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "955d0ed66cfa6f156395c7d9f09b862a", 
+      "name": "lobby_game_200_27.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "84fd32c8053e6ef75604c6eec8768403", 
+      "name": "lobby_game_200_28.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "78d7c48f2c0b2c774ef9acfa5fe748d7", 
+      "name": "lobby_game_200_29.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "0365867582fd63fb21da87d118a5120b", 
+      "name": "lobby_game_200_3.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "4873237597ebc1f36d1c17456c336611", 
+      "name": "lobby_game_200_30.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "6a131082c03e98f356474055df48f20e", 
+      "name": "lobby_game_200_4.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "122c8c7c2ae1e6143e0442b1f077ad2c", 
+      "name": "lobby_game_200_5.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "ea36eb141894f1b4e78f010dbdb544c4", 
+      "name": "lobby_game_200_6.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "62b8ff370968f05cb067278e3f6213ae", 
+      "name": "lobby_game_200_7.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b4c68b44059dba51798625bf9442eab7", 
+      "name": "lobby_game_200_8.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b105ab5b0ca7abaecae6b73e73ca344d", 
+      "name": "lobby_game_200_9.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cd7d7240ea29397bddfe9b29fc16d3c6", 
+      "name": "lobby_game_401_1.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "59ce12bd808c802c56d87f16af7602c9", 
+      "name": "lobby_game_401_10.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "ce2a943c1a88c8a5194e71c8336c9510", 
+      "name": "lobby_game_401_11.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "20d399b386689e7e912cd714567a92b4", 
+      "name": "lobby_game_401_12.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b93236034e7d1c130cfb831374de05ef", 
+      "name": "lobby_game_401_13.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "596059973a8a6b0b61e4c5b5a2b0cebf", 
+      "name": "lobby_game_401_14.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "ce1cbcc5c1e0d8e1bcc1d952c20ab7b7", 
+      "name": "lobby_game_401_15.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "2e44cb72578fdb3f8a2abdf3c9616869", 
+      "name": "lobby_game_401_16.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "daabfaa5341b1a04b630be451ef6b4b7", 
+      "name": "lobby_game_401_17.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cadf22db4c1ae062db76998b8128de59", 
+      "name": "lobby_game_401_18.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "fb633cb71747e973d4ad19929e34ce16", 
+      "name": "lobby_game_401_19.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cd7d7240ea29397bddfe9b29fc16d3c6", 
+      "name": "lobby_game_401_2.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "bbe12f523d8edfc0717da66bf9d231fa", 
+      "name": "lobby_game_401_20.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "5c26d310f2c8ab62dd805e0671c0d05f", 
+      "name": "lobby_game_401_21.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "11c60a64ffde6e69e31b902f93c3cc99", 
+      "name": "lobby_game_401_22.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "792112036c1d63495e36d05da1d306c5", 
+      "name": "lobby_game_401_23.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "28599b72d6021a51a930578e8766026e", 
+      "name": "lobby_game_401_24.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "c343782c43dbe3fa3a69bd3c278c9cac", 
+      "name": "lobby_game_401_25.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "6d08c7564add40ca736660a1b98ee79a", 
+      "name": "lobby_game_401_26.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "89c547eeeff599c692aa0f33d4490ec3", 
+      "name": "lobby_game_401_27.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "192178041bfa721bc75b0e6c1eee7431", 
+      "name": "lobby_game_401_28.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "e0e9d76c37e44bfe5a31c589da6071bb", 
+      "name": "lobby_game_401_29.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cca684cab9ddf8f24e3b879da871f200", 
+      "name": "lobby_game_401_3.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "7a624a86e4bbaa5c6a5c6647376fa3ce", 
+      "name": "lobby_game_401_30.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "435652bc98367e106a6578b14126d0fb", 
+      "name": "lobby_game_401_31.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "2dd162aa17bf18d329d0a3cdc8487b59", 
+      "name": "lobby_game_401_4.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "5ca680c83831d1ab1e3d56dfc4ad893e", 
+      "name": "lobby_game_401_5.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "2019cdb27d35ccf1548336d2afee7237", 
+      "name": "lobby_game_401_6.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b2a35803b2d73690e2b0e7ef84b8582b", 
+      "name": "lobby_game_401_7.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "72656ee3e1819bfaf279d986dab13682", 
+      "name": "lobby_game_401_8.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "a29d20dd504ecd6473c6f84968a2d225", 
+      "name": "lobby_game_401_9.png", 
+      "path": "client/res/GameList/animations/"
     }, 
     {
       "md5": "eeb8c6c7664133432890c06194c896df", 
@@ -2351,6 +2871,61 @@
       "path": "client/res/Logon/"
     }, 
     {
+      "md5": "fd3c4f3a62f63252f2bbaa18d96dd88d", 
+      "name": "mailbo_checkbox_mark.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "465dd54c55b76efd50bc3647ca5fa910", 
+      "name": "mailbox_btn_delete.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "eaa22d251c59b172ecb2d07925a3f0f1", 
+      "name": "mailbox_btn_select_all.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "f5e60c6bb2fe7b8bed14f47c930c3a62", 
+      "name": "mailbox_cell_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "f8a4a43ca023a59166e28db403ace5c9", 
+      "name": "mailbox_checkbox_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "c7760957389d9caea86b3511111a7ce2", 
+      "name": "mailbox_list_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "d65905f610027afb6094865478300242", 
+      "name": "mailbox_mail_read.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "42bf98467a5a6292eee2a5eca16c1b4b", 
+      "name": "mailbox_mail_unread.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "393e2a15a65fa910a5f120268acee5b7", 
+      "name": "mailbox_title.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "232b716c8a36792ee3e0ce15cc68fd76", 
+      "name": "MailBoxCellNode.csb", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "f029f666791586ceb44927133341092f", 
+      "name": "MailBoxNode.csb", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "d18369ba12192be2d759bedbadbbc9df", 
       "name": "modify.plist", 
       "path": "client/res/modify/"
@@ -2756,9 +3331,79 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "f5eeca6f774bd0b8726b1459e5947a1c", 
+      "md5": "34ef84bb5c98cbfa1e8f77809c7525dc", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "782bf44cf37a3acb56695721a3ef448a", 
+      "name": "coin-01.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "b5f9681b655ce2e79359721f24e04f74", 
+      "name": "coin-010.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "9e1771d427abec3558f43a67be68cf47", 
+      "name": "coin-011.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "d28207f69fd3d7ff63ca27cf66b659d1", 
+      "name": "coin-012.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "d36704bf518dcb1045b0bc0ba1d29df7", 
+      "name": "coin-013.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "03f63fc1f5fb7a609746837262aa15cb", 
+      "name": "coin-014.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "f797bf0e1f7211a3cac3cdf093cde4c9", 
+      "name": "coin-02.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "2e0a4a5a509fc745ba737def624e379c", 
+      "name": "coin-03.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "22e5d0678ad3b44abcdea56a27b65a3e", 
+      "name": "coin-04.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "dc35e8eafb4fdd524db2b59dfd8a8858", 
+      "name": "coin-05.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "6b630c54dbf06d3cbb4e38417f7a932e", 
+      "name": "coin-06.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "df79d20f3ec3f3dfae30dfb57b6b0d4e", 
+      "name": "coin-07.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "01322fe3e2def7a00ad6f694e9093a24", 
+      "name": "coin-08.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "263be245e1e90a7916d1554da77f8000", 
+      "name": "coin-09.png", 
+      "path": "client/res/plazz/animations/gold/"
     }, 
     {
       "md5": "c66eac3f57d3228b27de59e5f92c1b4e", 
@@ -4391,13 +5036,13 @@
       "path": "client/res/sound/"
     }, 
     {
-      "md5": "d86ad71f8b63893867da950ecc169a03", 
-      "name": "backgroud01.mp3", 
+      "md5": "7c08385eff65c3e12c7af6a1c957c123", 
+      "name": "button_click_sound.mp3", 
       "path": "client/res/sound/"
     }, 
     {
-      "md5": "ced92613990690a81051a46c43a69659", 
-      "name": "Click.wav", 
+      "md5": "aadb37e9ff523b1daeff46f76719788a", 
+      "name": "dz_hall_background_music.mp3", 
       "path": "client/res/sound/"
     }, 
     {
@@ -4751,7 +5396,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "97304718f04512f40de1f350d21d5398", 
+      "md5": "a88f80198f3a4b77d5bf2197df21e09b", 
       "name": "AnimationMgr.luac", 
       "path": "client/src/external/"
     }, 
@@ -4761,17 +5406,17 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "4aa92ee3d3c2d53b8093822bfd9a8fed", 
+      "md5": "e436d66cfc3a19ee5edea687c951fe1d", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
     {
-      "md5": "c90613ff46f1adf47c641fc75daf64da", 
+      "md5": "9e9a13d37d7a2be434f4eec3cb4f6efc", 
       "name": "HeadSprite.luac", 
       "path": "client/src/external/"
     }, 
     {
-      "md5": "1ebd74b41f18023275919fb11267af5f", 
+      "md5": "790ca832bc2e1365ec710fe70b9b8115", 
       "name": "MultiPlatform.luac", 
       "path": "client/src/external/"
     }, 
@@ -4781,7 +5426,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "a7b6ba2f05c1e02e6fbf069b77f9220e", 
+      "md5": "b9a37301637f9d9b6838d77bef9e9d77", 
       "name": "PopupInfoHead.luac", 
       "path": "client/src/external/"
     }, 
@@ -4791,12 +5436,12 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "ed3643e7f7c2f2de0e9c1350bb736990", 
+      "md5": "0405a70672ca3b40690f53c84ae1dbef", 
       "name": "Bridge_android.luac", 
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "3b6b8df7f7d233691f0b0e7429918b7b", 
+      "md5": "655ba51a73471c45d94ceda7586650c6", 
       "name": "Bridge_ios.luac", 
       "path": "client/src/external/platform/"
     }, 
@@ -4861,7 +5506,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "71149b78cbe3309b069b523e2f548fc4", 
+      "md5": "9ef342bf6e11946b51d291aa9425b422", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4871,7 +5516,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "02d3bd0e1fac36a8c08c943cd2282f34", 
+      "md5": "70f3f14fdfde31ea403cf9885ddecab4", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4896,12 +5541,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "d4803fd5f100845d0b6261289e1fa5c9", 
+      "md5": "7389484c3b7da0b03fde64adeeffcac3", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "bca0dfa2882445854047636b392a34f9", 
+      "md5": "64e81e97ee6b845b898be3e1f0599ee5", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4911,7 +5556,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "72dc620ad8ee04a18689077af7d53f74", 
+      "md5": "e69e5add68511f6071c024d1014682d7", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4921,7 +5566,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "a7947820c989503e23fd1b1970b6f82c", 
+      "md5": "754d7c6b5f86f1e45419371f7231a8ab", 
       "name": "FriendChatList.luac", 
       "path": "client/src/plaza/views/layer/friend/"
     }, 
@@ -4961,7 +5606,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "2551a8dfe4c9ecd68a5f089d18666a9c", 
+      "md5": "2fd4d41be652edde9b3ce5f5fad47ca2", 
       "name": "HowToPlayLayer.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
@@ -4971,12 +5616,12 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "9faa02cb55eb9844132c081530ce0854", 
+      "md5": "96d0a3f209e681803d8f65a9ee62311b", 
       "name": "AccountsLayer.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "c02dc313fa07338e0a27a9dbd084c5b6", 
+      "md5": "2013516c6ae31739d61ff6d6d859a570", 
       "name": "LoginView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -5011,7 +5656,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "66d2395189d0bdf7ff68b8510de17f12", 
+      "md5": "c55d369c8b7e436f836f4319cc3ead2e", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5026,7 +5671,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6fdc57fecc6c51f8c4967b74c51b65b8", 
+      "md5": "d39456110909d0aa734571c3dbfdbac9", 
       "name": "BagRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5046,32 +5691,32 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "80bd7544bcc495b93879c87bcfc1d4f3", 
+      "md5": "1e9e8f0eb2f8fe65d09a7b0e0d0cce8b", 
       "name": "BindingAccountLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b30c39d9a14e4e13b3d1df11a8c197a1", 
+      "md5": "83e4a545402689959dcf95a8187e88ff", 
       "name": "BindingGiftLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1e25cd53a691b294a76c6c957c04fbeb", 
+      "md5": "f94d7b668a4bd91bd38cb61f240fc76c", 
       "name": "BindingLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "99bafe6b0bf437d8f5af0b588a1e219a", 
+      "md5": "ce73a553567844b701572dbee34bd58a", 
       "name": "BindingRegisterLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9a63dffb6b488239a514200d1772e436", 
+      "md5": "116b4393e89ff5d84fa7439f8a50bfd9", 
       "name": "ChangeAvatarLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9443afe53a7796fda5f0954462853597", 
+      "md5": "665000b876a490d4b7d06e90a35914cd", 
       "name": "ChangeNameLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5096,7 +5741,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "69b7b614f90a6d3b060892d7c993718e", 
+      "md5": "0239b88a4162f8d3a9fa60ea7edc1530", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5106,47 +5751,52 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "62359d9b2e611cc64e597410b3fc5503", 
+      "name": "MailBoxLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "69d8deac20d427d8f2baced8dc8692a7", 
       "name": "ModifyPasswdLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2d5894a2a3bc3a89a690615d73f12452", 
+      "md5": "a648c87795eabdb883e5c1b64a17b426", 
       "name": "OptionLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c49b43e614271a88c26d6b64b138b101", 
+      "md5": "e936d293492a3e663dcb7cf4e0030914", 
       "name": "OrderRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "dde91462c7e38928c3f2e2b3f16be5e1", 
+      "md5": "ce3b068aa0951b934c0cb1741a9e9ee4", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6cea937a4271b1bef8870c58bf29a2b5", 
+      "md5": "3d77a7ea7926e0459a2b05c0e42d6c46", 
       "name": "RankingChartLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d477a94ecd78c57175940a968b1ae5f3", 
+      "md5": "b4a83387f93a307b9eb7cb34c0457742", 
       "name": "RankingListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1459392dd224f54af04ab32bc676a873", 
+      "md5": "cc5a57b4c1e226204c42160e4b1e5759", 
       "name": "RankingRuleLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "7c9981d62670b65f1cb4a485fa86c15b", 
+      "md5": "c0891448523be6c43cca9456bbf24ec4", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "32d8d80bdca3c185eb72e995214799bc", 
+      "md5": "27a61bb1c98c8f2d82eb7373482c9e14", 
       "name": "SafeBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5161,7 +5811,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8e4a9061ce40361d0d476c3efaee9f8f", 
+      "md5": "85a8f97b6c5556f36f4fda0c9ff18610", 
       "name": "ShopLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5181,7 +5831,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "41ad4bf60fc05b4f05639e34279df5c8", 
+      "md5": "391ef8ed4e2d74b85b8320e613ced3ec", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5191,7 +5841,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "fb29a1ecba7d9be022f90ab5864a08ba", 
+      "md5": "90d666b62e46e04704b7b5e793f7928a", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5306,7 +5956,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1061
+      "allcount": 1191
     }
   ]
 }
