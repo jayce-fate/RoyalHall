@@ -22,16 +22,6 @@
 				"KindMark":"3"
 			},
 			{
-				"KindID":"17",
-				"KindName":"填大坑",
-				"TypeID":"0",
-				"ModuleName":"qipai.tdk",
-				"ClientVersion":"101122049",
-				"ResVersion":"10",
-				"SortID":"101",
-				"KindMark":"3"
-			},
-			{
 				"KindID":"25",
 				"KindName":"港式五张",
 				"TypeID":"0",
@@ -56,16 +46,6 @@
 				"KindName":"通比牛牛",
 				"TypeID":"0",
 				"ModuleName":"yule.oxsixex",
-				"ClientVersion":"101122049",
-				"ResVersion":"10",
-				"SortID":"101",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"49",
-				"KindName":"十三水",
-				"TypeID":"0",
-				"ModuleName":"qipai.thirteenx",
 				"ClientVersion":"101122049",
 				"ResVersion":"10",
 				"SortID":"101",
