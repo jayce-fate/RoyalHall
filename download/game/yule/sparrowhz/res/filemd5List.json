@@ -1476,7 +1476,7 @@
       "path": "sparrowhz/res/sound/PhraseVoice/GIRL/"
     }, 
     {
-      "md5": "74cf7170d2ee532358e7597cde8f9c1e", 
+      "md5": "f3471844947d443f6afcd7147674941e", 
       "name": "CMD_Game.luac", 
       "path": "sparrowhz/src/models/"
     }, 
@@ -1501,7 +1501,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "d1d2595c7773c6d436d479ac0d26ffd5", 
+      "md5": "fbb964b1a5b83942996c9e3649d1c86a", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 

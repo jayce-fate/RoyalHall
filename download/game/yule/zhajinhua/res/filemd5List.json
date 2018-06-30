@@ -261,7 +261,7 @@
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
-      "md5": "42a86edf8f1b7a9d23d524f74c371a58", 
+      "md5": "5ec6d70bf768e31cc3bc5deafdafc1eb", 
       "name": "CMD_Game.luac", 
       "path": "zhajinhua/src/models/"
     }, 
@@ -291,7 +291,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "8920e5d193005082cc6118505a02a5db", 
+      "md5": "bf073c7512739e1d1968f84347a761e5", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
