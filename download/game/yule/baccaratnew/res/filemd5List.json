@@ -36,6 +36,96 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
+      "md5": "6be954a9c60c0fcba34d38e587d980eb", 
+      "name": "bjl_game_chip_0_0.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "ecc3d277cb19ed7056313a0898b4179b", 
+      "name": "bjl_game_chip_0_1.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "6260ab8f06789bb399256bda725633aa", 
+      "name": "bjl_game_chip_0_2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "b23115044dffe0f03d37d2352a31baa7", 
+      "name": "bjl_game_chip_1_0.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "b1b5e93f5128304c5db48d79c1966b40", 
+      "name": "bjl_game_chip_1_1.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "77d6878187c45262ba3b35101b677c14", 
+      "name": "bjl_game_chip_1_2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "5d27e55dd1bfc491690b1060d73a0a6b", 
+      "name": "bjl_game_chip_2_0.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "4220e18e9607160a8408c2e67df7c332", 
+      "name": "bjl_game_chip_2_1.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "89b9b43eec41691f6d97823e80ec7bc5", 
+      "name": "bjl_game_chip_2_2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "747bb2f7753d052bb757a5945fc69ea9", 
+      "name": "bjl_game_chip_3_0.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "282a1b82f6eedc9bacc94112bd13f710", 
+      "name": "bjl_game_chip_3_1.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "05744206c1dc01daaf179edf059ffc6d", 
+      "name": "bjl_game_chip_3_2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "788898185441929a262321a128f70339", 
+      "name": "bjl_game_chip_4_0.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "1bb55d51c829e5310ca4c739a5ab8716", 
+      "name": "bjl_game_chip_4_1.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "b07a4ad9241201a8e8e7a25a17da58b5", 
+      "name": "bjl_game_chip_4_2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "91b3b584f21625880104c4b573a461ae", 
+      "name": "bjl_game_chip_5_0.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "6524045d94e7463a1928886656932908", 
+      "name": "bjl_game_chip_5_1.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "e0615498af77d745a553b5de73f4e9f6", 
+      "name": "bjl_game_chip_5_2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
       "md5": "e504e7f7f74bc4f4eae87698a786ccc8", 
       "name": "card.png", 
       "path": "baccaratnew/res/game/"
@@ -91,8 +181,28 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
+      "md5": "0a98f9324c7f014fc4b08e37759469db", 
+      "name": "room_clearing_no2-add.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "e3590031dfbff6070c3578a98d1e0784", 
+      "name": "room_clearing_no2-minus.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
       "md5": "7af631f47612ead3d5eca3b04f5670a0", 
       "name": "room_clearing_no2.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "7f3e49ed85bfd2304570ee834a1c8391", 
+      "name": "room_clearing_no3-add.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "019d935cc9c501ca0162a1cd919098bb", 
+      "name": "room_clearing_no3-minus.png", 
       "path": "baccaratnew/res/game/"
     }, 
     {
@@ -226,7 +336,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "bd2d912442f5de5428eceb9decec4ea4", 
+      "md5": "9881674ba5e611957f05f64324772475", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -251,12 +361,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "9bcd66ed553b5b66d33c315294824637", 
+      "md5": "b5951ff47f949ffa9cf150699de5be91", 
       "name": "GameResultLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "f95103df6b815400ffa7e39d7e7636b5", 
+      "md5": "d4bf813872252efbc6c148fdf11ef113", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -291,7 +401,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "3852fed83a537be32ecaa82e2a29420f", 
+      "md5": "aede9a3169003a996d821a2acbd01774", 
       "name": "UserItem.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
@@ -301,7 +411,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 60
+      "allcount": 82
     }
   ]
 }

@@ -21,17 +21,17 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "2b9625cb58333491595ee67b3488e454", 
+      "md5": "162c5f9ba92d7ecb0e41b131ca3ca487", 
       "name": "game_add_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "7cf4055f28d909d3e8384a9514bc6b06", 
+      "md5": "3446fd80a3ad0f8a88816d659517d1ae", 
       "name": "game_max_add_back_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "818de4ad312558ced85365b852447183", 
+      "md5": "bd54487eb569dbbcb3577d2523bb2f3d", 
       "name": "game_reduce_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
@@ -41,7 +41,7 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "8b50f68026fbfd0b068ff12dc9e27ed5", 
+      "md5": "87e57e41e3b3704301c924864fc58978", 
       "name": "game_total_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
@@ -311,7 +311,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "b6bb57144b89a45b836e6a265977e78b", 
+      "md5": "e1e04e35f4abf856d7a976fcc4dda8f5", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -326,7 +326,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "704cff4692dc0a16e1e9c8db9e3912e3", 
+      "md5": "3e8ddb7e9d32a6dfbc545b6d03faabb6", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 

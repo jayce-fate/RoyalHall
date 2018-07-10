@@ -411,6 +411,96 @@
       "path": "luxurycar/res/game_res/"
     }, 
     {
+      "md5": "6be954a9c60c0fcba34d38e587d980eb", 
+      "name": "bjl_game_chip_0_0.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "ecc3d277cb19ed7056313a0898b4179b", 
+      "name": "bjl_game_chip_0_1.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "6260ab8f06789bb399256bda725633aa", 
+      "name": "bjl_game_chip_0_2.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "b23115044dffe0f03d37d2352a31baa7", 
+      "name": "bjl_game_chip_1_0.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "b1b5e93f5128304c5db48d79c1966b40", 
+      "name": "bjl_game_chip_1_1.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "77d6878187c45262ba3b35101b677c14", 
+      "name": "bjl_game_chip_1_2.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "5d27e55dd1bfc491690b1060d73a0a6b", 
+      "name": "bjl_game_chip_2_0.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "4220e18e9607160a8408c2e67df7c332", 
+      "name": "bjl_game_chip_2_1.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "89b9b43eec41691f6d97823e80ec7bc5", 
+      "name": "bjl_game_chip_2_2.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "747bb2f7753d052bb757a5945fc69ea9", 
+      "name": "bjl_game_chip_3_0.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "282a1b82f6eedc9bacc94112bd13f710", 
+      "name": "bjl_game_chip_3_1.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "05744206c1dc01daaf179edf059ffc6d", 
+      "name": "bjl_game_chip_3_2.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "788898185441929a262321a128f70339", 
+      "name": "bjl_game_chip_4_0.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "1bb55d51c829e5310ca4c739a5ab8716", 
+      "name": "bjl_game_chip_4_1.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "b07a4ad9241201a8e8e7a25a17da58b5", 
+      "name": "bjl_game_chip_4_2.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "91b3b584f21625880104c4b573a461ae", 
+      "name": "bjl_game_chip_5_0.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "6524045d94e7463a1928886656932908", 
+      "name": "bjl_game_chip_5_1.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
+      "md5": "e0615498af77d745a553b5de73f4e9f6", 
+      "name": "bjl_game_chip_5_2.png", 
+      "path": "luxurycar/res/game_res/"
+    }, 
+    {
       "md5": "3cbb59732eb9a8666f96e837dbc0600f", 
       "name": "Chat.csb", 
       "path": "luxurycar/res/game_res/"
@@ -1051,7 +1141,7 @@
       "path": "luxurycar/res/sound_res/"
     }, 
     {
-      "md5": "0020a0719ba4d1812f4a37118729d28e", 
+      "md5": "d7af96f8e6a74736758e57e0d5dc9619", 
       "name": "CMD_Game.luac", 
       "path": "luxurycar/src/models/"
     }, 
@@ -1061,7 +1151,7 @@
       "path": "luxurycar/src/models/"
     }, 
     {
-      "md5": "2d7fe2372edba3a4055dafb9228a8545", 
+      "md5": "5c1e7cdb1e0ef5401e5a3f28e709b9f9", 
       "name": "GameLayer.luac", 
       "path": "luxurycar/src/views/"
     }, 
@@ -1071,7 +1161,7 @@
       "path": "luxurycar/src/views/"
     }, 
     {
-      "md5": "5fbe921b860ebd204e4b2160faea666f", 
+      "md5": "5aa9ca8dde18352d3611ecf5ab95bd47", 
       "name": "BankerList.luac", 
       "path": "luxurycar/src/views/layer/"
     }, 
@@ -1081,7 +1171,7 @@
       "path": "luxurycar/src/views/layer/"
     }, 
     {
-      "md5": "1dfa58ebb5be7c7c0b5f8a1db254bfeb", 
+      "md5": "a2c2eb185cbc89196046b915f548e5df", 
       "name": "GameViewLayer.luac", 
       "path": "luxurycar/src/views/layer/"
     }, 
@@ -1091,12 +1181,12 @@
       "path": "luxurycar/src/views/layer/"
     }, 
     {
-      "md5": "4f932b0b910749635cc0fcc2cccf212c", 
+      "md5": "dbfc318f6c5199df60cdad8206265cad", 
       "name": "UserList.luac", 
       "path": "luxurycar/src/views/layer/"
     }, 
     {
-      "allcount": 219
+      "allcount": 237
     }
   ]
 }

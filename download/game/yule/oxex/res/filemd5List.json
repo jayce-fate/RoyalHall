@@ -51,37 +51,37 @@
       "path": "oxex/res/"
     }, 
     {
-      "md5": "f350c10392d0fd4df55b060cb5ffc4bb", 
+      "md5": "f84e79b141162b06821540ff861fc7a0", 
       "name": "num_add.png", 
       "path": "oxex/res/"
     }, 
     {
-      "md5": "7bed0d4bbded1eb49dd9f37167e04f60", 
+      "md5": "699fe1fa28c62e5316da07e2de56ba71", 
       "name": "num_chip.png", 
       "path": "oxex/res/"
     }, 
     {
-      "md5": "b7e5badacc66ee275f52b9a242968d9b", 
+      "md5": "1104773ed955a2e780e029b3b0ea1c42", 
       "name": "num_endScore.png", 
       "path": "oxex/res/"
     }, 
     {
-      "md5": "3989b66679268d05612173cb7dadf963", 
+      "md5": "c814a55d74f3b347308cc5a6162a7728", 
       "name": "num_prompt.png", 
       "path": "oxex/res/"
     }, 
     {
-      "md5": "f58e784eb295552fb0c3ebafda1f8610", 
+      "md5": "c5af527d3b0cd1f8079edb6580745540", 
       "name": "num_reduce.png", 
       "path": "oxex/res/"
     }, 
     {
-      "md5": "faee1bcd4b5034ff71d185fbcc4e8020", 
+      "md5": "44bf1bab8915f462ae781149e9fbfa4e", 
       "name": "num_score.png", 
       "path": "oxex/res/"
     }, 
     {
-      "md5": "8499ea2a6a2a0888a62402a884974688", 
+      "md5": "a1fa0490926afc65bfb21c33b0ac6511", 
       "name": "num_time.png", 
       "path": "oxex/res/"
     }, 
@@ -541,7 +541,7 @@
       "path": "oxex/src/views/"
     }, 
     {
-      "md5": "58b0ce97d4829454f63e57a19ea23ea4", 
+      "md5": "b64c3c9489d7f0dd94d8d84690d69581", 
       "name": "GameViewLayer.luac", 
       "path": "oxex/src/views/layer/"
     }, 

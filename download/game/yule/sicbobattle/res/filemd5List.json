@@ -101,6 +101,96 @@
       "path": "sicbobattle/res/game/"
     }, 
     {
+      "md5": "6be954a9c60c0fcba34d38e587d980eb", 
+      "name": "bjl_game_chip_0_0.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "ecc3d277cb19ed7056313a0898b4179b", 
+      "name": "bjl_game_chip_0_1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "6260ab8f06789bb399256bda725633aa", 
+      "name": "bjl_game_chip_0_2.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "b23115044dffe0f03d37d2352a31baa7", 
+      "name": "bjl_game_chip_1_0.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "b1b5e93f5128304c5db48d79c1966b40", 
+      "name": "bjl_game_chip_1_1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "77d6878187c45262ba3b35101b677c14", 
+      "name": "bjl_game_chip_1_2.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "5d27e55dd1bfc491690b1060d73a0a6b", 
+      "name": "bjl_game_chip_2_0.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "4220e18e9607160a8408c2e67df7c332", 
+      "name": "bjl_game_chip_2_1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "89b9b43eec41691f6d97823e80ec7bc5", 
+      "name": "bjl_game_chip_2_2.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "747bb2f7753d052bb757a5945fc69ea9", 
+      "name": "bjl_game_chip_3_0.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "282a1b82f6eedc9bacc94112bd13f710", 
+      "name": "bjl_game_chip_3_1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "05744206c1dc01daaf179edf059ffc6d", 
+      "name": "bjl_game_chip_3_2.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "788898185441929a262321a128f70339", 
+      "name": "bjl_game_chip_4_0.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "1bb55d51c829e5310ca4c739a5ab8716", 
+      "name": "bjl_game_chip_4_1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "b07a4ad9241201a8e8e7a25a17da58b5", 
+      "name": "bjl_game_chip_4_2.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "91b3b584f21625880104c4b573a461ae", 
+      "name": "bjl_game_chip_5_0.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "6524045d94e7463a1928886656932908", 
+      "name": "bjl_game_chip_5_1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "e0615498af77d745a553b5de73f4e9f6", 
+      "name": "bjl_game_chip_5_2.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
       "md5": "6fbc007e57ab5f3e889bae1a138988e0", 
       "name": "recordNode.csb", 
       "path": "sicbobattle/res/game/"
@@ -201,7 +291,7 @@
       "path": "sicbobattle/res/sound_res/"
     }, 
     {
-      "md5": "2667f8d8313299e12c05f7105575bb21", 
+      "md5": "34a270504585af728fc408c9e9a4ae63", 
       "name": "118_GameFrame.luac", 
       "path": "sicbobattle/src/models/"
     }, 
@@ -241,7 +331,7 @@
       "path": "sicbobattle/src/views/layer/"
     }, 
     {
-      "md5": "b5e54d7af1e848d89a711b7aa6b89ce8", 
+      "md5": "cdbae86f4de405a159934af50ceb194f", 
       "name": "GameViewLayer.luac", 
       "path": "sicbobattle/src/views/layer/"
     }, 
@@ -256,7 +346,7 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "md5": "a7b853f56cb28a77f3e389296bba75e2", 
+      "md5": "09ab3dabad60d0e5431585b20eed6d01", 
       "name": "UserItem.luac", 
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
@@ -266,7 +356,7 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 53
+      "allcount": 71
     }
   ]
 }

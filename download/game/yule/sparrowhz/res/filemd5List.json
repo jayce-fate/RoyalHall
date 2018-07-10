@@ -111,7 +111,7 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "49cf2649f4bef6f31dfac1a8dad6366c", 
+      "md5": "e11d79888e058797635a1c4f03dbbe50", 
       "name": "num_score.png", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -901,12 +901,12 @@
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "e67d256544ea34d2b53fb25c808fea26", 
+      "md5": "6dabbbc41abbcafb206bebec39f0e981", 
       "name": "num_lose.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "af081d80e47cd1739ac6c4381875f2aa", 
+      "md5": "2f00f17df3403a050c537a0c2ed18b8a", 
       "name": "num_win.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
@@ -1501,12 +1501,12 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "fbb964b1a5b83942996c9e3649d1c86a", 
+      "md5": "a59960d8f5405e574e618e555abafed2", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "b979f8093b6a960edc8cc1ebdea05392", 
+      "md5": "c43597f300b0cc9b2328987e3baea700", 
       "name": "ResultLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 

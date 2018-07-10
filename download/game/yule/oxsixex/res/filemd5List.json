@@ -16,7 +16,7 @@
       "path": "oxsixex/res/game/"
     }, 
     {
-      "md5": "99598257fda1e22c6b0c4fd5ec02cd77", 
+      "md5": "63a3657591b97c9e952c895b0e3bec1d", 
       "name": "addnum.png", 
       "path": "oxsixex/res/game/"
     }, 
@@ -61,7 +61,7 @@
       "path": "oxsixex/res/game/"
     }, 
     {
-      "md5": "1ccc3f62b30afde7a7ec943af9a504da", 
+      "md5": "57688ad64a5b6522140026225603aaa8", 
       "name": "subnum.png", 
       "path": "oxsixex/res/game/"
     }, 
@@ -221,12 +221,12 @@
       "path": "oxsixex/src/views/bean/"
     }, 
     {
-      "md5": "7f5cc76384249ff6fedda7218a54b191", 
+      "md5": "6d3cefe43847e607cefc950e64308909", 
       "name": "GameViewLayer.luac", 
       "path": "oxsixex/src/views/layer/"
     }, 
     {
-      "md5": "20ec05310782142421d1071a2b39f34a", 
+      "md5": "39ce016944cec311cb9c19bab8c19de3", 
       "name": "QBasePlayer.luac", 
       "path": "oxsixex/src/views/layer/"
     }, 

@@ -6,12 +6,12 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "a457f2f57fa4163ad14af6fd1714d43c", 
+      "md5": "f68d4e87a81607e9e094bbe900773ade", 
       "name": "game_num_addscore.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "256b05986287f17f0dccfb4f1544ec43", 
+      "md5": "12c7c2f1cc3d99bcfd11e7d90e330be8", 
       "name": "game_num_score.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -286,12 +286,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "7bdbd3450effebf08906388fad2ae39e", 
+      "md5": "1c4fe7458de35a52cfd60bc833c25a5e", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "bf073c7512739e1d1968f84347a761e5", 
+      "md5": "2502b4a550fd86758e6227b970fe17d0", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
