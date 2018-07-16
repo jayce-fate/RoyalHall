@@ -1061,6 +1061,16 @@
       "path": "luxurycar/res/roomlist/"
     }, 
     {
+      "md5": "5b708ede8b09c34234f644d5c7f6fe72", 
+      "name": "roomlist_title.png", 
+      "path": "luxurycar/res/roomlist/"
+    }, 
+    {
+      "md5": "998d7761bbc72455627aa7f9e7b12635", 
+      "name": "Rule.txt", 
+      "path": "luxurycar/res/roomlist/"
+    }, 
+    {
       "md5": "6825ae5444035787f4ba21b5f4efb88d", 
       "name": "anniu3.png", 
       "path": "luxurycar/res/set_res/"
@@ -1156,7 +1166,7 @@
       "path": "luxurycar/src/views/"
     }, 
     {
-      "md5": "31f56f19338b485cd2bda7df3485ba40", 
+      "md5": "b835bbfec4be7ccd2e85b8da2ea992ce", 
       "name": "GameRoomListLayer.luac", 
       "path": "luxurycar/src/views/"
     }, 
@@ -1186,7 +1196,7 @@
       "path": "luxurycar/src/views/layer/"
     }, 
     {
-      "allcount": 237
+      "allcount": 239
     }
   ]
 }

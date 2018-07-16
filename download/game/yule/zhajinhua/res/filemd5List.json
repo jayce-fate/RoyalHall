@@ -41,6 +41,11 @@
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
+      "md5": "f8850e8d6d444d15f397780acd8096a9", 
+      "name": "roomlist_title.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
       "md5": "e21414264f60fefab09203fd18b8ed8f", 
       "name": "roomtable.png", 
       "path": "zhajinhua/res/roomlist/"
@@ -48,6 +53,11 @@
     {
       "md5": "c05f57348be5864a972d392c7a805878", 
       "name": "roomtable_play.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
+      "md5": "56e6123f0974545c1f6b60c749a680e8", 
+      "name": "Rule.txt", 
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
@@ -281,6 +291,11 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
+      "md5": "9163a228b529b44a22bc77ffe3f9eef2", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "zhajinhua/src/views/"
+    }, 
+    {
       "md5": "d950ee82aa51aaed51153d97c4cacfae", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
@@ -301,7 +316,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 60
+      "allcount": 63
     }
   ]
 }

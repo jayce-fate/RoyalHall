@@ -266,6 +266,11 @@
       "path": "baccaratnew/res/roomlist/"
     }, 
     {
+      "md5": "06fbb0490bb5613e2b3445c1c17a4fbf", 
+      "name": "Rule.txt", 
+      "path": "baccaratnew/res/roomlist/"
+    }, 
+    {
       "md5": "aa2d546fc2452b1fc4173e31360f44a1", 
       "name": "setting.plist", 
       "path": "baccaratnew/res/setting/"
@@ -351,7 +356,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "a39eee7550463be60ac8d80384a32059", 
+      "md5": "fc48406b84529dc1e02a53663d477445", 
       "name": "GameRoomListLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -411,7 +416,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 82
+      "allcount": 83
     }
   ]
 }

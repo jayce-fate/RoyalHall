@@ -131,8 +131,18 @@
       "path": "oxsixex/res/roomlist/"
     }, 
     {
+      "md5": "ed20f5b5b80ce1ff953fecbffec5b2b4", 
+      "name": "roomlist_title.png", 
+      "path": "oxsixex/res/roomlist/"
+    }, 
+    {
       "md5": "7831e2ae1a8b93125fb8132f7cc1903f", 
       "name": "roomtable.png", 
+      "path": "oxsixex/res/roomlist/"
+    }, 
+    {
+      "md5": "aa2fab6eaa73bbe3cc6f183ee1a975db", 
+      "name": "Rule.txt", 
       "path": "oxsixex/res/roomlist/"
     }, 
     {
@@ -206,6 +216,11 @@
       "path": "oxsixex/src/views/"
     }, 
     {
+      "md5": "03ef5ce8388bc2019f7bd1321c1bde64", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "oxsixex/src/views/"
+    }, 
+    {
       "md5": "62034cccb47e26c76695d561d24806c1", 
       "name": "NGResources.luac", 
       "path": "oxsixex/src/views/"
@@ -241,7 +256,7 @@
       "path": "oxsixex/src/views/layer/"
     }, 
     {
-      "allcount": 48
+      "allcount": 51
     }
   ]
 }

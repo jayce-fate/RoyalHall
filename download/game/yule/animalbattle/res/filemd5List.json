@@ -631,6 +631,16 @@
       "path": "animalbattle/res/roomlist/"
     }, 
     {
+      "md5": "42a23319b7fb630ef90c8ef06f951f99", 
+      "name": "roomlist_title.png", 
+      "path": "animalbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "6617ca461c8cfe445a53bb8401e0e6e2", 
+      "name": "Rule.txt", 
+      "path": "animalbattle/res/roomlist/"
+    }, 
+    {
       "md5": "92ac55a0c978ccd0f2c70f8a8b32c21b", 
       "name": "ADD_GOLD.ogg", 
       "path": "animalbattle/res/sound_res/"
@@ -821,7 +831,7 @@
       "path": "animalbattle/src/views/"
     }, 
     {
-      "md5": "9d481c1dc2735c14455fc6109a2c6c43", 
+      "md5": "ebf6f7c3a99a0e2a89daeadd4cfb0f7c", 
       "name": "GameRoomListLayer.luac", 
       "path": "animalbattle/src/views/"
     }, 
@@ -861,7 +871,7 @@
       "path": "animalbattle/src/views/layer/"
     }, 
     {
-      "allcount": 172
+      "allcount": 174
     }
   ]
 }

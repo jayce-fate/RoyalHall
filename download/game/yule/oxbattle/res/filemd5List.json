@@ -1066,6 +1066,11 @@
       "path": "oxbattle/res/roomlist/"
     }, 
     {
+      "md5": "6ab950d902adef973bce72d537407171", 
+      "name": "Rule.txt", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
       "md5": "fc584efe31815b676f0bf8fb882922ce", 
       "name": "sitrole_btn_seat.png", 
       "path": "oxbattle/res/sitrole/"
@@ -1426,7 +1431,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "fc767be2a66505ffb2d64a35f35e0914", 
+      "md5": "7f7e10444e150a0ab6e007eae23b26d6", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1451,7 +1456,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 290
+      "allcount": 291
     }
   ]
 }

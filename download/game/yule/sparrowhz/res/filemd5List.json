@@ -941,6 +941,11 @@
       "path": "sparrowhz/res/roomlist/"
     }, 
     {
+      "md5": "b8992a97f2273d7b901a1e8f12cc5bb5", 
+      "name": "roomlist_title.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
       "md5": "ddf8369c60dec1f573e2689c0fbdf817", 
       "name": "roomtable.png", 
       "path": "sparrowhz/res/roomlist/"
@@ -948,6 +953,11 @@
     {
       "md5": "b8056410f4f8582007b02cbef6340b1f", 
       "name": "roomtable_play.png", 
+      "path": "sparrowhz/res/roomlist/"
+    }, 
+    {
+      "md5": "0470d3a8bb87cdb88c8ad8a6f1a9dc31", 
+      "name": "Rule.txt", 
       "path": "sparrowhz/res/roomlist/"
     }, 
     {
@@ -1496,6 +1506,11 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
+      "md5": "02ce9a56d4af422cd07f6e2e888dcb60", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "sparrowhz/src/views/"
+    }, 
+    {
       "md5": "4859464e3857717f841981468bdded58", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
@@ -1516,7 +1531,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 303
+      "allcount": 306
     }
   ]
 }

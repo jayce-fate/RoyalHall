@@ -16,6 +16,11 @@
       "path": "tdk/res/roomlist/"
     }, 
     {
+      "md5": "2b5f21d34c63c97d5c38c683c29393df", 
+      "name": "roomlist_title.png", 
+      "path": "tdk/res/roomlist/"
+    }, 
+    {
       "md5": "96df26a2f6a7b1399f9d4c4eb637978d", 
       "name": "AccountLayer.csb", 
       "path": "tdk/res/TDK/"
@@ -361,7 +366,7 @@
       "path": "tdk/src/views/layer/"
     }, 
     {
-      "allcount": 72
+      "allcount": 73
     }
   ]
 }

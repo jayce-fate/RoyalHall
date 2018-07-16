@@ -466,8 +466,18 @@
       "path": "oxex/res/roomlist/"
     }, 
     {
+      "md5": "5591822cec93e54abfd99d6735b7bb65", 
+      "name": "roomlist_title.png", 
+      "path": "oxex/res/roomlist/"
+    }, 
+    {
       "md5": "b86506f0edafb98ddea1126d926b22d9", 
       "name": "roomtable.png", 
+      "path": "oxex/res/roomlist/"
+    }, 
+    {
+      "md5": "a293cc6102a926390898171b8becc52b", 
+      "name": "Rule.txt", 
       "path": "oxex/res/roomlist/"
     }, 
     {
@@ -541,12 +551,17 @@
       "path": "oxex/src/views/"
     }, 
     {
+      "md5": "f29a0a7cf02b43f9c652d5a1ce2d69cf", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "oxex/src/views/"
+    }, 
+    {
       "md5": "b64c3c9489d7f0dd94d8d84690d69581", 
       "name": "GameViewLayer.luac", 
       "path": "oxex/src/views/layer/"
     }, 
     {
-      "allcount": 109
+      "allcount": 112
     }
   ]
 }

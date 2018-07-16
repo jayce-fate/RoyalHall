@@ -211,6 +211,16 @@
       "path": "sicbobattle/res/roomlist/"
     }, 
     {
+      "md5": "eab4a35bc67ff0089fa3ac7500e11a5f", 
+      "name": "roomlist_title.png", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
+      "md5": "46a8adc7a7f363e4b9f52df8ecf7e135", 
+      "name": "Rule.txt", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
       "md5": "344fd3b9c329992bc094bfad4924e319", 
       "name": "118_setLayer.csb", 
       "path": "sicbobattle/res/set/"
@@ -321,7 +331,7 @@
       "path": "sicbobattle/src/views/"
     }, 
     {
-      "md5": "a39eee7550463be60ac8d80384a32059", 
+      "md5": "54ceaf8f80b016b6672ed4415b1fc746", 
       "name": "GameRoomListLayer.luac", 
       "path": "sicbobattle/src/views/"
     }, 
@@ -356,7 +366,7 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 71
+      "allcount": 73
     }
   ]
 }

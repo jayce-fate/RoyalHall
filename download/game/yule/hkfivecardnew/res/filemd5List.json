@@ -101,6 +101,11 @@
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
+      "md5": "fe2b7eda5f4f49d7c4c7a8cd055b95e6", 
+      "name": "roomlist_title.png", 
+      "path": "hkfivecardnew/res/roomlist/"
+    }, 
+    {
       "md5": "03eb3f34eeba314d31ff59a22933fcf3", 
       "name": "roomtable.png", 
       "path": "hkfivecardnew/res/roomlist/"
@@ -111,8 +116,8 @@
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "3aba4e645680faae303c20c710967be4", 
-      "name": "Thumbs.db", 
+      "md5": "5500ac6b2805fb8616782ba2623232f1", 
+      "name": "Rule.txt", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
@@ -321,6 +326,11 @@
       "path": "hkfivecardnew/src/views/"
     }, 
     {
+      "md5": "31e1ea4c79a18a19d826a1c0d01bf555", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "hkfivecardnew/src/views/"
+    }, 
+    {
       "md5": "fd890883fc6de02d107e88c19e33ce3a", 
       "name": "CardSprite.luac", 
       "path": "hkfivecardnew/src/views/layer/"
@@ -336,7 +346,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "allcount": 67
+      "allcount": 69
     }
   ]
 }

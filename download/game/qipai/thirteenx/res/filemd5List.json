@@ -1091,6 +1091,11 @@
       "path": "thirteenx/res/roomlist/"
     }, 
     {
+      "md5": "60e85f7693eb45433bf7ebe3b0fe9e0e", 
+      "name": "roomlist_title.png", 
+      "path": "thirteenx/res/roomlist/"
+    }, 
+    {
       "md5": "a302596f59ac4a82433a8f7975489b81", 
       "name": "bullets.mp3", 
       "path": "thirteenx/res/sound_res/"
@@ -1351,7 +1356,7 @@
       "path": "thirteenx/src/views/layer/"
     }, 
     {
-      "allcount": 270
+      "allcount": 271
     }
   ]
 }

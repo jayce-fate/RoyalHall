@@ -461,6 +461,11 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
+      "md5": "35946296bcc50628d1fc67248194ee2d", 
+      "name": "Rule.txt", 
+      "path": "oxnew/res/roomlist/"
+    }, 
+    {
       "md5": "41115c44159c010fbde5ebc1f6ca52d8", 
       "name": "ADD_SCORE.WAV", 
       "path": "oxnew/res/sound/"
@@ -641,6 +646,11 @@
       "path": "oxnew/src/views/"
     }, 
     {
+      "md5": "6ce33c280d50d9e8f02d4e7fedba57ef", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "oxnew/src/views/"
+    }, 
+    {
       "md5": "8d4209df3296d7828c132605ccc10b8c", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
@@ -651,7 +661,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 130
+      "allcount": 132
     }
   ]
 }
