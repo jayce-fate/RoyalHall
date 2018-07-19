@@ -641,6 +641,11 @@
       "path": "client/res/BankRecord/"
     }, 
     {
+      "md5": "608246dcedce5b021d5085754db4f7ce", 
+      "name": "binding_alipay_title.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "97dcc5e8911ffcf1bc22d40e9eb5dfdb", 
       "name": "binding_bg.png", 
       "path": "client/res/binding/"
@@ -673,6 +678,11 @@
     {
       "md5": "a2f1e6e2e7f71a5b43f35bba0882ce19", 
       "name": "BindingAccountNode.csb", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "d9c8cc26cdf4625bc15160454fb2853d", 
+      "name": "BindingAlipayNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
@@ -871,6 +881,16 @@
       "path": "client/res/common/"
     }, 
     {
+      "md5": "c7886b0c4ae6362abb60827bb70e2ded", 
+      "name": "common_tips_bg.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "e17ddd7ae1e7b3daae882345614c22df", 
+      "name": "common_tips_title.png", 
+      "path": "client/res/common/"
+    }, 
+    {
       "md5": "b1a0dead884d32c396d297bfaa81cbb0", 
       "name": "common_txt_bg.png", 
       "path": "client/res/common/"
@@ -888,6 +908,16 @@
     {
       "md5": "8de5ce7b9c5c20b4814a0419af0c6856", 
       "name": "LatternAni.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "faacc1a73cae619b3e2fd27ef943a345", 
+      "name": "TipsNode.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "7581562cfdaa5a61f5c760c9ec7b9e44", 
+      "name": "TipsNodeB.csb", 
       "path": "client/res/common/"
     }, 
     {
@@ -3896,6 +3926,116 @@
       "path": "client/res/rankingchart/fonts/"
     }, 
     {
+      "md5": "185d95662c583a5c1e6f3a2e5b79c6e1", 
+      "name": "contact_proxy_btn_complaints.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "d7493fd0a0408d42906b3b21a10f2d84", 
+      "name": "contact_proxy_btn_qq.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "bb109ba72cc36b5851a8afc03f2174b9", 
+      "name": "contact_proxy_btn_wechat.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "f601cd7451d462db99ecaaa9c5b41234", 
+      "name": "contact_proxy_icon_qq.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "49e2cb0efbda2c1797be3b110f80fdd2", 
+      "name": "contact_proxy_icon_wechat.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "9ea51bb9cfbc5d9cb8e78cf94f2823db", 
+      "name": "contact_proxy_title.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "f15fe61dcb976f93343f813e99f5c77d", 
+      "name": "ContactProxyLayer.csb", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "a8292731a7ad52cdd5989e7eced87ee6", 
+      "name": "Recharge.csb", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "bbd1e31c818488fc5af78632a791852c", 
+      "name": "recharge_banner_alipay.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "02e44a03c58221510779fc78ceeab19e", 
+      "name": "recharge_btn_alipay_d.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "249c469e6d3430dba9b1cabb4c552dac", 
+      "name": "recharge_btn_alipay_n.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "3cefe26a3eb5f6ba61c46d0a822e2f54", 
+      "name": "recharge_btn_cell_charge.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "bcf39108ff8ee772ffa74422b1ad0dd4", 
+      "name": "recharge_btn_charge.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "8b38a8e5687013d07595a5614950186f", 
+      "name": "recharge_btn_clear.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "5da790c48d3889a576f26c7fdd4339ec", 
+      "name": "recharge_btn_complaints.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "1e6deea1ba4b9f40b4de8013a17cb534", 
+      "name": "recharge_btn_copy_account.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "c93e32ff5f799368dc48664b8ca241fb", 
+      "name": "recharge_btn_item.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "0c05ac3dabb25de316e1b96cc8242c98", 
+      "name": "recharge_btn_vip_d.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "249fd62eda8796d2d43ca95ce261e009", 
+      "name": "recharge_btn_vip_n.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "f1bfd1918caf5b4bdede9be3237d48c4", 
+      "name": "recharge_cell_bg.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "fdf03c4a6b6c5b792795a30e918409ff", 
+      "name": "recharge_line.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "143162f7b78247d2fef9f109ca67786a", 
+      "name": "RechargeItemNode.csb", 
+      "path": "client/res/recharge/"
+    }, 
+    {
       "md5": "afe1ac587c9a754fc7b10ccf2c946197", 
       "name": "bt_cancel_0.png", 
       "path": "client/res/Regist/"
@@ -5286,7 +5426,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "0c6404b0785aadb98522a416279878f0", 
+      "md5": "1d5fae3eaece40f49804d7bbcc6d0070", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -5316,7 +5456,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "59402919011ea3923451789807cf16ad", 
+      "md5": "59ae02b8b07be7b36225b088ec774641", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -5353,6 +5493,11 @@
     {
       "md5": "f0d1d9527bb79c9b2a0a6e0abf1fd3bf", 
       "name": "userinfo_btn_change_name.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "247053f3fee13ec89e138996c25ef210", 
+      "name": "userinfo_btn_copy_id.png", 
       "path": "client/res/userinfo/"
     }, 
     {
@@ -5394,6 +5539,61 @@
       "md5": "6100182852c9cd05e4f0f57aff4b7157", 
       "name": "userinfo_title.png", 
       "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "f8c8b0c7110c5266774691d2925c141a", 
+      "name": "Withdraw.csb", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "7118573ea3157cc625686fc08cfea42a", 
+      "name": "withdraw_btn_change_ali_d.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "e7d05c510378abe18a37ba9d75b13ca6", 
+      "name": "withdraw_btn_change_ali_n.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "87e18c242e312dad54d647e0fc425b18", 
+      "name": "withdraw_btn_goto_bind.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "b26e46127b5719fa9c5c3fbe8d110849", 
+      "name": "withdraw_btn_rules.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "af475c68087f6b80ac397020bec5beaa", 
+      "name": "withdraw_btn_sure.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "740a41d3f9417c9dd33ecf9a365dc61f", 
+      "name": "withdraw_logo_ali.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "0c9b7f03a2667d8be60d338c7fe278f5", 
+      "name": "withdraw_rules_title.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "90acab7d8e6918b994e28fca405cf47d", 
+      "name": "withdraw_title.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "c45fecd51d234f48075114f8d53616af", 
+      "name": "withdraw_txtfield_bg.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "7ac4d44955df86810fdc46786b1d45b3", 
+      "name": "WithdrawRuleNode.csb", 
+      "path": "client/res/withdraw/"
     }, 
     {
       "md5": "a88f80198f3a4b77d5bf2197df21e09b", 
@@ -5451,7 +5651,7 @@
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "655ba51a73471c45d94ceda7586650c6", 
+      "md5": "a9f4d53f2c8dfb72e7bfe31858184c82", 
       "name": "Bridge_ios.luac", 
       "path": "client/src/external/platform/"
     }, 
@@ -5516,7 +5716,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "9ef342bf6e11946b51d291aa9425b422", 
+      "md5": "59f548cd584c12e6958e1bf7c5de884a", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -5551,12 +5751,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "7389484c3b7da0b03fde64adeeffcac3", 
+      "md5": "8c3a9955768879753d9bdf788eebdbd5", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "ef0ae65f399eb83ffa9ef28f500ad64f", 
+      "md5": "3404401926b05ea21d3bbf49871b0dc6", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5706,6 +5906,11 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "2efc87a7013ba3e2c6a33f51d4725225", 
+      "name": "BindingAlipayLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "83e4a545402689959dcf95a8187e88ff", 
       "name": "BindingGiftLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -5733,6 +5938,11 @@
     {
       "md5": "23405527e942a3cc6cc2e8514843d599", 
       "name": "CheckinLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "8018e16c453665bd0deea5e9ef22b982", 
+      "name": "ContactProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -5801,12 +6011,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "00c7219b4a2b9e0e609b6835246103ac", 
+      "name": "RechargeLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "efa19199958d47ffc46f8384d6d9de0d", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "99c052ee49a29e5c17f44157a2591c19", 
+      "md5": "3bce50717176253eb17ec9e6fa6385ef", 
       "name": "SafeBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5841,7 +6056,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "7288e1e790a9ad7fdf9310aecc0baf35", 
+      "md5": "cca9278d2250964c2e42ac8f46019af6", 
+      "name": "TipsBLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "f6de403f384439db02ac05266e52eac7", 
+      "name": "TipsLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "24d5c56a085198d59f3ce5dd914ab7b3", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5853,6 +6078,16 @@
     {
       "md5": "90d666b62e46e04704b7b5e793f7928a", 
       "name": "WhiteBoardLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "f40d1d32cf6ea8191de8428c0eb2a6bc", 
+      "name": "WithdrawLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "2f8cd360b370c002b29c6959c39b1a26", 
+      "name": "WithdrawRulesLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -5966,7 +6201,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1193
+      "allcount": 1240
     }
   ]
 }
