@@ -5756,7 +5756,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "451c2a8a1ce8ee3eb5efe1dafda49ad4", 
+      "md5": "2ada3b6e584c0dbe23ae6b4f007b1bb8", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5971,7 +5971,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "82dbffd6269706296ec7d22257de3301", 
+      "md5": "62359d9b2e611cc64e597410b3fc5503", 
       "name": "MailBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
