@@ -42,6 +42,36 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"36",
+				"KindName":"通比牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxsixex",
+				"ClientVersion":"101122049",
+				"ResVersion":"11",
+				"SortID":"101",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"140",
+				"KindName":"豪车俱乐部",
+				"TypeID":"0",
+				"ModuleName":"yule.luxurycar",
+				"ClientVersion":"101122049",
+				"ResVersion":"11",
+				"SortID":"100",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"102",
+				"KindName":"二人牛牛",
+				"TypeID":"0",
+				"ModuleName":"yule.oxex",
+				"ClientVersion":"101122049",
+				"ResVersion":"11",
+				"SortID":"100",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"104",
 				"KindName":"百人牛牛",
 				"TypeID":"0",
@@ -52,6 +82,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"118",
+				"KindName":"百人骰宝",
+				"TypeID":"0",
+				"ModuleName":"yule.sicbobattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"11",
+				"SortID":"100",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"122",
 				"KindName":"百家乐",
 				"TypeID":"0",
@@ -59,6 +99,16 @@
 				"ClientVersion":"101122049",
 				"ResVersion":"11",
 				"SortID":"6",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"123",
+				"KindName":"飞禽走兽",
+				"TypeID":"0",
+				"ModuleName":"yule.animalbattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"11",
+				"SortID":"100",
 				"KindMark":"3"
 			},
 			{
@@ -78,6 +128,16 @@
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
 				"ResVersion":"11",
+				"SortID":"100",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"401",
+				"KindName":"五子棋",
+				"TypeID":"0",
+				"ModuleName":"yule.gobang",
+				"ClientVersion":"101122049",
+				"ResVersion":"12",
 				"SortID":"100",
 				"KindMark":"3"
 			},
