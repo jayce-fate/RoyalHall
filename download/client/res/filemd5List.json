@@ -3361,7 +3361,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "2fdb616df92845127d7c3d178e5ef8d9", 
+      "md5": "3dc062e3aa185a8736183e05e64dd022", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -5541,7 +5541,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "f8c8b0c7110c5266774691d2925c141a", 
+      "md5": "15bcd57d7edbff2db819c854f1753770", 
       "name": "Withdraw.csb", 
       "path": "client/res/withdraw/"
     }, 
@@ -5561,6 +5561,11 @@
       "path": "client/res/withdraw/"
     }, 
     {
+      "md5": "67c6afe5782e19b91ff1280b3bfff33a", 
+      "name": "withdraw_btn_record.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
       "md5": "b26e46127b5719fa9c5c3fbe8d110849", 
       "name": "withdraw_btn_rules.png", 
       "path": "client/res/withdraw/"
@@ -5576,6 +5581,11 @@
       "path": "client/res/withdraw/"
     }, 
     {
+      "md5": "482c670a6218f3d77e839ed01279d770", 
+      "name": "withdraw_record_title.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
       "md5": "0c9b7f03a2667d8be60d338c7fe278f5", 
       "name": "withdraw_rules_title.png", 
       "path": "client/res/withdraw/"
@@ -5588,6 +5598,16 @@
     {
       "md5": "c45fecd51d234f48075114f8d53616af", 
       "name": "withdraw_txtfield_bg.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "91c0a4ccb25a0121f87688ed8135cd9e", 
+      "name": "WithdrawRecord.csb", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "6170cbe8238e46df65083311e9ad7ad6", 
+      "name": "WithdrawRecordCellNode.csb", 
       "path": "client/res/withdraw/"
     }, 
     {
@@ -5656,7 +5676,7 @@
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "e4fd2efadfb97ebeb04ea4e5794f1aef", 
+      "md5": "73c307a747c74958ebc18ee6acd96f19", 
       "name": "GameModel.luac", 
       "path": "client/src/gamemodel/"
     }, 
@@ -5756,7 +5776,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "2ada3b6e584c0dbe23ae6b4f007b1bb8", 
+      "md5": "8ad2913bae17e75e19fda263ca4fc7de", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5971,7 +5991,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "62359d9b2e611cc64e597410b3fc5503", 
+      "md5": "87947464b05a03dd255100bbfeb000ab", 
       "name": "MailBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6081,8 +6101,13 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "f40d1d32cf6ea8191de8428c0eb2a6bc", 
+      "md5": "a0b4ee7610921c1d9d967ef7b99a919f", 
       "name": "WithdrawLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "d69c788c9cea8e030ca54a8435352a05", 
+      "name": "WithdrawRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -6201,7 +6226,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1240
+      "allcount": 1245
     }
   ]
 }
