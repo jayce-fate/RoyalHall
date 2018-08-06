@@ -76,7 +76,7 @@
       "path": "client/res/announcement/"
     }, 
     {
-      "md5": "f3f53da90649fcb66b3db8c7725551ce", 
+      "md5": "f46025c8a0ed9cd98ff0cc1d50d105ea", 
       "name": "AncmtNode.csb", 
       "path": "client/res/announcement/"
     }, 
@@ -5706,7 +5706,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "5f18d0ef40c27c29e2ea74b20e46b7f8", 
+      "md5": "9c5ed6a8d911530bb2e133b24b33f365", 
       "name": "BaseFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -5776,7 +5776,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "8ad2913bae17e75e19fda263ca4fc7de", 
+      "md5": "61e4458e79676ecb52566697ddda609c", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5886,7 +5886,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c55d369c8b7e436f836f4319cc3ead2e", 
+      "md5": "20f3e084d8b27a333c5bf78916a1355c", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6101,7 +6101,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "a0b4ee7610921c1d9d967ef7b99a919f", 
+      "md5": "95567736fd78d0bd5ddb6077165fe9b5", 
       "name": "WithdrawLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 

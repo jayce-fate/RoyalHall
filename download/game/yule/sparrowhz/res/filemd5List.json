@@ -86,6 +86,56 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
+      "md5": "525fbe64b3566ad7310d554e900737ff", 
+      "name": "bt_bridge_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "1b007d78f6ae29116c5fd257a6532ab4", 
+      "name": "bt_bridge_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "1575d31e2e5989408009c0b3b96e0c3b", 
+      "name": "bt_bump_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "3ba3b4fe5620ae1623284c983685ea2a", 
+      "name": "bt_bump_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "1dfb50e8ea7ffc6422e372581620a0d9", 
+      "name": "bt_eat_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "84145f4944a64bc4c2b182c561384ffb", 
+      "name": "bt_eat_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "6e99db687b9ac6bad81d3d8448cb6a3a", 
+      "name": "bt_pass_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "b9373f1f026a98e6dd9d94d048ce72e5", 
+      "name": "bt_pass_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "13997758c74b735cf51f1c4388c5e2e0", 
+      "name": "bt_win_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "f6b5c2776aacdadd552021cfd0ff7357", 
+      "name": "bt_win_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
       "md5": "3521fa7a6181bf4291788964b4176279", 
       "name": "card_back_up.png", 
       "path": "sparrowhz/res/game/"
@@ -123,6 +173,21 @@
     {
       "md5": "ae8e0d540a98c7f33d9b76b4ee3ee70d", 
       "name": "SetLayer.csb", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "877c59c0ded7d944531abd858fd58608", 
+      "name": "sp_gameBtn_bg.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "5d5029f432220fbb468d2f3d9eedc676", 
+      "name": "sp_listenBg_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "115d3f2a066272a0b8568f0f8c49ecd8", 
+      "name": "sp_sparrowPlate.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
@@ -1496,7 +1561,7 @@
       "path": "sparrowhz/src/models/"
     }, 
     {
-      "md5": "59e47394269ee088b2721d1449d07813", 
+      "md5": "f624079676854a2cdc42baeef0972ab0", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
     }, 
@@ -1511,12 +1576,12 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
-      "md5": "4859464e3857717f841981468bdded58", 
+      "md5": "1b1c92fadc6bbfcffeec7d9fc7b1df12", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "cf8e56383ef7c07ca475c4c88e20d033", 
+      "md5": "bacaa4d2e27040e47320254b1b2619c1", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
@@ -1531,7 +1596,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 306
+      "allcount": 319
     }
   ]
 }
