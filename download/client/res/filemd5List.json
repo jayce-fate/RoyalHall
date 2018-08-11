@@ -2286,6 +2286,21 @@
       "path": "client/res/GameList/animations/"
     }, 
     {
+      "md5": "1073d67b9eef252dd9a97bffa9c100fd", 
+      "name": "lobbyicon_spine.atlas", 
+      "path": "client/res/GameList/spine/"
+    }, 
+    {
+      "md5": "bed19889cdc02bd830dce4993a166532", 
+      "name": "lobbyicon_spine.json", 
+      "path": "client/res/GameList/spine/"
+    }, 
+    {
+      "md5": "20967800e9d6c381a47c0a65c39b075e", 
+      "name": "lobbyicon_spine.png", 
+      "path": "client/res/GameList/spine/"
+    }, 
+    {
       "md5": "eeb8c6c7664133432890c06194c896df", 
       "name": "room_title_hundred_nn.png", 
       "path": "client/res/gameroomlist/"
@@ -5676,7 +5691,7 @@
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "73c307a747c74958ebc18ee6acd96f19", 
+      "md5": "0ee68bd8073d5916230411f75739314b", 
       "name": "GameModel.luac", 
       "path": "client/src/gamemodel/"
     }, 
@@ -5726,7 +5741,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "b326e5b1598a5385c84001639d16da8d", 
+      "md5": "2bc6fd12c6a99a1d2b841018af07900a", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -5736,7 +5751,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "59f548cd584c12e6958e1bf7c5de884a", 
+      "md5": "1ec67fc73c6faf43ef0e8edd08d7ba1f", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -5771,12 +5786,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "8c3a9955768879753d9bdf788eebdbd5", 
+      "md5": "33b5dab1790aeb0dcbee6de0afa42313", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "61e4458e79676ecb52566697ddda609c", 
+      "md5": "7eed3d7a5c44bf4f2221ee3f6f2238ac", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5811,7 +5826,7 @@
       "path": "client/src/plaza/views/layer/friend/"
     }, 
     {
-      "md5": "43719f4a4165243e2b9482ac3e475a8b", 
+      "md5": "74bb210a8d633f74dd983068bbc081fa", 
       "name": "FriendQueryDialog.luac", 
       "path": "client/src/plaza/views/layer/friend/"
     }, 
@@ -5886,7 +5901,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "20f3e084d8b27a333c5bf78916a1355c", 
+      "md5": "73240b836a7a21d025df0a27ff58e74a", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5981,7 +5996,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "0239b88a4162f8d3a9fa60ea7edc1530", 
+      "md5": "4b362b179ad989d726da0dcc37b67b59", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6096,12 +6111,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "90d666b62e46e04704b7b5e793f7928a", 
+      "md5": "32c12fb349181f55c979ffbe8e6ce863", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "95567736fd78d0bd5ddb6077165fe9b5", 
+      "md5": "6ca45edbab196bbb04512f1965af60cb", 
       "name": "WithdrawLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6226,7 +6241,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1245
+      "allcount": 1248
     }
   ]
 }

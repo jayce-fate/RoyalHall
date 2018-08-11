@@ -5,9 +5,10 @@
 	{
 		"valid":true,
 		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/RoyalHall/master/download",
-		"clientversion":"5",
-		"resversion":"30",
-		"ios_url":"https://fir.im/ttqpai",
+		"clientversion":"6",
+		"resversion":"31",
+		"ios_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-fate/TT-Source/master/RoyalHall.plist",
+		"android_url":"https://raw.githubusercontent.com/jayce-fate/TT-Source/master/RoyalHall.apk",
 		"wxLogon":1,
 		"isOpenCard":0,
 		"gamelist":[
@@ -17,7 +18,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"2",
 				"KindMark":"3"
 			},
@@ -27,7 +28,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"5",
 				"KindMark":"3"
 			},
@@ -37,7 +38,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"3",
 				"KindMark":"3"
 			},
@@ -47,7 +48,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"4",
 				"KindMark":"3"
 			},
@@ -57,7 +58,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"6",
 				"KindMark":"3"
 			},
@@ -67,7 +68,7 @@
 				"TypeID":"0",
 				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"1",
 				"KindMark":"3"
 			},
@@ -77,7 +78,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"100",
 				"KindMark":"3"
 			},
@@ -87,7 +88,7 @@
 				"TypeID":"0",
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
-				"ResVersion":"13",
+				"ResVersion":"14",
 				"SortID":"101",
 				"KindMark":"3"
 			}]

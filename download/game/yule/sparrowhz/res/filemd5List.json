@@ -11,6 +11,21 @@
       "path": "sparrowhz/res/"
     }, 
     {
+      "md5": "1f6a6790c8cb75a5cce424f7615753ff", 
+      "name": "Plist.plist", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "1e6d0994a648bed1452c9f966ffc24d8", 
+      "name": "Plist.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "e25bf50065f76446018fd74866aa91b0", 
+      "name": "tag_num 2.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
       "md5": "bf8c2c6a113b1f75e4893c3a2eef6cb8", 
       "name": "sice_1.png", 
       "path": "sparrowhz/res/Animate_sice_red/"
@@ -81,27 +96,32 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "b8d08e76cfedd2fdaeb956c182db1f10", 
+      "md5": "4a6258bb14fd5eacc8edda473b673ae3", 
       "name": "background_sparrowHz.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "525fbe64b3566ad7310d554e900737ff", 
+      "md5": "4bb89544a82a5d9dbbb826a8654b8ab5", 
+      "name": "bg_02.jpg", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "42afd9542f001d2f3d105d56c8ffa11b", 
       "name": "bt_bridge_1.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "1b007d78f6ae29116c5fd257a6532ab4", 
+      "md5": "0790962bd7a16dbc11033e0ff7b03d2b", 
       "name": "bt_bridge_2.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "1575d31e2e5989408009c0b3b96e0c3b", 
+      "md5": "5d7eeaf1c7f3413e0d239802d98286c7", 
       "name": "bt_bump_1.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "3ba3b4fe5620ae1623284c983685ea2a", 
+      "md5": "bd6de07a41de614f24a59e77d2fc9bc5", 
       "name": "bt_bump_2.png", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -116,42 +136,42 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "6e99db687b9ac6bad81d3d8448cb6a3a", 
+      "md5": "4f4d338e3947c6d0199586c9a9c1e14d", 
       "name": "bt_pass_1.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "b9373f1f026a98e6dd9d94d048ce72e5", 
+      "md5": "315f23913a8b470167b99d0678525f56", 
       "name": "bt_pass_2.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "13997758c74b735cf51f1c4388c5e2e0", 
+      "md5": "495a2d6dbd10344cb0cfd27a26de451a", 
       "name": "bt_win_1.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "f6b5c2776aacdadd552021cfd0ff7357", 
+      "md5": "0f2580d5e3a0b8a4908ab3946e763808", 
       "name": "bt_win_2.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "3521fa7a6181bf4291788964b4176279", 
+      "md5": "e3580498d1742e82eaf89b8bf15bec71", 
       "name": "card_back_up.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "fa3da3fbd144e694e92850f46b61d293", 
+      "md5": "77befdac8a7ed9180d94fa3f25fc09d6", 
       "name": "card_left.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "9b91d28a0ae1aef2f077f5ce5160fad6", 
+      "md5": "f551c716f4dd9033656dfabd83298f69", 
       "name": "card_right.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "fd8db16c905cae859d2b304b4ed72d29", 
+      "md5": "87116cf9ecd92d42f6c3801c826d09ba", 
       "name": "GameScene.csb", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -166,12 +186,12 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "2ad70e0321f92545afdd8e94cb4fe06c", 
+      "md5": "ae8e40e166f9bbddfd72378dd59f9d65", 
       "name": "Player.csb", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "ae8e0d540a98c7f33d9b76b4ee3ee70d", 
+      "md5": "cf78387a822542e1c3613763d6657e30", 
       "name": "SetLayer.csb", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -181,12 +201,12 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "5d5029f432220fbb468d2f3d9eedc676", 
+      "md5": "09e8d1e8f3b3e0ddd39d3abe8724d72c", 
       "name": "sp_listenBg_1.png", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "115d3f2a066272a0b8568f0f8c49ecd8", 
+      "md5": "72cfff6a0534610b58315bf1762a0b5f", 
       "name": "sp_sparrowPlate.png", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -201,192 +221,222 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
+      "md5": "31bb57899c6ba0a42534e1c0c51aa769", 
+      "name": "tag_circle_1.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "b18f164cda34e744681ffe76413074b5", 
+      "name": "tag_circle_2.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "8137c8017853c897fb3f130fb9ebdd97", 
+      "name": "tag_circle_3.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "5398fbb65b49e6968c5c472a4222fd7c", 
+      "name": "tag_circle_4.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "b46e0167571fbb8eecd273d2abd3b046", 
+      "name": "tag_dialog.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "c4d2f4c0379f39d18a0ca37a606fd69e", 
+      "name": "tag_ting_repeat.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
       "md5": "02fa20fd78d49a93480d91fc665d8f8d", 
       "name": "TrusteeCoverLayer.csb", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "537ebbb05f65213ee44887dc909f4e56", 
+      "md5": "fe6ca03d0b6c9ebdd86525adce68cdd9", 
       "name": "card_back.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "729ec387141d8ebb50c78a02303ffbbe", 
+      "md5": "d04bad31854d2c2e6d9bb828a4c46f2b", 
       "name": "card_down.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "161e7e5d9d0828df30e0e179ca1fac8c", 
+      "md5": "8896e31a90ee57bf076d7bbb10f6c830", 
       "name": "card_up.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "9d4b9db1f86375408860c4d8bfa8097b", 
+      "md5": "516e04da13ec22f008faa1d57b6eb972", 
       "name": "font_0_1.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "8afc0cefdb61781abb7051bed11c3746", 
+      "md5": "5bffb4009cbdf07841140ae7141ef310", 
       "name": "font_0_2.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "b20d1795cb5569417fbcd7fecffa39da", 
+      "md5": "f95e1147ac59fa8312fe16efb1b7a657", 
       "name": "font_0_3.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "f89cf35febf4ca1f7a69815590f413d4", 
+      "md5": "5823bc91872b942055a21dfa64ea4303", 
       "name": "font_0_4.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "d88ce71da8a3b0204c0e9c86fbc0acdf", 
+      "md5": "2b7e2be44c6929a5b901f14dd5830e08", 
       "name": "font_0_5.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "ae01c2a5fb7eaad221b0c52918eb4b7d", 
+      "md5": "7162b62c52d11ec7b8779757c682727f", 
       "name": "font_0_6.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "fa73d0d94b2bcc78c5a48f4ff46594c2", 
+      "md5": "32aa85aac6e5a1cda011f657e0605417", 
       "name": "font_0_7.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "d9e8760940c1a70e98295ee14c0955bd", 
+      "md5": "9782502f18e0c19a970c8047b46bda97", 
       "name": "font_0_8.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "a0f028961056ea25836076f952a0c8e9", 
+      "md5": "bd02f53deeef0516eadef9adce767d8e", 
       "name": "font_0_9.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "24757ed702877d3b97d9ae3670cbc0ff", 
+      "md5": "ddc88f3760cb5d0e54e3dd7d2682a1f2", 
       "name": "font_1_1.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "ac73cc18e8c60b8dcf61e28e5595f547", 
+      "md5": "e0b2708302d49111fa4efab99f255242", 
       "name": "font_1_2.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "08f057afc43464fc42ed5217fdea7e20", 
+      "md5": "121cbde32ad71825cba9cefc9ed3953d", 
       "name": "font_1_3.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "723561e88a92e4653167b273205d28bd", 
+      "md5": "52d8080de97c79f148b5466f04af8d04", 
       "name": "font_1_4.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "575784fbaa40ad1816a456c4eb9541ea", 
+      "md5": "4e12dbaad58dedc22497a30cd46c25ee", 
       "name": "font_1_5.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "1f81f46a7958c3f056b60665abb71916", 
+      "md5": "0acbc57d9df502f22cc67fc65d954b14", 
       "name": "font_1_6.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "1396a16ae5052d7a4b63eab13beebd23", 
+      "md5": "1027f57834b75c51f15951e8e3fe7991", 
       "name": "font_1_7.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "2fb28252bbf87a6a296c9eaa899e0777", 
+      "md5": "222342bfb455ed412a24b8d628cdfd50", 
       "name": "font_1_8.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "27551a475926231a6b54117619092b50", 
+      "md5": "d8f1e2344e7c5c9939265af5e2056c69", 
       "name": "font_1_9.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "bdd4eb0d29991c3292d7b28ee8b9118e", 
+      "md5": "38bfb2ce4c733271d6eb356970d8fd82", 
       "name": "font_2_1.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "bbe1a5f9124568f003f3eb7ff7da70da", 
+      "md5": "52ca8ad1666a2e1445acdc3aa8404413", 
       "name": "font_2_2.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "e60e2f43fe9c0e565a52e997a75f5f4d", 
+      "md5": "35c08145f531f0ded777e9e81d9268c0", 
       "name": "font_2_3.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "e5d5462d0b87a55cf542d40592e7c04f", 
+      "md5": "313e619ee20d7cbecfa4f431a816e56b", 
       "name": "font_2_4.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "b8a2a46b295b9449034ef76d363ddc00", 
+      "md5": "c7385ffabce22550645b93c033c55b19", 
       "name": "font_2_5.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "5a1ebbfa0c8acd69639d48bba0519b5f", 
+      "md5": "b79f68bc8d842f6784656e66a65a097e", 
       "name": "font_2_6.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "9d803e9491f721b06c8232e62615fabf", 
+      "md5": "145e43f59cdf977857821bbe20915e3c", 
       "name": "font_2_7.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "f876540f27b2c818457d0cc253043345", 
+      "md5": "4f0a0b24d3a5b0c925d1baa33c9830b6", 
       "name": "font_2_8.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "7e08e18a0313dfefdbcc31854df4f96d", 
+      "md5": "f9f429240c1a17d249463ecb9700fd08", 
       "name": "font_2_9.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "c5636ed69daab2b35513cdaa69424201", 
+      "md5": "43b6caae93d7afcb7ca44d3355bc863b", 
       "name": "font_3_1.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "68a4baaccd32a691da62c4272e871b2e", 
+      "md5": "ef4f49e87d177a5403e49b1b90ae5495", 
       "name": "font_3_2.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "0be525e48ed710bda529b1efaffb5d41", 
+      "md5": "0320e0c24305f74107a40f6018e62d5f", 
       "name": "font_3_3.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "82140de9b94de57a57ee88be8765eedb", 
+      "md5": "a0037ed7721e6566f56910d5ed3a0507", 
       "name": "font_3_4.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "5f93417be1eb62e8ba4986991b383606", 
+      "md5": "44f59bb3cd35e35b9feb38422532c7aa", 
       "name": "font_3_5.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "c12f358e48e307fcae247861a37b0f79", 
+      "md5": "9c3a20f6a801dc27673de75fc0778bd8", 
       "name": "font_3_6.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "8665cdb8106d9b1d22bfd9930ddb9fb4", 
+      "md5": "39df09343af61e70238c4ea779551fcd", 
       "name": "font_3_7.png", 
       "path": "sparrowhz/res/game/font_big/"
     }, 
@@ -396,182 +446,187 @@
       "path": "sparrowhz/res/game/font_big/"
     }, 
     {
-      "md5": "6fd1698a23374bd4b794258df35ef048", 
+      "md5": "b09b96fb54037456abf239691828570e", 
       "name": "card_back.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "f19b9e92c2201be1a97677d844a32bbc", 
+      "md5": "34b6f84e79473ec11af887448e7c7128", 
       "name": "card_down.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "b7d65e935063b6a85adb8a71a8515d80", 
+      "md5": "d70d9f1ee9e0db76a36f4514690cf63d", 
+      "name": "card_up.png", 
+      "path": "sparrowhz/res/game/font_middle/"
+    }, 
+    {
+      "md5": "80261716ce327503d528482e70d78f25", 
       "name": "font_0_1.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "11ac5a6b24253129d71bc8ee6c6b764d", 
+      "md5": "d0cf8cb9f481a20363c65a517c825c67", 
       "name": "font_0_2.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "175b4e7940c896b67db904845518d7b8", 
+      "md5": "a4cc12e09f105e34cac9e4a99966a725", 
       "name": "font_0_3.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "d5f983e4f50d9a114bbbcabf2a2c304e", 
+      "md5": "9d7cd9b9fb6a173f0e76d470bf9d8ffe", 
       "name": "font_0_4.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "c8b7f87012e8998e66a72217373e7a55", 
+      "md5": "1706b8136fbd6577a9760f603f6f3367", 
       "name": "font_0_5.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "e66f554c7d5830e526d532741dfb2eda", 
+      "md5": "8b753b61366d4a91e8d8f79263e0992e", 
       "name": "font_0_6.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "8064b7c27c056caccd3529a41cc9f94a", 
+      "md5": "f431626f01e0533744b99435ada68df2", 
       "name": "font_0_7.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "e2a908eb67b10dfdecdd76379e6afb24", 
+      "md5": "46cad8e0890acca5c7f49b9dfc088759", 
       "name": "font_0_8.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "675f650e504b4d19e52a9c1b03b47156", 
+      "md5": "2bb5ba5cf4b0f41aa438aef8176f5bfc", 
       "name": "font_0_9.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "6c504f4e015a72777b85b08522de09a5", 
+      "md5": "24376e8527aaea55ff8a16eb18f11d9d", 
       "name": "font_1_1.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "ff681365d422ee9e6b601efa5d335d73", 
+      "md5": "a8747ded28c0eb1253c0c9995f806547", 
       "name": "font_1_2.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "5f74a48ee1c1024a4d815847aa6fe8e1", 
+      "md5": "2a56f704909fd238a86fe3d75387131d", 
       "name": "font_1_3.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "219bb9d13dba2f3355a32448b0a16bf7", 
+      "md5": "48cf460f81cd2919ea370e17307ba29c", 
       "name": "font_1_4.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "0026c55a2551f06dbaf050bc10008c86", 
+      "md5": "c9e050f7ed4bbbe75f0d2de022eafc11", 
       "name": "font_1_5.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "86cbbb7def62ccb3836ba260a08dd817", 
+      "md5": "b900d3b9a87dc20ffe6f6481652891b8", 
       "name": "font_1_6.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "aa43ecdf20598427b72157a6ce5c6734", 
+      "md5": "1cfa98c14b210eb586b8d7d1c342c383", 
       "name": "font_1_7.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "8eba44d160c4a5341235dbdad69c0cf3", 
+      "md5": "1905f8ba0df23f0ad36994b3d19faf9b", 
       "name": "font_1_8.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "d47de1ca3887937bf7aad2784d1aa595", 
+      "md5": "68bbd154409e5cb51c6fd643180b0e16", 
       "name": "font_1_9.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "5ae6ee1fe8928c4621d14fba3105e97e", 
+      "md5": "2211c0dbfe3efeda2a8bf969cd17dfb7", 
       "name": "font_2_1.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "de63600c43e23035e5b5c4afb28861f6", 
+      "md5": "9d22b0ca10a53244b389b6d68148e189", 
       "name": "font_2_2.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "946313098e31fa55d0da507601c19778", 
+      "md5": "873024c20c405b4e6231e1f4aca2cc16", 
       "name": "font_2_3.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "022f17d63d387adadae5d49db479f5e8", 
+      "md5": "a3d1af74408f9b7cea95202b319c7547", 
       "name": "font_2_4.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "9fc7332f0c2962123ff1301e2b9ca9e5", 
+      "md5": "ce106c5245f38a97691b5ddedc0488f7", 
       "name": "font_2_5.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "e69901cefd444bb839447ab7976a89d7", 
+      "md5": "7599ac71d72c24b01285e72630d74f8c", 
       "name": "font_2_6.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "edfcc8017869ccee7d4db5f08e988efd", 
+      "md5": "12c4f3b957b2aaa5a00792d2638ff16e", 
       "name": "font_2_7.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "457f51fab6e402ab93b534e93d9b0e7c", 
+      "md5": "5e36de1575b1973ee4be7d3b23907c60", 
       "name": "font_2_8.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "8e0e5c832c129be11982c164136e441e", 
+      "md5": "7594b2ef359203e4f21ba0d7ccbe840d", 
       "name": "font_2_9.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "9e40df28eaabfb30a302dd2a1ebec172", 
+      "md5": "122448202b9974ee815b3e2a7ffb7a7a", 
       "name": "font_3_1.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "54999a9ba365cc42fd1b30d7dad815da", 
+      "md5": "a1c56bf39f21f534848526146a0fa0e1", 
       "name": "font_3_2.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "01071b22457f5125196e6ccc50977aaa", 
+      "md5": "cb403cf00a39ca68134412793d460801", 
       "name": "font_3_3.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "4f4b2ea40337a9d78bad18364d942e32", 
+      "md5": "a3a53195a37df626b9ee0833f4fd432a", 
       "name": "font_3_4.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "4b0ab7de8f0bed89be5dbf712d2596e3", 
+      "md5": "a0bd56c1a134b73851b14bb7d7cdc672", 
       "name": "font_3_5.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "454df9fbe48132ba077b2718fabb8b8c", 
+      "md5": "5df0c98805f890846ba4ce00e0fc7bb5", 
       "name": "font_3_6.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "d12e9bc98187977cc06e5c8fd922d127", 
+      "md5": "b8277130bff32899bd42f561d87b66d7", 
       "name": "font_3_7.png", 
       "path": "sparrowhz/res/game/font_middle/"
     }, 
@@ -581,188 +636,198 @@
       "path": "sparrowhz/res/game/font_middle/"
     }, 
     {
-      "md5": "135c3cf4b598a9fe338788fb94ce5b0e", 
+      "md5": "a4ff29f988124d30d7c8d4e5820bcec6", 
       "name": "card_back.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "06b611e9a1bcbe4cdeaa40724813786f", 
+      "md5": "d2293095fd65912d29610d6030f73218", 
       "name": "card_down.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "b699201964521d9bfcb050fabf5044d7", 
+      "md5": "d70d9f1ee9e0db76a36f4514690cf63d", 
       "name": "card_up.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "f305db485cf242581cd5d012a7563fae", 
+      "md5": "4630d1ecd0c3d9e9b4c821cc9adccecc", 
+      "name": "card_up1.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "88ef5031b79ce2fbe1406e03c7e758c5", 
       "name": "font_0_1.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "c71df046d2b35570c1a505996caa7c15", 
+      "md5": "97b9d202cd78d6bcec1902aef00d9119", 
       "name": "font_0_2.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "05105ef4d88d119258eec3f95c293d11", 
+      "md5": "ced0dc1078e68915934a3bbcd6d6442a", 
       "name": "font_0_3.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "98854b265c77000ef8d0d6005a252300", 
+      "md5": "b135e4ebb441d8d92c029df92ed80552", 
       "name": "font_0_4.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "5d8080ffa51be827c7d0315d83007edf", 
+      "md5": "d1883b62c04f8de7b6e46ec6699cf11d", 
       "name": "font_0_5.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "09737177adbc301cf59d64c819f00e4a", 
+      "md5": "ff66d8df67fdb992e0612a95de3d2a74", 
       "name": "font_0_6.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "b7981898d2ad0a0fc62916c9b5071069", 
+      "md5": "47895cf5f52a348cca91fb504a436255", 
       "name": "font_0_7.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "6f5e5ab613aaae03b170e7232cf8e74b", 
+      "md5": "d01869198e1dbddca161e475e50acffe", 
       "name": "font_0_8.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "fb8459a5ea7f36a59d4349c00304f9dc", 
+      "md5": "c882ceba6acd5e7400597b7f8e9644fb", 
       "name": "font_0_9.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "bd7b8eac295a6ef6430d5162525e6570", 
+      "md5": "a7079272d2a10544ec998720ff0da284", 
       "name": "font_1_1.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "91297fb6bf6d885bb5dcafc4114c8d86", 
+      "md5": "1edbd4dd18fac4a01d4fa540a31a31bf", 
       "name": "font_1_2.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "8715aba3ae0d604e745133c7f25da9cb", 
+      "md5": "307c35c4d5e6eb89f750c71f6792299b", 
       "name": "font_1_3.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "9a54044c5ac3530341d2cdf21fddd79e", 
+      "md5": "ae57aa9c0940ca88c9831783858cadc0", 
       "name": "font_1_4.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "6ba73f185ef50f2c76653c98e2020ffd", 
+      "md5": "ad0c65b4b6bc2985fef7110d20e86423", 
       "name": "font_1_5.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "a0b0263a9cdf77a26012aea279688a20", 
+      "md5": "b09295f09a7e28f6c145e60464a076a0", 
       "name": "font_1_6.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "9bdf5f311dea2b7f24d693f44a8da3d1", 
+      "md5": "306e56c0e28c7693da49054f512eaae5", 
       "name": "font_1_7.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "c3eed67a8d5bee9a819de54a870bb808", 
+      "md5": "05db8c0f9d1ff2740be2c32aeeef18e8", 
       "name": "font_1_8.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "a1afab417bdd2f9c366ef524d71ed723", 
+      "md5": "6b7e9e67da0315b91a4ba7722f3e9513", 
       "name": "font_1_9.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "fb09009fec6b1b50b433109efe480a40", 
+      "md5": "7fabdb7b534c478b68b9522e67926cbf", 
       "name": "font_2_1.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "1ac14fe816c916e6428688220de46da8", 
+      "md5": "a8265258a2ceb2ae8eed4f8a47bb8842", 
       "name": "font_2_2.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "32826d9d8f396b17a356e82fe87397b9", 
+      "md5": "937ddfbfcfcf0d39dd8b58abb39b3807", 
       "name": "font_2_3.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "e65cf69fec46833435380a564d086b8a", 
+      "md5": "412770ba2c6d81b6fb66d57e1586dec2", 
       "name": "font_2_4.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "d6f60423b8f166ed54188821940e06db", 
+      "md5": "c310fbf11a921c66dce1a7b519af350f", 
       "name": "font_2_5.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "dccb4563db62bb98cd9a96f5441a772c", 
+      "md5": "4676415069bd1719d808d810f1ada77f", 
       "name": "font_2_6.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "21058d7c619d89a69d6a05cec8cfdaec", 
+      "md5": "daa4af673c5fafc6b3c20df61cb9466b", 
       "name": "font_2_7.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "6d1e2d3fd14a28e91a95ac3e7bc818fa", 
+      "md5": "51a5ef802e8e24143a9643e4b485a0a4", 
       "name": "font_2_8.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "c241b4f94fc12352a023bfa48ee507f0", 
+      "md5": "6f4f299ead97d927587581f16069c6b6", 
       "name": "font_2_9.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "0ad34c1d584c62128349626cea0cd6bd", 
+      "md5": "62e831f35c2da90bb155009912dbda18", 
       "name": "font_3_1.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "b2682b975950e5f307499e82b30ca939", 
+      "md5": "c30fc096dfe51bcd4472d75f29c13084", 
       "name": "font_3_2.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "07cbc720c1de759810c5ecfdbc2ffc77", 
+      "md5": "c9a61ffe32eb4655a728ce14dceb283c", 
       "name": "font_3_3.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "1b4b5ff5fe10a77be5b2b21fa29099e6", 
+      "md5": "bf0b4711aa0fccbbd9ccd72f7d2d2eb3", 
       "name": "font_3_4.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "26d3e347bce44d712c8c916c433adb37", 
+      "md5": "ee45d49cb5878cb8230f284073ff1a97", 
       "name": "font_3_5.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "29dfda28b407b171b88bbf777d75459a", 
+      "md5": "e8d48e1354d7d269f16f417b4cbb92cb", 
       "name": "font_3_6.png", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "e381c8d4ebfff6b98fc7fe6976b3773d", 
+      "md5": "15f4d911fdfb001cb1e3286f50d60bd4", 
       "name": "font_3_7.png", 
+      "path": "sparrowhz/res/game/font_small/"
+    }, 
+    {
+      "md5": "ae8e40e166f9bbddfd72378dd59f9d65", 
+      "name": "Player.csb", 
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
@@ -771,182 +836,182 @@
       "path": "sparrowhz/res/game/font_small/"
     }, 
     {
-      "md5": "6d5c54f02a4ec45ff38ac8a2358d8867", 
+      "md5": "47463d122536683e7aa26fd5a3e31d7c", 
       "name": "card_back.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "2a75a50a87dcbc97eea4f67cf3a36f3e", 
+      "md5": "b8238cd2ca0ef8404ed28487474748fe", 
       "name": "card_down.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "3f1fb8dddefe2ed5b48b76efae9f8613", 
+      "md5": "aa0cfb14e293d8bf82359f96ebf9df03", 
       "name": "font_0_1.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "5c2213299938b0187760f61dc9141774", 
+      "md5": "634d58e6b3d4d323b3ae4a3f44b8cdea", 
       "name": "font_0_2.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "246e9b621d424622d65c6608b8e11b48", 
+      "md5": "7ee26c1b86b197606f7c76e0ec6bb974", 
       "name": "font_0_3.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "eb58e91c4543be9162e3314ea9205668", 
+      "md5": "6acb929b974478793cf64b9ef8243955", 
       "name": "font_0_4.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "775ecf5a34bd9b19e7c31a31100a15cb", 
+      "md5": "19fb0e9c174188ce6266719cd750d68c", 
       "name": "font_0_5.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "f0baac930451e4bcf5255e9763ae4625", 
+      "md5": "b1c3d67ad472a79aaaac914dc312c0f1", 
       "name": "font_0_6.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "755aeb828a30086b20f2f6133a4ba58f", 
+      "md5": "06f06cce36298c60dcebcdb860a1b6d7", 
       "name": "font_0_7.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "1b81c57051e65091940ce363be1a485f", 
+      "md5": "1cd928ad91a0905d25b1d30719c88d76", 
       "name": "font_0_8.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "d560bc3c60593548079fa56578ad94c3", 
+      "md5": "5c70ca816e04ebe4277d117559292117", 
       "name": "font_0_9.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "3e2405ac014ef65820a0d18b670d386c", 
+      "md5": "9dc7fbec96ca8a6403a3c9f927b18c8c", 
       "name": "font_1_1.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "e4f50385dd1bca1b6f52938b693b6d26", 
+      "md5": "07fbc3656d81a73e5e7f02f2de484144", 
       "name": "font_1_2.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "b8e02ec001d682120e58802e8bef906a", 
+      "md5": "8ec779a87a4c2a06eb19157592e31837", 
       "name": "font_1_3.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "afd3bde9f3c3c7f6ad69049cd15c3f89", 
+      "md5": "a2b62a96251fc6dfe55ab0517a2b7424", 
       "name": "font_1_4.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "0ef9deb9e0bb3698813e6f5c4cc38c35", 
+      "md5": "4044173e248b3992ff860dbe4cdcb1b1", 
       "name": "font_1_5.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "b75ce50e0cfc0ab69625be5e46800678", 
+      "md5": "4dc83245e48e2ea5d07d4f9be9b5bce7", 
       "name": "font_1_6.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "24479b0548955cda050c709a6ddabe07", 
+      "md5": "ad7ada7b56ccfe59f7ba5d2c20f978d6", 
       "name": "font_1_7.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "62e4d79bc64dcf1f1db29cc52d528739", 
+      "md5": "1ecb48db915d95eb2fd88d590b79f063", 
       "name": "font_1_8.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "b0744acd80b484de2f270063b5cdf811", 
+      "md5": "6444052410268d963c693b6cfed1ecae", 
       "name": "font_1_9.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "78a0f01d7e6702a388fdf37d8c56ea2d", 
+      "md5": "9ca9e9d20c58f542f215fe2583c3587e", 
       "name": "font_2_1.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "0ca7d1b095ff68e399c56d1fe831995b", 
+      "md5": "9e154b5af106f5b2d977b7b1f20aecb2", 
       "name": "font_2_2.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "95f716fe9aa3fe74a20e0b34e024870e", 
+      "md5": "3c80eb65874647859c8b593ffdc73a8c", 
       "name": "font_2_3.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "701cd7ad95173d2067ff8cf4b7d8b11f", 
+      "md5": "70840be67ad8a5876c449907f8baa082", 
       "name": "font_2_4.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "ec89e48de05072d3dff7f6ca4c71ab79", 
+      "md5": "ada34dae5776d84f8c980d4e13731d25", 
       "name": "font_2_5.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "ac04e00b3f3b6de69c09f40faad297ab", 
+      "md5": "3823c0b0a7c80506446fa83752ffe762", 
       "name": "font_2_6.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "b66897e7794bc8043333c35cd5b9e8e5", 
+      "md5": "4996067919c3d8861f2574f4cc5e2ad8", 
       "name": "font_2_7.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "20c1d55aeb92de26d847391ada0888a7", 
+      "md5": "f0cc976e4ebe40372118b07bfedb9cf7", 
       "name": "font_2_8.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "90b9e2460538783d622b4615aa8263ac", 
+      "md5": "61dae803d5d0c51725965a249e60730f", 
       "name": "font_2_9.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "9aad9e6034ea28b41e9835608ed2d07e", 
+      "md5": "f2a2211fe577145434563d84b97f0a90", 
       "name": "font_3_1.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "906cc63cba2e6c6a43a21cede828a3b1", 
+      "md5": "9a525a705777269c3f1faebfef834bd0", 
       "name": "font_3_2.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "8d8d70863e9b84f5319b395e1ccaf075", 
+      "md5": "f8410738dc5695ea7f7eeeb260df462e", 
       "name": "font_3_3.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "8748da8944b041ce8e7345e0cb5b887e", 
+      "md5": "38206dee8e6a518175272418c12f67e3", 
       "name": "font_3_4.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "62b65b90ce8554bc515fba3e9aaf4930", 
+      "md5": "49a8078b7fb615fc6409d06175c4c3b4", 
       "name": "font_3_5.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "e359b86745a6b56b8ea02d0bc39fde92", 
+      "md5": "3976c556aad2fc18a51547ec648ea3da", 
       "name": "font_3_6.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "42f6935eafd092ce7319de4e79b784d2", 
+      "md5": "937cad3c7af3a025ef9bd66b7973aa3e", 
       "name": "font_3_7.png", 
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
@@ -956,12 +1021,17 @@
       "path": "sparrowhz/res/game/font_small_side/"
     }, 
     {
-      "md5": "6b0d4f65602842322420f5e73b0132e5", 
+      "md5": "1779fc4d466fac3a5f6761a14c46baf0", 
+      "name": "bg_content.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "d5dc9d2c18ba1c910802ede78a541977", 
       "name": "GameResultLayer.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "625544470e5ee07475a7a51a2b80084b", 
+      "md5": "74d244d7767c8e810b1233b5a2655a6c", 
       "name": "nodeUser.csb", 
       "path": "sparrowhz/res/gameResult/"
     }, 
@@ -976,18 +1046,23 @@
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "c7d986fb3d8abbf4185e41dacab24a9c", 
-      "name": "result_background.png", 
+      "md5": "a4f72d8418ccec579a2df3f8a1f475f9", 
+      "name": "tag_banker.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "a017ef846565d1ead521d3b8e12e82bd", 
-      "name": "result_background_1.png", 
+      "md5": "8e900b0b9b4a0b9e6958d232f19e8e39", 
+      "name": "tag_dialog_bg.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
-      "md5": "55bd215d4fad41b60fe2004daeab1c6e", 
-      "name": "win_background.png", 
+      "md5": "9b059b06b3a16f5788d15a750ab165ba", 
+      "name": "tag_dialog_bg_02.png", 
+      "path": "sparrowhz/res/gameResult/"
+    }, 
+    {
+      "md5": "f68d7144273a1a7aae0adb55b9e7f49a", 
+      "name": "tag_profile.png", 
       "path": "sparrowhz/res/gameResult/"
     }, 
     {
@@ -1561,7 +1636,7 @@
       "path": "sparrowhz/src/models/"
     }, 
     {
-      "md5": "f624079676854a2cdc42baeef0972ab0", 
+      "md5": "fdd51b36cfc5020e1ae4966a928fcb1b", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
     }, 
@@ -1576,27 +1651,27 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
-      "md5": "1b1c92fadc6bbfcffeec7d9fc7b1df12", 
+      "md5": "7908547f24213274963919a9fdfcec3c", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "bacaa4d2e27040e47320254b1b2619c1", 
+      "md5": "3ab7e4bd45b25a3b35c0305ec8b43814", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "c43597f300b0cc9b2328987e3baea700", 
+      "md5": "b82403b71b8e80c15558a8ca46fc900d", 
       "name": "ResultLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "5706f354feb6b4c149edd5f25c4af749", 
+      "md5": "e701660e83bb230a3bca749d051c5c0c", 
       "name": "SetLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 319
+      "allcount": 334
     }
   ]
 }
