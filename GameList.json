@@ -7,8 +7,8 @@
 		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/RoyalHall/master/download",
 		"clientversion":"6",
 		"resversion":"31",
-		"ios_url":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jayce-fate/TT-Source/master/RoyalHall.plist",
-		"android_url":"https://raw.githubusercontent.com/jayce-fate/TT-Source/master/RoyalHall.apk",
+		"ios_url":"itms-services://?action=download-manifest&url=https://bitbucket.org/FeiLe/download/raw/master/RoyalHall.plist",
+		"android_url":"https://bitbucket.org/FeiLe/download/raw/master/RoyalHall.apk",
 		"wxLogon":1,
 		"isOpenCard":0,
 		"gamelist":[
