@@ -296,17 +296,17 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "d950ee82aa51aaed51153d97c4cacfae", 
+      "md5": "1daa4f29934f11629b36c004bf267ef7", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "1c4fe7458de35a52cfd60bc833c25a5e", 
+      "md5": "6e199e9b90cec44d775a5905166d80a8", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "2502b4a550fd86758e6227b970fe17d0", 
+      "md5": "d8428c9c55eaba4e9f998d8d9d640a56", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
