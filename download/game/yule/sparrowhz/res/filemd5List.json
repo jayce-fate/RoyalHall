@@ -156,6 +156,16 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
+      "md5": "1e93f9bd77a41def1e8a27529a7c1242", 
+      "name": "btn_close.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
+      "md5": "f9d7551ff6fd06a4a9f31af993785254", 
+      "name": "btn_open.png", 
+      "path": "sparrowhz/res/game/"
+    }, 
+    {
       "md5": "e3580498d1742e82eaf89b8bf15bec71", 
       "name": "card_back_up.png", 
       "path": "sparrowhz/res/game/"
@@ -1636,7 +1646,7 @@
       "path": "sparrowhz/src/models/"
     }, 
     {
-      "md5": "bed0d0cb43ccbbd97b15bc16d3f25a8d", 
+      "md5": "aa1824b9b591dedd4a80677d8ac74728", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
     }, 
@@ -1651,12 +1661,12 @@
       "path": "sparrowhz/src/views/"
     }, 
     {
-      "md5": "73e82e0d623e6a4a6a3de39002295d0e", 
+      "md5": "1a6aedac42a49201689d029b5e4bc84d", 
       "name": "CardLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "95a7b1f7f2ab5abdcbe89bf2d55d59af", 
+      "md5": "7591adcddd51dff68519c77dd17d9721", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
@@ -1671,7 +1681,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 334
+      "allcount": 336
     }
   ]
 }

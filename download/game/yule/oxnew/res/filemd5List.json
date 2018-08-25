@@ -16,12 +16,12 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "eec28616d86628fc4d5f1de50b4da472", 
+      "md5": "f66494db0a01d27de6a3026b376463da", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "c251b6ef37587f4bf0714f7d4a10bb69", 
+      "md5": "90c114092b151fe5d902e9dfca572d33", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
@@ -411,17 +411,27 @@
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "5b5eb54ca70eb8440dccb09701050592", 
+      "md5": "57b4b078c917bfbc76f69a107928cb3f", 
       "name": "background.png", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "e2f9dc5ce7a9a95cd0e1e5d0269acb57", 
+      "md5": "c3448292843245afe8e2e90410c848d3", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "0b90df3b3ac3e1e395fb325c18eecf53", 
+      "md5": "7716003766ab948e493b0c8c7b1ae0b4", 
+      "name": "playerNode.csb", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "0cfc976b24a0ac097e9251b7955169b2", 
+      "name": "playerNode1.csb", 
+      "path": "oxnew/res/game/"
+    }, 
+    {
+      "md5": "0cae27b47d23edeab165586e69bfbf16", 
       "name": "SetLayer.csb", 
       "path": "oxnew/res/game/"
     }, 
@@ -651,7 +661,7 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "4ccc245751b58f87e7f2b1fd93241f11", 
+      "md5": "c2dc3c9fff9f6613f75d6c875a381391", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
@@ -661,7 +671,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 132
+      "allcount": 134
     }
   ]
 }
