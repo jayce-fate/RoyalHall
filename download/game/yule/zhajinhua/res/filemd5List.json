@@ -1,6 +1,26 @@
 {
   "listdata": [
     {
+      "md5": "7dbbb50fd26c26e76beaa31242489da9", 
+      "name": "ButtonLayer.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "171c9d3962181d8d046183a8464ca4ad", 
+      "name": "deskSource.plist", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "8fe50c451ba8a891ea9667e1979104cd", 
+      "name": "deskSource.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "c40ea24de9a0d252572f4034c95a66f5", 
+      "name": "EndLayer.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
       "md5": "cfff9c84c804e5e5b74e431dbde4fbc1", 
       "name": "game_desk.png", 
       "path": "zhajinhua/res/"
@@ -24,6 +44,66 @@
       "md5": "86d1e6565b68062e7e4a737999768f42", 
       "name": "game_zjh_res.png", 
       "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "1ce58fb29f4d56cac2c3a91de25851a8", 
+      "name": "MainScene.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "fa79821349dd686f516187283bc2fb8c", 
+      "name": "Button_Disable.png", 
+      "path": "zhajinhua/res/Default/"
+    }, 
+    {
+      "md5": "4f1f6b524ee2533caaebaeab9e49368a", 
+      "name": "bg_lobby.png", 
+      "path": "zhajinhua/res/desk/"
+    }, 
+    {
+      "md5": "50cdffb9ae9ddb5cc072b2b252bc9929", 
+      "name": "tag_premium_game.png", 
+      "path": "zhajinhua/res/desk/"
+    }, 
+    {
+      "md5": "53eea43206d5154cfdd30cdb61b72b07", 
+      "name": "tag_premium_game_bg.png", 
+      "path": "zhajinhua/res/desk/"
+    }, 
+    {
+      "md5": "de07b6a12fc2c98443c954676adb3bf7", 
+      "name": "btn_change_table.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "f1bdb49f58286aa63644fd28e78af7cc", 
+      "name": "btn_continue.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "b7b9b16e66fd1640b780148a6c93804b", 
+      "name": "tag_bg.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "1e4ef155819ade35b725d83cf84265d3", 
+      "name": "tag_fail.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "1c6e44ea2cf60911966d09bddb059a42", 
+      "name": "tag_poker.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "16dd945e225bf557222949110c91ffd4", 
+      "name": "tag_profile.png", 
+      "path": "zhajinhua/res/end/"
+    }, 
+    {
+      "md5": "3d4623dcdb209ee07b95393741770b93", 
+      "name": "tag_win.png", 
+      "path": "zhajinhua/res/end/"
     }, 
     {
       "md5": "b285fd60ff611c1c47b10a5e959964c4", 
@@ -281,7 +361,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "80746a7c542c6bc51e40de082b471135", 
+      "md5": "708182148a1972a7b17f065944e14c80", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -301,12 +381,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "6e199e9b90cec44d775a5905166d80a8", 
+      "md5": "df270e3463bd07a9005801a4157711e3", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "d8428c9c55eaba4e9f998d8d9d640a56", 
+      "md5": "fe4a51803c1d1e5137e42ae57a7e47ac", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
@@ -316,7 +396,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 63
+      "md5": "a79391b805f60df21e08225bb462610b", 
+      "name": "SettingLayer.luac", 
+      "path": "zhajinhua/src/views/layer/"
+    }, 
+    {
+      "allcount": 80
     }
   ]
 }

@@ -11,12 +11,12 @@
       "path": "sparrowhz/res/"
     }, 
     {
-      "md5": "1f6a6790c8cb75a5cce424f7615753ff", 
+      "md5": "9c38621a65fe3099141915e6908913d8", 
       "name": "Plist.plist", 
       "path": "sparrowhz/res/"
     }, 
     {
-      "md5": "1e6d0994a648bed1452c9f966ffc24d8", 
+      "md5": "433db27d47eaa0c87291e6fbff0271c9", 
       "name": "Plist.png", 
       "path": "sparrowhz/res/"
     }, 
@@ -181,7 +181,7 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "87116cf9ecd92d42f6c3801c826d09ba", 
+      "md5": "afe040ffe6c05140301307be416b53f2", 
       "name": "GameScene.csb", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -1676,7 +1676,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "e701660e83bb230a3bca749d051c5c0c", 
+      "md5": "f25153246e83454aea66be97f13fcfdd", 
       "name": "SetLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 

@@ -16,12 +16,12 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "f66494db0a01d27de6a3026b376463da", 
+      "md5": "f08bf88ca09e61fefb47878b4010c49a", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "90c114092b151fe5d902e9dfca572d33", 
+      "md5": "09e40bbfefd9bbe6d9289308b7b59c28", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
@@ -46,7 +46,7 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "c814a55d74f3b347308cc5a6162a7728", 
+      "md5": "0a7940c53e2f30a4378e9ca6eaf2db01", 
       "name": "num_prompt.png", 
       "path": "oxnew/res/"
     }, 
@@ -61,8 +61,28 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "a1fa0490926afc65bfb21c33b0ac6511", 
+      "md5": "6e1498bc3db3380313af245cdf4ed40d", 
       "name": "num_time.png", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "c7453508c3bab05569d85c17bc4a2a21", 
+      "name": "tag_chasing.png", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "bf2921664e76378c93b6c1a27eb0b244", 
+      "name": "tag_chasing_bg.png", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "93a06ca255fac4c621df05e602b33dba", 
+      "name": "tag_count_down.png", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "81587cdc5e3c2e6b4d97a42561c10cf9", 
+      "name": "tag_count_down_bg.png", 
       "path": "oxnew/res/"
     }, 
     {
@@ -416,7 +436,7 @@
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "c3448292843245afe8e2e90410c848d3", 
+      "md5": "43e97187f769a74fe662326f818807f7", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
@@ -483,6 +503,11 @@
     {
       "md5": "5af9620e39c049b420729b7d3c1bd870", 
       "name": "backMusic.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
+      "md5": "d5d809feba10362f1abc56bbcd65aac1", 
+      "name": "douniu_banker0.mp3", 
       "path": "oxnew/res/sound/"
     }, 
     {
@@ -636,7 +661,7 @@
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "e0b6916f9bf0e97638da5eb46855c35a", 
+      "md5": "6443d0e9a454711049c5956be8c14ab5", 
       "name": "CMD_Game.luac", 
       "path": "oxnew/src/models/"
     }, 
@@ -646,7 +671,12 @@
       "path": "oxnew/src/models/"
     }, 
     {
-      "md5": "756a617c07379a6c131988daa4c2e7d6", 
+      "md5": "a46acd2623e9dc81b1735df5ba4c7175", 
+      "name": "Toolsfunction.luac", 
+      "path": "oxnew/src/tools/"
+    }, 
+    {
+      "md5": "460ee1747611966828b52ac4f3d720d3", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -661,7 +691,7 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "c2dc3c9fff9f6613f75d6c875a381391", 
+      "md5": "9e641b2c1239fb0d6ed7f8f373834f8b", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
@@ -671,7 +701,12 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 134
+      "md5": "2566efb191f48ba099835111c632c5cb", 
+      "name": "SettingLayer.luac", 
+      "path": "oxnew/src/views/layer/"
+    }, 
+    {
+      "allcount": 141
     }
   ]
 }

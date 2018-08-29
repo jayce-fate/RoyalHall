@@ -1,6 +1,16 @@
 {
   "listdata": [
     {
+      "md5": "8dafca9910f2fa96c60920865c0a06f9", 
+      "name": "poker.plist", 
+      "path": "runfasthn/res/"
+    }, 
+    {
+      "md5": "864e76be35631cf6d2f3d5319e31bac1", 
+      "name": "poker.png", 
+      "path": "runfasthn/res/"
+    }, 
+    {
       "md5": "ff609970412baef27b1f79f40e18e0df", 
       "name": "runFastCard.png", 
       "path": "runfasthn/res/"
@@ -9,6 +19,36 @@
       "md5": "1c774fb0c39f8bb4fdc7a072b3e2b61a", 
       "name": "runfasthn_bg.png", 
       "path": "runfasthn/res/"
+    }, 
+    {
+      "md5": "940e6105cf619f5eba6cc190774b66f9", 
+      "name": "CheckBox_Disable.png", 
+      "path": "runfasthn/res/Default/"
+    }, 
+    {
+      "md5": "0d09d6e06b35a6c207e8c464131600af", 
+      "name": "CheckBox_Normal.png", 
+      "path": "runfasthn/res/Default/"
+    }, 
+    {
+      "md5": "7348769ebbb9bf68a11bb2ef20d68b6f", 
+      "name": "CheckBox_Press.png", 
+      "path": "runfasthn/res/Default/"
+    }, 
+    {
+      "md5": "33e821a1e9307b492bf27500078279da", 
+      "name": "CheckBoxNode_Disable.png", 
+      "path": "runfasthn/res/Default/"
+    }, 
+    {
+      "md5": "7b7f98e04a5fc8121f8ec0414954d210", 
+      "name": "CheckBoxNode_Normal.png", 
+      "path": "runfasthn/res/Default/"
+    }, 
+    {
+      "md5": "7b5c98a23993fb67ff9b05eea70ac37c", 
+      "name": "round_body.ttf", 
+      "path": "runfasthn/res/fonts/"
     }, 
     {
       "md5": "90a4e88b7adf37a5057347dd35608fc2", 
@@ -31,7 +71,7 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "788b2d4795e38df7872ef026a47b8f7e", 
+      "md5": "5c8d69a502777479580243ae1c0e1878", 
       "name": "GameScene.csb", 
       "path": "runfasthn/res/game/"
     }, 
@@ -56,7 +96,7 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "cd754d493a81528df58453a605453b49", 
+      "md5": "42bf849ab50ee2043ed916867f174620", 
       "name": "Player.csb", 
       "path": "runfasthn/res/game/"
     }, 
@@ -66,12 +106,12 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "3875761b17dc7c4153d2601a1bf977dc", 
+      "md5": "8dafca9910f2fa96c60920865c0a06f9", 
       "name": "poker.plist", 
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "ac71826d497a7589bdd34ffe6737202a", 
+      "md5": "fbff4b38c3856f08a468dae572ffc503", 
       "name": "poker.png", 
       "path": "runfasthn/res/game/"
     }, 
@@ -186,7 +226,7 @@
       "path": "runfasthn/res/result/"
     }, 
     {
-      "md5": "3cf7326141c2929e2dcca105f509316f", 
+      "md5": "8a2ce8ead3035fbcd07af18ee479029e", 
       "name": "ResultLayer.csb", 
       "path": "runfasthn/res/result/"
     }, 
@@ -686,7 +726,7 @@
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "76fbf098b9957f7626bc844f466a37b0", 
+      "md5": "20a6e1fdc804da01ff8ccc789fbae4af", 
       "name": "GameLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -701,12 +741,12 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "af0b10c0643c3415749605118fb70c7d", 
+      "md5": "4acecdcdbee9630df2f54c8b2f80a24f", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "99558d4ef23b8fa8ef72fea96f00a75f", 
+      "md5": "3399cf5d70462b93da411556003e3123", 
       "name": "HandCardLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -721,17 +761,17 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "4905ba2137f988f7e0e724954bf8e486", 
+      "md5": "7d69446ab9f47cdd7ec418f9d6d746ed", 
       "name": "CardsNode.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "f5e55567250dd3e36fc2f4484bcd997e", 
+      "md5": "9604b32ca8ad7523da978cd37246aef3", 
       "name": "CardSprite.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 146
+      "allcount": 154
     }
   ]
 }
