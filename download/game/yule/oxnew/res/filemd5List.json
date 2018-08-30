@@ -496,12 +496,7 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "41115c44159c010fbde5ebc1f6ca52d8", 
-      "name": "ADD_SCORE.WAV", 
-      "path": "oxnew/res/sound/"
-    }, 
-    {
-      "md5": "5af9620e39c049b420729b7d3c1bd870", 
+      "md5": "f63fb4faefe493539a73fb524911f3db", 
       "name": "backMusic.mp3", 
       "path": "oxnew/res/sound/"
     }, 
@@ -511,13 +506,28 @@
       "path": "oxnew/res/sound/"
     }, 
     {
-      "md5": "9f73080c575ad208af1c31800d56f26b", 
-      "name": "GAME_END.WAV", 
+      "md5": "cccca74f80d115fe889610b5c2725d58", 
+      "name": "douniu_coins.mp3", 
       "path": "oxnew/res/sound/"
     }, 
     {
-      "md5": "63931a127e1ffb60300bf1642197e41e", 
-      "name": "GAME_LOST.WAV", 
+      "md5": "c98acd1a642af4760652ccb2425cf7c3", 
+      "name": "douniu_lose.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
+      "md5": "689240c47f28bc3fba25486978b734d1", 
+      "name": "douniu_send_card.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
+      "md5": "0bc4f5250454de01bef4c070ae66a74e", 
+      "name": "douniu_win.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
+      "md5": "9f73080c575ad208af1c31800d56f26b", 
+      "name": "GAME_END.WAV", 
       "path": "oxnew/res/sound/"
     }, 
     {
@@ -526,8 +536,8 @@
       "path": "oxnew/res/sound/"
     }, 
     {
-      "md5": "0c80e62b6c93f8e0fe9e6c23ad276661", 
-      "name": "GAME_START.WAV", 
+      "md5": "6681d4c348886322b69b514eee79fc0d", 
+      "name": "GAME_START.mp3", 
       "path": "oxnew/res/sound/"
     }, 
     {
@@ -536,127 +546,117 @@
       "path": "oxnew/res/sound/"
     }, 
     {
-      "md5": "7cc28fda98235c75b8bf972c97badd5c", 
-      "name": "GAME_WIN.WAV", 
-      "path": "oxnew/res/sound/"
-    }, 
-    {
       "md5": "a89c408e570913f058defccc063fff02", 
       "name": "OPEN_CARD.wav", 
       "path": "oxnew/res/sound/"
     }, 
     {
-      "md5": "b81338369ed5cacb23c17c83e4508773", 
-      "name": "SEND_CARD.wav", 
-      "path": "oxnew/res/sound/"
-    }, 
-    {
-      "md5": "e5d0c28891661092a32deb70947894bc", 
+      "md5": "6117eeaf1333a98c15f5f4952ff7e023", 
       "name": "ox_0.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "350535e587cdabc7cde4229ab7169542", 
+      "md5": "99bbd2e628079c2df5c1da077a3002cb", 
       "name": "ox_1.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "3fe3d52637c26eaf3dcc62217b6f62d6", 
+      "md5": "0590d86befbc39b5d2e24be99b0025c2", 
       "name": "ox_10.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "472a580a0667d327083e425f30b01cd1", 
+      "md5": "f9e0104b46a87b1bf095c0279eb95311", 
       "name": "ox_2.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "bf82045a6b38df0d1a686a027f29a667", 
+      "md5": "4812363a520f33a58eac0676785a3390", 
       "name": "ox_3.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "d16d721512f51a729206adec6b204a1f", 
+      "md5": "be7149443f3b1209f8fdf1298f2c566b", 
       "name": "ox_4.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "c94824a3cfa576c3c356356f5c5def80", 
+      "md5": "25c29fe0bc5b58ff564818d17e70c717", 
       "name": "ox_5.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "7ab39031ba1080d39deccb52f6d7554f", 
+      "md5": "ff8f98953c9dc7bf6d8e11cb7336c07e", 
       "name": "ox_6.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "7b717bc0f80928517b514e7bf3b0b1b4", 
+      "md5": "4f826cdc47cc7143502ee699d7af1548", 
       "name": "ox_7.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "2555fc8a783854067c014687e7608be3", 
+      "md5": "5b469e95a8016a75d7c3c36e0db8e445", 
       "name": "ox_8.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "22da3833bdd382999ed106f64d2e5dc1", 
+      "md5": "a98a5913ad7a0a96a8b69dc57ffbabfd", 
       "name": "ox_9.MP3", 
       "path": "oxnew/res/sound/BOY/"
     }, 
     {
-      "md5": "a036675952720962d989c9c319fe0d1e", 
+      "md5": "919b96e83bc1bdbd6484d968f1e10909", 
       "name": "ox_0.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "030ab22eaa33daf53fa1d996dbf698dc", 
+      "md5": "af6da928e047ccd4f1c2d26bf4b5b94f", 
       "name": "ox_1.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "737e0beaf60811f45720bfb9c233a31b", 
+      "md5": "205b1517ed5d85ae42fdc3e919947287", 
       "name": "ox_10.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "e6d86dd985a5aace0ff06f1cfb3db8ad", 
+      "md5": "7c0a1ea4fe239fab4a74dc751361bcf4", 
       "name": "ox_2.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "5ab66a8d82140af785f54a8cdef28744", 
+      "md5": "4e7fd97374284446f4c4b924eb972807", 
       "name": "ox_3.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "a72e133f7e69e7a63d8669d235450525", 
+      "md5": "4ba3efc19e5b1e35db5d3180471d7406", 
       "name": "ox_4.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "78b82cdeec9c5847fc3d1f3bf781b957", 
+      "md5": "9401974f508547674cfffdffc73970e9", 
       "name": "ox_5.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "87188b2255f932afeeb93714112b2ebf", 
+      "md5": "b2f5c0d07774584bec7d1bf8223f600c", 
       "name": "ox_6.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "0e713dfefbfb6f009a2978a6a0500c0b", 
+      "md5": "c4be328ca743e506dadf09ce30f77afd", 
       "name": "ox_7.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "b66ffe90c6a82040f55748f3d9193004", 
+      "md5": "68dc4f9c9550b2ceaa1ac38f3f44510f", 
       "name": "ox_8.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "4a1a549833fee1c24cec81b90a528d47", 
+      "md5": "8cbbb80228172423cda5b928c4082010", 
       "name": "ox_9.MP3", 
       "path": "oxnew/res/sound/GIRL/"
     }, 
@@ -676,7 +676,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "460ee1747611966828b52ac4f3d720d3", 
+      "md5": "c548d767cfc41cdaed90004dcce3b2e3", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -691,7 +691,7 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "9e641b2c1239fb0d6ed7f8f373834f8b", 
+      "md5": "afced1fa9472406acb99bde09d32f8b8", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 

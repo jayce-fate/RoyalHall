@@ -1,6 +1,16 @@
 {
   "listdata": [
     {
+      "md5": "adb64186523fb9de926f741fe1e47717", 
+      "name": "btn_leave.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
+      "md5": "99f8f8538b09985cb6ab1ebaaf5c561c", 
+      "name": "btn_leave_press.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
       "md5": "9e5bef73d83b60bb8ec2c60b8ec8a854", 
       "name": "gameScene.plist", 
       "path": "sparrowhz/res/"
@@ -1671,7 +1681,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "07a016711f28565257268c2072537e34", 
+      "md5": "cdc9b4d72c2cf34bde6e7da52980d29f", 
       "name": "ResultLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 
@@ -1681,7 +1691,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 336
+      "allcount": 338
     }
   ]
 }
