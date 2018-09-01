@@ -851,6 +851,26 @@
       "path": "client/res/Checkin/"
     }, 
     {
+      "md5": "0e5dd4cfa76208e20ef9a6e271959895", 
+      "name": "bg_tips.png", 
+      "path": "client/res/coin_tip/"
+    }, 
+    {
+      "md5": "325c9f0809a3302efc9e751d312652c6", 
+      "name": "btn_charge.png", 
+      "path": "client/res/coin_tip/"
+    }, 
+    {
+      "md5": "daf6dd4d79f55ecc7371cc58cf94fc19", 
+      "name": "new_res_btn_close.png", 
+      "path": "client/res/coin_tip/"
+    }, 
+    {
+      "md5": "7da96033edd05ae35b06971f11f787f4", 
+      "name": "tag_title_tip.png", 
+      "path": "client/res/coin_tip/"
+    }, 
+    {
       "md5": "4b06c94cca337eecd4915f74d6f0f7ec", 
       "name": "ani_lattern.plist", 
       "path": "client/res/common/"
@@ -863,6 +883,11 @@
     {
       "md5": "caab975ef5235e002d6a14a2cc8ac1f5", 
       "name": "blank.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "9b0634ed8b5ebf0df5a51421eb00549a", 
+      "name": "CoinTip.csb", 
       "path": "client/res/common/"
     }, 
     {
@@ -5741,7 +5766,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "2bc6fd12c6a99a1d2b841018af07900a", 
+      "md5": "7ed40a94b27687d996c86c6ebe3ef29d", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -5791,7 +5816,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "546c39ce787da90afa59548118addcde", 
+      "md5": "8c4eb8f13d697334f960356df19e2497", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5976,6 +6001,11 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "cdedbf59ad1e1947cb9d64eedf7dbc32", 
+      "name": "CoinTipLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "e89a7d1d6fc090cbf4949e0a7dd7b7e5", 
       "name": "ContactProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -6056,7 +6086,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3bce50717176253eb17ec9e6fa6385ef", 
+      "md5": "380abf22e8878ef295b1641b6b280d80", 
       "name": "SafeBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6241,7 +6271,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1248
+      "allcount": 1254
     }
   ]
 }

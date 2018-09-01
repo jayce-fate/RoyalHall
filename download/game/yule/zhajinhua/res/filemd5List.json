@@ -6,12 +6,17 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "171c9d3962181d8d046183a8464ca4ad", 
+      "md5": "aa5fd258c27ed2dc51b19a4aac62a9a1", 
+      "name": "compareLayer.csb", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "4d9d9635206ca3b8163302ae907272b8", 
       "name": "deskSource.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "8fe50c451ba8a891ea9667e1979104cd", 
+      "md5": "3e3c970e4314ee8468a39b61550c1329", 
       "name": "deskSource.png", 
       "path": "zhajinhua/res/"
     }, 
@@ -49,6 +54,36 @@
       "md5": "1ce58fb29f4d56cac2c3a91de25851a8", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "a4ccc7236939c3cfd39b991dce814c05", 
+      "name": "tag_profile_shining_green.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "76ee37eb1d35be6513e1150d3121809d", 
+      "name": "tag_profile_shining_red.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "162ce87d3321d34d1f72d272f541f73d", 
+      "name": "tag_profile_shining_yellow.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "9440485a030a3c8a597fbfc12743caf5", 
+      "name": "tag_vs.png", 
+      "path": "zhajinhua/res/compare/"
+    }, 
+    {
+      "md5": "014a22f19d5616d96be813ba75037cb7", 
+      "name": "tag_vs_bg.png", 
+      "path": "zhajinhua/res/compare/"
+    }, 
+    {
+      "md5": "11f5db25a3e9a5dc9487918b0785a4f5", 
+      "name": "tag_vs_circle.png", 
+      "path": "zhajinhua/res/compare/"
     }, 
     {
       "md5": "fa79821349dd686f516187283bc2fb8c", 
@@ -361,7 +396,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "708182148a1972a7b17f065944e14c80", 
+      "md5": "8a1c029eae46aaed86fd1e4e8ff0f605", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -376,17 +411,17 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "1daa4f29934f11629b36c004bf267ef7", 
+      "md5": "1476a95daaa5953b0b3ca5def9d7476d", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "df270e3463bd07a9005801a4157711e3", 
+      "md5": "2d5dcbe8af23eacfbab569139cd5ac9e", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "fe4a51803c1d1e5137e42ae57a7e47ac", 
+      "md5": "dc3a036a6d03c59a0c2ba5eea609872d", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
@@ -401,7 +436,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 80
+      "allcount": 87
     }
   ]
 }

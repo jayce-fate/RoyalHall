@@ -571,7 +571,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "64d996e3be10fe99176391324eb621e6", 
+      "md5": "eb92577e82be2a938906c9fc2c39cce2", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -586,7 +586,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "668da6b1c7d90a2fe6067ba4953dfba6", 
+      "md5": "68c39c9861c4f29f39b69d0dffe36ef8", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -606,7 +606,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "734f89d3536de6b871393ceaeb951161", 
+      "md5": "6f9e34581a61e53776592d1fbee5a3f9", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 

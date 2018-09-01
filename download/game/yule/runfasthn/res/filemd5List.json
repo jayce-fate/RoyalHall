@@ -71,7 +71,7 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "5c8d69a502777479580243ae1c0e1878", 
+      "md5": "231791f8bb1ca8f0aefe761943d3fa0e", 
       "name": "GameScene.csb", 
       "path": "runfasthn/res/game/"
     }, 
@@ -116,16 +116,6 @@
       "path": "runfasthn/res/game/"
     }, 
     {
-      "md5": "ae63164a7d341dd35d9c06c38b4d458a", 
-      "name": "poker_b.plist", 
-      "path": "runfasthn/res/game/"
-    }, 
-    {
-      "md5": "8e5745b66d16514f2520befd43fdcce4", 
-      "name": "poker_b.png", 
-      "path": "runfasthn/res/game/"
-    }, 
-    {
       "md5": "cd3478fbd205c88f872fb341c8358aa1", 
       "name": "SetLayer.csb", 
       "path": "runfasthn/res/game/"
@@ -151,6 +141,21 @@
       "path": "runfasthn/res/pdkres/"
     }, 
     {
+      "md5": "0c349b224b4bc24781bdb5a53f1361ef", 
+      "name": "btn_back.png", 
+      "path": "runfasthn/res/pdkres/"
+    }, 
+    {
+      "md5": "eee3ce2acc924f2d44691ec833d7b27c", 
+      "name": "btn_change.png", 
+      "path": "runfasthn/res/pdkres/"
+    }, 
+    {
+      "md5": "395d49cb2fa3399b51357473ba50c59e", 
+      "name": "btn_change_unactive.png", 
+      "path": "runfasthn/res/pdkres/"
+    }, 
+    {
       "md5": "f1bdb49f58286aa63644fd28e78af7cc", 
       "name": "btn_continue.png", 
       "path": "runfasthn/res/pdkres/"
@@ -158,6 +163,11 @@
     {
       "md5": "9aeb0f87d1c5fbb26523da3e15627f6b", 
       "name": "btn_leave.png", 
+      "path": "runfasthn/res/pdkres/"
+    }, 
+    {
+      "md5": "ed03f1d2cb49929931d760fbc3caa8a9", 
+      "name": "btn_setting.png", 
       "path": "runfasthn/res/pdkres/"
     }, 
     {
@@ -216,6 +226,11 @@
       "path": "runfasthn/res/pdkres/"
     }, 
     {
+      "md5": "47e439ae3724f37138bc9da82bc6b008", 
+      "name": "tag_setting.png", 
+      "path": "runfasthn/res/pdkres/"
+    }, 
+    {
       "md5": "6921cdf4bcdc0de2ad70a31ad3f016b1", 
       "name": "num_loseScore.png", 
       "path": "runfasthn/res/result/"
@@ -226,7 +241,7 @@
       "path": "runfasthn/res/result/"
     }, 
     {
-      "md5": "8a2ce8ead3035fbcd07af18ee479029e", 
+      "md5": "e45712036a4c1852da7df506cb0c66fa", 
       "name": "ResultLayer.csb", 
       "path": "runfasthn/res/result/"
     }, 
@@ -238,11 +253,6 @@
     {
       "md5": "a12c9d2238cbb75d80242d575c9904b8", 
       "name": "resultLayer.png", 
-      "path": "runfasthn/res/result/"
-    }, 
-    {
-      "md5": "68b9514d9a353bc7147b2e14575cfb11", 
-      "name": "resultUser.csb", 
       "path": "runfasthn/res/result/"
     }, 
     {
@@ -721,12 +731,12 @@
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "918273a5254cdc18f8ec7cd21d6dfa52", 
+      "md5": "23c3fde74fac0668ae0c6340f62eccf3", 
       "name": "GameLogic.luac", 
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "20a6e1fdc804da01ff8ccc789fbae4af", 
+      "md5": "c58b278e3715688e605c287578cd5a3d", 
       "name": "GameLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -741,7 +751,7 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "4acecdcdbee9630df2f54c8b2f80a24f", 
+      "md5": "95f9569517c9cfb7dbb4d4b1d79e4512", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -761,17 +771,17 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "7d69446ab9f47cdd7ec418f9d6d746ed", 
+      "md5": "f54080095bb91703889809d7b38bf17a", 
       "name": "CardsNode.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "9604b32ca8ad7523da978cd37246aef3", 
+      "md5": "6dad88f7a78bdbf2e35f9d5ebd198803", 
       "name": "CardSprite.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 154
+      "allcount": 156
     }
   ]
 }
