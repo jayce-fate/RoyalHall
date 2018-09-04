@@ -66,6 +66,16 @@
       "path": "oxnew/res/"
     }, 
     {
+      "md5": "8dafca9910f2fa96c60920865c0a06f9", 
+      "name": "poker.plist", 
+      "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "864e76be35631cf6d2f3d5319e31bac1", 
+      "name": "poker.png", 
+      "path": "oxnew/res/"
+    }, 
+    {
       "md5": "c7453508c3bab05569d85c17bc4a2a21", 
       "name": "tag_chasing.png", 
       "path": "oxnew/res/"
@@ -506,6 +516,11 @@
       "path": "oxnew/res/sound/"
     }, 
     {
+      "md5": "d4632b909af81c337c1c30fa825df8f4", 
+      "name": "douniu_banker1.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
       "md5": "cccca74f80d115fe889610b5c2725d58", 
       "name": "douniu_coins.mp3", 
       "path": "oxnew/res/sound/"
@@ -676,7 +691,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "c548d767cfc41cdaed90004dcce3b2e3", 
+      "md5": "a6270acef059aca6a531dbe16ca2370a", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -691,7 +706,12 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "afced1fa9472406acb99bde09d32f8b8", 
+      "md5": "855cebc7b91039b3a39838435a1b5cd0", 
+      "name": "CardSprite.luac", 
+      "path": "oxnew/src/views/layer/"
+    }, 
+    {
+      "md5": "401ae4b3469ec584da23a3dfe41e04ec", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
@@ -701,12 +721,12 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "2566efb191f48ba099835111c632c5cb", 
+      "md5": "2529a07a90b317c3800e574fe7ae0f6a", 
       "name": "SettingLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 141
+      "allcount": 145
     }
   ]
 }

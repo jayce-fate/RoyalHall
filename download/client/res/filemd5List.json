@@ -1676,6 +1676,11 @@
       "path": "client/res/GameList/"
     }, 
     {
+      "md5": "b5358d2814b5492e02523e4e65cd7275", 
+      "name": "gamelist_update_icon.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
       "md5": "9991cc3ba7f51dcdfa177a9d2fda7e2a", 
       "name": "lobby_game_102.png", 
       "path": "client/res/GameList/"
@@ -6026,7 +6031,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e7c7436ca92c97d4e005863cb4b54e54", 
+      "md5": "3a109f5a6c49fef21fd2dde986da0d2d", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6271,7 +6276,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1254
+      "allcount": 1255
     }
   ]
 }

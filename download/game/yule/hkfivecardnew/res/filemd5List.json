@@ -16,6 +16,21 @@
       "path": "hkfivecardnew/res/animation/"
     }, 
     {
+      "md5": "5f75e0428e44f239800d773bf6a242b3", 
+      "name": "xipai_spine.atlas", 
+      "path": "hkfivecardnew/res/animation/xipai/"
+    }, 
+    {
+      "md5": "8560ed377c01c0d173a297c7aa93428c", 
+      "name": "xipai_spine.json", 
+      "path": "hkfivecardnew/res/animation/xipai/"
+    }, 
+    {
+      "md5": "28d5c40a9ad58265120a2f97a033da29", 
+      "name": "xipai_spine.png", 
+      "path": "hkfivecardnew/res/animation/xipai/"
+    }, 
+    {
       "md5": "05877264c75042f33cc18f0229b774f5", 
       "name": "AddChipNode.csb", 
       "path": "hkfivecardnew/res/game/"
@@ -421,7 +436,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "f031d46b34ead4cca4fa4520b32bdabb", 
+      "md5": "2d625d8f08e2d1b94359416caa4b1b6d", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -441,7 +456,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "fd21c28632905d60b7bffc1de1546ae8", 
+      "md5": "d77c38efc2a3d318462b90d59d51ba86", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
@@ -451,7 +466,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "allcount": 90
+      "allcount": 93
     }
   ]
 }

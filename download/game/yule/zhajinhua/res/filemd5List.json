@@ -11,33 +11,18 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "4d9d9635206ca3b8163302ae907272b8", 
+      "md5": "bcc9dbf40c5da0aade48a20329add72d", 
       "name": "deskSource.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "3e3c970e4314ee8468a39b61550c1329", 
+      "md5": "73897b3d7ab953ffe79113a56e16219e", 
       "name": "deskSource.png", 
       "path": "zhajinhua/res/"
     }, 
     {
       "md5": "c40ea24de9a0d252572f4034c95a66f5", 
       "name": "EndLayer.csb", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "cfff9c84c804e5e5b74e431dbde4fbc1", 
-      "name": "game_desk.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "f68d4e87a81607e9e094bbe900773ade", 
-      "name": "game_num_addscore.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "12c7c2f1cc3d99bcfd11e7d90e330be8", 
-      "name": "game_num_score.png", 
       "path": "zhajinhua/res/"
     }, 
     {
@@ -71,6 +56,21 @@
       "path": "zhajinhua/res/"
     }, 
     {
+      "md5": "5f75e0428e44f239800d773bf6a242b3", 
+      "name": "xipai_spine.atlas", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "8560ed377c01c0d173a297c7aa93428c", 
+      "name": "xipai_spine.json", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
+      "md5": "28d5c40a9ad58265120a2f97a033da29", 
+      "name": "xipai_spine.png", 
+      "path": "zhajinhua/res/"
+    }, 
+    {
       "md5": "9440485a030a3c8a597fbfc12743caf5", 
       "name": "tag_vs.png", 
       "path": "zhajinhua/res/compare/"
@@ -93,11 +93,6 @@
     {
       "md5": "4f1f6b524ee2533caaebaeab9e49368a", 
       "name": "bg_lobby.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "50cdffb9ae9ddb5cc072b2b252bc9929", 
-      "name": "tag_premium_game.png", 
       "path": "zhajinhua/res/desk/"
     }, 
     {
@@ -181,8 +176,18 @@
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
-      "md5": "b5b5d8465975b5637028738f95734c5f", 
-      "name": "BACK_MUSIC.wav", 
+      "md5": "9df2fb096b678834aa08c1f034b7815b", 
+      "name": "background.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "221774e65ceec01b5c7b9050e9a12de6", 
+      "name": "bet_start.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d24568107d50296b4a6eff6c1d8c240a", 
+      "name": "bet_unveil_cards.mp3", 
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
@@ -193,11 +198,6 @@
     {
       "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
       "name": "CHOOSE_SCORE.wav", 
-      "path": "zhajinhua/res/sound_res/"
-    }, 
-    {
-      "md5": "bf03721de098fdc898256b42fb6055b3", 
-      "name": "COMPARE_CARD.wav", 
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
@@ -271,13 +271,48 @@
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
+      "md5": "6861a6eff7811375ee7da99c47a3ba80", 
+      "name": "goodluck.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
       "md5": "88419c335f18ae36afa7d3bb3889f479", 
       "name": "NO_ADD.wav", 
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
+      "md5": "603f2ab26880570aa3e9e34b725b2a46", 
+      "name": "on_bet1.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "53528318e451a3067f9c444bea1ccac7", 
+      "name": "on_bet2.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "2ac9d64cc8ef72794bd96b2f85ca263d", 
+      "name": "on_bet3.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "55ae5a4d240016d4e25c2aac46edfd5b", 
+      "name": "on_bet4.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
       "md5": "5f1fb4dddc12460e6111d36018bea2af", 
       "name": "RAISE_COIN.wav", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "d222bca458e201335dd90452a0827ff8", 
+      "name": "regret.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "b7e2837ec8f5ec8a9ebc87a7406d4ee4", 
+      "name": "send_card.mp3", 
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
@@ -396,7 +431,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "8a1c029eae46aaed86fd1e4e8ff0f605", 
+      "md5": "79b202672bcda7c98269ef7f557e3abc", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -411,22 +446,22 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "1476a95daaa5953b0b3ca5def9d7476d", 
+      "md5": "35212d13cd76d5fbf3c7b8ad5ff314ed", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "2d5dcbe8af23eacfbab569139cd5ac9e", 
+      "md5": "a9c3e137b5cb9aa4348d383bc3cf0345", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "dc3a036a6d03c59a0c2ba5eea609872d", 
+      "md5": "697e80954ea7967d9cc621045b2cc391", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "65bb79ecd7cea9f6dbc59e269b5eae32", 
+      "md5": "08387c02729a0b1da313f0bf7c0fab5b", 
       "name": "SetLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
@@ -436,7 +471,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 87
+      "allcount": 94
     }
   ]
 }

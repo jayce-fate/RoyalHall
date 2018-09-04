@@ -587,6 +587,39 @@
 				<key>sourceSize</key>
 				<string>{615,122}</string>
 			</dict>
+			<key>desk/chip_small_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1778,762},{68,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,69}</string>
+			</dict>
+			<key>desk/chip_small_100.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1779,831},{68,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,69}</string>
+			</dict>
+			<key>desk/chip_small_50.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1848,837},{68,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,69}</string>
+			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>

@@ -301,6 +301,11 @@
       "path": "runfasthn/res/sound/"
     }, 
     {
+      "md5": "8c0eb6c87a45525eca062428138a4d14", 
+      "name": "Failure.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
       "md5": "9f73080c575ad208af1c31800d56f26b", 
       "name": "GAME_END.WAV", 
       "path": "runfasthn/res/sound/"
@@ -333,6 +338,21 @@
     {
       "md5": "b81338369ed5cacb23c17c83e4508773", 
       "name": "OUT_CARD.wav", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "938909e8a289b8cb1d42c5f5d2799645", 
+      "name": "pdk_room_seawave.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "49d294598c4a42e8271dfdab8abb6d14", 
+      "name": "table_background_music.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
+      "md5": "97a86740e7f8fd13950dd23d47c11ff4", 
+      "name": "Victory.mp3", 
       "path": "runfasthn/res/sound/"
     }, 
     {
@@ -736,7 +756,7 @@
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "c58b278e3715688e605c287578cd5a3d", 
+      "md5": "67f282baa8a8c0218b1299fa116e695b", 
       "name": "GameLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -751,7 +771,7 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "95f9569517c9cfb7dbb4d4b1d79e4512", 
+      "md5": "24fefaae3cee2e5f5bad823730f6190d", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -766,7 +786,7 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "0ad4face63e91971836094e72ed93879", 
+      "md5": "fa367c919773fed5f285ea4249437cb2", 
       "name": "SetLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -781,7 +801,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 156
+      "allcount": 160
     }
   ]
 }
