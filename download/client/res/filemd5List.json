@@ -646,6 +646,16 @@
       "path": "client/res/binding/"
     }, 
     {
+      "md5": "bfb90af34e309bb33932a274e22bfb1e", 
+      "name": "binding_bank_bg.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "2ef8e5f2a9992a78d88b961fd74d899b", 
+      "name": "binding_bank_title.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "97dcc5e8911ffcf1bc22d40e9eb5dfdb", 
       "name": "binding_bg.png", 
       "path": "client/res/binding/"
@@ -661,13 +671,48 @@
       "path": "client/res/binding/"
     }, 
     {
+      "md5": "b323be0659f6197eb8ff2c6cb208ec9f", 
+      "name": "binding_btn_cancel.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "88de445e0472527c2a8ea1a14d97fe87", 
+      "name": "binding_btn_choose_bank.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "9e6b1f7782c4ef5df805e665ab905e63", 
       "name": "binding_btn_nowbind.png", 
       "path": "client/res/binding/"
     }, 
     {
+      "md5": "30b02bf2ba65b6ffcdb5487fd7bcdc56", 
+      "name": "binding_btn_sure.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "25328ab0a94205f199908367964d08f9", 
+      "name": "binding_choose_bg.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "3b17118833bd3f3c0e5e65a397e252ce", 
+      "name": "binding_choose_select.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "2cef5b9efeaf0eb2670b7dcc83feecd2", 
+      "name": "binding_icon_arrow.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "bc554d8772391e532b4615c65822e74d", 
       "name": "binding_line.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "a509c96d85b162812ce50a0aae633925", 
+      "name": "binding_textfield_bg.png", 
       "path": "client/res/binding/"
     }, 
     {
@@ -686,6 +731,11 @@
       "path": "client/res/binding/"
     }, 
     {
+      "md5": "9a215578a04a0661357182e17fe4f56a", 
+      "name": "BindingBankNode.csb", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "53b4519aef6c2a8b74f40fa60455b694", 
       "name": "BindingGiftNode.csb", 
       "path": "client/res/binding/"
@@ -693,6 +743,11 @@
     {
       "md5": "2aef8b2173fda43cd69a5ee78b28a9d8", 
       "name": "BindingLoginNode.csb", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "43e4b7d2da65fcba1d6d46632a432b6f", 
+      "name": "ChooseBankNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
@@ -3971,6 +4026,31 @@
       "path": "client/res/rankingchart/fonts/"
     }, 
     {
+      "md5": "e908c940da7d0afe2e48285a54d01d65", 
+      "name": "complaints_proxy_btn_sure.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "0f3c6948f01ba93fe9d5301a5d4761f7", 
+      "name": "complaints_proxy_content_bg.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "32e871fa9ead2a9496a0be1c73dd2cc4", 
+      "name": "complaints_proxy_title.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "8c02f3b7f92ee1c7b14c2a1aa81a7c26", 
+      "name": "complaints_proxy_wechatid_bg.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "93c931a7ad7d4529f591229c407865c1", 
+      "name": "ComplaintsProxy.csb", 
+      "path": "client/res/recharge/"
+    }, 
+    {
       "md5": "185d95662c583a5c1e6f3a2e5b79c6e1", 
       "name": "contact_proxy_btn_complaints.png", 
       "path": "client/res/recharge/"
@@ -4006,13 +4086,18 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "a8292731a7ad52cdd5989e7eced87ee6", 
+      "md5": "e491a641d191e9d2bbee1625367ff4fc", 
       "name": "Recharge.csb", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "bbd1e31c818488fc5af78632a791852c", 
+      "md5": "54ff0ecdd4b8d740a02a5f4dfbaf809c", 
       "name": "recharge_banner_alipay.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "62de1b7170e9170043241673e880c2ba", 
+      "name": "recharge_banner_bank.png", 
       "path": "client/res/recharge/"
     }, 
     {
@@ -5586,7 +5671,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "15bcd57d7edbff2db819c854f1753770", 
+      "md5": "c4b5672fc13eec7d10c90c40f198c6c2", 
       "name": "Withdraw.csb", 
       "path": "client/res/withdraw/"
     }, 
@@ -5598,6 +5683,16 @@
     {
       "md5": "e7d05c510378abe18a37ba9d75b13ca6", 
       "name": "withdraw_btn_change_ali_n.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "829eef7ce1e080e9ec263fcb1642c86f", 
+      "name": "withdraw_btn_change_bank_d.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "c3538ca1ae1db3eb34c8783ce114ec26", 
+      "name": "withdraw_btn_change_bank_n.png", 
       "path": "client/res/withdraw/"
     }, 
     {
@@ -5623,6 +5718,11 @@
     {
       "md5": "740a41d3f9417c9dd33ecf9a365dc61f", 
       "name": "withdraw_logo_ali.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "e38c4da3919aceb1fe0a0260c2ac1f7b", 
+      "name": "withdraw_logo_bank.png", 
       "path": "client/res/withdraw/"
     }, 
     {
@@ -5821,7 +5921,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "8c4eb8f13d697334f960356df19e2497", 
+      "md5": "fa7f6e3263e0de97adb534d857cfceb7", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5976,6 +6076,16 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "9c6e70d6c90325b65e67b2af49206f11", 
+      "name": "BindingBankLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "efc2b47328f19357307414ece8595471", 
+      "name": "BindingChooseLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "83e4a545402689959dcf95a8187e88ff", 
       "name": "BindingGiftLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -6011,7 +6121,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e89a7d1d6fc090cbf4949e0a7dd7b7e5", 
+      "md5": "7f5aa3ccb35fcfcffbfe5987d439a442", 
+      "name": "ComplaintsProxyLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "750da97e92c1171f4543ea6c257bad27", 
       "name": "ContactProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6081,7 +6196,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3694c72e7838cb2bf462e021f0d32a55", 
+      "md5": "943c8364d0f573e6b83904bf8acb05bf", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6151,7 +6266,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6ca45edbab196bbb04512f1965af60cb", 
+      "md5": "bf0a9d142388344118f2c5069b9ace00", 
       "name": "WithdrawLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6276,7 +6391,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1255
+      "allcount": 1278
     }
   ]
 }

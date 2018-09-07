@@ -346,6 +346,11 @@
       "path": "runfasthn/res/sound/"
     }, 
     {
+      "md5": "bd8f4279cce517cf4d90ecdc68abce01", 
+      "name": "Playing_cards.mp3", 
+      "path": "runfasthn/res/sound/"
+    }, 
+    {
       "md5": "49d294598c4a42e8271dfdab8abb6d14", 
       "name": "table_background_music.mp3", 
       "path": "runfasthn/res/sound/"
@@ -443,6 +448,16 @@
     {
       "md5": "d2af067262069273f23cdf5734840020", 
       "name": "FOUR_TAKE_TWO.wav", 
+      "path": "runfasthn/res/sound/BOY/"
+    }, 
+    {
+      "md5": "53cca1b2578b38d4bd14a580cb507d8c", 
+      "name": "onlyOneCard_1.mp3", 
+      "path": "runfasthn/res/sound/BOY/"
+    }, 
+    {
+      "md5": "69d8d2fb9fa8f71d8ade9b8f699664fe", 
+      "name": "onlyOneCard_2.mp3", 
       "path": "runfasthn/res/sound/BOY/"
     }, 
     {
@@ -641,6 +656,16 @@
       "path": "runfasthn/res/sound/GIRL/"
     }, 
     {
+      "md5": "e98c3dabc88b0bc76fb576d2b6cdc310", 
+      "name": "onlyOneCard_1.mp3", 
+      "path": "runfasthn/res/sound/GIRL/"
+    }, 
+    {
+      "md5": "795be278973c554a17c0d5e3b4675a5b", 
+      "name": "onlyOneCard_2.mp3", 
+      "path": "runfasthn/res/sound/GIRL/"
+    }, 
+    {
       "md5": "64a10ae6f8bc539eb4de2eb6d9d0642e", 
       "name": "OUT_CARD.wav", 
       "path": "runfasthn/res/sound/GIRL/"
@@ -771,7 +796,7 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "24fefaae3cee2e5f5bad823730f6190d", 
+      "md5": "39ececf72894c5aabb0a953d4724cc74", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -791,7 +816,7 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "f54080095bb91703889809d7b38bf17a", 
+      "md5": "b5305c9009f84bfdc82d6ee6b6ada2a9", 
       "name": "CardsNode.luac", 
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
@@ -801,7 +826,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 160
+      "allcount": 165
     }
   ]
 }

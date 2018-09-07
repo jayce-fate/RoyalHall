@@ -46,13 +46,18 @@
       "path": "oxbattle/res/"
     }, 
     {
-      "md5": "01aa8324979bb5a17d62ece6ec803a92", 
-      "name": "im_card.png", 
+      "md5": "2e0d567070a93807f92723eb9156fe5b", 
+      "name": "LudanLayer.csb", 
       "path": "oxbattle/res/"
     }, 
     {
-      "md5": "2e0d567070a93807f92723eb9156fe5b", 
-      "name": "LudanLayer.csb", 
+      "md5": "3311cac83e84f67c90050f6591edcb43", 
+      "name": "poker.plist", 
+      "path": "oxbattle/res/"
+    }, 
+    {
+      "md5": "19317e921b3b0278b8459a7359f6f19f", 
+      "name": "poker.png", 
       "path": "oxbattle/res/"
     }, 
     {
@@ -781,7 +786,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "ccfd58260ad1aa1daf8449afb2a0e989", 
+      "md5": "ff16d902d4f9b9c2ea0bb52bd802091a", 
       "name": "GameLayer.csb", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -1426,7 +1431,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "b793474ef7305ad3fc01533af6b1c382", 
+      "md5": "6ca2f6ea171673ea83daee60f2328c0f", 
       "name": "CardSprite.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1441,7 +1446,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "ee61b8bbd4475d5e47fdb4f4fc687800", 
+      "md5": "057c1f8c3ace3d0fe247cb83e932d814", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1451,7 +1456,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "d7860ffe082613064e73e8475c3eb72b", 
+      "md5": "22ec0a660b52bd5631a44153877421b5", 
       "name": "SitRoleNode.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1466,7 +1471,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 293
+      "allcount": 294
     }
   ]
 }

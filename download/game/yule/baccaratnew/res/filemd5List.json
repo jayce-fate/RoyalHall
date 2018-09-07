@@ -26,6 +26,21 @@
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
+      "md5": "751df3db6b1d77031e3d1dc48c0e0f17", 
+      "name": "brnn_btn_back.png", 
+      "path": "baccaratnew/res/bjl_new/"
+    }, 
+    {
+      "md5": "0ebc0bb553d8be0d004595aefa4553b9", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "baccaratnew/res/bjl_new/"
+    }, 
+    {
+      "md5": "9b13f933a64697b1deb6ad805c9a8df7", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "baccaratnew/res/bjl_new/"
+    }, 
+    {
       "md5": "fa79821349dd686f516187283bc2fb8c", 
       "name": "Button_Disable.png", 
       "path": "baccaratnew/res/Default/"
@@ -201,7 +216,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "86e660ab1320cb9e4cb22400588dc078", 
+      "md5": "61d0ddeda0d3734513df0001b9067645", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -441,6 +456,11 @@
       "path": "baccaratnew/res/sound_res/"
     }, 
     {
+      "md5": "10aca0de9b6b86feb51208cddab2043a", 
+      "name": "daojishi.WAV", 
+      "path": "baccaratnew/res/sound_res/"
+    }, 
+    {
       "md5": "fcc3386a181ff12533aeba7916e6e98c", 
       "name": "END_DRAW.wav", 
       "path": "baccaratnew/res/sound_res/"
@@ -561,7 +581,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "b7849147c0da19695da0ee12acdf61e4", 
+      "md5": "af90aae246ac34e68909ba4a38412fa8", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -571,7 +591,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "5c8dbdcbc4e032dea8ef6e634b4aaa67", 
+      "md5": "fc9941cff00e2a8fa46ee6e9ecd5774f", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -586,7 +606,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "700627b70ae075e7b2285783d502d6b5", 
+      "md5": "9ed2b7d89a9c92e556069896cb1a7062", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -606,7 +626,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "6f9e34581a61e53776592d1fbee5a3f9", 
+      "md5": "c4bd660176bd046af815c297e2dbcf9a", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
@@ -631,7 +651,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 126
+      "allcount": 130
     }
   ]
 }

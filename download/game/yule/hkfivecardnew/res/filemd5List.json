@@ -61,16 +61,6 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "c396814969c5bcd6574eb4f3cdcf46ce", 
-      "name": "GameLayer.plist", 
-      "path": "hkfivecardnew/res/game/"
-    }, 
-    {
-      "md5": "0837346fb84ef422e73736271259b3f3", 
-      "name": "GameLayer.png", 
-      "path": "hkfivecardnew/res/game/"
-    }, 
-    {
       "md5": "1564f7e967e3d827893bb72ed59c8bbf", 
       "name": "GameRoleItem.csb", 
       "path": "hkfivecardnew/res/game/"
@@ -78,16 +68,6 @@
     {
       "md5": "b5602e3ca155f5624bc0a0a574cc1275", 
       "name": "GameScene.csb", 
-      "path": "hkfivecardnew/res/game/"
-    }, 
-    {
-      "md5": "2744bb0c6b0c3ce2d1bf88d6d742db74", 
-      "name": "gswz.plist", 
-      "path": "hkfivecardnew/res/game/"
-    }, 
-    {
-      "md5": "ca34a53456a382bf0eef104b5454a874", 
-      "name": "gswz.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
@@ -436,7 +416,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "2d625d8f08e2d1b94359416caa4b1b6d", 
+      "md5": "65d5803c2e266a562be4e0a89d7580c6", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -456,7 +436,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "d77c38efc2a3d318462b90d59d51ba86", 
+      "md5": "0b1db4dffa4ae23f3a049c9575a99735", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
@@ -466,7 +446,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "allcount": 93
+      "allcount": 89
     }
   ]
 }
