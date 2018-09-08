@@ -426,16 +426,6 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "64ad8740454496990806978d15f9148b", 
-      "name": "game.plist", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "6f97788f941535e984081aca357774b2", 
-      "name": "game.png", 
-      "path": "land/res/game/"
-    }, 
-    {
       "md5": "facfb03cabf3c3cefd613f0545bd7851", 
       "name": "game_cardnum.png", 
       "path": "land/res/game/"
@@ -471,7 +461,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "e20f59600ff6b372b0c015d8c839b499", 
+      "md5": "d1a20d6f23fc5e1e97dcaf6d60c8fd1e", 
       "name": "GameLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -481,12 +471,22 @@
       "path": "land/res/game/"
     }, 
     {
+      "md5": "5be8c2babd9fcc28389953b01f420274", 
+      "name": "gameRes.plist", 
+      "path": "land/res/game/"
+    }, 
+    {
+      "md5": "1ab3d270bfa085533dbf951e1e8e3344", 
+      "name": "gameRes.png", 
+      "path": "land/res/game/"
+    }, 
+    {
       "md5": "b69a53b6f91a364f9fcb6b2f7674c513", 
       "name": "GameResultLayer 2.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b69a53b6f91a364f9fcb6b2f7674c513", 
+      "md5": "4ec55c3535346dac200dd0b436f066a9", 
       "name": "GameResultLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -626,16 +626,6 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "9649aaf11992c361d1644bdda4d72c4c", 
-      "name": "public_res.plist", 
-      "path": "land/res/public_res/"
-    }, 
-    {
-      "md5": "517325c39d377bf4084c95617da2492b", 
-      "name": "public_res.png", 
-      "path": "land/res/public_res/"
-    }, 
-    {
       "md5": "dd1c0b673a8820abf455281b872050eb", 
       "name": "icon_roomlist_0.png", 
       "path": "land/res/roomlist/"
@@ -711,7 +701,7 @@
       "path": "land/res/setting/"
     }, 
     {
-      "md5": "d0db8034c7184e4b65bb92b553f5b06d", 
+      "md5": "62ad837eae75e54e1fce284103fb1ef0", 
       "name": "SettingLayer.csb", 
       "path": "land/res/setting/"
     }, 
@@ -1646,7 +1636,7 @@
       "path": "land/src/models/"
     }, 
     {
-      "md5": "aa901957a093f33ddcb5531d37cbc3b5", 
+      "md5": "f5d648889d12009bfe2a64240343e214", 
       "name": "GameLayer.luac", 
       "path": "land/src/views/"
     }, 
@@ -1676,7 +1666,7 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "0121ef0946c7bcae37da62e01f1e84c1", 
+      "md5": "6abc2c35302bb5a9173e1ae417a6b723", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
@@ -1691,12 +1681,12 @@
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "f3b5c7050f21b3bbeb999cf783d93840", 
+      "md5": "592067c2c6b78abb4f9d151feec84854", 
       "name": "CardSprite.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 339
+      "allcount": 337
     }
   ]
 }

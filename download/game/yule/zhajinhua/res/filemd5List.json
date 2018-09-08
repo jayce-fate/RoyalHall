@@ -36,7 +36,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "f2331b49e400786cdff923a793177a34", 
+      "md5": "bc6ebe5a08ad4acd9d03da7639a11baf", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
     }, 
@@ -431,7 +431,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "19d74c5e47bafdef833038091205698f", 
+      "md5": "602f04040a1271b09fc207dd18fc3a12", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -456,7 +456,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "eaf6ae9297b4831134cf0eb3677c2e88", 
+      "md5": "2bf161a92077e2c2e179b5a2587aaeff", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 

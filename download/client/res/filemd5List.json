@@ -906,26 +906,6 @@
       "path": "client/res/Checkin/"
     }, 
     {
-      "md5": "0e5dd4cfa76208e20ef9a6e271959895", 
-      "name": "bg_tips.png", 
-      "path": "client/res/coin_tip/"
-    }, 
-    {
-      "md5": "325c9f0809a3302efc9e751d312652c6", 
-      "name": "btn_charge.png", 
-      "path": "client/res/coin_tip/"
-    }, 
-    {
-      "md5": "daf6dd4d79f55ecc7371cc58cf94fc19", 
-      "name": "new_res_btn_close.png", 
-      "path": "client/res/coin_tip/"
-    }, 
-    {
-      "md5": "7da96033edd05ae35b06971f11f787f4", 
-      "name": "tag_title_tip.png", 
-      "path": "client/res/coin_tip/"
-    }, 
-    {
       "md5": "4b06c94cca337eecd4915f74d6f0f7ec", 
       "name": "ani_lattern.plist", 
       "path": "client/res/common/"
@@ -941,7 +921,7 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "9b0634ed8b5ebf0df5a51421eb00549a", 
+      "md5": "13e4c882ed5b49de414f6f5f5e76d522", 
       "name": "CoinTip.csb", 
       "path": "client/res/common/"
     }, 
@@ -978,6 +958,21 @@
     {
       "md5": "827d2ff4cbeac1dedac0e8c58e06fbc8", 
       "name": "common_whiteboard_bg.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "af36959170fe14dbe7a728073aec8cbf", 
+      "name": "denglong_spine.atlas", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "91e48050df0ccb23ee2aa7a4e65985cb", 
+      "name": "denglong_spine.json", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "e793c39a935eaf1df26a4b162b4e7d09", 
+      "name": "denglong_spine.png", 
       "path": "client/res/common/"
     }, 
     {
@@ -5821,7 +5816,7 @@
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "0ee68bd8073d5916230411f75739314b", 
+      "md5": "184a141fe1ad0141552ddf5b39b350a1", 
       "name": "GameModel.luac", 
       "path": "client/src/gamemodel/"
     }, 
@@ -5871,7 +5866,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "7ed40a94b27687d996c86c6ebe3ef29d", 
+      "md5": "a14ba508ab1cdddaf8948fa4e42d3a48", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -5921,7 +5916,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "fa7f6e3263e0de97adb534d857cfceb7", 
+      "md5": "c361f65b256beeb93e1dd3b522a5d722", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -6116,7 +6111,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "cdedbf59ad1e1947cb9d64eedf7dbc32", 
+      "md5": "d567f19bd7034efdbc830749b5aed59d", 
       "name": "CoinTipLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6146,7 +6141,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3a109f5a6c49fef21fd2dde986da0d2d", 
+      "md5": "9f40fd978f307f962ec80e82c3b636cc", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6261,7 +6256,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "32c12fb349181f55c979ffbe8e6ce863", 
+      "md5": "d942d6b9b0c51b67f218c3fc705e9a06", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -6391,7 +6386,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1278
+      "allcount": 1277
     }
   ]
 }
