@@ -13,6 +13,16 @@
 		"isOpenCard":0,
 		"gamelist":[
 			{
+				"KindID":"3",
+				"KindName":"德州扑克",
+				"TypeID":"0",
+				"ModuleName":"yule.dzshowhand",
+				"ClientVersion":"101122049",
+				"ResVersion":"23",
+				"SortID":"102",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"6",
 				"KindName":"诈金花",
 				"TypeID":"0",
@@ -53,6 +63,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"120",
+				"KindName":"百人二八杠",
+				"TypeID":"0",
+				"ModuleName":"yule.28gbattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"23",
+				"SortID":"103",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"122",
 				"KindName":"百家乐",
 				"TypeID":"0",
@@ -60,6 +80,16 @@
 				"ClientVersion":"101122049",
 				"ResVersion":"23",
 				"SortID":"6",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"150",
+				"KindName":"龙虎斗",
+				"TypeID":"0",
+				"ModuleName":"yule.dragontiger",
+				"ClientVersion":"101122049",
+				"ResVersion":"23",
+				"SortID":"103",
 				"KindMark":"3"
 			},
 			{
