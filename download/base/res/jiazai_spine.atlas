@@ -1,0 +1,104 @@
+
+jiazai_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cw_hmtk
+  rotate: false
+  xy: 2, 2
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+cw_st
+  rotate: false
+  xy: 848, 295
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+cw_tk
+  rotate: true
+  xy: 595, 31
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: true
+  xy: 700, 104
+  size: 178, 81
+  orig: 178, 81
+  offset: 0, 0
+  index: -1
+tc1
+  rotate: true
+  xy: 799, 41
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+tc2
+  rotate: false
+  xy: 2, 101
+  size: 534, 124
+  orig: 534, 124
+  offset: 0, 0
+  index: -1
+tc3
+  rotate: false
+  xy: 871, 385
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+tc4
+  rotate: false
+  xy: 685, 20
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+tc5
+  rotate: false
+  xy: 2, 227
+  size: 666, 266
+  orig: 666, 266
+  offset: 0, 0
+  index: -1
+tc6
+  rotate: true
+  xy: 783, 149
+  size: 133, 74
+  orig: 133, 74
+  offset: 0, 0
+  index: -1
+tc7
+  rotate: false
+  xy: 538, 117
+  size: 160, 108
+  orig: 160, 108
+  offset: 0, 0
+  index: -1
+tc8
+  rotate: false
+  xy: 670, 384
+  size: 199, 109
+  orig: 199, 109
+  offset: 0, 0
+  index: -1
+tc9
+  rotate: false
+  xy: 670, 284
+  size: 176, 98
+  orig: 176, 98
+  offset: 0, 0
+  index: -1
+tip_copyright
+  rotate: false
+  xy: 2, 38
+  size: 591, 61
+  orig: 591, 61
+  offset: 0, 0
+  index: -1
