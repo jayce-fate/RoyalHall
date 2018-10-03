@@ -1,17 +1,17 @@
 {
   "listdata": [
     {
-      "md5": "700b65dc4464f0043da9405a4436a49e", 
+      "md5": "d9b0ff14f0560f250de2106a62bd4865", 
       "name": "card.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "534f63a0f7fa46b6a0cb65910cdba156", 
+      "md5": "77687b75011035c9addfe901da7b3913", 
       "name": "game_chat_lbg.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "237d9432bd45165c05a9f07b59cde9cc", 
+      "md5": "33511edcacd3542672bda44aeabacbca", 
       "name": "game_chat_rbg.png", 
       "path": "oxnew/res/"
     }, 
@@ -21,47 +21,47 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "09e40bbfefd9bbe6d9289308b7b59c28", 
+      "md5": "e7005634b2b1a748f936e408587b205d", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "f84e79b141162b06821540ff861fc7a0", 
+      "md5": "b4686585b89bc2744b814baf17460f60", 
       "name": "num_add.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "699fe1fa28c62e5316da07e2de56ba71", 
+      "md5": "460c255b0baf7c9d2b33f77d27cc47e4", 
       "name": "num_chip.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "f4a4de58c86eeeb4190ca865f337770d", 
+      "md5": "9f257a9398c4d26fd333c96064af22a9", 
       "name": "num_chipScore.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "1104773ed955a2e780e029b3b0ea1c42", 
+      "md5": "33dc2ed578252bf34eebe15d6a1c86c3", 
       "name": "num_endScore.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "0a7940c53e2f30a4378e9ca6eaf2db01", 
+      "md5": "035af0675957014461d33be4d13d9744", 
       "name": "num_prompt.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "c5af527d3b0cd1f8079edb6580745540", 
+      "md5": "bf1042fb8cbe2de024713e5f5232c636", 
       "name": "num_reduce.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "44bf1bab8915f462ae781149e9fbfa4e", 
+      "md5": "a049fba4ccfadedc951f8805118a3822", 
       "name": "num_score.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "6e1498bc3db3380313af245cdf4ed40d", 
+      "md5": "83ccaff8067955c95b2ba5c562692b54", 
       "name": "num_time.png", 
       "path": "oxnew/res/"
     }, 
@@ -71,382 +71,382 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "864e76be35631cf6d2f3d5319e31bac1", 
+      "md5": "5722295c1edb37b8f0c6a5a508288273", 
       "name": "poker.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "c7453508c3bab05569d85c17bc4a2a21", 
+      "md5": "ce1f11613fc583ecd67314df5b729135", 
       "name": "tag_chasing.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "bf2921664e76378c93b6c1a27eb0b244", 
+      "md5": "b677a35191563f5a745f0e0f54058614", 
       "name": "tag_chasing_bg.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "93a06ca255fac4c621df05e602b33dba", 
+      "md5": "a46a1d4908df02c671aed355ef855a20", 
       "name": "tag_count_down.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "81587cdc5e3c2e6b4d97a42561c10cf9", 
+      "md5": "a2d01c915ec89acf0f31fc5fd4b29501", 
       "name": "tag_count_down_bg.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "30d5e631515f4011e76d09f86a4f8a14", 
+      "md5": "210c6cbfeef685f9b4dd66d152e971fe", 
       "name": "banker_1.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "6749b561c2cf2df8fe9187cda21280c3", 
+      "md5": "47864c45a33bc2867e48a60b729f041e", 
       "name": "banker_10.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "4956e06210acd46250d57312240b4d7b", 
+      "md5": "fb59e87cfabb0d09681fafbb44e07a95", 
       "name": "banker_11.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "0d91e1de296ac0d122e04088c7a2eb79", 
+      "md5": "db6fac29d253d14e9d3995c34e861197", 
       "name": "banker_2.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "4956e06210acd46250d57312240b4d7b", 
+      "md5": "fb59e87cfabb0d09681fafbb44e07a95", 
       "name": "banker_3.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "178bd022f0fa51753b69f4885c4ca455", 
+      "md5": "181770a2cd7ccd9dca895c569137b8c5", 
       "name": "banker_4.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "2ab1bcb586ca227afc7b34fdf800225d", 
+      "md5": "285a63440c468acbeaaa09708c929a9a", 
       "name": "banker_5.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "aaf5aa112a0e2d8422b31eff643b8242", 
+      "md5": "1113572b39389abcce8085ce0f8146b4", 
       "name": "banker_6.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "eb4da88814c64a0f39c0761faa685ca4", 
+      "md5": "07d086f529620a7dd2064615f8256160", 
       "name": "banker_7.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "0a5ec1ee55313cd68b8b97c8154cff5b", 
+      "md5": "77276999827d9a75c37b5268aef3b14b", 
       "name": "banker_8.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "0f0e43225d1a62383c35b058dd6bf033", 
+      "md5": "90e137f957d4dff870f542e2ce714e47", 
       "name": "banker_9.png", 
       "path": "oxnew/res/animation_banker/"
     }, 
     {
-      "md5": "a1d594b460d0eb6f0465f53e85cc5e3e", 
+      "md5": "b7fbf5a0d1c8308f34be67070ab96354", 
       "name": "blue_1.png", 
       "path": "oxnew/res/animation_blue/"
     }, 
     {
-      "md5": "35fef5db8d3108e4262c422c52656de1", 
+      "md5": "039e14ee155199bda0de430899d4a035", 
       "name": "blue_2.png", 
       "path": "oxnew/res/animation_blue/"
     }, 
     {
-      "md5": "e85927d064294122d0b0c2e84bcd5f7b", 
+      "md5": "32647449fcff0929791c255513b1c865", 
       "name": "blue_3.png", 
       "path": "oxnew/res/animation_blue/"
     }, 
     {
-      "md5": "f66526aaa994671e7ed4300b40576b19", 
+      "md5": "148562aca60cdce48cd8082c0e5d5454", 
       "name": "blue_4.png", 
       "path": "oxnew/res/animation_blue/"
     }, 
     {
-      "md5": "cbea89205988f947d3fc0e8292ab9694", 
+      "md5": "f880c4e578c2b30fc58902997e2fae3f", 
       "name": "blue_5.png", 
       "path": "oxnew/res/animation_blue/"
     }, 
     {
-      "md5": "346fcf27495bf0f03bff28420638659c", 
+      "md5": "7c1f21ac152152cecaec92e3a8c1e236", 
       "name": "faceFlash_1.png", 
       "path": "oxnew/res/animation_faceFlash/"
     }, 
     {
-      "md5": "d7a1cd6f554fb155b47f600a6589a36f", 
+      "md5": "cefdffab0740abaca8e142db9d5b2d3e", 
       "name": "faceFlash_2.png", 
       "path": "oxnew/res/animation_faceFlash/"
     }, 
     {
-      "md5": "af97d9681d048498afee6b29ef9e1a3e", 
+      "md5": "8446f1810af4586a0b0f0525ab33da31", 
       "name": "lose_1.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "c4a8d5a8a23522d594631f0bf296bc76", 
+      "md5": "eba600f07107244f0f7a862c32c37713", 
       "name": "lose_10.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "d6462abc4761e472aff2f78bc7c46f18", 
+      "md5": "c69267459af26159659045a48bb34cd4", 
       "name": "lose_11.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "b1ce0897b79d23db88bb546b94e192b6", 
+      "md5": "a0766deed341143cadb646314be10c49", 
       "name": "lose_12.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "c75c4bc5f1857c8663ef0c5f9f5be586", 
+      "md5": "84a23bd774a70b9914a5856d52e1f71c", 
       "name": "lose_13.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "68e0dc465a8d649959ad02543c05913f", 
+      "md5": "3133bc14609628ee747fc9e034d85a8a", 
       "name": "lose_14.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "178f51a63f7e7bb3c39d39c3ea3aff05", 
+      "md5": "a44f1b00d4571e547d3c2491dd650584", 
       "name": "lose_15.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "bde4f028e3c3b5886132d0acf9490108", 
+      "md5": "a01fb605671dca4b28abd457dd91834e", 
       "name": "lose_16.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "0c8326eb2f00d84d305fc25431ee0ec5", 
+      "md5": "59168970ba14a1db4f39eb06ff497ae9", 
       "name": "lose_17.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "95687e8ec891adf542858de653cac1cc", 
+      "md5": "ee226005c97550ccb428054e60f7ed05", 
       "name": "lose_2.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "d29a962981df30f62b0cf91cfecc2955", 
+      "md5": "3f3c606efd97a2b1a67d91b119d34e80", 
       "name": "lose_3.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "3432dc25ead78a4666bbb7d3c08f54e7", 
+      "md5": "93c71fad98575da4250eb3387afffb1c", 
       "name": "lose_4.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "4f29c040f4f5b10dd01101a53e54198f", 
+      "md5": "b84127b84f7f7f7b0389d47dd771d0ca", 
       "name": "lose_5.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "b11a522bbdb2cff23279b6bbd44744a2", 
+      "md5": "70d1394b671932d4161449ed7b8d2b13", 
       "name": "lose_6.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "1e29c41f02eed4636f3cb8d829b8d9f0", 
+      "md5": "2c46faab4af912bc552d4da4af4e9be3", 
       "name": "lose_7.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "d6f487a476bab294c829098e824a329a", 
+      "md5": "9ae83223545800466d98e6c768dbe710", 
       "name": "lose_8.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "71f404b3e2aecb9ac1de8d28b07fce57", 
+      "md5": "e57371f52c9cab238fc463b109744c79", 
       "name": "lose_9.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "cda546fa43d92990d1579b5cacd28fc4", 
+      "md5": "1b04f745ec48ec3ec6208c4f05156618", 
       "name": "loseBG.png", 
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "01715f10e3326b21c43167d2944fa06d", 
+      "md5": "42d0bae4706273f02a2df966e340e891", 
       "name": "start_1.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "05d6e1e030d522c51a23b802580fd6f0", 
+      "md5": "84c0d5a0be3a5a202db0b5142f7809e1", 
       "name": "start_10.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "d05ff3b6720932ba28f71470b34f25a6", 
+      "md5": "ae7aba98a17402ae2d43227e18860e04", 
       "name": "start_11.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "e4f10c3e11fbc559f8b668270c213537", 
+      "md5": "bb2101917bd4bd2899d2a47dc1d244f6", 
       "name": "start_2.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "4d76dd11fd88b7f4be89379753189145", 
+      "md5": "fd51d437cff36dc7d84741473bbcbf7f", 
       "name": "start_3.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "e6a8dd2af42332d758279b7aa7ab6f9a", 
+      "md5": "c283140c16410508c1444c8d3f289e4e", 
       "name": "start_4.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "4a28a295727492b6eef8e790aee685e1", 
+      "md5": "47b59354f6c44c4b4d2c1a906b052d35", 
       "name": "start_5.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "f31a569bae1c095cbd8f25235e3433ef", 
+      "md5": "a08a456ccaf53f210f1eef94ef5a77ee", 
       "name": "start_6.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "8477aa1cefb0e8fce017715aa10dea82", 
+      "md5": "4521e39673dc4b442097599836fed41f", 
       "name": "start_7.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "e1571aaddfb24e9bf7108d8e29a91e04", 
+      "md5": "4477665d1ebe6d76a81729800b36075b", 
       "name": "start_8.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "d3938718b1e695f547ddd3577972b06e", 
+      "md5": "be9eadfe5e586f630f8d3bee56e61c9a", 
       "name": "start_9.png", 
       "path": "oxnew/res/animation_start/"
     }, 
     {
-      "md5": "86b5d345663b9a8475c0992d44a54633", 
+      "md5": "78f1109394cf22b3df6d7f37ce2a00c1", 
       "name": "victory_1.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "df9652087650677b90305c7073b1c751", 
+      "md5": "c69a682225cb4f8858a42d460ded2585", 
       "name": "victory_10.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "e76e4c6845628640fb3bfee41c21ef0d", 
+      "md5": "4c125daa502dc5a929eab08066b815ae", 
       "name": "victory_11.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "b6a19a47b7e704a24562c75d4521ea74", 
+      "md5": "0f8d4332cae8d688363d72fa6de9923f", 
       "name": "victory_12.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "a0fb2f2b2c4edc4903f06fa7e4440af4", 
+      "md5": "0bc65e62084a3e99b5ac410b3c444a2b", 
       "name": "victory_13.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "281e3c8d74ff3e7df4b9eb6913cd42f3", 
+      "md5": "1681bf8e0cdbfacec42916f3e31fc9f0", 
       "name": "victory_14.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "8efaea7e070669b6e760d3677c815052", 
+      "md5": "f7fe7b39a5bf80ba528d39c41d521e62", 
       "name": "victory_15.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "ca7cb10de4632e65941f99f2230f5557", 
+      "md5": "2c47366a5b755f36bf63e13dc07cc0ee", 
       "name": "victory_16.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "2700a8cf6d4edbc79fb93a5012fefa97", 
+      "md5": "e06f444e8d42596548623aefcf89212b", 
       "name": "victory_17.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "7101890023aff93d7e7480ba912b4a45", 
+      "md5": "be3f37c23f9fb0baa144e854d4388e04", 
       "name": "victory_2.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "a0e5fbe68a3ec45a60ddecc51d1046c4", 
+      "md5": "9d3e819379c3b48c4270d68da6e53b69", 
       "name": "victory_3.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "84735685c86a77f4644af005d27f36ec", 
+      "md5": "41e72ae9f53da12877c1f070c626ee1f", 
       "name": "victory_4.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "5b22e2e7a04052a0e32073b357b011c0", 
+      "md5": "f0a8be4e3a102b6fc5b29d7dd2d0865f", 
       "name": "victory_5.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "86c639a3d8c686495288df21d8b0f1a0", 
+      "md5": "ac605193a2bb87b399fe124a4687e193", 
       "name": "victory_6.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "e8fd8c02d244f7258cdb40897e54dda6", 
+      "md5": "a906d8f95fe938d140c8fe006df679f8", 
       "name": "victory_7.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "6d3fb581a3048517af850b38ccf93a86", 
+      "md5": "0631c328e950ee8e7f115776193ed486", 
       "name": "victory_8.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "d8ab3a417dcaef826e3d715b73473b1c", 
+      "md5": "8679caad837317db9a17d2509743d699", 
       "name": "victory_9.png", 
       "path": "oxnew/res/animation_victory/"
     }, 
     {
-      "md5": "d55047150adbf6225cdc4138889b7f19", 
+      "md5": "0c1e7a74be73df45ebf46879be3dfc92", 
       "name": "yellow_1.png", 
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "a5a19076e43fb71f6f27c6cb4b146fe4", 
+      "md5": "a7f90220fc5021c8dce2449b3b18e12c", 
       "name": "yellow_2.png", 
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "d16e346ff835723b7dc9092f3d61d9c0", 
+      "md5": "f21ee32f5e4e653267d14c1e63792bfa", 
       "name": "yellow_3.png", 
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "fe7b36cdeb24432a15b4c74371ed608d", 
+      "md5": "de34ca12df3721b0369bd02fb9408b89", 
       "name": "yellow_4.png", 
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "0ea056c8e234c11fc275576c0f27373a", 
+      "md5": "dbdd3f069480fcc00ff4732866c290da", 
       "name": "yellow_5.png", 
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
-      "md5": "57b4b078c917bfbc76f69a107928cb3f", 
-      "name": "background.png", 
+      "md5": "b7dbcfd6bf1cf6b47e19392c9879afaf", 
+      "name": "background.jpg", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "43e97187f769a74fe662326f818807f7", 
+      "md5": "e63c9d2a44bc9c709d1f768a11f4bad8", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
@@ -461,42 +461,32 @@
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "0cae27b47d23edeab165586e69bfbf16", 
-      "name": "SetLayer.csb", 
-      "path": "oxnew/res/game/"
-    }, 
-    {
-      "md5": "88d90edd79cfbace9b620bf48ffe5741", 
-      "name": "sp_setLayer_bg.png", 
-      "path": "oxnew/res/game/"
-    }, 
-    {
-      "md5": "dc80a8dda9357c6ff078979062754c73", 
+      "md5": "09fb9ad34f0b0973ae4e1cc809306033", 
       "name": "icon_roomlist_0.png", 
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "8a41e8abd778e89a3fb203fcdff1c59c", 
+      "md5": "5b0421c13cb7becbd6a1345a1828e5e8", 
       "name": "icon_roomlist_1.png", 
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "49722a56e14c59e576f3ce91167d285e", 
+      "md5": "78d3cbcd999dc9c18f685ef39bab22ed", 
       "name": "icon_roomlist_2.png", 
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "58de613a32c17ab6961e51c6cd6101f3", 
+      "md5": "5718ab829896a63a3cda4fd5b5a1515d", 
       "name": "roomlist_title.png", 
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "31e91476717dbd0b6d2c2740228afe24", 
+      "md5": "db86ffc043c83553e14eda8710973272", 
       "name": "roomtable.png", 
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "e693c590832ba78839b2fd59b509b1ec", 
+      "md5": "102dfbbb974bbae49dbbe4822c57e295", 
       "name": "roomtable_play.png", 
       "path": "oxnew/res/roomlist/"
     }, 
@@ -676,7 +666,7 @@
       "path": "oxnew/res/sound/GIRL/"
     }, 
     {
-      "md5": "bcfb809e4216c5a3888c6746e2fc0fac", 
+      "md5": "884394e36018d56bd76ad49a54f97646", 
       "name": "CMD_Game.luac", 
       "path": "oxnew/src/models/"
     }, 
@@ -691,7 +681,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "08e5965afb8c9d5859135452bfd8e805", 
+      "md5": "d294eb9764d838bb3df7a1ee66baa9a3", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -711,22 +701,12 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "7b88c038600d4f074a797f698e2bdd38", 
+      "md5": "e44393fc9bbbe436807b2bd1c7c8b9ca", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "f26bc92a91e965afeafc0d65246657cf", 
-      "name": "SetLayer.luac", 
-      "path": "oxnew/src/views/layer/"
-    }, 
-    {
-      "md5": "2529a07a90b317c3800e574fe7ae0f6a", 
-      "name": "SettingLayer.luac", 
-      "path": "oxnew/src/views/layer/"
-    }, 
-    {
-      "allcount": 145
+      "allcount": 141
     }
   ]
 }

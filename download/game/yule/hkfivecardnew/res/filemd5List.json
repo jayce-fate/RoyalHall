@@ -1,7 +1,7 @@
 {
   "listdata": [
     {
-      "md5": "8641766b318a30fb7ced6487b2df528b", 
+      "md5": "bf426019c5c7cdfe2f905b6e8a3c6264", 
       "name": "cards_s.png", 
       "path": "hkfivecardnew/res/"
     }, 
@@ -11,7 +11,7 @@
       "path": "hkfivecardnew/res/animation/"
     }, 
     {
-      "md5": "7270a222ad59cb0d705bfe9e479b9d40", 
+      "md5": "cc147b59c972280eed347eb978073e19", 
       "name": "showHand.png", 
       "path": "hkfivecardnew/res/animation/"
     }, 
@@ -26,47 +26,42 @@
       "path": "hkfivecardnew/res/animation/xipai/"
     }, 
     {
-      "md5": "28d5c40a9ad58265120a2f97a033da29", 
+      "md5": "fe1db1e8b3c70b1956fd1a95ba41a4c7", 
       "name": "xipai_spine.png", 
       "path": "hkfivecardnew/res/animation/xipai/"
     }, 
     {
-      "md5": "05877264c75042f33cc18f0229b774f5", 
+      "md5": "95fa37cf92b859df940aa12fdc2b9683", 
       "name": "AddChipNode.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "162c5f9ba92d7ecb0e41b131ca3ca487", 
+      "md5": "5efccf0ce2605248034d89a32cb71939", 
       "name": "game_add_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "3446fd80a3ad0f8a88816d659517d1ae", 
+      "md5": "aa40f857140fbbdbb53310cb0eeea5ca", 
       "name": "game_max_add_back_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "bd54487eb569dbbcb3577d2523bb2f3d", 
+      "md5": "89bebcee74bdf62b5f66736f340338c3", 
       "name": "game_reduce_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "52fa3e494de113589ff8ce607e0e35a6", 
-      "name": "game_table.png", 
-      "path": "hkfivecardnew/res/game/"
-    }, 
-    {
-      "md5": "87e57e41e3b3704301c924864fc58978", 
+      "md5": "4355c4c1872f2bb6e9d9e283a18709d2", 
       "name": "game_total_num.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "1564f7e967e3d827893bb72ed59c8bbf", 
+      "md5": "4ca17e792829ccfbd4100035942b704a", 
       "name": "GameRoleItem.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "b5602e3ca155f5624bc0a0a574cc1275", 
+      "md5": "dd9c0c1bc3bda0e208b5ca598ab31bb3", 
       "name": "GameScene.csb", 
       "path": "hkfivecardnew/res/game/"
     }, 
@@ -76,12 +71,12 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "dcd923b87da5ece0bfcd2f9ef9535cd9", 
+      "md5": "8dd5919404347bdb0238b6f3b0595ddb", 
       "name": "SH_action_font.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "05080893424261c21972a779f6a3b0ba", 
+      "md5": "65ff699f63949bfd46900f92470f16c1", 
       "name": "SH_card_type-hd.png", 
       "path": "hkfivecardnew/res/game/"
     }, 
@@ -91,127 +86,77 @@
       "path": "hkfivecardnew/res/game/"
     }, 
     {
-      "md5": "2bbb97a684c46f7e737c7ca1901b88e5", 
+      "md5": "ca609bab34f9b3011570392bce1679a7", 
       "name": "bg.jpg", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "813481ed0fb6d52f6fa938419b3b388a", 
-      "name": "btn_all_in_unactive.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "md5": "f7a6d15e87fa3c8c11662e79b68fd452", 
+      "name": "dz_table.png", 
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "395d49cb2fa3399b51357473ba50c59e", 
-      "name": "btn_change_unactive.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "8f9803d0497833e747f4bba0fe04f0e0", 
-      "name": "btn_follow.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "f9e1a39eb187236b682d660f91f1f83d", 
-      "name": "btn_money.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "23cf6cf09fb8fee5b29b9e3155f335ab", 
-      "name": "btn_more.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "2744bb0c6b0c3ce2d1bf88d6d742db74", 
+      "md5": "1c5ba4ec1e86b0b1db6b2302a3311a0d", 
       "name": "gswz.plist", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "ca34a53456a382bf0eef104b5454a874", 
+      "md5": "6cf8dab4ea24d6d47529455e2daeb6ee", 
       "name": "gswz.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "531eb9030b1ae502418716a7f86ce030", 
-      "name": "icon_chat.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "29191aa496e4f3439d76813502ca1cf6", 
-      "name": "tag_bar_all_in.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "5236816c9baef52e478120e7c53a24ac", 
+      "md5": "5aca433c1f0f521e3ce8eb5343f88745", 
       "name": "tag_chip_small_1.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "a3e6910cf027e4d047956dca3a267717", 
+      "md5": "0af848d4c909afbbe46e86998573665e", 
       "name": "tag_chip_small_10.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "355c6c1518297fd3fe9c713f1a93fa73", 
+      "md5": "85024351cd5a708467f7fadf92ad7b89", 
       "name": "tag_chip_small_100.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "0c458deb8e591e20bdeb782dc220b8b6", 
+      "md5": "ca3a048d2d6e33ce38572f44085ea807", 
       "name": "tag_chip_small_50.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "f1087277c30baa5c1c5603d10c4d96c0", 
+      "md5": "8f0f11fb5de5350a99f8c80d712d1ac6", 
       "name": "tag_chip_small_500.png", 
-      "path": "hkfivecardnew/res/new_res/"
+      "path": "hkfivecardnew/res/gswz_new_res/"
     }, 
     {
-      "md5": "2b8147014a283761224385b09f43fa4e", 
-      "name": "tag_contrallor_bar_1.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "abf672529836c83ef1f85fab235455d7", 
-      "name": "tag_contrallor_bg1.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "b5844951a7e5961ccb57d71657397f56", 
-      "name": "tag_shining_00.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "a41b16bab68e33953775ac5fd681fd62", 
-      "name": "tag_user_bet.png", 
-      "path": "hkfivecardnew/res/new_res/"
-    }, 
-    {
-      "md5": "7162ccb0987b219d0b3839a78c88e0f9", 
+      "md5": "5313e623e348467f60e363f97628817c", 
       "name": "icon_roomlist_0.png", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "73af988340ff59f985ccc86a1fd4d564", 
+      "md5": "4c7e8553156efeae958d3c8671a444d5", 
       "name": "icon_roomlist_1.png", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "1de46efff99203fb083a05361cb24816", 
+      "md5": "d1c50298feac8834b2e8d7b8db08891d", 
       "name": "icon_roomlist_2.png", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "fe2b7eda5f4f49d7c4c7a8cd055b95e6", 
+      "md5": "00f706ab1ee7ef3299978f23ce97cb16", 
       "name": "roomlist_title.png", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "03eb3f34eeba314d31ff59a22933fcf3", 
+      "md5": "b1751e6a01ac61bf5b5503b0e4d0e301", 
       "name": "roomtable.png", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "423a061dd0b4eeb1e9adba7fb2371f65", 
+      "md5": "1f1bbaa8771004f1265d2e7ea3212ce1", 
       "name": "roomtable_play.png", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
@@ -219,26 +164,6 @@
       "md5": "5500ac6b2805fb8616782ba2623232f1", 
       "name": "Rule.txt", 
       "path": "hkfivecardnew/res/roomlist/"
-    }, 
-    {
-      "md5": "eded0824900a69c1bf7f940986895de6", 
-      "name": "set.csb", 
-      "path": "hkfivecardnew/res/set/"
-    }, 
-    {
-      "md5": "f93c0f6fee3e8bb908e7c58f0a17cc77", 
-      "name": "set.plist", 
-      "path": "hkfivecardnew/res/set/"
-    }, 
-    {
-      "md5": "66566b8d7785b380cf27e38b22f193e2", 
-      "name": "set.png", 
-      "path": "hkfivecardnew/res/set/"
-    }, 
-    {
-      "md5": "42d79a1d2b95dc51dc4eb856aa28088e", 
-      "name": "shadow_bg.png", 
-      "path": "hkfivecardnew/res/set/"
     }, 
     {
       "md5": "dab45c2701f4ce30e351c0478e09bc37", 
@@ -416,7 +341,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "65d5803c2e266a562be4e0a89d7580c6", 
+      "md5": "1dcd2f47a920f3cf2688a8c8be8e01ae", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -436,17 +361,12 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "0b1db4dffa4ae23f3a049c9575a99735", 
+      "md5": "9063bfaeb21b5f81710d6eeb8e14a54e", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "d416e2fa28bc102eb67c37047250bb58", 
-      "name": "SettingLayer.luac", 
-      "path": "hkfivecardnew/src/views/layer/"
-    }, 
-    {
-      "allcount": 89
+      "allcount": 73
     }
   ]
 }
