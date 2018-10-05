@@ -406,7 +406,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "72d516286b4b75309ff5e445ad1d24c8", 
+      "md5": "2027b0eaf0b06a164cbbb3e8f990898b", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -426,7 +426,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "aa3981ef963a3dd2818eb65cbf51d2d7", 
+      "md5": "f9baee22f761ac1493b27596acfcd15d", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 

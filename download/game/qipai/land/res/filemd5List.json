@@ -406,47 +406,47 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "bf4b9a3f9a6f95d4919140da8892942b", 
+      "md5": "b0032a8d4fd9578975ff38ed5afbd5b0", 
       "name": "erdou_deposite_none.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "7492d88e2eddd51c132c0652840ef67b", 
+      "md5": "f83359ff3237e21b187e28285b5dc0be", 
       "name": "erdou_deposite_normal.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "7492d88e2eddd51c132c0652840ef67b", 
+      "md5": "f83359ff3237e21b187e28285b5dc0be", 
       "name": "erdou_deposite_selected.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "010b091cf27fe83a2b025184cd17e993", 
+      "md5": "f7323ca132ee2b85465f6d4f577f446c", 
       "name": "erdou_exit_none.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b4721348a968bf5ebfdfa8b3d4558f53", 
+      "md5": "db92686db3852dfb56b59b69073ad2bc", 
       "name": "erdou_exit_normal.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b4721348a968bf5ebfdfa8b3d4558f53", 
+      "md5": "db92686db3852dfb56b59b69073ad2bc", 
       "name": "erdou_exit_selected.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "645cde88e56f1cff570b5887f2a172c1", 
+      "md5": "49da4198f8e72ed635c625bd259a94d3", 
       "name": "erdou_setting_none.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "1e2ea453ace757bf79d9d7f23c644200", 
+      "md5": "d39b9154e7bc4e4850c08383ccf11331", 
       "name": "erdou_setting_normal.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "1e2ea453ace757bf79d9d7f23c644200", 
+      "md5": "d39b9154e7bc4e4850c08383ccf11331", 
       "name": "erdou_setting_selected.png", 
       "path": "land/res/game/"
     }, 
@@ -481,7 +481,7 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "ee3212b30ec760b80e2506f4ae02d6fe", 
+      "md5": "edd13aa5970e81cea436d8ac9260dd6e", 
       "name": "GameLayer.csb", 
       "path": "land/res/game/"
     }, 
@@ -1651,12 +1651,12 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "ebb5e1ff45efe66277d455f4ae8588e1", 
+      "md5": "06aec24fa5cd76f48d3f46e7ce7a2bdf", 
       "name": "GameRoleItem.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "86af87bd113c72634eae2ffb5cddb3e3", 
+      "md5": "ae86399f855303af6524849476350661", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
