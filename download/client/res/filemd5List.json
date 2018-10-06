@@ -276,6 +276,16 @@
       "path": "client/res/common/rc_tip/"
     }, 
     {
+      "md5": "4b1652e5e3665c1eef30d04af8bb0325", 
+      "name": "Complaints.csb", 
+      "path": "client/res/complaints/"
+    }, 
+    {
+      "md5": "2c785cb96faad3f520e1e84d40efdd7a", 
+      "name": "complaints_title.png", 
+      "path": "client/res/complaints/"
+    }, 
+    {
       "md5": "4b2647da6f52d9c1142fa48a084e4a06", 
       "name": "customer_bg.png", 
       "path": "client/res/customer/"
@@ -831,6 +841,11 @@
       "path": "client/res/plazz/"
     }, 
     {
+      "md5": "be6db6e4ba817b31f9fd3367fd8bdc09", 
+      "name": "lobby_btn_home_complaints.png", 
+      "path": "client/res/plazz/"
+    }, 
+    {
       "md5": "5c8a3f69376fcf9f6f6445e304122b49", 
       "name": "lobby_btn_home_mail.png", 
       "path": "client/res/plazz/"
@@ -886,7 +901,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "e78f274b173a17fde3aae2b5a9deffda", 
+      "md5": "585efb04852ad96cc34b00b473ace15e", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -1351,57 +1366,57 @@
       "path": "client/res/rankingchart/fonts/"
     }, 
     {
-      "md5": "8ca3062c195e2da4b3b9c7df12a6180c", 
+      "md5": "e908c940da7d0afe2e48285a54d01d65", 
       "name": "complaints_proxy_btn_sure.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "7e48df3d9c23de757f4f235a4dff37b4", 
+      "md5": "0f3c6948f01ba93fe9d5301a5d4761f7", 
       "name": "complaints_proxy_content_bg.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "96f6cbeebb96dbc555083424f2060f32", 
+      "md5": "32e871fa9ead2a9496a0be1c73dd2cc4", 
       "name": "complaints_proxy_title.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "0f1944a0e084ad479efb31839054c2e3", 
+      "md5": "8c02f3b7f92ee1c7b14c2a1aa81a7c26", 
       "name": "complaints_proxy_wechatid_bg.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "93c931a7ad7d4529f591229c407865c1", 
+      "md5": "1c77d688c5202a68a91683bc258917de", 
       "name": "ComplaintsProxy.csb", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "14eacacdffdd6609d5d1e588a6e6f3d3", 
+      "md5": "185d95662c583a5c1e6f3a2e5b79c6e1", 
       "name": "contact_proxy_btn_complaints.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "daaeddaa60a1c91d6a6028098273018f", 
+      "md5": "d7493fd0a0408d42906b3b21a10f2d84", 
       "name": "contact_proxy_btn_qq.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "d8ccd13cb934c3024714febb51f584b7", 
+      "md5": "bb109ba72cc36b5851a8afc03f2174b9", 
       "name": "contact_proxy_btn_wechat.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "d7cf325e0023ef03a3dff6e35f86457c", 
+      "md5": "f601cd7451d462db99ecaaa9c5b41234", 
       "name": "contact_proxy_icon_qq.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "e120f8de02c00a443b3c0ae763982809", 
+      "md5": "49e2cb0efbda2c1797be3b110f80fdd2", 
       "name": "contact_proxy_icon_wechat.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "c454f6096d51af6f6f0e1c0cc62399e0", 
+      "md5": "9ea51bb9cfbc5d9cb8e78cf94f2823db", 
       "name": "contact_proxy_title.png", 
       "path": "client/res/recharge/"
     }, 
@@ -1411,77 +1426,87 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "e491a641d191e9d2bbee1625367ff4fc", 
+      "md5": "b2dbbfe4e7607087982f5efa28a17b24", 
       "name": "Recharge.csb", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "0536385559641e41f034449cc7da51d2", 
+      "md5": "54ff0ecdd4b8d740a02a5f4dfbaf809c", 
       "name": "recharge_banner_alipay.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "3b9f39bb1c9047a3a377c86318790f14", 
+      "md5": "62de1b7170e9170043241673e880c2ba", 
       "name": "recharge_banner_bank.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "1077208a8c2a5ddae9cfd4b392a2d995", 
+      "md5": "02e44a03c58221510779fc78ceeab19e", 
       "name": "recharge_btn_alipay_d.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "07ab6adb8dfd1dae5a76e155fc23af8a", 
+      "md5": "249c469e6d3430dba9b1cabb4c552dac", 
       "name": "recharge_btn_alipay_n.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "95e53b01c3ed64856621a52060ca9ebb", 
+      "md5": "3cefe26a3eb5f6ba61c46d0a822e2f54", 
       "name": "recharge_btn_cell_charge.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "09e2eaef4eea09a20e2aff6ec5521c1d", 
+      "md5": "bcf39108ff8ee772ffa74422b1ad0dd4", 
       "name": "recharge_btn_charge.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "a4010b318cfa749f8869fcadad98053d", 
+      "md5": "8b38a8e5687013d07595a5614950186f", 
       "name": "recharge_btn_clear.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "4b1bf65431a8090ce8d925079b368860", 
+      "md5": "5da790c48d3889a576f26c7fdd4339ec", 
       "name": "recharge_btn_complaints.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "e54e40bbcc15e95749d91412fd3116fe", 
+      "md5": "1e6deea1ba4b9f40b4de8013a17cb534", 
       "name": "recharge_btn_copy_account.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "22a43ed7e5464571a3cb9cea921a9ad5", 
+      "md5": "c93e32ff5f799368dc48664b8ca241fb", 
       "name": "recharge_btn_item.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "147ef048df93db555b9c0e717a5a300b", 
+      "md5": "e3e21beb12f4459d0e9a377e465f769b", 
+      "name": "recharge_btn_unionpay_d.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "fecfb87753e60a0cd024816612978c18", 
+      "name": "recharge_btn_unionpay_n.png", 
+      "path": "client/res/recharge/"
+    }, 
+    {
+      "md5": "0c05ac3dabb25de316e1b96cc8242c98", 
       "name": "recharge_btn_vip_d.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "ef4e24e5fb5b097cc611e9c0ce7e5ade", 
+      "md5": "249fd62eda8796d2d43ca95ce261e009", 
       "name": "recharge_btn_vip_n.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "c2f801d88d8c25790f3e4d9ee198f668", 
+      "md5": "f1bfd1918caf5b4bdede9be3237d48c4", 
       "name": "recharge_cell_bg.png", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "6f835bb5b7188ded7b9656f78f58737d", 
+      "md5": "fdf03c4a6b6c5b792795a30e918409ff", 
       "name": "recharge_line.png", 
       "path": "client/res/recharge/"
     }, 
@@ -2136,7 +2161,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "ce6bfdef836feec13e98b8ede3ac1395", 
+      "md5": "7f138c38c92904ad6e620dda3c741594", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2316,7 +2341,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "224b252df8b48685eb7b87c5253015e6", 
+      "md5": "58584a06ca448ea1323574d08e1b2bcb", 
+      "name": "ComplaintsLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "8261c256011b38da255c09b941b036c0", 
       "name": "ComplaintsProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2346,7 +2376,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "31e4dc5c26e07f5c2f09dbf28bc04a80", 
+      "md5": "edd98c587a7e948f7d10947de1f1d499", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2396,7 +2426,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "0cf7d6d443d169336ebb30126cbc297d", 
+      "md5": "89aebe1a24eeab2f61ca4e5a3e300f59", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2601,7 +2631,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 520
+      "allcount": 526
     }
   ]
 }

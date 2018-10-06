@@ -451,6 +451,41 @@
       "path": "28gbattle/res/result/"
     }, 
     {
+      "md5": "5313e623e348467f60e363f97628817c", 
+      "name": "icon_roomlist_0.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "4c7e8553156efeae958d3c8671a444d5", 
+      "name": "icon_roomlist_1.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "d1c50298feac8834b2e8d7b8db08891d", 
+      "name": "icon_roomlist_2.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "5b14b86141796c4653d4bad475ccd8e8", 
+      "name": "roomlist_title.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "b1751e6a01ac61bf5b5503b0e4d0e301", 
+      "name": "roomtable.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "1f1bbaa8771004f1265d2e7ea3212ce1", 
+      "name": "roomtable_play.png", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "5500ac6b2805fb8616782ba2623232f1", 
+      "name": "Rule.txt", 
+      "path": "28gbattle/res/roomlist/"
+    }, 
+    {
       "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
       "name": "ADD_SCORE.wav", 
       "path": "28gbattle/res/sound_res/"
@@ -626,8 +661,13 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "0a81d6fb51642c8f3c2e8ab9ac01268a", 
+      "md5": "15f2fea30d1671fc129da737399216b5", 
       "name": "GameLayer.luac", 
+      "path": "28gbattle/src/views/"
+    }, 
+    {
+      "md5": "3cd2c794c9bc01fd9452c33d4cafb02b", 
+      "name": "GameRoomListLayer.luac", 
       "path": "28gbattle/src/views/"
     }, 
     {
@@ -646,12 +686,12 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "ab9df8ab0b019e1f15aeb63b77771807", 
+      "md5": "3eb6af52d15306805ada442799a9c293", 
       "name": "GameResultLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "c25aaf40fda7da5c15f47a2e10760d3e", 
+      "md5": "7ab6ed6bdbe9b462e486e2f1f19c5f27", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -671,7 +711,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "allcount": 134
+      "allcount": 142
     }
   ]
 }

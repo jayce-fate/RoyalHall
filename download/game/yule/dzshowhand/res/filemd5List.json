@@ -56,7 +56,7 @@
       "path": "dzshowhand/res/game/"
     }, 
     {
-      "md5": "5197895bb98e5ab77ab755fdb9e996ed", 
+      "md5": "8f7c2f6376bbfb7d6851a03687636142", 
       "name": "GameScene.csb", 
       "path": "dzshowhand/res/game/"
     }, 
@@ -84,6 +84,11 @@
       "md5": "d47fb8fabdc48d4be0dc2ff16d638da0", 
       "name": "gswz.png", 
       "path": "dzshowhand/res/gswz_new_res/"
+    }, 
+    {
+      "md5": "667e66f4b28cde5153163879461ec208", 
+      "name": "dz_nopack_cardtype_bg.png", 
+      "path": "dzshowhand/res/img/"
     }, 
     {
       "md5": "d242bd0377ba154d5579c71fbf413ec6", 
@@ -351,12 +356,12 @@
       "path": "dzshowhand/src/views/"
     }, 
     {
-      "md5": "149e21bdb6dacdeaa6608d555fd53879", 
+      "md5": "ed51984442b4dd1e9f3ef85f8389a32d", 
       "name": "CardSprite.luac", 
       "path": "dzshowhand/src/views/layer/"
     }, 
     {
-      "md5": "3f8528b6627953429c26d03f21df96c6", 
+      "md5": "7a8e129d21b686fab7864c2510a09b35", 
       "name": "GameViewLayer.luac", 
       "path": "dzshowhand/src/views/layer/"
     }, 
@@ -366,7 +371,7 @@
       "path": "dzshowhand/src/views/layer/"
     }, 
     {
-      "allcount": 73
+      "allcount": 74
     }
   ]
 }
