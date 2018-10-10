@@ -436,6 +436,96 @@
       "path": "dragontiger/res/img/"
     }, 
     {
+      "md5": "0592fb8cfb36c4cb1bed282f7da356bf", 
+      "name": "longhudou_dayingjia.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "64f24fc585444709b1daa829ff289e09", 
+      "name": "longhudou_dayingjia_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "307f4c9d4eb137fa7b32385f89e438f6", 
+      "name": "longhudou_golden.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "4932770ecd3e6fae333309ad449305d5", 
+      "name": "longhudou_golden.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "ec902c01c3d4dadb0c5747d449e3b3b1", 
+      "name": "longhudou_playerlist_number.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "0fdb760dd38ed93ceaa2c0d70f874b91", 
+      "name": "longhudou_playerlist_number_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "91e5a80590e37c831a8ecf9047bbe2b1", 
+      "name": "longhudou_rebuy_num.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "dedab723b30c8e6b5735e2efa8402f0a", 
+      "name": "longhudou_rebuy_num.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "ef0351b80fa02dda23455dd788436fc8", 
+      "name": "longhudou_remind_num.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "b24c627a53c28d5416055e79a7741c0c", 
+      "name": "longhudou_remind_num_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "9c685fe4a77491b3ceb76e8296e54265", 
+      "name": "longhudou_white.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "1ced9919fa111f3c65f385f97ae8e086", 
+      "name": "longhudou_white.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "8fd52467613444ca4f3492285e5a622b", 
+      "name": "longhudou_winner_add.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "a299a0b062c7308bd018b009a9c99070", 
+      "name": "longhudou_winner_add.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "58dcb77c5e2907b1b32af9ca60cf06aa", 
+      "name": "longhudou_winner_add_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "e7658a5109c248d29fbddfc7fa98c338", 
+      "name": "rewards.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "eeb77e53e4f375734823ccf0b3254719", 
+      "name": "rewards.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "aed5ec2a7fd1f681b9df896a3b9cb25b", 
+      "name": "rewards_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
       "md5": "ac6c7fe3e73b286531d720e027daba05", 
       "name": "longhudou_bigwinner_star.png", 
       "path": "dragontiger/res/img/nopack/"
@@ -651,13 +741,18 @@
       "path": "dragontiger/res/roomlist/"
     }, 
     {
-      "md5": "690e6d851d88f01927a8fd9569e2f3bb", 
+      "md5": "92ef91da8b74c539976df341148b66ae", 
       "name": "roomlist_title.png", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
       "md5": "5556e52a1cff4706ddcb752dbe6b784f", 
       "name": "Rule.txt", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "43faa00f3af7408e2741df5d126d3e2c", 
+      "name": "rule_longhudou.png", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
@@ -676,159 +771,154 @@
       "path": "dragontiger/res/setting/"
     }, 
     {
-      "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
-      "name": "ADD_SCORE.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "966deab48e2b8f20c191ed0ea711798c", 
+      "name": "audio_reminded_myself.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "2c6f3e61ce4f29dfa78e3e5eecb444da", 
-      "name": "ba_1c2b_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "29159c500218a84a6dc1d25558a15c9b", 
+      "name": "bet.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "525be2fa74bcb3893378f9c9b9bb847d", 
-      "name": "ba_1c2p_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "ebc88278ab816b6b2ccfae9e497ac3ef", 
+      "name": "big_winner.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "48417edcc7e3ea19a92404ca0ff157c5", 
-      "name": "ba_bhas_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "dd219210323e5c8cfc39a02d1ea15e67", 
+      "name": "flip_card.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "901c9e6e8cc90c620143a454419edd97", 
-      "name": "ba_bwin_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "474b668ae047b3e3a1a513c3545a546e", 
+      "name": "he.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "6543de94604f23d96e1d7cdc378b93d5", 
-      "name": "ba_phas_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "f061ab1837625751ac4ace3fc17c3e22", 
+      "name": "hu_win.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "3bd579f82fa30d879ded954b4b572e1f", 
-      "name": "ba_pwin_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "0f49e57e17e7c85c6e872a66c3c03f7e", 
+      "name": "lhb_p_1.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "083acfd0ab481d6bec74b17c164596a6", 
-      "name": "ba_tiwin_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "9d9740483a05dae8bf75c99addcd28d3", 
+      "name": "lhb_p_10.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "f283a720018e0027548d4aab41e9de39", 
-      "name": "c_place_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "fda98ead8cfe245b07ada55264b41b8b", 
+      "name": "lhb_p_11.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "ced92613990690a81051a46c43a69659", 
-      "name": "Click.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "85e797827e2c6a92adc722b9a9227307", 
+      "name": "lhb_p_12.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "10aca0de9b6b86feb51208cddab2043a", 
-      "name": "daojishi.WAV", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "5fba555f636a08ff66b9871e264d4a65", 
+      "name": "lhb_p_13.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "fcc3386a181ff12533aeba7916e6e98c", 
-      "name": "END_DRAW.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "302c1e18f8150a831aa85777b1df0b77", 
+      "name": "lhb_p_2.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "8def92de49cdf75151f138482e2293e8", 
-      "name": "END_LOST.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "8dbfbc1130d3844718b19e6c2cffc718", 
+      "name": "lhb_p_3.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "0a75b76681fec910ebb76229ed4d15d2", 
-      "name": "END_WIN.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "b4c6cf32466d9fa29c93804a973ca3ed", 
+      "name": "lhb_p_4.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "d82fb502b4bf91030094b7ee82375b5c", 
-      "name": "GAME_BLACKGROUND.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "61f60cc8c2fc123f9af4e7ded3eac311", 
+      "name": "lhb_p_5.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "7f59f079bac8a9991d7d879cb6a3b479", 
-      "name": "GAME_START.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "b621a92b28831d535a2138de6e8e9000", 
+      "name": "lhb_p_6.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "a9f8a8fea38c75e9c997f33d00a73640", 
-      "name": "Natural_no_8_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "54fd4d4c3b5276c67c91802bada8f66a", 
+      "name": "lhb_p_7.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "a90c5a0edffe1ecc504d4a9559ec9b68", 
-      "name": "Natural_no_9_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "f65027da60f0ae5416afe46e5e29d63f", 
+      "name": "lhb_p_8.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "5fc6278844fea2fa6f775c8ce49058e3", 
-      "name": "no_0_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "c26136dd0e760470e6b7aafda3481cf2", 
+      "name": "lhb_p_9.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "40fa423527425965ae635c6f4df38536", 
-      "name": "no_1_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "a5a8526489db9a1485d85d2b25f39fbb", 
+      "name": "long_win.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "b0e902a127244e9e7cfe468d9ad5709a", 
-      "name": "no_2_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "cac36f50b47e5f1516bb7cb45094bf50", 
+      "name": "on_bet0.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "b7e2b9d79261760291b7460c43933ce8", 
-      "name": "no_3_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "603f2ab26880570aa3e9e34b725b2a46", 
+      "name": "on_bet1.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "b58fc54703d7a220538ef3f3471363ee", 
-      "name": "no_4_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "53528318e451a3067f9c444bea1ccac7", 
+      "name": "on_bet2.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "d5de96165722ac44b757f78986e74ef8", 
-      "name": "no_5_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "2ac9d64cc8ef72794bd96b2f85ca263d", 
+      "name": "on_bet3.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "92fa40af2bd3bb6274cf28812c509299", 
-      "name": "no_6_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "55ae5a4d240016d4e25c2aac46edfd5b", 
+      "name": "on_bet4.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "0f091248bbb8895fb5b41de7245ff082", 
-      "name": "no_7_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "b7e2837ec8f5ec8a9ebc87a7406d4ee4", 
+      "name": "send_card.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
     }, 
     {
-      "md5": "94f7e9a14b316a730c5bfdd3c29bbfa5", 
-      "name": "no_8_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "9df2fb096b678834aa08c1f034b7815b", 
+      "name": "background.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
     }, 
     {
-      "md5": "9a3e942426b70841dc42d7858b8431cc", 
-      "name": "no_9_cn.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "c9c5ec260661825e2d67b00f57553c18", 
+      "name": "bet_end.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
     }, 
     {
-      "md5": "d6a458185a137b53e0767fc21bf8a88e", 
-      "name": "open_alert.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "ba19ee129fae69cda086ba587545b95b", 
+      "name": "bet_ready.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
     }, 
     {
-      "md5": "07f87fe30da5d77c89279cfbe2c38a44", 
-      "name": "SEND_CARD.wav", 
-      "path": "dragontiger/res/sound_res/"
-    }, 
-    {
-      "md5": "ed92b3a820b5497cc3c2d4d26bad133a", 
-      "name": "vip_maybe_win.wav", 
-      "path": "dragontiger/res/sound_res/"
+      "md5": "ca3953c35814390aa82e52c536b45936", 
+      "name": "bet_start.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
     }, 
     {
       "md5": "5c2f2dc2f85e82f275c04d64c8bb8000", 
@@ -836,7 +926,7 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "ffcffa9e6480536baf842f88b6954ad5", 
+      "md5": "a9d2db66e4cb76e9a46b65b33ba00966", 
       "name": "CMD_Game.luac", 
       "path": "dragontiger/src/models/"
     }, 
@@ -851,17 +941,17 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "90f1e62f09dc4385904fe6d14d32959d", 
+      "md5": "ea7c2965dfbbbcfe2a15c71b26eb3a3b", 
       "name": "GameLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "cd7ff1f0dd398887730a2070de4f5b1d", 
+      "md5": "ad2dbd05a2f3f88ab3046a3ea3bc8b07", 
       "name": "GameRoomListLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "cc12d53efcf70f0bc036bc65cdbcd973", 
+      "md5": "e94b77ec63793b6d7348ea87d13a2c7e", 
       "name": "GameCardLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -871,7 +961,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "47479cd2d4a8587314e14226bb839328", 
+      "md5": "dd5dff031328e11e34379f57b454fd7b", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -886,7 +976,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "c8dbef565fd1fc06e633d84cbb272963", 
+      "md5": "3a32ec67c10381ed51b2222905311674", 
       "name": "WallBillLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -916,7 +1006,7 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 183
+      "allcount": 201
     }
   ]
 }

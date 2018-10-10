@@ -211,6 +211,16 @@
       "path": "zhajinhua/res/roomlist/"
     }, 
     {
+      "md5": "59c1bbdc79c9d886ccba49795f98179f", 
+      "name": "rule_zjh_0.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
+      "md5": "8925658c7b207b5b4a9fdc0516562a90", 
+      "name": "rule_zjh_1.png", 
+      "path": "zhajinhua/res/roomlist/"
+    }, 
+    {
       "md5": "7fda68b288acae99420b95eddb3e89cc", 
       "name": "ADD_SCORE.wav", 
       "path": "zhajinhua/res/sound_res/"
@@ -471,7 +481,7 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "9163a228b529b44a22bc77ffe3f9eef2", 
+      "md5": "320ee4634e78ce427e45763066779068", 
       "name": "GameRoomListLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -491,7 +501,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 98
+      "allcount": 100
     }
   ]
 }

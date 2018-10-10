@@ -496,6 +496,11 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
+      "md5": "ebe72ed05a76696676ffe7b2f63604dc", 
+      "name": "rule_jdnn.png", 
+      "path": "oxnew/res/roomlist/"
+    }, 
+    {
       "md5": "f63fb4faefe493539a73fb524911f3db", 
       "name": "backMusic.mp3", 
       "path": "oxnew/res/sound/"
@@ -681,7 +686,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "d294eb9764d838bb3df7a1ee66baa9a3", 
+      "md5": "4639a343aa665105f6095d425d52284e", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -691,7 +696,7 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "6ce33c280d50d9e8f02d4e7fedba57ef", 
+      "md5": "5fb45922c7bde295677f471238a594cb", 
       "name": "GameRoomListLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -701,12 +706,12 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "c45bf5ce5cd0f2811eda52787492151c", 
+      "md5": "fc49748f8e27ed8c280cfbf2048b6248", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 141
+      "allcount": 142
     }
   ]
 }

@@ -196,6 +196,11 @@
       "path": "runfasthn/res/roomlist/"
     }, 
     {
+      "md5": "258e2618d3bf0acdc10a92aab8ddaa2f", 
+      "name": "rule_pdk.png", 
+      "path": "runfasthn/res/roomlist/"
+    }, 
+    {
       "md5": "305d43cf5b927a6df71b853eb3a970f8", 
       "name": "BACK_MUSIC.wav", 
       "path": "runfasthn/res/sound/"
@@ -696,7 +701,7 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "0beb93d87de989d152550a7e185c0ec8", 
+      "md5": "bba53b87271dd7f39a7547f41b139628", 
       "name": "GameRoomListLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -726,7 +731,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 145
+      "allcount": 146
     }
   ]
 }

@@ -6,14 +6,19 @@
       "path": "hkfivecardnew/res/"
     }, 
     {
-      "md5": "d9f4556fbb445ec719437d4fd4c96634", 
-      "name": "showHand.plist", 
-      "path": "hkfivecardnew/res/animation/"
+      "md5": "487dfe4a222e048c9713d897edb9cc34", 
+      "name": "souha_spine.atlas", 
+      "path": "hkfivecardnew/res/animation/souha/"
     }, 
     {
-      "md5": "cc147b59c972280eed347eb978073e19", 
-      "name": "showHand.png", 
-      "path": "hkfivecardnew/res/animation/"
+      "md5": "f5e69dc31254fc5fbbc77ce3f3f52723", 
+      "name": "souha_spine.json", 
+      "path": "hkfivecardnew/res/animation/souha/"
+    }, 
+    {
+      "md5": "7905427314e5fefcee1a6f6156642b5e", 
+      "name": "souha_spine.png", 
+      "path": "hkfivecardnew/res/animation/souha/"
     }, 
     {
       "md5": "5f75e0428e44f239800d773bf6a242b3", 
@@ -341,7 +346,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "1dcd2f47a920f3cf2688a8c8be8e01ae", 
+      "md5": "82f1b4fc934bba631d7b48eae2a797b7", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -361,12 +366,12 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "36e5f1dbc6d7ce82b488968235854a42", 
+      "md5": "2b81cf274d7128bcd9dde279620e59c5", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "allcount": 73
+      "allcount": 74
     }
   ]
 }

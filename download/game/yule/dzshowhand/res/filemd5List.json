@@ -71,7 +71,7 @@
       "path": "dzshowhand/res/game/"
     }, 
     {
-      "md5": "2bbb97a684c46f7e737c7ca1901b88e5", 
+      "md5": "ca609bab34f9b3011570392bce1679a7", 
       "name": "bg.jpg", 
       "path": "dzshowhand/res/gswz_new_res/"
     }, 
@@ -361,17 +361,12 @@
       "path": "dzshowhand/src/views/layer/"
     }, 
     {
-      "md5": "7a8e129d21b686fab7864c2510a09b35", 
+      "md5": "4fc3bc974470931950a24e2fbb71572a", 
       "name": "GameViewLayer.luac", 
       "path": "dzshowhand/src/views/layer/"
     }, 
     {
-      "md5": "00b6093a1c2a85c000f16c452ecc0ee2", 
-      "name": "SettingLayer.luac", 
-      "path": "dzshowhand/src/views/layer/"
-    }, 
-    {
-      "allcount": 74
+      "allcount": 73
     }
   ]
 }

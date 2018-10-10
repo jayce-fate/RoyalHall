@@ -1,17 +1,22 @@
 {
   "listdata": [
     {
-      "md5": "c18f7aa29d67ebb71d58d1069897996e", 
+      "md5": "99b8035822528669748dfb6af704b663", 
+      "name": "bg_chart.png", 
+      "path": "baccaratnew/res/"
+    }, 
+    {
+      "md5": "78dc256e18fd87f579eed11e80f84299", 
       "name": "bjl.plist", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "fdfcf4bb48b9db11fc1da1aa66ab8173", 
+      "md5": "61bc5a274ae1e883c00b9438e24a1657", 
       "name": "bjl.png", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "853d9573327f547a41392ec289bdb490", 
+      "md5": "751df3db6b1d77031e3d1dc48c0e0f17", 
       "name": "brnn_btn_back.png", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
@@ -26,13 +31,18 @@
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "7fcbb39d8f59a614d80784008752bc40", 
+      "md5": "560750ecbeeed7df2f91119920e008df", 
       "name": "font.fnt", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "2c93a23b6510203d356d1c8763bd11d8", 
+      "md5": "1a130a0dd6d49a8d668ab78d87cb80f1", 
       "name": "font.png", 
+      "path": "baccaratnew/res/bjl_new/"
+    }, 
+    {
+      "md5": "225339d84041565bae6f703f50e72ee8", 
+      "name": "new_res_new_res_tag_box_poker.png", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
@@ -51,22 +61,27 @@
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "9702d75f9f91bbe495f6c3d51c02746e", 
+      "md5": "ec9ca83e234a49689909e6d59ce50e50", 
+      "name": "sitrole_user_bg.png", 
+      "path": "baccaratnew/res/bjl_new/"
+    }, 
+    {
+      "md5": "3837b45dfd35933ec364d546403126b5", 
       "name": "tag_loading_bar.png", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "1fe507633a1a24218963c94140b6fb9e", 
+      "md5": "22034d21c973aa91d766f8b99a423316", 
       "name": "tag_loading_flower.png", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "e0f699953ec176b9e1bc52c00ac2b588", 
+      "md5": "33e3495e6c366ff8b48528f4424b6cae", 
       "name": "tag_loading_num.png", 
       "path": "baccaratnew/res/bjl_new/"
     }, 
     {
-      "md5": "1160d289aab80c5e5bb180cc1f47f4db", 
+      "md5": "936e3367b344199cabba77b4a6829cc9", 
       "name": "ApplyListLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -116,22 +131,22 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "ff6d07b5c99d1d5d9677f9b60ddd892a", 
+      "md5": "58926d6ade32f06b29a47a4e1dd5d822", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "c5daaf86f0af09c09d020681084a4931", 
+      "md5": "676f653a8a559c36e555ed2121599a34", 
       "name": "GameResultLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "d6bca5861451f6563a51d86b32f14c0a", 
+      "md5": "a82bd9923ebba45934d72a1eff37eb77", 
       "name": "JettonNode.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "6cfa7b1ae6cf7ead595b569cde1bd2a8", 
+      "md5": "1da6c75d41cf5d942860dbf4fe8b9854", 
       "name": "player.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -141,12 +156,12 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "c7d4150790e6f5a5ffff98ec79c4513c", 
+      "md5": "1115a1db4ec13fc9829696d4a7da1d29", 
       "name": "UserItem.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "d00a6d80c5ff725b8cff47a9b7b4e84d", 
+      "md5": "a527b986a92df0cbead82d5b496eaa12", 
       "name": "UserListLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -156,7 +171,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "118289af917d87ce544a9980e0366e4a", 
+      "md5": "dc6503b492cd10292cc0e608cc623aac", 
       "name": "WallBill_0.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -406,7 +421,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "190b6db299d91440f41d74b0f6921e85", 
+      "md5": "a72186271ef742a5d6a83a9e94184a43", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -426,12 +441,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "f9baee22f761ac1493b27596acfcd15d", 
+      "md5": "bbe7164f466262c6e13d695f24a95dc3", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "e9255290b1fd8f4a444cbb82bbc629ec", 
+      "md5": "e9a3690d760137b5010bccab1e7f3607", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -451,7 +466,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "d10923071003d3901769f76b93f76f36", 
+      "md5": "166922c8d040585fe67e43f568b9b0b1", 
       "name": "UserItem.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
@@ -461,7 +476,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 92
+      "allcount": 95
     }
   ]
 }

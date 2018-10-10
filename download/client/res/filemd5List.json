@@ -226,7 +226,7 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "57a837c47213591f7e4506cefb0658b5", 
+      "md5": "b4bfd28c3e17d7f467532f040dc155cd", 
       "name": "HowToPlayNode.csb", 
       "path": "client/res/common/"
     }, 
@@ -479,6 +479,21 @@
       "md5": "b10667b58eecf2e9966a169f8961f4aa", 
       "name": "lobbyicon_spine.png", 
       "path": "client/res/GameList/spine/"
+    }, 
+    {
+      "md5": "74892d0baf84682b856da5fa879a0272", 
+      "name": "longhudou.atlas", 
+      "path": "client/res/GameList/spine/longhudou/"
+    }, 
+    {
+      "md5": "e45ed9173c0eeeff2cc9f0fa870709ff", 
+      "name": "longhudou.json", 
+      "path": "client/res/GameList/spine/longhudou/"
+    }, 
+    {
+      "md5": "543e46bab2eb9ad9c057cfc1f9fdb72f", 
+      "name": "longhudou.png", 
+      "path": "client/res/GameList/spine/longhudou/"
     }, 
     {
       "md5": "a305e3b0b35e5ccbcd962a49326db9f3", 
@@ -2161,7 +2176,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "7f138c38c92904ad6e620dda3c741594", 
+      "md5": "50ee8534e4ed0653e7f3badafffd0b14", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2221,7 +2236,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "ca63a39bffa24800a3525b4ad63c88d5", 
+      "md5": "bc31a76b08b6b47de9c3255829c7fb50", 
       "name": "HowToPlayLayer.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
@@ -2261,7 +2276,7 @@
       "path": "client/src/plaza/views/layer/other/"
     }, 
     {
-      "md5": "78a933d77916bad8f3ce2bdad7988dce", 
+      "md5": "b6942e61017d6b7b2134b595789e152b", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2286,6 +2301,11 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
+      "md5": "4dd57576ff230069ea5f774c8e21b1e3", 
+      "name": "BankChooseLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
       "md5": "6b53da3a183aaea086a70e13f833794c", 
       "name": "BankLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
@@ -2306,17 +2326,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4f85edc4fd922869892d2ae77c3f359e", 
+      "md5": "8aabe78e13a1fa947f5148834af11cf7", 
       "name": "BindingBankLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "77adfa496d89b89934c53b836e9fa990", 
-      "name": "BindingChooseLayer.luac", 
-      "path": "client/src/plaza/views/layer/plaza/"
-    }, 
-    {
-      "md5": "c95901bf6aa6706d87d4af5d18aeea63", 
+      "md5": "4a4dbef07a716d03e7ad02eb7e9ea68c", 
       "name": "BindingGiftLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2376,7 +2391,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "edd98c587a7e948f7d10947de1f1d499", 
+      "md5": "facf39ad6307e8f646f73c04fd804e26", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2426,12 +2441,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "89aebe1a24eeab2f61ca4e5a3e300f59", 
+      "md5": "7e98ac366bdbf3127d74388e76e91cb3", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e6128e8ccab3bb997f2a41be857d7cc9", 
+      "md5": "e245dc48c7dc1101a75bbb6ea1b34f6f", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2446,7 +2461,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "dcab28a62dc509b88a3a0f8675b50912", 
+      "md5": "67081538f2cba753022bcd78056df47c", 
       "name": "SettingLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2476,7 +2491,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b11161eab697d8240dbf364b035cfbff", 
+      "md5": "a66c962b4c08255e8ecd36865dcdfc59", 
       "name": "TipsBLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2501,7 +2516,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "fa0391a39eeed595b969a363adf150ef", 
+      "md5": "8a11e73bd93269831f42031e8a212630", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2631,7 +2646,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 526
+      "allcount": 529
     }
   ]
 }
