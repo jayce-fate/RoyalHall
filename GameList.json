@@ -29,7 +29,7 @@
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"2",
+				"SortID":"3",
 				"KindMark":"3"
 			},
 			{
@@ -39,7 +39,7 @@
 				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"5",
+				"SortID":"8",
 				"KindMark":"3"
 			},
 			{
@@ -49,7 +49,7 @@
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"3",
+				"SortID":"4",
 				"KindMark":"3"
 			},
 			{
@@ -59,7 +59,7 @@
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"4",
+				"SortID":"7",
 				"KindMark":"3"
 			},
 			{
@@ -69,7 +69,7 @@
 				"ModuleName":"yule.28gbattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"103",
+				"SortID":"5",
 				"KindMark":"3"
 			},
 			{
@@ -79,7 +79,7 @@
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"6",
+				"SortID":"2",
 				"KindMark":"3"
 			},
 			{
@@ -89,7 +89,7 @@
 				"ModuleName":"yule.dragontiger",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"103",
+				"SortID":"6",
 				"KindMark":"3"
 			},
 			{
@@ -109,7 +109,7 @@
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"100",
+				"SortID":"9",
 				"KindMark":"3"
 			},
 			{
@@ -119,7 +119,7 @@
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
 				"ResVersion":"31",
-				"SortID":"101",
+				"SortID":"10",
 				"KindMark":"3"
 			}]
 	}
