@@ -16,12 +16,12 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "f08bf88ca09e61fefb47878b4010c49a", 
+      "md5": "5251b00798b8bd96cc11599e4c56f01f", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "e7005634b2b1a748f936e408587b205d", 
+      "md5": "66e7c3c3906e5ceb9a461b69e165738f", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
@@ -562,113 +562,113 @@
     }, 
     {
       "md5": "6117eeaf1333a98c15f5f4952ff7e023", 
-      "name": "ox_0.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_0.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "99bbd2e628079c2df5c1da077a3002cb", 
-      "name": "ox_1.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_1.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "0590d86befbc39b5d2e24be99b0025c2", 
-      "name": "ox_10.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_10.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "f9e0104b46a87b1bf095c0279eb95311", 
-      "name": "ox_2.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_2.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "4812363a520f33a58eac0676785a3390", 
-      "name": "ox_3.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_3.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "be7149443f3b1209f8fdf1298f2c566b", 
-      "name": "ox_4.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_4.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "25c29fe0bc5b58ff564818d17e70c717", 
-      "name": "ox_5.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_5.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "ff8f98953c9dc7bf6d8e11cb7336c07e", 
-      "name": "ox_6.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_6.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "4f826cdc47cc7143502ee699d7af1548", 
-      "name": "ox_7.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_7.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "5b469e95a8016a75d7c3c36e0db8e445", 
-      "name": "ox_8.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_8.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "a98a5913ad7a0a96a8b69dc57ffbabfd", 
-      "name": "ox_9.MP3", 
-      "path": "oxnew/res/sound/BOY/"
+      "name": "ox_9.mp3", 
+      "path": "oxnew/res/sound/boys/"
     }, 
     {
       "md5": "919b96e83bc1bdbd6484d968f1e10909", 
-      "name": "ox_0.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_0.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "af6da928e047ccd4f1c2d26bf4b5b94f", 
-      "name": "ox_1.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_1.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "205b1517ed5d85ae42fdc3e919947287", 
-      "name": "ox_10.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_10.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "7c0a1ea4fe239fab4a74dc751361bcf4", 
-      "name": "ox_2.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_2.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "4e7fd97374284446f4c4b924eb972807", 
-      "name": "ox_3.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_3.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "4ba3efc19e5b1e35db5d3180471d7406", 
-      "name": "ox_4.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_4.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "9401974f508547674cfffdffc73970e9", 
-      "name": "ox_5.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_5.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "b2f5c0d07774584bec7d1bf8223f600c", 
-      "name": "ox_6.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_6.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "c4be328ca743e506dadf09ce30f77afd", 
-      "name": "ox_7.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_7.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "68dc4f9c9550b2ceaa1ac38f3f44510f", 
-      "name": "ox_8.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_8.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "8cbbb80228172423cda5b928c4082010", 
-      "name": "ox_9.MP3", 
-      "path": "oxnew/res/sound/GIRL/"
+      "name": "ox_9.mp3", 
+      "path": "oxnew/res/sound/girls/"
     }, 
     {
       "md5": "884394e36018d56bd76ad49a54f97646", 
@@ -686,7 +686,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "4639a343aa665105f6095d425d52284e", 
+      "md5": "afefd30ca9e6a4d34da32705bf3d6e9d", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -706,7 +706,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "fc49748f8e27ed8c280cfbf2048b6248", 
+      "md5": "01e6b3d9e0dea8d692a36e945703ccc4", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 

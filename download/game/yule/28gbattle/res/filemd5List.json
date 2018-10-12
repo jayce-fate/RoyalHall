@@ -271,12 +271,12 @@
       "path": "28gbattle/res/28gang/"
     }, 
     {
-      "md5": "e18b311a3ce649ec101b06647e063494", 
+      "md5": "7640bc682fc7a0a7582c01aa2782be5e", 
       "name": "dian1.png", 
       "path": "28gbattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "70152f4a358d946395b5bc0baa15015e", 
+      "md5": "7a705cf9273554667b132f378152f7bb", 
       "name": "dian2.png", 
       "path": "28gbattle/res/animation/shaizi/"
     }, 
@@ -286,12 +286,12 @@
       "path": "28gbattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "7a705cf9273554667b132f378152f7bb", 
+      "md5": "70152f4a358d946395b5bc0baa15015e", 
       "name": "dian4.png", 
       "path": "28gbattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "7640bc682fc7a0a7582c01aa2782be5e", 
+      "md5": "e18b311a3ce649ec101b06647e063494", 
       "name": "dian5.png", 
       "path": "28gbattle/res/animation/shaizi/"
     }, 
@@ -381,6 +381,11 @@
       "path": "28gbattle/res/fnt/"
     }, 
     {
+      "md5": "bc49d0eac5712367a0d194c9033f7bf6", 
+      "name": "28gang.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
       "md5": "33c45eec6ddd9a1942e291c91e54a91a", 
       "name": "28gang_bg.png", 
       "path": "28gbattle/res/game/"
@@ -421,6 +426,11 @@
       "path": "28gbattle/res/game/"
     }, 
     {
+      "md5": "778265a6f406182c5555aedea4bec790", 
+      "name": "brnn_btn_info.png", 
+      "path": "28gbattle/res/game/"
+    }, 
+    {
       "md5": "cb55406a3b8c7e0194c1b8737eda0a94", 
       "name": "denglong.png", 
       "path": "28gbattle/res/game/"
@@ -431,7 +441,7 @@
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "a817e20fff1aeabd5be53184cc8438a2", 
+      "md5": "7d472e5a27a085b842ad0d464e59b745", 
       "name": "GameLayer.csb", 
       "path": "28gbattle/res/game/"
     }, 
@@ -531,7 +541,7 @@
       "path": "28gbattle/res/roomlist/"
     }, 
     {
-      "md5": "4d6a9b182e1e39741622d39c1929ccf3", 
+      "md5": "74269cc5fae2b381e637395915cb8127", 
       "name": "Rule.txt", 
       "path": "28gbattle/res/roomlist/"
     }, 
@@ -631,6 +641,11 @@
       "path": "28gbattle/res/sound_res/"
     }, 
     {
+      "md5": "66c7a0af4736847b2b7ca0af9096c50e", 
+      "name": "shaizi.mp3", 
+      "path": "28gbattle/res/sound_res/"
+    }, 
+    {
       "md5": "e93e2bb923079c310c9ee539b2c4bbe1", 
       "name": "UserCellNode.csb", 
       "path": "28gbattle/res/userlist/"
@@ -711,7 +726,7 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "18e929edcc488f21dffbdbf0ef52d5ae", 
+      "md5": "0fbeb6a479ff5fc782bcbab4b2222d9b", 
       "name": "GameLayer.luac", 
       "path": "28gbattle/src/views/"
     }, 
@@ -731,7 +746,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "f02789c8720c49a7384029c9d8ba2860", 
+      "md5": "4c7ac726428f7e2d9618840cca912957", 
       "name": "GameCardLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -741,7 +756,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "353921cd4a30419777a67aedfd87d56d", 
+      "md5": "755fffe70bda16290a11461e60822874", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -761,7 +776,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "allcount": 152
+      "allcount": 155
     }
   ]
 }

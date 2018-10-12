@@ -1591,7 +1591,7 @@
       "path": "client/res/Room/"
     }, 
     {
-      "md5": "d99ecc047fca881b4b067d146db5ee4f", 
+      "md5": "534bd34199dfe1570088834da4b9f0f3", 
       "name": "SafeBox.csb", 
       "path": "client/res/safebox/"
     }, 
@@ -2171,12 +2171,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "4b0159a991397abc500951f13069dce9", 
+      "md5": "c09b41cc38704fe331b6c1dcdd27e052", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "50ee8534e4ed0653e7f3badafffd0b14", 
+      "md5": "a433c3a14d56310af26c41021e899eb1", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2451,7 +2451,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b2e57fe59a5a9f283a0c77b9b2d6cc32", 
+      "md5": "2f8d083a39b96a8a0d74a45220d4fc32", 
       "name": "SafeBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 

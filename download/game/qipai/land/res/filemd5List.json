@@ -791,677 +791,357 @@
       "path": "land/res/sound_res/"
     }, 
     {
-      "md5": "5febae9777787a58c0547c4822818cc6", 
-      "name": "1.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "005900f3f9a69f2736899208c0a8bf5a", 
-      "name": "10.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "4e4ed6016c2bb12753cb866b72544355", 
-      "name": "11.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "222e1722e47e094675b2842f5392f762", 
-      "name": "12.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "816ee9a67b6c98ea1a4e9ae177895e74", 
-      "name": "13.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "16a15c67c0776bd7fe75ef14af628d38", 
-      "name": "14.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "d7cb00680557324fe30d8259ce22348e", 
-      "name": "15.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "6b6c9fd9013dc1d35466765647a90b76", 
-      "name": "2.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "2c4788a5c4e1842fda48b222b1aa15f3", 
-      "name": "3.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "9e4f8252beb0f9758e15c93a0dd44747", 
-      "name": "4.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "a14bbda705479d52a387fc047e9ffca1", 
-      "name": "5.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "c04297e3174c106dd74497b5b64d2ae8", 
-      "name": "6.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "3eb4e92f479895b37b80ef33bc3e6ee7", 
-      "name": "7.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "351fc665a050577f851267dcade0314e", 
-      "name": "8.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "71dff9fd26500a64fbd878795247ea8a", 
-      "name": "9.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "2a3f86ee9a427480b89090c5cc26ea19", 
-      "name": "cs0.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "eceead8d73a8707a1152318690fd31d6", 
-      "name": "cs1.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "fc991054a533dbb6f8038e0a54080441", 
-      "name": "cs2.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "0be070219ac09d0e0c2b40871bcbfcbe", 
-      "name": "cs3.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "1b65214856a1cf176546cdca55828121", 
-      "name": "pass0.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "be52064462feabc998d650eba7366e00", 
-      "name": "pass1.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "af6fc32eb3890c080ad4e90aa5299ec0", 
-      "name": "type12.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "a29523f99f34bece0bd7af9ee9bf14a6", 
-      "name": "type2.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "f05191c8bad01705c286a8ccebcdfded", 
-      "name": "type3.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "29fcd2cf7d2fe6dca5f6a5717b999b34", 
-      "name": "type4.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "07b5a80b9864560c6ec0ae193afafea9", 
-      "name": "type5.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "971a71ce03ed6a2659447cd7f8bcb4e2", 
-      "name": "type6.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "8d119d63426030a781ceb9537b4ced93", 
-      "name": "type7.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "a10562c7a9a9a0c4f72a8db6c6f4788b", 
-      "name": "type8.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "02c2a2bb475da0a75fddec5b2665d81e", 
-      "name": "type9.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "190005c2a4acea3afccc0257b883fc50", 
-      "name": "ya0.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "75ba71427c4b759454a7d6d0f5c1daf6", 
-      "name": "ya1.wav", 
-      "path": "land/res/sound_res/0/"
-    }, 
-    {
-      "md5": "bcf9d2ff3f2e40041b06fd0b323389a0", 
-      "name": "1.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "3e1f8a7aa5dbd72e4fce194314cd62be", 
-      "name": "10.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "607e0a7aa1577b894eee133a8a11924f", 
-      "name": "11.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "092d023f59ebf2631c1492118f7a96f1", 
-      "name": "12.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "11b79c5c6e09e30edeefe46767334d96", 
-      "name": "13.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "2d15d4bf26910d3fa0732d312b3fb61f", 
-      "name": "14.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "bb945fae7d9ea737068e378fd020af89", 
-      "name": "15.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "763062ff157c6be676e9f147be84e8a9", 
-      "name": "2.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "913a54fa88689d46b69ecc6846120c86", 
-      "name": "3.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "ba0f213063857dc479641e47fc4c5089", 
-      "name": "4.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "392b26fe32b0dde0f2c33559612bd9c6", 
-      "name": "5.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "205db4c9f9d6c5a1c3740e0c1717bb85", 
-      "name": "6.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "fb4bf5e97a519a4b26839a1e3b5c4c78", 
-      "name": "7.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "70d62219f7b0921d80e5943440c02b7f", 
-      "name": "8.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "d27f7a96dc9ad37eb9c027568a6d5ffb", 
-      "name": "9.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "00e2c058efba8004f5ac1dc634f4e92b", 
-      "name": "cs0.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "f9a4429b71ba894c614dbe77318ab8dd", 
-      "name": "cs1.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "a4887d6e9656621512388c3e072b1de3", 
-      "name": "cs2.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "a6b1d668c128a6a560be874c6529a048", 
-      "name": "cs3.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "086ea819a1cab343adc7703121905b53", 
-      "name": "double_line.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "5625b123750a132006f1362288ac5970", 
-      "name": "pass0.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "3c193088bcf5f68d34c3ca462e8f8598", 
-      "name": "pass1.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "0080042ba33d1da324b490852fc90430", 
-      "name": "three_plane.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "a0503019833c802ea2d09afc3de1c54a", 
-      "name": "type12.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "08a7f6ed41e3c132291bcae0748c625d", 
-      "name": "type2.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "c5460b30dbd9512d7cf5ee8efbe431f9", 
-      "name": "type3.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "032e6bb55f9cc9d00911d664cb51d0e6", 
-      "name": "type4.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "086ea819a1cab343adc7703121905b53", 
-      "name": "type5.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "0080042ba33d1da324b490852fc90430", 
-      "name": "type6.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "3fe368eca3ecf5f572ffc25dd0be815d", 
-      "name": "type7.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "82315d7a32d129f57f986d35d89bf0a5", 
-      "name": "type8.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "cef40495fb6ca250892cc485a6416a15", 
-      "name": "type9.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "a3c3e53bc138d55c8d9e757aa30ab66d", 
-      "name": "ya0.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "5d20169f1f5de78f248b9a74b48c8a42", 
-      "name": "ya1.wav", 
-      "path": "land/res/sound_res/1/"
-    }, 
-    {
-      "md5": "4f7534096b271855a54c7387f1f6d5ea", 
+      "md5": "0b3ecc50645eee9b70c1a8bab7dfc064", 
       "name": "female_0_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "5a347173012c55dfe2a1c4744638c264", 
+      "md5": "d2ddc5f2141bb86d18e931019158e1aa", 
       "name": "female_1.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "fe526728779f0d4811943c21959ceadf", 
+      "md5": "f4d8f046aa1872ae65b7f656b7d21a23", 
       "name": "female_10.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "106a94808213b29857c38f3082b74ed7", 
+      "md5": "1d455cd8cd7a3bd97144e6e792ead494", 
       "name": "female_11.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "4fd933d51c8184d3629750d341b906db", 
+      "md5": "3109bf34b9bcf45b05aab7e30c978fbc", 
       "name": "female_12.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "89e8e88551a8c4ff0f1568c1f6629bca", 
+      "md5": "dc2f2f3510cdc86d6273edef6206383c", 
       "name": "female_13.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "5224d5f485979adbf0032b4e0d556522", 
+      "md5": "1fc02e043e75c46045cd6d2c04a7925c", 
       "name": "female_14.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "6c7401d6b606f500188773f8e5a42253", 
+      "md5": "9039a4c59be5ad82c621e6884953d1a6", 
       "name": "female_15.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "4fd60322abf6811cea52e9ee90248d11", 
+      "md5": "a3c5dcc3ff1b4766f7fe30c2bccbaee4", 
       "name": "female_1_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "85cdd2cc639d189307cf6c74f89711b2", 
+      "md5": "79141ce1c97e9854c4dee73d4386d981", 
       "name": "female_2.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "1f6b09326e148cd1c528f5c5ffd67474", 
+      "md5": "2aa4718e00587198c0d7a0e6767929db", 
       "name": "female_2_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "08b90e502ddc2c13810c1000e4137fd0", 
+      "md5": "e9bbd8e77073a381d037b5193853e668", 
       "name": "female_3.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "206d7eb2a84a5dcea9adbf281c4abadc", 
+      "md5": "d0f81204c2b94689aa55488ed89a7ccc", 
       "name": "female_3_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "924235863d588679e6ac3d47593e17f8", 
+      "md5": "06022fbb01072765a5ec537a19440dc3", 
       "name": "female_4.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "b5f93c6a12e40e5f7cdc74b67eaa53e5", 
+      "md5": "34968444751f0dd3d01f1efdc7c559f5", 
       "name": "female_5.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "3ad3ad8a080989dabe66244f14728032", 
+      "md5": "7efca86c966a68990774e14a7a70a3e7", 
       "name": "female_6.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "078ae0bccd848506f82ad2a2defb1f5d", 
+      "md5": "1887145dbce1aac734ffe607306b6af4", 
       "name": "female_7.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "3ce3c0fb1fcc0ce59162d68aaefb4dc8", 
+      "md5": "047e92e064a746d19bbd641128c9b1b5", 
       "name": "female_8.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "5da5766c56f67be8b265490e53204cd6", 
+      "md5": "226f44bf008803d216da3ff2fedd2182", 
       "name": "female_9.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "3e540978521309b21abc375ebaa1919b", 
+      "md5": "1634607361ad2dad9efb8f2c0038e17e", 
       "name": "female_airplane.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "00898f65946cec7880a0de167fb449b4", 
+      "md5": "f99bf1dbcc1a70ae60bb3bc75b17a2a9", 
       "name": "female_airplane_with_wings.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "b1f51124d5bd9fbbb20c5bee6fa818d6", 
+      "md5": "d6ca7c56b1bfd1e9a29d5726426bd3bc", 
       "name": "female_bomb.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "481da8e5c30ad801f99b415a18c53258", 
+      "md5": "af0d0bd77d032b35f3dce05834bae42f", 
       "name": "female_continuous_pair.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "f2a73eba12649709266844bb462684e2", 
+      "md5": "79897f88d7494297139fd8fb61c03678", 
       "name": "female_four_with_two.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "23b31d14fc051cd927addf65ece54b13", 
+      "md5": "57d4ed27971b2b47cfaaecd8d55edcb4", 
       "name": "female_four_with_two_pair.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "315c22214dfa3e73468f37a36a739b17", 
+      "md5": "b36fc3b92c1a930bc5cab8239ea9b96b", 
       "name": "female_no.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "788bfacabc922f131cc7cdf9463df4e0", 
+      "md5": "274d0769f9831bf3e5262f9c965b8a6c", 
       "name": "female_pair1.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "2af898af926fc4d59709980063af121a", 
+      "md5": "af51cf607e8dfc5fc9ec22f6a2feac53", 
       "name": "female_pair10.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "5f8861a10e620cfcc5a3ffb11e376cbe", 
+      "md5": "37df169203fee9eb253211d72cf63742", 
       "name": "female_pair11.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "3f6f6b0859d4eef3c865e86af48f383b", 
+      "md5": "4ac09ba8c26a6559e9e1c2b4d0fc8a3c", 
       "name": "female_pair12.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "12c5b4e0b5f005ed42fac9ec27fdcd7a", 
+      "md5": "99b59689a768bf66e7e5ce35f4cca071", 
       "name": "female_pair13.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "2674f95ed0cb3a796b776323c23d0a9e", 
+      "md5": "8c37ade24d11cc7a17bd0a4522089201", 
       "name": "female_pair2.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "c23b12a4f83ae47ec72b489d3347ced3", 
+      "md5": "ffc8145243284b4fffb5fdc72f0322eb", 
       "name": "female_pair3.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "14a1f16446e041de962a18cf4ce14d03", 
+      "md5": "df31e3c0d729549943bed55728614c56", 
       "name": "female_pair4.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "7a687be08349f60110ab1f51d96aae93", 
+      "md5": "87c8437d768620ba5e09bf711e078225", 
       "name": "female_pair5.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "e2de30b3af15b4df71175a5853b3d84d", 
+      "md5": "aa52906ac818f9b25cb002e7f0aa4d8d", 
       "name": "female_pair6.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "aa39293e08edddc04923121bd4b77c43", 
+      "md5": "207089f66b5a7a519470bf3b5504630b", 
       "name": "female_pair7.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "c2394da32f2f1200e5b0e485ed561d0e", 
+      "md5": "e4f5ea04bfa413f0fa3c50572581dc23", 
       "name": "female_pair8.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "b6d11b02fa99db938867af06672feca2", 
+      "md5": "6fa9bd94833ffc82fd53664f968b8da6", 
       "name": "female_pair9.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "457da656bf849befce0fe07a0cac9d36", 
+      "md5": "cbcae8e0d50556a964c73e130b6b3210", 
       "name": "female_pass.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "87eb4c1c8f1e1e459fe3fe789eb48fd9", 
+      "md5": "63fd5cd7af486dd69a114021a64452c6", 
       "name": "female_rocket.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "910ff6d592092c03a6e58c131f08b56e", 
+      "md5": "79c15e9d93eaf0a41dc3726e477c0521", 
       "name": "female_shunzi.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "7415ed420fb48c21a236a72aa859bcfc", 
+      "md5": "da44d02b86797b8706519ad369275743", 
       "name": "female_three_one.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "2bf9d8e760c3cedf250f3b43a6e57a40", 
+      "md5": "93e0af1a85ca49e10ebb21d1b01aaef5", 
       "name": "female_three_with_one.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "da548b59198e4d7d36ca89a5edc3015e", 
+      "md5": "f30a16fee1e4c2badd271e9477c29c16", 
       "name": "female_three_with_one_pair.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "7d30dd57790b9816930ba7a1596f4e10", 
+      "md5": "e109d4409d3cf5edeca71ac89280bfba", 
       "name": "man_0_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "9280859120aef15e998c01f36a2c20b8", 
+      "md5": "046a0186c292d63ee6b89b39125c5c9b", 
       "name": "man_1.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "960eb9f2ebb1370ee0617f3bf711a933", 
+      "md5": "332607776ad0eec793d2a624dd84e408", 
       "name": "man_10.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "a024e0c6c9665aa68aed340e71d6de26", 
+      "md5": "715093bdcdec878770c4017ddc1154c7", 
       "name": "man_11.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "798b7f87b8284304d3c3e3ceb6b5ed95", 
+      "md5": "ee66c6fec427d9a24ff9014510b4f8c6", 
       "name": "man_12.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "d655b59bb08bcdb6c6b07df1d3988123", 
+      "md5": "39a8802048b0ad064bbef0d01405b9b3", 
       "name": "man_13.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "880b417a33889cfa7df8c59c4e4e0c95", 
+      "md5": "dd26bc2dc1facb265b774816f41003dd", 
       "name": "man_14.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "7fae0f230effa48af282684239a97705", 
+      "md5": "c773689549c5b49bb5e88af2cfedd1d6", 
       "name": "man_15.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "f61b2ceb073a9687fa9e4ecd45ece637", 
+      "md5": "b5d0611c7a3c1ab7a32143d7ab84cf5f", 
       "name": "man_1_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "21b6aa4e66c36a7e7122d5987cc88c32", 
+      "md5": "0f6ebc12ac12e36281e5054ec558d6d4", 
       "name": "man_2.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "6a6c54e4167895bf4d9d34926731a730", 
+      "md5": "f95f6a8d9c3a272fe14e599f798acc21", 
       "name": "man_2_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "419493717b20089a12eae40bfafb4f4e", 
+      "md5": "bee1d73e2f4b2b60e78ae32576153a24", 
       "name": "man_3.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "4bea9256a419522ffa1ed78820737a0d", 
+      "md5": "e04174887226e1f2b9afe3f4d3c5a48a", 
       "name": "man_3_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "8f89b8c3bb8508fb80bf2846b81ed0d6", 
+      "md5": "b3ecc4a4e4534ad40e01efe8a8181df8", 
       "name": "man_4.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "4e1f0ad9dd6c055a6022d23a6a0ae6d8", 
+      "md5": "d7d2dc499a07ecace71b03cbb1bfa875", 
       "name": "man_5.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "330a09410194c2d699568dbc0d507a2c", 
+      "md5": "4c517b6e8908a552eba4fb6ff3514d7b", 
       "name": "man_6.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "8e7116727e4a9d60619ac7be983754f5", 
+      "md5": "3b81c7f1075e5b5031430bc611c8dc0a", 
       "name": "man_7.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "5c587a00cc941956d3ab2b79b2ad6dad", 
+      "md5": "b662da35745f22e53d83cb4e7e87ab71", 
       "name": "man_8.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "cd623a2bb8c3fd40df5d96e0f6a0bf86", 
+      "md5": "19bd7d065ca1b66414c87299a448fc88", 
       "name": "man_9.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "d325a9baa6bbbde87059cd3c6c3230b0", 
+      "md5": "72ede2b3ed78a9b5e52d3250486baf0b", 
       "name": "man_airplane.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "8178fdb90d4ed065c9e15f3f13e10cf2", 
+      "md5": "54f24d1f90d2a6a9822b96179a7447b8", 
       "name": "man_airplane_with_wings.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "ecee355ee250385ec76f884b5e25582a", 
+      "md5": "14a5963731aae92cc01aa0fc1b9fe7b6", 
       "name": "man_bomb.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "c07d23c22206cb2ea15ba94368a37131", 
+      "md5": "53f036056e6b5e488c89ec9ed3b58b9b", 
+      "name": "man_call_dizhu.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "45700a9f696cc39f2b5db7971c726291", 
       "name": "man_continuous_pair.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "57fa946f4c10b4284404d35b419df73c", 
+      "md5": "a1513adc452d62f9eb9ba0fc2f77cefb", 
+      "name": "man_four_with_one_pair.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "e6f61d2c9d29db3ae7a78f7a72f5a857", 
       "name": "man_four_with_two.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1471,102 +1151,117 @@
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "972307db83672289e600a155a951f0bb", 
+      "md5": "c118878560182d78d726c64b077bb23a", 
       "name": "man_no.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "034f27f953dc6d4fdae3140c0e5ccc9a", 
+      "md5": "e109d4409d3cf5edeca71ac89280bfba", 
+      "name": "man_not_call.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "e149aa6c158b7276164e09fbd70b548f", 
+      "name": "man_not_rob.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "5a2ec3fb4c5c838e5551a497deeffe1c", 
       "name": "man_pair1.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "70d3e57fb8cbb6a39c7ab6fcfcdb4242", 
+      "md5": "0ec431456a348ed6490874f65e77bb7b", 
       "name": "man_pair10.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "e6f4f19591075bfb52bc1a79db698d38", 
+      "md5": "f36ba39a4f03814a4d25e855df3b81a3", 
       "name": "man_pair11.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "d975c00d6b3a02866a84ff8c7d700f92", 
+      "md5": "adb499132d0e875c34f6d536f9a7c4bd", 
       "name": "man_pair12.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "65c864d61db9dc42d37b78ecb5353910", 
+      "md5": "a37877189250aba28d9768e1d1eb0727", 
       "name": "man_pair13.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "d8647830cfe80c00dd63b1f24000c8fc", 
+      "md5": "7dfb718e96b5850a9044366edae9a083", 
       "name": "man_pair2.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "faeaa422026d1a3eae86e6c3291bc3b1", 
+      "md5": "29b72c28666ce12a56a03442561196b0", 
       "name": "man_pair3.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "f6881323ecaf1e4098153e0d3fda3fa9", 
+      "md5": "1dc0254c1e640a49784b27558331ebf5", 
       "name": "man_pair4.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "5c5b76dd22a07183b8987e8121717b24", 
+      "md5": "3bf9528610c9a98fdc6245656052f8b2", 
       "name": "man_pair5.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "4b9853c2dd34e72e7e6851ad743bdaea", 
+      "md5": "8e8eea72bd5ec121f8081d40b101b359", 
       "name": "man_pair6.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "480d67a02fb9d4dacfea80eb4a277e07", 
+      "md5": "43d45ac8f5effbd67ebb966e9d44a83a", 
       "name": "man_pair7.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "889aeaaa39b4d031b84db5d7f97a5d24", 
+      "md5": "0648bca7dc144b5e415c35a347925544", 
       "name": "man_pair8.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "9453c53359ae3c1dea61bfbebd672d49", 
+      "md5": "a50f4fcca646ecdb9fb203ea9fc58e9d", 
       "name": "man_pair9.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "96cfc2d303317a436f5dc1e89d83e1f0", 
+      "md5": "ce2e36740f0b9c0dab119fc72bee8b97", 
       "name": "man_pass.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "d6073361a4dec9015167739944a18641", 
+      "md5": "893995dfc59953b39ee6450ef8789422", 
+      "name": "man_rob_dizhu.mp3", 
+      "path": "land/res/sound_res/male_voice/"
+    }, 
+    {
+      "md5": "c5ef5e1a9a324bc3d39725cb0af18512", 
       "name": "man_rocket.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "e65a6de5dfe1fef9858da0adce284a0b", 
+      "md5": "a218762df073376e25f38afe085242b8", 
       "name": "man_shunzi.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "c6cc58d88e74566b57df24a623e3ab82", 
+      "md5": "aeadcf9b80bc679dddf136460245a425", 
       "name": "man_three_one.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "a45ed9d44121de86d87f87e596cebcbe", 
+      "md5": "7739b3d820f291e1b0a6012c23e54e60", 
       "name": "man_three_with_one.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "607b9d15e735bcc2006c51b0e7f66871", 
+      "md5": "7f662b1fd06b5ac3dfeadf7b192dd1b0", 
       "name": "man_three_with_one_pair.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1656,7 +1351,7 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "ae86399f855303af6524849476350661", 
+      "md5": "3a64493e13b340528b2a8721569acbc4", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
@@ -1671,7 +1366,7 @@
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 334
+      "allcount": 273
     }
   ]
 }

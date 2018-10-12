@@ -1171,7 +1171,7 @@
       "path": "oxbattle/res/sitrole/"
     }, 
     {
-      "md5": "80c49d7756a9494027508f7bf443c05b", 
+      "md5": "8b9f9a0c2a799497625468b4b62df404", 
       "name": "SitRoleNode.csb", 
       "path": "oxbattle/res/sitrole/"
     }, 
@@ -1456,7 +1456,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "3cc90947740b8c06ff62d651396d3dcc", 
+      "md5": "aaa70308e52fecbe47d8da229d2b3891", 
       "name": "CardSprite.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -1471,12 +1471,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "e07c7230d1d03187d244b6ee260b64a9", 
+      "md5": "b17fb80a384a814170d291ab4d6f9280", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "b2c517c271d45592c4f9caf1ba10172d", 
+      "md5": "f0fdf2602275f0005969c9102337228b", 
       "name": "SitRoleNode.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
