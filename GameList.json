@@ -113,6 +113,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"401",
+				"KindName":"五子棋",
+				"TypeID":"0",
+				"ModuleName":"yule.gobang",
+				"ClientVersion":"101122049",
+				"ResVersion":"32",
+				"SortID":"1000",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"601",
 				"KindName":"湖南跑得快",
 				"TypeID":"0",
