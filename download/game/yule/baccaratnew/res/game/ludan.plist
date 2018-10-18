@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ludan/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+			<key>ludan/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,21},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+			<key>ludan/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,37},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+			<key>ludan/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,53},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+			<key>ludan/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,69},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+			<key>ludan/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,85},{6,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,6}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ludan.png</string>
+			<key>realTextureFileName</key>
+			<string>ludan.png</string>
+			<key>size</key>
+			<string>{32,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>32</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

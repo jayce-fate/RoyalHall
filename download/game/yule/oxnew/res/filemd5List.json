@@ -1,38 +1,28 @@
 {
   "listdata": [
     {
+      "md5": "2f67338738097b3f977fadbaec65a2cc", 
+      "name": "beginAnimation.csb", 
+      "path": "oxnew/res/"
+    }, 
+    {
       "md5": "d9b0ff14f0560f250de2106a62bd4865", 
       "name": "card.png", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "77687b75011035c9addfe901da7b3913", 
-      "name": "game_chat_lbg.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "33511edcacd3542672bda44aeabacbca", 
-      "name": "game_chat_rbg.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "5251b00798b8bd96cc11599e4c56f01f", 
+      "md5": "969780a2cb1d34c14206278c9caa84be", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "66e7c3c3906e5ceb9a461b69e165738f", 
+      "md5": "bb7b8b60a2eeb6498a4e0e8cff490d70", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
     {
       "md5": "b4686585b89bc2744b814baf17460f60", 
       "name": "num_add.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "2bd0f04d8f65d6438b6d8b42c90a0a2d", 
-      "name": "num_chip.png", 
       "path": "oxnew/res/"
     }, 
     {
@@ -43,11 +33,6 @@
     {
       "md5": "33dc2ed578252bf34eebe15d6a1c86c3", 
       "name": "num_endScore.png", 
-      "path": "oxnew/res/"
-    }, 
-    {
-      "md5": "035af0675957014461d33be4d13d9744", 
-      "name": "num_prompt.png", 
       "path": "oxnew/res/"
     }, 
     {
@@ -94,6 +79,26 @@
       "md5": "a2d01c915ec89acf0f31fc5fd4b29501", 
       "name": "tag_count_down_bg.png", 
       "path": "oxnew/res/"
+    }, 
+    {
+      "md5": "ebfc3c22041758bbd892534e56036d5d", 
+      "name": "animation1.plist", 
+      "path": "oxnew/res/animation/"
+    }, 
+    {
+      "md5": "d0fe6b6000b63549ba3e49c20a3a1703", 
+      "name": "animation1.png", 
+      "path": "oxnew/res/animation/"
+    }, 
+    {
+      "md5": "3d2674f4ceb214271a6fbf17111ef58f", 
+      "name": "animation2.plist", 
+      "path": "oxnew/res/animation/"
+    }, 
+    {
+      "md5": "19f146d0593e8847a35dec5f1fdc0a37", 
+      "name": "animation2.png", 
+      "path": "oxnew/res/animation/"
     }, 
     {
       "md5": "210c6cbfeef685f9b4dd66d152e971fe", 
@@ -276,61 +281,6 @@
       "path": "oxnew/res/animation_lose/"
     }, 
     {
-      "md5": "42d0bae4706273f02a2df966e340e891", 
-      "name": "start_1.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "84c0d5a0be3a5a202db0b5142f7809e1", 
-      "name": "start_10.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "ae7aba98a17402ae2d43227e18860e04", 
-      "name": "start_11.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "bb2101917bd4bd2899d2a47dc1d244f6", 
-      "name": "start_2.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "fd51d437cff36dc7d84741473bbcbf7f", 
-      "name": "start_3.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "c283140c16410508c1444c8d3f289e4e", 
-      "name": "start_4.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "47b59354f6c44c4b4d2c1a906b052d35", 
-      "name": "start_5.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "a08a456ccaf53f210f1eef94ef5a77ee", 
-      "name": "start_6.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "4521e39673dc4b442097599836fed41f", 
-      "name": "start_7.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "4477665d1ebe6d76a81729800b36075b", 
-      "name": "start_8.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
-      "md5": "be9eadfe5e586f630f8d3bee56e61c9a", 
-      "name": "start_9.png", 
-      "path": "oxnew/res/animation_start/"
-    }, 
-    {
       "md5": "78f1109394cf22b3df6d7f37ce2a00c1", 
       "name": "victory_1.png", 
       "path": "oxnew/res/animation_victory/"
@@ -441,12 +391,42 @@
       "path": "oxnew/res/animation_yellow/"
     }, 
     {
+      "md5": "4efaf38f27e9f36773fce262a35a1afe", 
+      "name": "douniu_banker_times.fnt", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "db35d552f408a7b07c44164b7ba5fc6a", 
+      "name": "douniu_banker_times_0.png", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "a1594c7ecec09d75ab14e636ff390071", 
+      "name": "douniu_select_times.fnt", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "d0271fb8524f79acd4519ac0d00313da", 
+      "name": "douniu_select_times.png", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "2ef92eeeeb3b874ab566b56c6eb67212", 
+      "name": "douniu_select_times1.fnt", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
+      "md5": "86840db983517df2d1303a703af4221e", 
+      "name": "douniu_select_times1.png", 
+      "path": "oxnew/res/fonts/"
+    }, 
+    {
       "md5": "b7dbcfd6bf1cf6b47e19392c9879afaf", 
       "name": "background.jpg", 
       "path": "oxnew/res/game/"
     }, 
     {
-      "md5": "e63c9d2a44bc9c709d1f768a11f4bad8", 
+      "md5": "50811ccccc94b4efc6ec333b965eb8a4", 
       "name": "GameScene.csb", 
       "path": "oxnew/res/game/"
     }, 
@@ -513,6 +493,11 @@
     {
       "md5": "d4632b909af81c337c1c30fa825df8f4", 
       "name": "douniu_banker1.mp3", 
+      "path": "oxnew/res/sound/"
+    }, 
+    {
+      "md5": "c9174e8fce0613c2b77859eee9f00f56", 
+      "name": "douniu_button_click.mp3", 
       "path": "oxnew/res/sound/"
     }, 
     {
@@ -686,7 +671,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "d1f7ca9009e87ccd539ab5e7962b6946", 
+      "md5": "3ac69c8c624168dd11acff733a4811d0", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -701,17 +686,17 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "67a7cc216610d0824a549c891e498dc5", 
+      "md5": "73575e8e8c44aae9cd8920ee12249178", 
       "name": "CardSprite.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "968d6384e486504d9bf87224093d850d", 
+      "md5": "3643aab7305f06360511d8ced99e832e", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 142
+      "allcount": 139
     }
   ]
 }

@@ -941,7 +941,7 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "d8ed1a3a56f68c44297f54ef57cbe78f", 
+      "md5": "1f97f711dd69186ab63db2d1e98e8f0f", 
       "name": "CMD_Game.luac", 
       "path": "dragontiger/src/models/"
     }, 
@@ -971,7 +971,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "f6084346a56b988813d532946c21c382", 
+      "md5": "0a3d35b340c29d31047c654cd723904f", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 

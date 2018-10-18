@@ -6,7 +6,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "aa5fd258c27ed2dc51b19a4aac62a9a1", 
+      "md5": "c88be7c1236d62a626b48ee5de4e3ef0", 
       "name": "compareLayer.csb", 
       "path": "zhajinhua/res/"
     }, 
@@ -81,23 +81,13 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "3bac0a108e675bad826309b4bec54d4e", 
-      "name": "tag_vs.png", 
+      "md5": "32f6774ea61a70f9614aec21a1d94974", 
+      "name": "newt3animation.plist", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
-      "md5": "1cd238c6b302d43f4b66cddaf6b33c83", 
-      "name": "tag_vs_bg.png", 
-      "path": "zhajinhua/res/compare/"
-    }, 
-    {
-      "md5": "11243010a7ad707c85c06841a775b627", 
-      "name": "tag_vs_circle.png", 
-      "path": "zhajinhua/res/compare/"
-    }, 
-    {
-      "md5": "fe9642b2606c76d9d5fc4c1f79259ddf", 
-      "name": "vs.png", 
+      "md5": "baa3a50263e19190132d87106be1f2a2", 
+      "name": "newt3animation.png", 
       "path": "zhajinhua/res/compare/"
     }, 
     {
@@ -471,7 +461,7 @@
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
-      "md5": "0a6a5d2e4cbd6e9da9d84c8d4f120422", 
+      "md5": "cebf2e5be170f50754457f58980bf56f", 
       "name": "CMD_Game.luac", 
       "path": "zhajinhua/src/models/"
     }, 
@@ -496,7 +486,7 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "4cedbdedce729d3561aedef6a22c50e5", 
+      "md5": "a92ddada4828aabf65912e398f014eb8", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
@@ -506,12 +496,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "4df533e20b1b69b407a0241c4938f186", 
+      "md5": "1a70a08c39190301b58af9845e854a6b", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 102
+      "allcount": 100
     }
   ]
 }

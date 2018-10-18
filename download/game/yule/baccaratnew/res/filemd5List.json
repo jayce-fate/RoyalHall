@@ -146,6 +146,16 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
+      "md5": "4e6a96ca2e65b8dca404bede41759abe", 
+      "name": "ludan.plist", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "e47aa47c9ad8a1ed48871255fbde7669", 
+      "name": "ludan.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
       "md5": "1da6c75d41cf5d942860dbf4fe8b9854", 
       "name": "player.csb", 
       "path": "baccaratnew/res/game/"
@@ -411,7 +421,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "9881674ba5e611957f05f64324772475", 
+      "md5": "5de46723d1d614cfb823e77753506030", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -421,7 +431,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "a72186271ef742a5d6a83a9e94184a43", 
+      "md5": "4384291ed9ec36c0235a533360005ee5", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -441,12 +451,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "24cd1db6d0155fdc1f767b4d4f4049ab", 
+      "md5": "5305d627cc085dba6ab7f8c3e87b75b6", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "e9a3690d760137b5010bccab1e7f3607", 
+      "md5": "14b616c636ff3587bbbb5bc6e2d79199", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -476,7 +486,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 95
+      "allcount": 97
     }
   ]
 }
