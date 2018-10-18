@@ -36,7 +36,7 @@
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "e4593e5976e70d437c66b0ab25248c93", 
+      "md5": "241ea8eaea87df3ee103dc734f3a68d2", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
     }, 
@@ -233,11 +233,6 @@
     {
       "md5": "9df2fb096b678834aa08c1f034b7815b", 
       "name": "background.mp3", 
-      "path": "zhajinhua/res/sound_res/"
-    }, 
-    {
-      "md5": "221774e65ceec01b5c7b9050e9a12de6", 
-      "name": "bet_start.mp3", 
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
@@ -461,6 +456,21 @@
       "path": "zhajinhua/res/sound_res/"
     }, 
     {
+      "md5": "aa5da658cd05bc4969cc416a2cf2bcb8", 
+      "name": "vm_call_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "ebf131d579b29b95617907a2b000f5ef", 
+      "name": "vm_fold_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
+      "md5": "f3e890b084fca19f80d2490a09b93f7f", 
+      "name": "vm_raise_01.mp3", 
+      "path": "zhajinhua/res/sound_res/"
+    }, 
+    {
       "md5": "0a6a5d2e4cbd6e9da9d84c8d4f120422", 
       "name": "CMD_Game.luac", 
       "path": "zhajinhua/src/models/"
@@ -471,7 +481,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "d91f7a7066cb90ca3682dabf1a1af6e6", 
+      "md5": "984efc85bf61d1553072ff07a6498336", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -486,22 +496,22 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "d4522916442ddf576faa6cf1ea95b030", 
+      "md5": "4cedbdedce729d3561aedef6a22c50e5", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "6770906fce056fb5952d8e4899dc98d1", 
+      "md5": "2692fc5a075a3cc17c2022883c5d1810", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "05267e6745d93f1957a871b182a94438", 
+      "md5": "4df533e20b1b69b407a0241c4938f186", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 100
+      "allcount": 102
     }
   ]
 }

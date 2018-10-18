@@ -6,8 +6,18 @@
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "097c9cd2b9ce525f72850a2d2bcd6c69", 
+      "md5": "b30eb1337aeb91b3a37132c419dacd30", 
       "name": "gameLayer.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "a27a6030601dc08b84bc14498b3d6fbb", 
+      "name": "playerItem.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "5317e59555d4ba633cdeb89dc7bc6bf7", 
+      "name": "playerListLayer.csb", 
       "path": "dragontiger/res/"
     }, 
     {
@@ -636,6 +646,11 @@
       "path": "dragontiger/res/img/nopack/"
     }, 
     {
+      "md5": "541de21e61fdff7a8ddba0f969d25a0d", 
+      "name": "userlist_table_line.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
       "md5": "ee54a792b531f648fc8661b7eab1ab9b", 
       "name": "winner_sg.png", 
       "path": "dragontiger/res/img/nopack/"
@@ -921,17 +936,17 @@
       "path": "dragontiger/res/sound_res/music/"
     }, 
     {
-      "md5": "5c2f2dc2f85e82f275c04d64c8bb8000", 
+      "md5": "6086b442b6cba183f475ff9c9732b3a6", 
       "name": "bjlGameDefine.luac", 
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "a9d2db66e4cb76e9a46b65b33ba00966", 
+      "md5": "d8ed1a3a56f68c44297f54ef57cbe78f", 
       "name": "CMD_Game.luac", 
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "967bf68d8bd0e321ceb460dce4fc61ea", 
+      "md5": "639ce5f1303d07bdc8509cebb7d16776", 
       "name": "GameFrame.luac", 
       "path": "dragontiger/src/models/"
     }, 
@@ -941,7 +956,7 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "832cc5985e8d400d647a2df88937a7fb", 
+      "md5": "c563cba4382077225c273a21bd31671a", 
       "name": "GameLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
@@ -956,12 +971,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "b62aec76ad7387d843d313fe4e66cc43", 
-      "name": "GameResultLayer.luac", 
-      "path": "dragontiger/src/views/layer/"
-    }, 
-    {
-      "md5": "78f3d1d4e81b4022e77090c9b24a4bbc", 
+      "md5": "f6084346a56b988813d532946c21c382", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -971,12 +981,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "a406fc4a05f56e16e193c4e26507d081", 
-      "name": "SitRoleNode.luac", 
-      "path": "dragontiger/src/views/layer/"
-    }, 
-    {
-      "md5": "91ff558d0872c31247b0a5a2857ed3eb", 
+      "md5": "150419f6e55e77d9b04ca7b8c325094c", 
       "name": "WallBillLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -996,17 +1001,22 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "12bb6b612a27cc6c79344924253ea37a", 
+      "md5": "4367df3aaa9be67c27149468533ec63a", 
+      "name": "PlayerListLayer.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "9c9118291f9257c7c9a5c67ee350e669", 
+      "name": "SitRoleNode.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "15a24780088a535bfaf6c4d1c7b31036", 
       "name": "UserItem.luac", 
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "d5311fea29e8b014939254d3478cc8f2", 
-      "name": "UserListLayer.luac", 
-      "path": "dragontiger/src/views/layer/userlist/"
-    }, 
-    {
-      "allcount": 201
+      "allcount": 203
     }
   ]
 }

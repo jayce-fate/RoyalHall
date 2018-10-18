@@ -31,7 +31,7 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "460c255b0baf7c9d2b33f77d27cc47e4", 
+      "md5": "2bd0f04d8f65d6438b6d8b42c90a0a2d", 
       "name": "num_chip.png", 
       "path": "oxnew/res/"
     }, 
@@ -686,7 +686,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "afefd30ca9e6a4d34da32705bf3d6e9d", 
+      "md5": "d1f7ca9009e87ccd539ab5e7962b6946", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -701,12 +701,12 @@
       "path": "oxnew/src/views/"
     }, 
     {
-      "md5": "855cebc7b91039b3a39838435a1b5cd0", 
+      "md5": "67a7cc216610d0824a549c891e498dc5", 
       "name": "CardSprite.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "01e6b3d9e0dea8d692a36e945703ccc4", 
+      "md5": "968d6384e486504d9bf87224093d850d", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
