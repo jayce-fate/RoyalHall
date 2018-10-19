@@ -2176,7 +2176,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "548e68c16357216f1b0336c6bfa8bfd3", 
+      "md5": "122997735c6d69c2f90f78f4943389f1", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2301,7 +2301,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4dd57576ff230069ea5f774c8e21b1e3", 
+      "md5": "c4f28728f000689cbca6ccb30c9872c8", 
       "name": "BankChooseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2316,17 +2316,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c5aea6c91f2ca6a0c137ad7ead259f71", 
+      "md5": "cc17ca36030efca386a2e894c5feda39", 
       "name": "BindingAccountLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "975134d30567a69bdca6860ddde29817", 
+      "md5": "2d74d59fc9da4718f377439d4ecaa73e", 
       "name": "BindingAlipayLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8aabe78e13a1fa947f5148834af11cf7", 
+      "md5": "d25f9497161d58c62ede8eedc9e2dbf6", 
       "name": "BindingBankLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2361,7 +2361,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8261c256011b38da255c09b941b036c0", 
+      "md5": "69b22b00850e5e046f234bd141bd2dfe", 
       "name": "ComplaintsProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2371,7 +2371,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6e578c44638d18d9157774c315af146a", 
+      "md5": "1fd0d7ad3a2169b175263809395719c7", 
       "name": "ContactProxyLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2436,12 +2436,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "86cf164316cafb57e93d167c7b51a01e", 
+      "md5": "86c53da9b402cb107e19146bd491ac3b", 
       "name": "RCTipsLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "7e98ac366bdbf3127d74388e76e91cb3", 
+      "md5": "e8b097e1f144897b8eb47a94606701f9", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2461,7 +2461,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "67081538f2cba753022bcd78056df47c", 
+      "md5": "57c9beed9fb0174031d8214d5028e0ab", 
       "name": "SettingLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2491,17 +2491,17 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "a66c962b4c08255e8ecd36865dcdfc59", 
+      "md5": "e4ec6040d16470a3c385222181891933", 
       "name": "TipsBLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e860a397d0fe7ca359518c43580159b7", 
+      "md5": "ac5d7d87be2cbd75a41ad2848a8a9f53", 
       "name": "TipsCLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "986d709760a4ff52db4e85faa42a16c6", 
+      "md5": "fcfea57a637ce12d3322264523c5ed27", 
       "name": "TipsLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2516,22 +2516,22 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8a11e73bd93269831f42031e8a212630", 
+      "md5": "db3a6ce4cd65d3fc30f15d9da4a85976", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ec7fecf0bc9d21ac5fa2438dd1fa6503", 
+      "md5": "d8aded7b30e78c420534b3a76aeb9c0b", 
       "name": "WithdrawLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b22dcee160b9d3a7914ac07e1916355a", 
+      "md5": "026854ebf49268e0a57bb08254e4071a", 
       "name": "WithdrawRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "dd4cebbab95e3cea499e6fe05dcdef8f", 
+      "md5": "6465c7fd3fb217a123899a612048ed50", 
       "name": "WithdrawRulesLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
