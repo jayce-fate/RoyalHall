@@ -96,27 +96,22 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "b71a214b6f08100102954b47dbeb221f", 
-      "name": "brnn_niutext_bg.png", 
-      "path": "oxbattle/res/game_res/"
-    }, 
-    {
-      "md5": "4bd7c5072d601d6755ede61ff3d6ac0a", 
-      "name": "brnn_niutext_lose.png", 
-      "path": "oxbattle/res/game_res/"
-    }, 
-    {
-      "md5": "ef3f915d16d7c066fc0fa62645a83ffa", 
-      "name": "brnn_niutext_win.png", 
-      "path": "oxbattle/res/game_res/"
-    }, 
-    {
       "md5": "0b85e35dbd805c9652b3f8f7dbd1f079", 
       "name": "brnn_x_bg.jpg", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "7f3b2921a8739be1bff2a3af6c90ade3", 
+      "md5": "17192e65a808df2880f0b00e9ab21b56", 
+      "name": "CardNode.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "ffdf02ec213213c3f95b10531fabdde2", 
+      "name": "ChipSelectedAni.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "94db3795601902a1413a8c6608e62ac9", 
       "name": "GameLayer.csb", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -131,6 +126,16 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
+      "md5": "b63cc10a74f3ee5edd97bf19612fcafb", 
+      "name": "hundreds_poker.plist", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "d1164465106db41e67cf16b6709a2329", 
+      "name": "hundreds_poker.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
       "md5": "8eaefabea698620b753b057be5cbd615", 
       "name": "hundreds_table_main.plist", 
       "path": "oxbattle/res/game_res/"
@@ -141,23 +146,28 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "62721fb6bd388d8b66fbd36c4ef773bb", 
-      "name": "im_jettonbt_effect.png", 
+      "md5": "016c084876958309b327854054d2c98a", 
+      "name": "niuniu_type_fnt_grey.fnt", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "25dadc5f1712443c3ce1c299d91b253c", 
+      "name": "niuniu_type_fnt_grey_0.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "cc15fe294966ec390d12d044cd8cab96", 
+      "name": "niuniu_type_fnt_yellow.fnt", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "ffc5c5278259c0b6a54243afb7113502", 
+      "name": "niuniu_type_fnt_yellow_0.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
       "md5": "f714877192990cb888ecbb6a86eec605", 
       "name": "num_time.png", 
-      "path": "oxbattle/res/game_res/"
-    }, 
-    {
-      "md5": "007209f3871f1ea4f4fd8ae2ecfb42cb", 
-      "name": "poker.plist", 
-      "path": "oxbattle/res/game_res/"
-    }, 
-    {
-      "md5": "9c91f248dc55054ee6836695c9525376", 
-      "name": "poker.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
@@ -561,7 +571,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "aaa70308e52fecbe47d8da229d2b3891", 
+      "md5": "b29ba1d80192ef25f0a5b3ede4965182", 
       "name": "CardSprite.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -576,7 +586,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "8b84da93f1038246c97da97f4d3adc06", 
+      "md5": "7906ac799a8bc97afee189b696e79b45", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -596,7 +606,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 119
+      "allcount": 121
     }
   ]
 }

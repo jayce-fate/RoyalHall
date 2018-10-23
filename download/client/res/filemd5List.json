@@ -2176,7 +2176,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "122997735c6d69c2f90f78f4943389f1", 
+      "md5": "2286f5b5c0baf89fe2cd5e9081fff007", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -2246,7 +2246,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "a65d7c8cddac3cd6564e4f49ac8a33fe", 
+      "md5": "44fa814fbdcd74a7e3703bd1c4d7b93f", 
       "name": "AccountsLayer.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -2441,7 +2441,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e8b097e1f144897b8eb47a94606701f9", 
+      "md5": "6d49c0bf1c4e63d2ebc8d0f152dff0e1", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2496,7 +2496,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ac5d7d87be2cbd75a41ad2848a8a9f53", 
+      "md5": "28b629d0db6b7c49f7548f5be6cb8e68", 
       "name": "TipsCLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2506,7 +2506,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "14bb0d2456cd85bf5b1581604fb3cb01", 
+      "md5": "de21977e9d8de6b1c9ebbbf82a487dea", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 

@@ -11,12 +11,12 @@
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "969780a2cb1d34c14206278c9caa84be", 
+      "md5": "2af8ceee26b4e55d7c0750d8c3233608", 
       "name": "gameScene_oxnew.plist", 
       "path": "oxnew/res/"
     }, 
     {
-      "md5": "bb7b8b60a2eeb6498a4e0e8cff490d70", 
+      "md5": "b74be852d77dc536efd088a46c556f15", 
       "name": "gameScene_oxnew.png", 
       "path": "oxnew/res/"
     }, 
@@ -396,6 +396,21 @@
       "path": "oxnew/res/sound/boys/"
     }, 
     {
+      "md5": "8533f793161ab35e540c1f354a7dd771", 
+      "name": "ox_102.mp3", 
+      "path": "oxnew/res/sound/boys/"
+    }, 
+    {
+      "md5": "4b4f4546d6c1e12169867487c8c7b8ba", 
+      "name": "ox_103.mp3", 
+      "path": "oxnew/res/sound/boys/"
+    }, 
+    {
+      "md5": "be98546b009d201110fddcbabc8ca261", 
+      "name": "ox_104.mp3", 
+      "path": "oxnew/res/sound/boys/"
+    }, 
+    {
       "md5": "f9e0104b46a87b1bf095c0279eb95311", 
       "name": "ox_2.mp3", 
       "path": "oxnew/res/sound/boys/"
@@ -451,6 +466,21 @@
       "path": "oxnew/res/sound/girls/"
     }, 
     {
+      "md5": "fc96a6e1ee5df79f4ef1a4a408d444bc", 
+      "name": "ox_102.mp3", 
+      "path": "oxnew/res/sound/girls/"
+    }, 
+    {
+      "md5": "dbb82878d15ae87b3ac832f967a816e2", 
+      "name": "ox_103.mp3", 
+      "path": "oxnew/res/sound/girls/"
+    }, 
+    {
+      "md5": "f936d317e220e1153d8ad959ad5b9a5b", 
+      "name": "ox_104.mp3", 
+      "path": "oxnew/res/sound/girls/"
+    }, 
+    {
       "md5": "7c0a1ea4fe239fab4a74dc751361bcf4", 
       "name": "ox_2.mp3", 
       "path": "oxnew/res/sound/girls/"
@@ -496,7 +526,7 @@
       "path": "oxnew/src/models/"
     }, 
     {
-      "md5": "50aa2f3a0bbc4686e70aaaf7929d24fa", 
+      "md5": "357f0e5e5def10dd80b298e1912ba634", 
       "name": "GameLogic.luac", 
       "path": "oxnew/src/models/"
     }, 
@@ -506,7 +536,7 @@
       "path": "oxnew/src/tools/"
     }, 
     {
-      "md5": "1984135ab0eeca93c3f69ce7bc82ec39", 
+      "md5": "e3d5be744cac9dd49ef4f490d49fe6e8", 
       "name": "GameLayer.luac", 
       "path": "oxnew/src/views/"
     }, 
@@ -526,12 +556,12 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "6f969a8c033dede5725413512e79d650", 
+      "md5": "b926768eef99cc2732ff2cfd86ce9765", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "allcount": 106
+      "allcount": 112
     }
   ]
 }

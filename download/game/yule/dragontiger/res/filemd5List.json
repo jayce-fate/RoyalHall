@@ -6,8 +6,18 @@
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "b30eb1337aeb91b3a37132c419dacd30", 
+      "md5": "0c3f3cdc5a8f498bc8d83ce14f8a8300", 
       "name": "gameLayer.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "efcd9e80de90c97a8183452d53a3e36a", 
+      "name": "luckyStar.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "7245e0744a9b9865667c9262ab5a771d", 
+      "name": "naozhong.csb", 
       "path": "dragontiger/res/"
     }, 
     {
@@ -19,341 +29,6 @@
       "md5": "5317e59555d4ba633cdeb89dc7bc6bf7", 
       "name": "playerListLayer.csb", 
       "path": "dragontiger/res/"
-    }, 
-    {
-      "md5": "2aaca85612af7c507d9c35b0da45b2ca", 
-      "name": "bank.plist", 
-      "path": "dragontiger/res/bank/"
-    }, 
-    {
-      "md5": "90c881f81c83fa0ee2a65d17a224303f", 
-      "name": "bank.png", 
-      "path": "dragontiger/res/bank/"
-    }, 
-    {
-      "md5": "11aa5523ea2591a20b39188b1be23668", 
-      "name": "BankLayer.csb", 
-      "path": "dragontiger/res/bank/"
-    }, 
-    {
-      "md5": "c18f7aa29d67ebb71d58d1069897996e", 
-      "name": "bjl.plist", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "2aeec26ee4552e889a3c2c1a61328ad5", 
-      "name": "bjl.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "751df3db6b1d77031e3d1dc48c0e0f17", 
-      "name": "brnn_btn_back.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "7fcbb39d8f59a614d80784008752bc40", 
-      "name": "font.fnt", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "1a130a0dd6d49a8d668ab78d87cb80f1", 
-      "name": "font.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "7ae34816a71b230fbab6a0889f0c82f3", 
-      "name": "room_chipbg.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "0ebc0bb553d8be0d004595aefa4553b9", 
-      "name": "sitrole_font_score_add.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "9b13f933a64697b1deb6ad805c9a8df7", 
-      "name": "sitrole_font_score_min.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "3837b45dfd35933ec364d546403126b5", 
-      "name": "tag_loading_bar.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "22034d21c973aa91d766f8b99a423316", 
-      "name": "tag_loading_flower.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "33e3495e6c366ff8b48528f4424b6cae", 
-      "name": "tag_loading_num.png", 
-      "path": "dragontiger/res/bjl_new/"
-    }, 
-    {
-      "md5": "fa79821349dd686f516187283bc2fb8c", 
-      "name": "Button_Disable.png", 
-      "path": "dragontiger/res/Default/"
-    }, 
-    {
-      "md5": "5f8329d6525b01810d68e39036e5f066", 
-      "name": "Button_Normal.png", 
-      "path": "dragontiger/res/Default/"
-    }, 
-    {
-      "md5": "ea5e72abd451a76f62a2906abb7ef4bf", 
-      "name": "Button_Press.png", 
-      "path": "dragontiger/res/Default/"
-    }, 
-    {
-      "md5": "33e821a1e9307b492bf27500078279da", 
-      "name": "CheckBoxNode_Disable.png", 
-      "path": "dragontiger/res/Default/"
-    }, 
-    {
-      "md5": "7b7f98e04a5fc8121f8ec0414954d210", 
-      "name": "CheckBoxNode_Normal.png", 
-      "path": "dragontiger/res/Default/"
-    }, 
-    {
-      "md5": "380f19a83e69524450a3fc2b466dc275", 
-      "name": "Sprite.png", 
-      "path": "dragontiger/res/Default/"
-    }, 
-    {
-      "md5": "1160d289aab80c5e5bb180cc1f47f4db", 
-      "name": "ApplyListLayer.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "d3105fa527f45e8e1cdd1e30d3fdfa3d", 
-      "name": "atlas_add.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "ca092f1083b26cb933871d26640609c6", 
-      "name": "atlas_sub.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "cea4bf40738a3dcbcf5fc17e656bee50", 
-      "name": "atlas_time_num.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "d13d2bc57c5cffb48407e085c565c990", 
-      "name": "bjl_game_chip_0_0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "ecc3d277cb19ed7056313a0898b4179b", 
-      "name": "bjl_game_chip_0_1.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "6260ab8f06789bb399256bda725633aa", 
-      "name": "bjl_game_chip_0_2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "58b224040f79ee21857213ac976fa565", 
-      "name": "bjl_game_chip_1_0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "b1b5e93f5128304c5db48d79c1966b40", 
-      "name": "bjl_game_chip_1_1.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "77d6878187c45262ba3b35101b677c14", 
-      "name": "bjl_game_chip_1_2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "7f9be2a3e5c20ce2614af28c28b7de82", 
-      "name": "bjl_game_chip_2_0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "4220e18e9607160a8408c2e67df7c332", 
-      "name": "bjl_game_chip_2_1.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "89b9b43eec41691f6d97823e80ec7bc5", 
-      "name": "bjl_game_chip_2_2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "d569c88149881f8d32e084a107368ceb", 
-      "name": "bjl_game_chip_3_0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "282a1b82f6eedc9bacc94112bd13f710", 
-      "name": "bjl_game_chip_3_1.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "05744206c1dc01daaf179edf059ffc6d", 
-      "name": "bjl_game_chip_3_2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "393b45aae78cf304fb2e23635b543dcc", 
-      "name": "bjl_game_chip_4_0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "1bb55d51c829e5310ca4c739a5ab8716", 
-      "name": "bjl_game_chip_4_1.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "b07a4ad9241201a8e8e7a25a17da58b5", 
-      "name": "bjl_game_chip_4_2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "f8197d37959b3b71495f83cd0b39e456", 
-      "name": "bjl_game_chip_5_0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "6524045d94e7463a1928886656932908", 
-      "name": "bjl_game_chip_5_1.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "e0615498af77d745a553b5de73f4e9f6", 
-      "name": "bjl_game_chip_5_2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "768e788d1011b7edd1d378abad801d7e", 
-      "name": "btn.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "4c746c4ace7f58002ce615059661477a", 
-      "name": "card.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "e504e7f7f74bc4f4eae87698a786ccc8", 
-      "name": "card0.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "80c9e05d969bf97e420b32e496db41d6", 
-      "name": "game.plist", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "a26cc41641ad63b5d39a79c98688ffec", 
-      "name": "game.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "5ded51256efe7ef15b44bd0aab0b3850", 
-      "name": "GameCardLayer.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "ab28715ff490dde0b4f681171d63d97d", 
-      "name": "GameClockNode.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "13c406142e37310c196b10955eb968a7", 
-      "name": "GameResultLayer.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "d6bca5861451f6563a51d86b32f14c0a", 
-      "name": "JettonNode.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "43a723881625bb87fd0d5871fb78cb4f", 
-      "name": "pk_card.plist", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "7fa8b4ce27ad0ab06448d58f27ef01a1", 
-      "name": "pk_card.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "6cfa7b1ae6cf7ead595b569cde1bd2a8", 
-      "name": "player.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "31be79b7b620240871af24918eb0fda8", 
-      "name": "room_chipbg.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "0a98f9324c7f014fc4b08e37759469db", 
-      "name": "room_clearing_no2-add.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "e3590031dfbff6070c3578a98d1e0784", 
-      "name": "room_clearing_no2-minus.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "7af631f47612ead3d5eca3b04f5670a0", 
-      "name": "room_clearing_no2.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "7f3e49ed85bfd2304570ee834a1c8391", 
-      "name": "room_clearing_no3-add.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "019d935cc9c501ca0162a1cd919098bb", 
-      "name": "room_clearing_no3-minus.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "121d41f3ce6a6ddc3ea4984a417c7efb", 
-      "name": "room_clearing_no3.png", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "7ce564fac89df6b65acfb6f4b1713941", 
-      "name": "SimpleWallBill.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "8697a2fd5c6454dbe981582f746ef098", 
-      "name": "SitRoleNode.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "c7d4150790e6f5a5ffff98ec79c4513c", 
-      "name": "UserItem.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "9a3d4b472f6d38453442dd9979c0ac07", 
-      "name": "UserListLayer.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "b30018f55bf42502b844fd37f63bb7fb", 
-      "name": "WallBill.csb", 
-      "path": "dragontiger/res/game/"
-    }, 
-    {
-      "md5": "118289af917d87ce544a9980e0366e4a", 
-      "name": "WallBill_0.csb", 
-      "path": "dragontiger/res/game/"
     }, 
     {
       "md5": "e6ef5933dc7b03563bc9c882bf6cea87", 
@@ -433,16 +108,6 @@
     {
       "md5": "adb4966f14a183ffd9c1f9ea5d32d025", 
       "name": "longhudou_player.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "4e90dbe029f32a90227eec5ff95089da", 
-      "name": "longhudou_vs.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "d7e5fe9ac8f7cfa9e740fc5b9efde4ab", 
-      "name": "longhudou_vs.png", 
       "path": "dragontiger/res/img/"
     }, 
     {
@@ -686,61 +351,6 @@
       "path": "dragontiger/res/img/nopack/load_animation/"
     }, 
     {
-      "md5": "ded886d826fd77d1bcf91f4f853b1beb", 
-      "name": "bg02.jpg", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "99b8035822528669748dfb6af704b663", 
-      "name": "bg_chart.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "6c6641b08f4be6f479f1588af08054b3", 
-      "name": "blank.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "ec2062c5bab84f116499801ee2a3356d", 
-      "name": "new_res_icon_money.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "31429ea6fde3d4d169101a054661eec8", 
-      "name": "num_banker.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "4ac82ba0afcfed27ea68e778708e6751", 
-      "name": "num_player.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "7ae34816a71b230fbab6a0889f0c82f3", 
-      "name": "room_chipbg.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "39b70ca9bed6de32274420c263bc1af8", 
-      "name": "tag_bg_01.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "72bf29c6a80ffe97f946a005444719cb", 
-      "name": "tag_my_profile.png", 
-      "path": "dragontiger/res/new_res/"
-    }, 
-    {
-      "md5": "12447365bf3b69458f374262a6342190", 
-      "name": "public_res.plist", 
-      "path": "dragontiger/res/public_res/"
-    }, 
-    {
-      "md5": "05fae9603718b2ea27429169d5e4307b", 
-      "name": "public_res.png", 
-      "path": "dragontiger/res/public_res/"
-    }, 
-    {
       "md5": "fe53cd2a02eb685a449bc3358c2091d5", 
       "name": "icon_roomlist_0.png", 
       "path": "dragontiger/res/roomlist/"
@@ -769,21 +379,6 @@
       "md5": "43faa00f3af7408e2741df5d126d3e2c", 
       "name": "rule_longhudou.png", 
       "path": "dragontiger/res/roomlist/"
-    }, 
-    {
-      "md5": "aa2d546fc2452b1fc4173e31360f44a1", 
-      "name": "setting.plist", 
-      "path": "dragontiger/res/setting/"
-    }, 
-    {
-      "md5": "62d631aff3b1388702b4189d860dec0f", 
-      "name": "setting.png", 
-      "path": "dragontiger/res/setting/"
-    }, 
-    {
-      "md5": "36e11eabda79d6e876a97df639705f6d", 
-      "name": "SettingLayer.csb", 
-      "path": "dragontiger/res/setting/"
     }, 
     {
       "md5": "966deab48e2b8f20c191ed0ea711798c", 
@@ -946,7 +541,7 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "639ce5f1303d07bdc8509cebb7d16776", 
+      "md5": "de3cbc644b8d336c8763075b62a09e80", 
       "name": "GameFrame.luac", 
       "path": "dragontiger/src/models/"
     }, 
@@ -956,7 +551,7 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "c563cba4382077225c273a21bd31671a", 
+      "md5": "7fbfd3aac83d710d5984ad9e177ee707", 
       "name": "GameLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
@@ -971,7 +566,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "0a3d35b340c29d31047c654cd723904f", 
+      "md5": "53b1470431773afd06c38ee75ff3a062", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -981,7 +576,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "150419f6e55e77d9b04ca7b8c325094c", 
+      "md5": "b438902e60627e27a40a960093fe4f74", 
       "name": "WallBillLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -1011,12 +606,12 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "15a24780088a535bfaf6c4d1c7b31036", 
+      "md5": "e197d112fb81aaec397a2a8497e19264", 
       "name": "UserItem.luac", 
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 203
+      "allcount": 122
     }
   ]
 }

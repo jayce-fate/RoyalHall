@@ -191,7 +191,7 @@
       "path": "baccaratnew/res/new_res/"
     }, 
     {
-      "md5": "d474f9e7ec066184654643bffd0e4cf6", 
+      "md5": "c83f9fb914758db55660062d7ac7099e", 
       "name": "bg_chart.png", 
       "path": "baccaratnew/res/new_res/"
     }, 
@@ -416,22 +416,22 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "0f13da0b4432bd1a9c3455aa54c8d007", 
+      "md5": "aa9ebeeabc00e5176f464c38e697db87", 
       "name": "CMD_Game.luac", 
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "8b9408337567b941b94e753166d428a1", 
+      "md5": "55c050e2d42d7ee008351c24190a82c9", 
       "name": "GameFrame.luac", 
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "d77ebebcd3917eec9eea0703d9f1ce01", 
+      "md5": "e6be063cae77f10f58772bcdaf38c090", 
       "name": "GameLogic.luac", 
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "4384291ed9ec36c0235a533360005ee5", 
+      "md5": "090bde0ba08fe855d7aa9bed887dd4d6", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -441,22 +441,22 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "a9655aa40b7cbfd6ae63589c47459d0a", 
+      "md5": "1c7902f7d746b049f6c82fdce09ed177", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "14fc96082ef90c0266df0690a6109bc6", 
+      "md5": "152a717ae2a1216e9717a37ce17365a2", 
       "name": "GameResultLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "5305d627cc085dba6ab7f8c3e87b75b6", 
+      "md5": "1bf886ef7215fc2bfa55a380ce0448dc", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "604d50d1e5ebefe2c9f5ef2819e274bf", 
+      "md5": "8d7ff3dbb54b5ab3f2dce1dd163bdb79", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
