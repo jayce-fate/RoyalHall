@@ -63,6 +63,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"118",
+				"KindName":"百人骰宝",
+				"TypeID":"0",
+				"ModuleName":"yule.sicbobattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"37",
+				"SortID":"104",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"120",
 				"KindName":"百人二八杠",
 				"TypeID":"0",
@@ -80,6 +90,16 @@
 				"ClientVersion":"101122049",
 				"ResVersion":"37",
 				"SortID":"2",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"131",
+				"KindName":"水果机",
+				"TypeID":"0",
+				"ModuleName":"yule.fruit",
+				"ClientVersion":"101122049",
+				"ResVersion":"37",
+				"SortID":"103",
 				"KindMark":"3"
 			},
 			{
