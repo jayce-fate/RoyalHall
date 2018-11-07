@@ -53,6 +53,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"89",
+				"KindName":"红黑大战",
+				"TypeID":"0",
+				"ModuleName":"yule.h3card",
+				"ClientVersion":"101122049",
+				"ResVersion":"37",
+				"SortID":"105",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"104",
 				"KindName":"百人牛牛",
 				"TypeID":"0",
