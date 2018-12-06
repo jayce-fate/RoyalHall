@@ -111,7 +111,7 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
-      "md5": "94db3795601902a1413a8c6608e62ac9", 
+      "md5": "6c920647a8e3c49b97eedc335c94da2a", 
       "name": "GameLayer.csb", 
       "path": "oxbattle/res/game_res/"
     }, 
@@ -541,12 +541,12 @@
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "83ff7f4923d6ff7c27837c86f3f7b356", 
+      "md5": "4d219b94d04847b8f97be00f3a2be45a", 
       "name": "CMD_Game.luac", 
       "path": "oxbattle/src/models/"
     }, 
     {
-      "md5": "76054fd1c916d009c39da5dad15d691c", 
+      "md5": "6e0aa6748d1d59615f6674ecc799229c", 
       "name": "GameFrame.luac", 
       "path": "oxbattle/src/models/"
     }, 
@@ -556,7 +556,7 @@
       "path": "oxbattle/src/models/"
     }, 
     {
-      "md5": "8dda95421cab793bb2c104bde01a62ac", 
+      "md5": "668c0bd6e8d64ff71602ed715dba22cf", 
       "name": "GameLayer.luac", 
       "path": "oxbattle/src/views/"
     }, 
@@ -586,12 +586,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "7906ac799a8bc97afee189b696e79b45", 
+      "md5": "c3a78c5444cf2ad159fb640a5fc9ae91", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "5b4d6a26da121707491854eb10df25dd", 
+      "md5": "deb57244465dc6cf7c610c2a1e371fe9", 
       "name": "SitRoleNode.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 

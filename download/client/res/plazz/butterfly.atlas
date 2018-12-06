@@ -1,0 +1,90 @@
+
+butterfly.png
+size: 851,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a/a_light
+  rotate: true
+  xy: 2, 5
+  size: 127, 210
+  orig: 127, 210
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 214, 8
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1
+butterfly/b_body
+  rotate: false
+  xy: 336, 7
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+butterfly/wing_a
+  rotate: true
+  xy: 779, 4
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+butterfly/wing_b
+  rotate: true
+  xy: 734, 2
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+ligh_m2
+  rotate: true
+  xy: 336, 20
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+light_L
+  rotate: true
+  xy: 447, 3
+  size: 65, 120
+  orig: 65, 120
+  offset: 0, 0
+  index: -1
+light_R
+  rotate: true
+  xy: 569, 4
+  size: 64, 120
+  orig: 64, 120
+  offset: 0, 0
+  index: -1
+light_btn
+  rotate: false
+  xy: 637, 84
+  size: 120, 48
+  orig: 120, 48
+  offset: 0, 0
+  index: -1
+light_m1
+  rotate: false
+  xy: 759, 63
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 447, 70
+  size: 188, 62
+  orig: 188, 62
+  offset: 0, 0
+  index: -1
+txt
+  rotate: true
+  xy: 691, 2
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
