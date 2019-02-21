@@ -4,21 +4,38 @@
 	"data":
 	{
 		"valid":true,
+		"maintaining":false,
 		"downloadurl":"https://raw.githubusercontent.com/jayce-fate/RoyalHall/master/download",
-		"clientversion":"4",
-		"resversion":"28",
-		"ios_url":"https://fir.im/ttqpai",
+		"clientversion":"13",
+		"resversion":"60",
+		"ios_url":"http://103.105.58.140:809/",
+		"android_url":"http://103.105.58.140:809/",
 		"wxLogon":1,
 		"isOpenCard":0,
+		"LOGONSERVER":"103.105.58.140",
+		"GAMESERVER":"103.105.58.140",
+		"LOGONPORT":8800,
+		"HTTP_URL":"http://103.105.58.140:1000",
+		"DL_DOMAIN":"www.baidu.com",
 		"gamelist":[
+			{
+				"KindID":"3",
+				"KindName":"德州扑克",
+				"TypeID":"0",
+				"ModuleName":"yule.dzshowhand",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"102",
+				"KindMark":"3"
+			},
 			{
 				"KindID":"6",
 				"KindName":"诈金花",
 				"TypeID":"0",
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"2",
+				"ResVersion":"44",
+				"SortID":"3",
 				"KindMark":"3"
 			},
 			{
@@ -27,8 +44,8 @@
 				"TypeID":"0",
 				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"5",
+				"ResVersion":"44",
+				"SortID":"8",
 				"KindMark":"3"
 			},
 			{
@@ -37,38 +54,18 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"3",
+				"ResVersion":"44",
+				"SortID":"4",
 				"KindMark":"3"
 			},
 			{
-				"KindID":"36",
-				"KindName":"通比牛牛",
+				"KindID":"89",
+				"KindName":"红黑大战",
 				"TypeID":"0",
-				"ModuleName":"yule.oxsixex",
+				"ModuleName":"yule.h3card",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"101",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"140",
-				"KindName":"豪车俱乐部",
-				"TypeID":"0",
-				"ModuleName":"yule.luxurycar",
-				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"100",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"102",
-				"KindName":"二人牛牛",
-				"TypeID":"0",
-				"ModuleName":"yule.oxex",
-				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"100",
+				"ResVersion":"44",
+				"SortID":"105",
 				"KindMark":"3"
 			},
 			{
@@ -77,8 +74,8 @@
 				"TypeID":"0",
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"4",
+				"ResVersion":"44",
+				"SortID":"7",
 				"KindMark":"3"
 			},
 			{
@@ -87,8 +84,18 @@
 				"TypeID":"0",
 				"ModuleName":"yule.sicbobattle",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"100",
+				"ResVersion":"44",
+				"SortID":"104",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"120",
+				"KindName":"百人二八杠",
+				"TypeID":"0",
+				"ModuleName":"yule.28gbattle",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"5",
 				"KindMark":"3"
 			},
 			{
@@ -97,18 +104,28 @@
 				"TypeID":"0",
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"6",
+				"ResVersion":"44",
+				"SortID":"2",
 				"KindMark":"3"
 			},
 			{
-				"KindID":"123",
-				"KindName":"飞禽走兽",
+				"KindID":"131",
+				"KindName":"水果机",
 				"TypeID":"0",
-				"ModuleName":"yule.animalbattle",
+				"ModuleName":"yule.fruit",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"100",
+				"ResVersion":"44",
+				"SortID":"103",
+				"KindMark":"3"
+			},
+			{
+				"KindID":"150",
+				"KindName":"龙虎斗",
+				"TypeID":"0",
+				"ModuleName":"yule.dragontiger",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"6",
 				"KindMark":"3"
 			},
 			{
@@ -117,7 +134,7 @@
 				"TypeID":"0",
 				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
+				"ResVersion":"44",
 				"SortID":"1",
 				"KindMark":"3"
 			},
@@ -127,8 +144,8 @@
 				"TypeID":"0",
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"100",
+				"ResVersion":"44",
+				"SortID":"9",
 				"KindMark":"3"
 			},
 			{
@@ -137,8 +154,8 @@
 				"TypeID":"0",
 				"ModuleName":"yule.gobang",
 				"ClientVersion":"101122049",
-				"ResVersion":"12",
-				"SortID":"100",
+				"ResVersion":"44",
+				"SortID":"1000",
 				"KindMark":"3"
 			},
 			{
@@ -147,8 +164,8 @@
 				"TypeID":"0",
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
-				"ResVersion":"11",
-				"SortID":"101",
+				"ResVersion":"44",
+				"SortID":"10",
 				"KindMark":"3"
 			}]
 	}

@@ -12,11 +12,6 @@
 		"android_url":"http://103.105.58.140:809/",
 		"wxLogon":1,
 		"isOpenCard":0,
-		"LOGONSERVER":"103.105.58.140",
-		"GAMESERVER":"103.105.58.140",
-		"LOGONPORT":8800,
-		"HTTP_URL":"http://103.105.58.140:1000",
-		"DL_DOMAIN":"www.baidu.com",
 		"gamelist":[
 			{
 				"KindID":"3",
