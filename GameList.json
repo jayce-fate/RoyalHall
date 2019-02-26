@@ -54,6 +54,16 @@
 				"KindMark":"3"
 			},
 			{
+			    "KindID":"49",
+			    "KindName":"13水",
+			    "TypeID":"0",
+			    "ModuleName":"qipai.thirteenx",
+			    "ClientVersion":"101122049",
+			    "ResVersion":"44",
+			    "SortID":"11",
+			    "KindMark":"3"
+			},
+			{
 				"KindID":"89",
 				"KindName":"红黑大战",
 				"TypeID":"0",
