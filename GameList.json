@@ -20,7 +20,7 @@
 				"ModuleName":"yule.dzshowhand",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"102",
+				"SortID":"2",
 				"KindMark":"3"
 			},
 			{
@@ -30,7 +30,7 @@
 				"ModuleName":"yule.zhajinhua",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"3",
+				"SortID":"103",
 				"KindMark":"3"
 			},
 			{
@@ -50,7 +50,7 @@
 				"ModuleName":"yule.hkfivecardnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"8",
+				"SortID":"108",
 				"KindMark":"3"
 			},
 			{
@@ -60,7 +60,7 @@
 				"ModuleName":"yule.oxnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"4",
+				"SortID":"104",
 				"KindMark":"3"
 			},
 			{
@@ -100,7 +100,7 @@
 				"ModuleName":"yule.oxbattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"7",
+				"SortID":"107",
 				"KindMark":"3"
 			},
 			{
@@ -110,7 +110,7 @@
 				"ModuleName":"yule.sicbobattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"104",
+				"SortID":"4",
 				"KindMark":"3"
 			},
 			{
@@ -120,7 +120,7 @@
 				"ModuleName":"yule.28gbattle",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"5",
+				"SortID":"105",
 				"KindMark":"3"
 			},
 			{
@@ -130,7 +130,7 @@
 				"ModuleName":"yule.baccaratnew",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"2",
+				"SortID":"102",
 				"KindMark":"3"
 			},
 			{
@@ -140,7 +140,7 @@
 				"ModuleName":"yule.fruit",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"103",
+				"SortID":"3",
 				"KindMark":"3"
 			},
 			{
@@ -150,7 +150,7 @@
 				"ModuleName":"yule.dragontiger",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"6",
+				"SortID":"106",
 				"KindMark":"3"
 			},
 			{
@@ -160,7 +160,7 @@
 				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"1",
+				"SortID":"101",
 				"KindMark":"3"
 			},
 			{
@@ -170,7 +170,7 @@
 				"ModuleName":"yule.sparrowhz",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"9",
+				"SortID":"109",
 				"KindMark":"3"
 			},
 			{
@@ -190,7 +190,7 @@
 				"ModuleName":"yule.runfasthn",
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
-				"SortID":"10",
+				"SortID":"100",
 				"KindMark":"3"
 			}]
 	}
