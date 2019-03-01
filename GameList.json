@@ -34,6 +34,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"16",
+				"KindName":"21点",
+				"TypeID":"0",
+				"ModuleName":"yule.21points",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"3",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"25",
 				"KindName":"港式五张",
 				"TypeID":"0",
