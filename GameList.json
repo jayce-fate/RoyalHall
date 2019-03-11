@@ -64,6 +64,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"33",
+				"KindName":"三公",
+				"TypeID":"0",
+				"ModuleName":"yule.3gong",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"104",
+				"KindMark":"3"
+			},
+			{
 			    "KindID":"36",
 			    "KindName":"通比牛牛",
 			    "TypeID":"0",
@@ -72,7 +82,7 @@
 			    "ResVersion":"44",
 			    "SortID":"12",
 			    "KindMark":"3"
-			   },
+			},
 			{
 			    "KindID":"49",
 			    "KindName":"13水",
