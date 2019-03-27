@@ -194,6 +194,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"511",
+				"KindName":"摇钱树",
+				"TypeID":"0",
+				"ModuleName":"yule.fishyqs",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"1000",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"601",
 				"KindName":"湖南跑得快",
 				"TypeID":"0",
