@@ -202,6 +202,16 @@
 				"ResVersion":"44",
 				"SortID":"100",
 				"KindMark":"3"
+			},
+			{
+				"KindID":"602",
+				"KindName":"极速炸金花",
+				"TypeID":"0",
+				"ModuleName":"yule.fastjinhua",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"100",
+				"KindMark":"3"
 			}]
 	}
 }
