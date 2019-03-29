@@ -104,6 +104,16 @@
 				"KindMark":"3"
 			},
 			{
+				"KindID":"99",
+				"KindName":"牌九",
+				"TypeID":"0",
+				"ModuleName":"yule.pai9",
+				"ClientVersion":"101122049",
+				"ResVersion":"44",
+				"SortID":"0",
+				"KindMark":"3"
+			},
+			{
 				"KindID":"104",
 				"KindName":"百人牛牛",
 				"TypeID":"0",
