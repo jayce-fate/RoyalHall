@@ -204,12 +204,12 @@
 				"KindMark":"3"
 			},
 			{
-				"KindID":"511",
-				"KindName":"摇钱树",
+				"KindID":"510",
+				"KindName":"新李逵劈鱼",
 				"TypeID":"0",
-				"ModuleName":"yule.fishyqs",
+				"ModuleName":"yule.xlkpy",
 				"ClientVersion":"101122049",
-				"ResVersion":"44",
+				"ResVersion":"1",
 				"SortID":"1000",
 				"KindMark":"3"
 			},
