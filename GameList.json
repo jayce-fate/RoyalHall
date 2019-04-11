@@ -14,16 +14,6 @@
 		"isOpenCard":0,
 		"gamelist":[
 			{
-				"KindID":"3",
-				"KindName":"德州扑克",
-				"TypeID":"0",
-				"ModuleName":"yule.dzshowhand",
-				"ClientVersion":"101122049",
-				"ResVersion":"44",
-				"SortID":"2",
-				"KindMark":"3"
-			},
-			{
 				"KindID":"6",
 				"KindName":"诈金花",
 				"TypeID":"0",
@@ -154,16 +144,6 @@
 				"KindMark":"3"
 			},
 			{
-				"KindID":"131",
-				"KindName":"水果机",
-				"TypeID":"0",
-				"ModuleName":"yule.fruit",
-				"ClientVersion":"101122049",
-				"ResVersion":"44",
-				"SortID":"3",
-				"KindMark":"3"
-			},
-			{
 				"KindID":"150",
 				"KindName":"龙虎斗",
 				"TypeID":"0",
@@ -191,16 +171,6 @@
 				"ClientVersion":"101122049",
 				"ResVersion":"44",
 				"SortID":"109",
-				"KindMark":"3"
-			},
-			{
-				"KindID":"401",
-				"KindName":"五子棋",
-				"TypeID":"0",
-				"ModuleName":"yule.gobang",
-				"ClientVersion":"101122049",
-				"ResVersion":"44",
-				"SortID":"1000",
 				"KindMark":"3"
 			},
 			{
