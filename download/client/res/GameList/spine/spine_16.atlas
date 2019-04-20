@@ -1,0 +1,167 @@
+
+spine_16.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 372, 194
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 372, 132
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 570, 194
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 570, 132
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 499, 70
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 768, 194
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 499, 8
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 768, 132
+  size: 196, 60
+  orig: 196, 60
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: false
+  xy: 828, 62
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 38
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+erduo_y
+  rotate: false
+  xy: 220, 54
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+erduo_z
+  rotate: false
+  xy: 966, 208
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+hb1
+  rotate: false
+  xy: 277, 69
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+hb2
+  rotate: false
+  xy: 891, 105
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+hb3
+  rotate: false
+  xy: 2, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+jb1
+  rotate: true
+  xy: 828, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: false
+  xy: 966, 183
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+puke1
+  rotate: false
+  xy: 697, 9
+  size: 129, 121
+  orig: 129, 121
+  offset: 0, 0
+  index: -1
+puke2
+  rotate: false
+  xy: 372, 2
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 220, 100
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 828, 30
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 220, 41
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 35, 27
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1

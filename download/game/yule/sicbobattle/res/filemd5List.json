@@ -1,0 +1,607 @@
+{
+  "listdata": [
+    {
+      "md5": "3a494ed025f9305ac7503cb4a9615f2e", 
+      "name": "dian1.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "6a2a53deb06bf182b5bc9e069210f515", 
+      "name": "dian2.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "d0676cf77b407b0bcdf485cfd8d5b64e", 
+      "name": "dian3.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "2b53c7c0a54278599a0f31ab9b91c6e9", 
+      "name": "dian4.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "1b358fad5858c0d0dae6fc2a1c7116e5", 
+      "name": "dian5.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "2f18b3a811b9675df23db596b9c56f2c", 
+      "name": "dian6.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "159cf37cd8658a9027b02ffd2885a8d6", 
+      "name": "shaizi_spine.atlas", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "eee026b90ad3a0e6982383c3fd1b0972", 
+      "name": "shaizi_spine.json", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "8de1c858988eef957a206b59e3f17a58", 
+      "name": "shaizi_spine.png", 
+      "path": "sicbobattle/res/animation/shaizi/"
+    }, 
+    {
+      "md5": "cd3732f12d8d6040ad1d01f161327ab5", 
+      "name": "cm1.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "cdd085e3c23bcb1e4a14e417857a819a", 
+      "name": "cm10.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "16f13837e894040415100937f1800981", 
+      "name": "cm100.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "14abe30b4e2f1a82a4f5357233c590b4", 
+      "name": "cm1000.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "a62b60c51be58e2edfc2a76979473547", 
+      "name": "cm10000.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "27b7d6beb86148726ac8e54bb234c668", 
+      "name": "cm10000h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "947d8cbc3d28fc822037e0a799b4c211", 
+      "name": "cm1000h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "d0cf2d21fcbb8a53536a9c21c9afd667", 
+      "name": "cm100h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "73261d5b856fa1943be3aaad3fb587d9", 
+      "name": "cm10h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "e8989f2129f06b8b88541c2e819907a8", 
+      "name": "cm1h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "31939e01df652dd5ef5d4da99d9e495b", 
+      "name": "cm5.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "f2611d8edc7e618d79df43c54cb042d2", 
+      "name": "cm50.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "167ff75b6f181a19abe51f36773fb7ca", 
+      "name": "cm500.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "4814aaababf6ba89c8a0c89f8f015ae2", 
+      "name": "cm5000.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "d9729f9df8829a47c332aa9a26350be3", 
+      "name": "cm50000.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "ef98be48023266a806eff08357b1d73e", 
+      "name": "cm50000h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "238e25bc376be387a215794ecb629972", 
+      "name": "cm5000h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "dc2bd3ab2a8016bf2411d838f7ca2640", 
+      "name": "cm500h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "41d267e77df2feef81174b4a50d3bd7c", 
+      "name": "cm50h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "23ca9aee23666c3b5d77cd0d6d3ddc51", 
+      "name": "cm5h.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "b8e6de3ce4fd60e996e34d6980d3ddcc", 
+      "name": "GameLayer.csb", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "360c8e23083b36eb11146f6640c84ccb", 
+      "name": "player.csb", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "d509dd79eeb26d1cb66ca57b61c39be9", 
+      "name": "player2.csb", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "da77d05615d6796f32866918748a3c80", 
+      "name": "UserItem.csb", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "61c11050384a5da5eab870ba7ac9178e", 
+      "name": "UserListLayer.csb", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "022eccb5f7ee02fdd5430af23dc8d05d", 
+      "name": "zdcm.png", 
+      "path": "sicbobattle/res/game/"
+    }, 
+    {
+      "md5": "8bc79d5703fbf5c2328823e4b3ec2d80", 
+      "name": "icon_roomlist_0.png", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
+      "md5": "4346d5ab48e4cf8d0a84e9cf0ba10786", 
+      "name": "icon_roomlist_1.png", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
+      "md5": "a44976e4afc845468a6140cd5c9547ef", 
+      "name": "icon_roomlist_2.png", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
+      "md5": "72ccf3d4936d16bed06ac0ce4a2ffb7a", 
+      "name": "roomlist_title.png", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
+      "md5": "91e937beb76d4af01070152ddedb0149", 
+      "name": "Rule.txt", 
+      "path": "sicbobattle/res/roomlist/"
+    }, 
+    {
+      "md5": "5b1bee7a64a2e980d4cae6f502e62b43", 
+      "name": "ann.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "a1e35fb80929cf5d689dabf31b723a04", 
+      "name": "bg.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "cd3732f12d8d6040ad1d01f161327ab5", 
+      "name": "cm1.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "cdd085e3c23bcb1e4a14e417857a819a", 
+      "name": "cm10.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "16f13837e894040415100937f1800981", 
+      "name": "cm100.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "a62b60c51be58e2edfc2a76979473547", 
+      "name": "cm10k.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "14abe30b4e2f1a82a4f5357233c590b4", 
+      "name": "cm1k.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "31939e01df652dd5ef5d4da99d9e495b", 
+      "name": "cm5.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "f2611d8edc7e618d79df43c54cb042d2", 
+      "name": "cm50.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "167ff75b6f181a19abe51f36773fb7ca", 
+      "name": "cm500.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "d9729f9df8829a47c332aa9a26350be3", 
+      "name": "cm50k.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "4814aaababf6ba89c8a0c89f8f015ae2", 
+      "name": "cm5k.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "bc9508d10454896df571ab3f77241e65", 
+      "name": "g.png", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "b25314782ea99fefca1ff83a52795dee", 
+      "name": "SelectChipNode.csb", 
+      "path": "sicbobattle/res/selectChip/"
+    }, 
+    {
+      "md5": "a70492add6ba06b14cca20af63789139", 
+      "name": "bg.jpg", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "1c1b3a99301079a9d896fd491b65111c", 
+      "name": "bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "160d170820efd253107ca30b32e19a70", 
+      "name": "big.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "1c50335522172a9105cbfa45ccfb670d", 
+      "name": "bright_12.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "ff94d4a4f421fc9a1825812a13fb1cb1", 
+      "name": "bright_13.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "5df8f5356af589827de04d4c9221f807", 
+      "name": "brtx.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "3166681ddcc677d9684a04d1a521e443", 
+      "name": "card_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "3ff5c489a7e007534ae2da8a21daf332", 
+      "name": "da_d.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "740a7b5c3bdf6d22e8eadf2954bf5a8a", 
+      "name": "da_x.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "c98d65c4c1506c0da102a1226455efab", 
+      "name": "di.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "114b5d0ff008c7219277c5a3f09d4b83", 
+      "name": "dianshu_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "937b047d4697e2828a8f293dc9cdc914", 
+      "name": "fh.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "0bb3aea66ec7b644c99f91ef3a6975fd", 
+      "name": "fnt1.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "950d4f4eaf7438d7e12f4283ed602e7d", 
+      "name": "fnt2.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "d2f7f4a13c3091870a1026f7313915ab", 
+      "name": "heidi.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "fb1baf46efe796f043f7d520bbb29eca", 
+      "name": "jiantou.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "b84dc247e3ec206c42484801c3e62f39", 
+      "name": "jiesuan_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "0205fb2df8a66a9e1a553aa0a1c22a0d", 
+      "name": "jiesuan_bt.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "5a5f759579501c695f8432d3d5ebdddf", 
+      "name": "js.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "c34521446db1f4743146c57536edeef2", 
+      "name": "jt1.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "27ca1c237b67f8548a5d5235598151b9", 
+      "name": "KK.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "c97aa2b3e834d5113824a0e279a48f1e", 
+      "name": "record_bg.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "1212882600439f6efdbe77eac9196998", 
+      "name": "sicbo_h.plist", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "790d37272436e47d887dcbf662ef873a", 
+      "name": "sicbo_h.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "595af4b9533d4630e031bdfee35cd5aa", 
+      "name": "sm.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "adbd139c7d8617c377fcaf9d4ce3f093", 
+      "name": "smo.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "e659ea3ff2c602c299fa0869500c9199", 
+      "name": "sz.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "323477cf52859efb59a5a028d584e98a", 
+      "name": "xiao_d.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "44cb1e5c76bbd4118f41d3dcf0bc4ea9", 
+      "name": "xiao_x.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "2f7b47dd690cba388afcc094e3aa11e8", 
+      "name": "xzjs.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "f4f3f316812b8ea3d93a8873708a047e", 
+      "name": "xzks.png", 
+      "path": "sicbobattle/res/sicbo_new_res/"
+    }, 
+    {
+      "md5": "7b9a592e78878b45d7dc292d3bc1c321", 
+      "name": "ADD_GOLD.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "0517246ed965f7dfcab4d0e150e9765f", 
+      "name": "ADD_GOLD_EX.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
+      "name": "ADD_SCORE.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "ae36895366a51674d6ace066268c278d", 
+      "name": "BACK_GROUND.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "7bf1d42959679f8a7b40af78a20f340f", 
+      "name": "CHEER1.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "0c9fb499bbcf32877f620b5e43e3867e", 
+      "name": "CHEER2.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "68860421baddce5ff66d1319d6289a9f", 
+      "name": "CHEER3.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "956b4eb19d114130a4bcbfa52eb8d54e", 
+      "name": "DISPATCH_CARD.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "17a986cb0cad18262601aeb2cad06927", 
+      "name": "END_DRAW.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "8def92de49cdf75151f138482e2293e8", 
+      "name": "END_LOST.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "0a75b76681fec910ebb76229ed4d15d2", 
+      "name": "END_WIN.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "9ac2dfb083b0cbee12c28a5bb83b46c8", 
+      "name": "GAME_START.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "66c7a0af4736847b2b7ca0af9096c50e", 
+      "name": "shaizi.mp3", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "9c29d35fd19cc4003e6de89860827b0a", 
+      "name": "SHAKE_DICE.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "b1924524c25f3ca73b5f97baa87f1ba8", 
+      "name": "TIME_WARIMG.wav", 
+      "path": "sicbobattle/res/sound_res/"
+    }, 
+    {
+      "md5": "727b1da1d15482d85aa8271d8f953fe7", 
+      "name": "bt.png", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "bcb065dfefe2732b61ee28351a0b89df", 
+      "name": "txk.png", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "54bebf30e976d657f2b862807004a6d6", 
+      "name": "UserCellNode.csb", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "fdf1fa10a49f9858362eda59f46f719a", 
+      "name": "UserItemNode.csb", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "67be6db402f9b766ab4661f1d2454813", 
+      "name": "userlist_avatar_frame.png", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
+      "name": "userlist_bg.png", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "f3bdee4464bfa2f331c6b1f5db03865f", 
+      "name": "userlist_coin.png", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "bfddbb66455e08d5405f75b2d6d4bfe2", 
+      "name": "UserListNode.csb", 
+      "path": "sicbobattle/res/userlist/"
+    }, 
+    {
+      "md5": "c84e47fff3ad745ee552e0b5cbcb7116", 
+      "name": "118_GameFrame.luac", 
+      "path": "sicbobattle/src/models/"
+    }, 
+    {
+      "md5": "5fa51082c9b862db71f0821e45659d03", 
+      "name": "CMD_Game.luac", 
+      "path": "sicbobattle/src/models/"
+    }, 
+    {
+      "md5": "5fd2d801b109616b333f5b878b7d2d8a", 
+      "name": "GameDefine.luac", 
+      "path": "sicbobattle/src/models/"
+    }, 
+    {
+      "md5": "aa18fdd11fb6f04da0fcbc17aac96ee0", 
+      "name": "GameLogic.luac", 
+      "path": "sicbobattle/src/models/"
+    }, 
+    {
+      "md5": "1eb9d3e957b2936d957b38e3c823781c", 
+      "name": "GameLayer.luac", 
+      "path": "sicbobattle/src/views/"
+    }, 
+    {
+      "md5": "0171c07b3a6e4b83a82f91d4e38e6f92", 
+      "name": "GameRoomLayer.luac", 
+      "path": "sicbobattle/src/views/"
+    }, 
+    {
+      "md5": "54ceaf8f80b016b6672ed4415b1fc746", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "sicbobattle/src/views/"
+    }, 
+    {
+      "md5": "04d1a453b7c3d7e8cdad0f48ed6a051b", 
+      "name": "GameViewLayer.luac", 
+      "path": "sicbobattle/src/views/layer/"
+    }, 
+    {
+      "md5": "66a4fe49d7c223438a40afcd4a1f0880", 
+      "name": "SelectChipLayer.luac", 
+      "path": "sicbobattle/src/views/layer/"
+    }, 
+    {
+      "md5": "79ccc43ef4fb97adeb95e6d67237e5de", 
+      "name": "ApplyListLayer.luac", 
+      "path": "sicbobattle/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "6d7030ae46830ec0eca0fa1d73c9aa30", 
+      "name": "UserItem.luac", 
+      "path": "sicbobattle/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "760e385396440691a7fa860bd193c3a1", 
+      "name": "UserListLayer.luac", 
+      "path": "sicbobattle/src/views/layer/userlist/"
+    }, 
+    {
+      "allcount": 120
+    }
+  ]
+}

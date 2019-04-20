@@ -1,0 +1,111 @@
+
+tongchi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 743, 294
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 743, 148
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 999, 294
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 999, 148
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1255, 294
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1255, 148
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1511, 294
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1511, 148
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1767, 294
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1767, 148
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 743, 2
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 999, 2
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1255, 2
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 53
+  size: 377, 385
+  orig: 377, 385
+  offset: 0, 0
+  index: -1
+guangu
+  rotate: false
+  xy: 381, 78
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,108 @@
+{
+"skeleton": { "hash": "p3G9qmjWG7whtQuHm4HnDGa8A2s", "spine": "3.7.91", "width": 330, "height": 122, "images": "E:/工作/SPINE/导出PNG路径/新建文件夹/images/", "audio": "E:/工作/SPINE/导出PNG路径/新建文件夹" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 34.16, "rotation": 91.04, "y": 0.5 },
+	{ "name": "bone2", "parent": "bone", "length": 63.97, "rotation": -1.6, "x": 40.99, "y": -0.12 },
+	{ "name": "bone3", "parent": "bone", "length": 54.5, "rotation": -1.04, "x": 35.17, "y": 0.09 }
+],
+"slots": [
+	{ "name": "di", "bone": "bone2", "attachment": "di" },
+	{ "name": "ksks_00000", "bone": "bone3", "attachment": "ksks_00000" }
+],
+"skins": {
+	"default": {
+		"di": {
+			"di": { "x": 19.92, "y": 4.65, "rotation": -89.44, "width": 330, "height": 122 }
+		},
+		"ksks_00000": {
+			"ksks_00000": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00001": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00002": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00003": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00004": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00005": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00006": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00007": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00008": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00009": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00010": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00011": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00012": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00013": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00014": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00015": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00016": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 },
+			"ksks_00017": { "x": 25.8, "y": 4.35, "rotation": -90, "width": 330, "height": 122 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"di": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff7a",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1333, "color": "ffffff00" }
+				]
+			},
+			"ksks_00000": {
+				"attachment": [
+					{ "time": 0, "name": "ksks_00000" },
+					{ "time": 0.0667, "name": "ksks_00001" },
+					{ "time": 0.1333, "name": "ksks_00002" },
+					{ "time": 0.2, "name": "ksks_00003" },
+					{ "time": 0.2667, "name": "ksks_00004" },
+					{ "time": 0.3333, "name": "ksks_00005" },
+					{ "time": 0.4, "name": "ksks_00006" },
+					{ "time": 0.4667, "name": "ksks_00007" },
+					{ "time": 0.5333, "name": "ksks_00008" },
+					{ "time": 0.6, "name": "ksks_00009" },
+					{ "time": 0.6667, "name": "ksks_00010" },
+					{ "time": 0.7333, "name": "ksks_00011" },
+					{ "time": 0.8, "name": "ksks_00012" },
+					{ "time": 0.8667, "name": "ksks_00013" },
+					{ "time": 0.9333, "name": "ksks_00014" },
+					{ "time": 1, "name": "ksks_00015" },
+					{ "time": 1.0667, "name": "ksks_00016" },
+					{ "time": 1.1333, "name": "ksks_00017" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1333, "x": 1.209, "y": 1.168 }
+				]
+			},
+			"root": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 0,
+						"y": 6.65,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

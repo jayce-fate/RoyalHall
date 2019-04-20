@@ -1,0 +1,146 @@
+
+spine_122.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1684, 79
+  size: 182, 143
+  orig: 182, 143
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1487, 76
+  size: 195, 146
+  orig: 195, 146
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 220, 64
+  size: 201, 158
+  orig: 201, 158
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1284, 80
+  size: 201, 142
+  orig: 201, 142
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1074, 79
+  size: 208, 143
+  orig: 208, 143
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 645, 80
+  size: 213, 142
+  orig: 213, 142
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 860, 80
+  size: 212, 142
+  orig: 212, 142
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 423, 86
+  size: 220, 136
+  orig: 220, 136
+  offset: 0, 0
+  index: -1
+bjl_00000
+  rotate: false
+  xy: 220, 2
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00001
+  rotate: false
+  xy: 423, 24
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00002
+  rotate: false
+  xy: 1684, 17
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00003
+  rotate: false
+  xy: 1868, 19
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00004
+  rotate: false
+  xy: 1284, 18
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00005
+  rotate: false
+  xy: 1433, 14
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00006
+  rotate: false
+  xy: 572, 18
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+bjl_00007
+  rotate: false
+  xy: 721, 18
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: false
+  xy: 369, 27
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 6
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+pk
+  rotate: false
+  xy: 1582, 5
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 1868, 81
+  size: 147, 141
+  orig: 147, 141
+  offset: 0, 0
+  index: -1

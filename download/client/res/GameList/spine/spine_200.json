@@ -1,0 +1,143 @@
+{
+"skeleton": { "hash": "zPxbzda4qlhZhkTtjQy1X7MNc5o", "spine": "3.7.91", "width": 211, "height": 214, "images": "E:/工作/项目/BB棋牌/动画单独文件/doudizhu/images/", "audio": "E:/工作/项目/BB棋牌/动画单独文件/doudizhu" },
+"bones": [
+	{ "name": "root", "y": -22.59 },
+	{ "name": "bone", "parent": "root", "length": 51.24, "rotation": 90, "x": 1.04, "y": -0.77 },
+	{ "name": "bone2", "parent": "bone", "length": 89.31, "rotation": -12.57, "x": 82.46 },
+	{ "name": "bone3", "parent": "bone2", "length": 27.41, "rotation": 74.35, "x": 105.86, "y": -6.57 },
+	{ "name": "bone4", "parent": "bone2", "length": 10.88, "rotation": 12.57, "x": 51.44, "y": 4.86 },
+	{ "name": "bone5", "parent": "bone2", "length": 34.11, "rotation": 27.82, "x": 25.06, "y": 64.47 },
+	{ "name": "bone6", "parent": "bone2", "length": 24.14, "rotation": 60.79, "x": 8.36, "y": 40.68 }
+],
+"slots": [
+	{ "name": "di", "bone": "bone2", "attachment": "di" },
+	{ "name": "toufa", "bone": "bone3", "attachment": "toufa" },
+	{ "name": "hongbao", "bone": "bone5", "attachment": "hongbao" },
+	{ "name": "shou", "bone": "bone6", "attachment": "shou" },
+	{ "name": "lin", "bone": "bone4", "attachment": "lin" },
+	{ "name": "1", "bone": "root", "attachment": "1" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"2": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"3": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"4": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"5": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"6": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"7": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 },
+			"8": { "x": 0.51, "y": 65.12, "width": 164, "height": 64 }
+		},
+		"di": {
+			"di": { "x": 39.24, "y": 9.81, "rotation": -77.43, "width": 211, "height": 214 }
+		},
+		"hongbao": {
+			"hongbao": { "x": 15.27, "y": 1.09, "rotation": -105.26, "width": 52, "height": 55 }
+		},
+		"lin": {
+			"lin": { "x": 0.66, "y": -0.01, "rotation": -90, "width": 48, "height": 41 }
+		},
+		"shou": {
+			"shou": { "x": 20.61, "y": 0.43, "rotation": -138.22, "width": 28, "height": 26 }
+		},
+		"toufa": {
+			"toufa": { "x": 13.95, "y": -2.76, "rotation": -151.78, "width": 44, "height": 43 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.2, "name": "2" },
+					{ "time": 0.4, "name": "3" },
+					{ "time": 0.6333, "name": "4" },
+					{ "time": 0.8333, "name": "5" },
+					{ "time": 1, "name": "6" },
+					{ "time": 1.1667, "name": "7" },
+					{ "time": 1.3333, "name": "8" }
+				]
+			}
+		},
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"angle": -19.24,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.133,
+						"y": 1.133,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"angle": -14.47,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.227,
+						"y": 1.227,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": -90 },
+					{ "time": 1.3333, "angle": 90 }
+				]
+			}
+		}
+	}
+}
+}

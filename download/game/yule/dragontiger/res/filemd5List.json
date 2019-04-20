@@ -1,384 +1,619 @@
 {
   "listdata": [
     {
-      "md5": "e610c185e1faa0c73f4d48e9c8fd2621", 
-      "name": "detailLayer.csb", 
-      "path": "dragontiger/res/"
-    }, 
-    {
-      "md5": "faf4c01eb8a25e6e50c066b6af2ba46d", 
+      "md5": "a01074de45209f7db190a07c67b6437a", 
       "name": "gameLayer.csb", 
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "efcd9e80de90c97a8183452d53a3e36a", 
-      "name": "luckyStar.csb", 
+      "md5": "25641241b93b3a9fb3255ac672c9003d", 
+      "name": "OverLayer.csb", 
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "7245e0744a9b9865667c9262ab5a771d", 
-      "name": "naozhong.csb", 
+      "md5": "037243dc968c72a64f220b0e8ae261ed", 
+      "name": "setLayer.csb", 
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "a27a6030601dc08b84bc14498b3d6fbb", 
-      "name": "playerItem.csb", 
+      "md5": "5cee52764e079d333f248aff8eed8fe6", 
+      "name": "WallBill_0.csb", 
       "path": "dragontiger/res/"
     }, 
     {
-      "md5": "5317e59555d4ba633cdeb89dc7bc6bf7", 
-      "name": "playerListLayer.csb", 
-      "path": "dragontiger/res/"
+      "md5": "7754d1441b4d661218636a67c46d398a", 
+      "name": "Button_Disable.png", 
+      "path": "dragontiger/res/Default/"
     }, 
     {
-      "md5": "e6ef5933dc7b03563bc9c882bf6cea87", 
-      "name": "area_dragon.png", 
-      "path": "dragontiger/res/img/"
+      "md5": "28300638971e3a59c80cfa25c0594e1c", 
+      "name": "Button_Normal.png", 
+      "path": "dragontiger/res/Default/"
     }, 
     {
-      "md5": "d7225d117e5ae44d4bca9064485cc828", 
-      "name": "area_he.png", 
-      "path": "dragontiger/res/img/"
+      "md5": "a23c68e9236808ac42d87d9a6bac510a", 
+      "name": "Button_Press.png", 
+      "path": "dragontiger/res/Default/"
     }, 
     {
-      "md5": "2b7ce1359868f561d6b460f9dc5b27da", 
-      "name": "area_tiger.png", 
-      "path": "dragontiger/res/img/"
+      "md5": "18f25c0b86ac9449d9cc1054033eb7c2", 
+      "name": "Sprite.png", 
+      "path": "dragontiger/res/Default/"
     }, 
     {
-      "md5": "4c746c4ace7f58002ce615059661477a", 
-      "name": "card.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "0b957909a9c9fb7ff53338815c806c8f", 
-      "name": "longhudou_chip.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "bff61521c8698794dda65150e9d7972f", 
-      "name": "longhudou_chip.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "59143ac783c568fb3a6ecd9bc47753d9", 
-      "name": "longhudou_common.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "49c44d384b6ee3bde6aced67844b8aa1", 
-      "name": "longhudou_common.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "6b4d5a93f52acdaeed7810fca175b384", 
-      "name": "longhudou_dayingjia.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "0b7972d6f93ed6502a4c1194118c0beb", 
-      "name": "longhudou_dayingjia.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "d27f778fd7bc4ee6e553c461facb1113", 
-      "name": "longhudou_donghua.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "ce4a7c69c962298186fb1eb344b23913", 
-      "name": "longhudou_donghua.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "27157ff4954e4f324019337bed9827eb", 
-      "name": "longhudou_pailu.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "aac24f6c1b4d279ad95bcd8e39f4b398", 
-      "name": "longhudou_pailu.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "e75d58beeb73202efdbe17ba941c93f3", 
-      "name": "longhudou_player.plist", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "adb4966f14a183ffd9c1f9ea5d32d025", 
-      "name": "longhudou_player.png", 
-      "path": "dragontiger/res/img/"
-    }, 
-    {
-      "md5": "0592fb8cfb36c4cb1bed282f7da356bf", 
-      "name": "longhudou_dayingjia.fnt", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "64f24fc585444709b1daa829ff289e09", 
-      "name": "longhudou_dayingjia_0.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "307f4c9d4eb137fa7b32385f89e438f6", 
-      "name": "longhudou_golden.fnt", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "4932770ecd3e6fae333309ad449305d5", 
-      "name": "longhudou_golden.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "ec902c01c3d4dadb0c5747d449e3b3b1", 
-      "name": "longhudou_playerlist_number.fnt", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "0fdb760dd38ed93ceaa2c0d70f874b91", 
-      "name": "longhudou_playerlist_number_0.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "91e5a80590e37c831a8ecf9047bbe2b1", 
-      "name": "longhudou_rebuy_num.fnt", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "dedab723b30c8e6b5735e2efa8402f0a", 
-      "name": "longhudou_rebuy_num.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "ef0351b80fa02dda23455dd788436fc8", 
-      "name": "longhudou_remind_num.fnt", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "b24c627a53c28d5416055e79a7741c0c", 
-      "name": "longhudou_remind_num_0.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "9c685fe4a77491b3ceb76e8296e54265", 
-      "name": "longhudou_white.fnt", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "1ced9919fa111f3c65f385f97ae8e086", 
-      "name": "longhudou_white.png", 
-      "path": "dragontiger/res/img/font/"
+      "md5": "d0a887264572cf6208a0511399f704fb", 
+      "name": "fnt5.png", 
+      "path": "dragontiger/res/fonts/"
     }, 
     {
       "md5": "8fd52467613444ca4f3492285e5a622b", 
       "name": "longhudou_winner_add.fnt", 
-      "path": "dragontiger/res/img/font/"
+      "path": "dragontiger/res/fonts/"
     }, 
     {
-      "md5": "a299a0b062c7308bd018b009a9c99070", 
-      "name": "longhudou_winner_add.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "58dcb77c5e2907b1b32af9ca60cf06aa", 
+      "md5": "0abb35e0c232987c6b3f379fd77be6a4", 
       "name": "longhudou_winner_add_0.png", 
-      "path": "dragontiger/res/img/font/"
+      "path": "dragontiger/res/fonts/"
     }, 
     {
       "md5": "e7658a5109c248d29fbddfc7fa98c338", 
       "name": "rewards.fnt", 
-      "path": "dragontiger/res/img/font/"
+      "path": "dragontiger/res/fonts/"
     }, 
     {
-      "md5": "eeb77e53e4f375734823ccf0b3254719", 
-      "name": "rewards.png", 
-      "path": "dragontiger/res/img/font/"
-    }, 
-    {
-      "md5": "aed5ec2a7fd1f681b9df896a3b9cb25b", 
+      "md5": "86decab97f694e8d4db4a00fc8554a02", 
       "name": "rewards_0.png", 
-      "path": "dragontiger/res/img/font/"
+      "path": "dragontiger/res/fonts/"
     }, 
     {
-      "md5": "ac6c7fe3e73b286531d720e027daba05", 
-      "name": "longhudou_bigwinner_star.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "dragontiger/res/fonts/"
     }, 
     {
-      "md5": "884ba9dc196ff9ca558445f65e4f006a", 
-      "name": "longhudou_common_jiaobiaoluck.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "cd3732f12d8d6040ad1d01f161327ab5", 
+      "name": "1.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "e25f0a45279c55f013f8b7e33466e347", 
-      "name": "longhudou_donghua_petal.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "cdd085e3c23bcb1e4a14e417857a819a", 
+      "name": "10.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "8294dea166662728cbb87b01eac68310", 
-      "name": "longhudou_playerlist_cell_background.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "16f13837e894040415100937f1800981", 
+      "name": "100.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "557a0697fc834e59daeb8acc1c1802fd", 
-      "name": "longhudou_playlist_background.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "14abe30b4e2f1a82a4f5357233c590b4", 
+      "name": "1000.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "0b066b5b1358cdb644307f211c7bb8f0", 
-      "name": "longhudou_rule_background.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "a62b60c51be58e2edfc2a76979473547", 
+      "name": "10000.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "6cbba5e63d85528a6596e08b85d89bd1", 
-      "name": "longhudou_table_center_wait_current_game_end.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "31939e01df652dd5ef5d4da99d9e495b", 
+      "name": "5.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "413e66da5d8c807d8738011e0ebdd8ec", 
-      "name": "nopack_5adeb.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "f2611d8edc7e618d79df43c54cb042d2", 
+      "name": "50.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "b86a75250e5ade3b05052354153e8e17", 
-      "name": "nopack_bairen.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "167ff75b6f181a19abe51f36773fb7ca", 
+      "name": "500.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "f0a04af2035d42b1d95d29e5ace15034", 
-      "name": "nopack_bairen2.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "4814aaababf6ba89c8a0c89f8f015ae2", 
+      "name": "5000.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "062b236f0333883a5ac4f2469c7c4e26", 
-      "name": "nopack_big_hongguang_.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "d9729f9df8829a47c332aa9a26350be3", 
+      "name": "50000.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "edb95350af1fc4334b197d17660e9382", 
-      "name": "nopack_big_huangquan1_.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
+      "name": "add.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "2fbb3b0d9164231b44b6ac02d4fcefa3", 
-      "name": "nopack_dayingjia_caidai01.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "4beb56bb14f9f8611cf280e5bb57e6ff", 
+      "name": "bg.jpg", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "e7b20942a6c12770d499f7193d93e06a", 
-      "name": "nopack_dayingjia_caidai02.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "5df8f5356af589827de04d4c9221f807", 
+      "name": "brtx.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "6c344df0043b1cdcbb535dfa7b9c2b1d", 
-      "name": "nopack_dayingjia_caidai03.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "6e03fb8ee1afe112107589860ef91956", 
+      "name": "chex.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "468fda1a0d2b22860cbcd8e7e19c57cc", 
-      "name": "nopack_dayingjia_caidai04.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "0f14d69617e561cb59a9702a07d2c2ac", 
+      "name": "fh.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "987ca1fb3f887ff140047649cd038030", 
-      "name": "nopack_lizi024.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "0da63cb8b2dbdb81a0ec8ba49795b951", 
+      "name": "h3card_btn_hundred.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "4fd51778483d759e1e4fe544e47439b1", 
-      "name": "nopack_longhudong_hu.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "9169c5f1c3bbb20e434fef9a12916672", 
+      "name": "h3card_img_bg.jpg", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "f907ef809fd4499573b452c9e3735a45", 
-      "name": "nopack_longhudou_long.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "611182aee5628e888aaac97cb68b9c6a", 
+      "name": "h3card_img_black.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "8f19921a97b909f2268763061006c714", 
-      "name": "nopack_playerlist_title.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "73acac867f10acd9108c9284e591302b", 
+      "name": "h3card_img_danzhanggray.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "6d90a7ebad6257e3ace12799b31b9d3d", 
-      "name": "nopack_playerlist_top.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "d0560d42538ac3e9885571e042131cb2", 
+      "name": "h3card_img_he.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "37a8f0cf5591570b684ac91f5e4fdbd5", 
-      "name": "nopack_vs_gbt12.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "9146a6cc552af6b0eaa44c5fc9407b09", 
+      "name": "h3card_img_hongvshei.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "541de21e61fdff7a8ddba0f969d25a0d", 
-      "name": "userlist_table_line.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "d776497d28fea8626f93ced3c81e5471", 
+      "name": "h3card_img_ludan.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "ee54a792b531f648fc8661b7eab1ab9b", 
-      "name": "winner_sg.png", 
-      "path": "dragontiger/res/img/nopack/"
+      "md5": "252a3e3c6f87e9269d6ecd5d619edea0", 
+      "name": "h3card_img_red.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "50160acbf13b10ff993f1c4896cf93ff", 
-      "name": "skeleton.atlas", 
-      "path": "dragontiger/res/img/nopack/Animation/"
+      "md5": "f80b62cbb9bf888cc1fb59faf258ff19", 
+      "name": "h3card_img_roundrect.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "afd98f4bc2865ca4eeffc0ced1d1d569", 
-      "name": "skeleton.json", 
-      "path": "dragontiger/res/img/nopack/Animation/"
+      "md5": "1fec8a8df1b2a6a22a6adeced8c1dcae", 
+      "name": "h3card_img_shadow.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "01487b6af0e9b0515bb4d4ada92dca86", 
-      "name": "skeleton.png", 
-      "path": "dragontiger/res/img/nopack/Animation/"
+      "md5": "a3884667ef44c35bb94fc2994300328a", 
+      "name": "h3card_item_danzhang.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "031066677f717d4ee567bfecfb857ce0", 
-      "name": "btn_light.atlas", 
-      "path": "dragontiger/res/img/nopack/load_animation/"
+      "md5": "9a7e1411635c1928badd65005b99d324", 
+      "name": "h3card_item_duizi.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "e1c4d2efb07f00a2ec34b188c8e89906", 
-      "name": "btn_light.json", 
-      "path": "dragontiger/res/img/nopack/load_animation/"
+      "md5": "0f8fe4d3130c932141c311ffe1c7056b", 
+      "name": "h3card_notice_raise.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "3e081241150a1b39620445f0782994b7", 
-      "name": "btn_light.png", 
-      "path": "dragontiger/res/img/nopack/load_animation/"
+      "md5": "038f9730a4e56e8356e67ab2551e0658", 
+      "name": "he.png", 
+      "path": "dragontiger/res/img/"
     }, 
     {
-      "md5": "fe53cd2a02eb685a449bc3358c2091d5", 
+      "md5": "9601da94a52234cdc968d9d86bd5382c", 
+      "name": "he1.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "8bfd542d3d5f543a62c3f210801d39d6", 
+      "name": "he_xz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "221749039c5738c543f204455ed566eb", 
+      "name": "hu_xz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "c32b1277926a5671571bf157aa46db8d", 
+      "name": "hutou.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "462d61acc40c1a0696d3f6f88df49615", 
+      "name": "hy.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "98dea27b8d82d65f5d7fa4b55926c32d", 
+      "name": "jies.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "b67a1dd15744a0b41b0c6caefe259126", 
+      "name": "jinbi_k.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "a48821a1e82a8271bea00da244012183", 
+      "name": "jjkj.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "d2768e560992fddf9d24dff60cccb031", 
+      "name": "kpz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "b49faf56a9e8d8c7d6fd1c62f4134e97", 
+      "name": "ksxz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "3f3ec6cea2afd9245087b08ab288e65f", 
+      "name": "ld.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "1d8dddaef549b79f1d122a84bdd1d508", 
+      "name": "long_xz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "a2f39d7b18580899f6ee780ca3040c61", 
+      "name": "longtou.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "a5a38671adec4a8c9007bdc9ac893dc4", 
+      "name": "ly.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "7ca2f7e17fa815d0ef52e46cb0842eaf", 
+      "name": "mdls.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "1c1b3a99301079a9d896fd491b65111c", 
+      "name": "menu_bg.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "937b047d4697e2828a8f293dc9cdc914", 
+      "name": "menu_fh.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "04d3c3a4a10d4469617bb0a43606bff3", 
+      "name": "menu_jt2.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "595af4b9533d4630e031bdfee35cd5aa", 
+      "name": "menu_sm.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "e659ea3ff2c602c299fa0869500c9199", 
+      "name": "menu_sz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "7ffeb3e6e1384f0135191bb05ae2757d", 
+      "name": "new_bjl_dy_h.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "4a830f9bfdc4bbf2f5c697dfb687a381", 
+      "name": "new_bjl_dy_l.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "3ac8f9e545f6878035d5147d85cf04b2", 
+      "name": "qxz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "a044b79d78ca5869bf82a41a0cd14f1d", 
+      "name": "sp_rob.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "c9e5dfb881874f83bfdcda62b9892218", 
+      "name": "tx_zj.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "8367838128c453c2f04d72678fd6a317", 
+      "name": "txk.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "29534bf583cbcb787bda1add39d589e6", 
+      "name": "vs.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "4e4e1d5b51ba38bd7021d6c40f24c114", 
+      "name": "wh.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "8f4fd58ebed01dc73dfcd1bfc66edb01", 
+      "name": "xuya_green.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "53130ae1f508e054a6d0036e8c38cade", 
+      "name": "xuya_hui.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "d76e070fb8b51eff84dd51ce8f9c3dcd", 
+      "name": "xzq_cm.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "022eccb5f7ee02fdd5430af23dc8d05d", 
+      "name": "zdcm.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "4a1913618a57b9717c4a379265c87a37", 
+      "name": "zhezhao.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "ee9d51df3a9617fe0bae4aba898b0907", 
+      "name": "zijixz.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "e782e4caa077bf615cb871c175883e87", 
+      "name": "dsx_h.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "64835f88dfb7ca8967ae3eb97ad77f7c", 
+      "name": "dsx_l.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "5e630d0f5ccbd403cd8f417f2aba7a54", 
+      "name": "dxx_h.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "5d5ef4cf98d28ab396e6fd505c530490", 
+      "name": "dxx_l.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "f89a19efcd83b1aa76a23d9031e95b0c", 
+      "name": "dy_h.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "ec58f77b87b99584b4b7538eccbb4805", 
+      "name": "dy_l.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "d721702a7223f5bcbfeb35924e005770", 
+      "name": "fnt1.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "acd7a0d46a2aa672d1a67fe29329bf4f", 
+      "name": "fnt2.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "fa7e6b174ea6f4798c7f72cd56d1cff0", 
+      "name": "fnt3.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "46d59c4b75b0ad46cf71466714d08a19", 
+      "name": "fnt4.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "d0a887264572cf6208a0511399f704fb", 
+      "name": "fnt5.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "91bce61c0e5a88f3b153795159e1668c", 
+      "name": "he.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "25fb732f132a25f87c99701ca1bea803", 
+      "name": "hu.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "5b09485e5ed8e5ab548a6e2f0ebbf5ed", 
+      "name": "long.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "2cad3456e8759235352efb604aeaecff", 
+      "name": "ludan_zz.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "77dc1a933b41b5f57fd6b42fc17b9f82", 
+      "name": "room_chipbg.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "7d449478da619a5b9891b117c1416946", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "e499ed30a1217001c2b91aeacca42e12", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "b00ede9b25c39dc522b2e9cd9818bcd2", 
+      "name": "sx_h.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "99159c7eebadc101fd053b6c597ea4c6", 
+      "name": "sx_l.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "56bda767a412909977c540bd3056c9d3", 
+      "name": "xx_h.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "270da43c338b98485f5f039becd7a7a4", 
+      "name": "xx_l.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "fecc232ecdf6783b76bc1892a9e2c1be", 
+      "name": "xy_h.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "07af725dc1fd122845d9cffc8d272c17", 
+      "name": "xy_l.png", 
+      "path": "dragontiger/res/new_bjl/"
+    }, 
+    {
+      "md5": "66fd831ecdc254a6ea97b118e377df35", 
       "name": "icon_roomlist_0.png", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
-      "md5": "2efacc8b8108bcb0d1479986b209277e", 
+      "md5": "516e76e38c23e7cb3fffb8c2443727bc", 
       "name": "icon_roomlist_1.png", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
-      "md5": "bc89f9546491e1e84f5480063fce1e1a", 
+      "md5": "31561ee978d82b9707c99cb005fdfc08", 
       "name": "icon_roomlist_2.png", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
-      "md5": "92ef91da8b74c539976df341148b66ae", 
+      "md5": "eddc9511828438f5d3da1ac55b67e1d5", 
       "name": "roomlist_title.png", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
-      "md5": "5556e52a1cff4706ddcb752dbe6b784f", 
+      "md5": "d77a30283b71d20818a79eeada092783", 
       "name": "Rule.txt", 
       "path": "dragontiger/res/roomlist/"
     }, 
     {
-      "md5": "43faa00f3af7408e2741df5d126d3e2c", 
+      "md5": "85b139ce11f8fc8447340f4a18489a56", 
       "name": "rule_longhudou.png", 
       "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "5b1bee7a64a2e980d4cae6f502e62b43", 
+      "name": "ann.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "a1e35fb80929cf5d689dabf31b723a04", 
+      "name": "bg.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "cd3732f12d8d6040ad1d01f161327ab5", 
+      "name": "cm1.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "cdd085e3c23bcb1e4a14e417857a819a", 
+      "name": "cm10.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "16f13837e894040415100937f1800981", 
+      "name": "cm100.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "a62b60c51be58e2edfc2a76979473547", 
+      "name": "cm10k.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "14abe30b4e2f1a82a4f5357233c590b4", 
+      "name": "cm1k.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "31939e01df652dd5ef5d4da99d9e495b", 
+      "name": "cm5.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "f2611d8edc7e618d79df43c54cb042d2", 
+      "name": "cm50.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "167ff75b6f181a19abe51f36773fb7ca", 
+      "name": "cm500.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "d9729f9df8829a47c332aa9a26350be3", 
+      "name": "cm50k.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "4814aaababf6ba89c8a0c89f8f015ae2", 
+      "name": "cm5k.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "bc9508d10454896df571ab3f77241e65", 
+      "name": "g.png", 
+      "path": "dragontiger/res/selectChip/"
+    }, 
+    {
+      "md5": "b25314782ea99fefca1ff83a52795dee", 
+      "name": "SelectChipNode.csb", 
+      "path": "dragontiger/res/selectChip/"
     }, 
     {
       "md5": "966deab48e2b8f20c191ed0ea711798c", 
@@ -531,17 +766,57 @@
       "path": "dragontiger/res/sound_res/music/"
     }, 
     {
-      "md5": "6086b442b6cba183f475ff9c9732b3a6", 
+      "md5": "727b1da1d15482d85aa8271d8f953fe7", 
+      "name": "bt.png", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "bcb065dfefe2732b61ee28351a0b89df", 
+      "name": "txk.png", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "54bebf30e976d657f2b862807004a6d6", 
+      "name": "UserCellNode.csb", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "fdf1fa10a49f9858362eda59f46f719a", 
+      "name": "UserItemNode.csb", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "67be6db402f9b766ab4661f1d2454813", 
+      "name": "userlist_avatar_frame.png", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
+      "name": "userlist_bg.png", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "f3bdee4464bfa2f331c6b1f5db03865f", 
+      "name": "userlist_coin.png", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "bfddbb66455e08d5405f75b2d6d4bfe2", 
+      "name": "UserListNode.csb", 
+      "path": "dragontiger/res/userlist/"
+    }, 
+    {
+      "md5": "b684c6174885cc79431a5d53ed61bef5", 
       "name": "bjlGameDefine.luac", 
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "283e567583c4d2759ca2c96d62b0a3e5", 
+      "md5": "92af7269ab01c02a5eb3510d3d9d0f64", 
       "name": "CMD_Game.luac", 
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "1d97d85f13c9ed8a476ec553fb9b95cc", 
+      "md5": "808e1fdbf2df1cba90313da3aa6c3c30", 
       "name": "GameFrame.luac", 
       "path": "dragontiger/src/models/"
     }, 
@@ -551,23 +826,28 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "7fbfd3aac83d710d5984ad9e177ee707", 
+      "md5": "64d263769f4f0d85e6fa044d83a4cf53", 
       "name": "GameLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "ad2dbd05a2f3f88ab3046a3ea3bc8b07", 
+      "md5": "cd7ff1f0dd398887730a2070de4f5b1d", 
       "name": "GameRoomListLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
     {
-      "md5": "6d208290bc99c206f3f608caf3805ff2", 
+      "md5": "f135026ede4e760d465c5bb51d6d469b", 
       "name": "GameCardLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "ddc984bb76fbece514a3994e4b6d3079", 
+      "md5": "bd0c00d4a129dc0eddb4255c48135056", 
       "name": "GameViewLayer.luac", 
+      "path": "dragontiger/src/views/layer/"
+    }, 
+    {
+      "md5": "66a4fe49d7c223438a40afcd4a1f0880", 
+      "name": "SelectChipLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
     {
@@ -576,7 +856,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "130b8e8e0ceef402c9d921f912345231", 
+      "md5": "22fffaa2a07f4a029e2aa46a40c592f1", 
       "name": "WallBillLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -586,7 +866,7 @@
       "path": "dragontiger/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "129e277917f18bab21d9c5bb8693c813", 
+      "md5": "896521f1c08ef539dc8fab15fe3c4844", 
       "name": "CardSprite.luac", 
       "path": "dragontiger/src/views/layer/gamecard/"
     }, 
@@ -601,17 +881,27 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "9c9118291f9257c7c9a5c67ee350e669", 
+      "md5": "99b693fcd5dd3e9527a0d00983dc5b54", 
       "name": "SitRoleNode.luac", 
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "ed04bec3cee052e94643ecd30036f141", 
+      "md5": "786ed9ff95b850c975fcf47146bdcff4", 
+      "name": "UserHead.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "90c5668fc1f9563e9e3cf1081a4ad7e5", 
       "name": "UserItem.luac", 
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 122
+      "md5": "c5a2af4caf51ad351816ba2bfb200bdd", 
+      "name": "UserListLayer.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "allcount": 180
     }
   ]
 }

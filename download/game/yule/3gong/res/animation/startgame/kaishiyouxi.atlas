@@ -1,0 +1,111 @@
+
+kaishiyouxi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1738
+  size: 801, 214
+  orig: 801, 214
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 805, 1757
+  size: 696, 195
+  orig: 696, 195
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 805, 1574
+  size: 634, 181
+  orig: 634, 181
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 1087
+  size: 782, 215
+  orig: 782, 215
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 870
+  size: 779, 215
+  orig: 779, 215
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 653
+  size: 779, 215
+  orig: 779, 215
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 436
+  size: 779, 215
+  orig: 779, 215
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 1304
+  size: 785, 215
+  orig: 785, 215
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 1521
+  size: 787, 215
+  orig: 787, 215
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 219
+  size: 779, 215
+  orig: 779, 215
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 778, 215
+  orig: 778, 215
+  offset: 0, 0
+  index: -1
+guang_
+  rotate: false
+  xy: 1503, 1815
+  size: 160, 137
+  orig: 160, 137
+  offset: 0, 0
+  index: -1
+guang_2
+  rotate: false
+  xy: 1503, 1815
+  size: 160, 137
+  orig: 160, 137
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 791, 1326
+  size: 577, 246
+  orig: 577, 246
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 789, 1078
+  size: 560, 246
+  orig: 560, 246
+  offset: 0, 0
+  index: -1

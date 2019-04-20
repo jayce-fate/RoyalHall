@@ -1,0 +1,135 @@
+{
+"skeleton": { "hash": "TVvH0+uKIrYuCgyjjb8Uq+h0Vs8", "spine": "3.7.91", "width": 1081.26, "height": 246, "images": "E:/工作/SPINE练习/人物/kaishiyouxi/images/", "audio": "E:/工作/SPINE练习/人物" },
+"bones": [
+	{ "name": "root", "x": 2.38, "y": 18.15 },
+	{ "name": "bone", "parent": "root", "length": 218.57, "rotation": 90, "x": -0.4, "y": -214.69 },
+	{ "name": "you", "parent": "bone", "length": 438.19, "rotation": -90, "x": 214.32, "y": -32.89 },
+	{ "name": "zuo", "parent": "root", "length": 450.93, "rotation": -179.73, "x": -42.04, "y": 2.82 },
+	{ "name": "guang_2", "parent": "root", "length": 53.88, "rotation": 90, "x": -191.81, "y": 12.7 },
+	{ "name": "guang_", "parent": "root", "length": 45.02, "rotation": 89.13, "x": 196.68, "y": 42.49 }
+],
+"slots": [
+	{ "name": "zuo", "bone": "zuo", "attachment": "zuo" },
+	{ "name": "you", "bone": "you", "attachment": "you" },
+	{ "name": "1", "bone": "root", "attachment": "11" },
+	{ "name": "guang_2", "bone": "guang_2", "attachment": "guang_2" },
+	{ "name": "guang_", "bone": "guang_", "attachment": "guang_" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"10": { "x": -17.58, "y": 13.91, "width": 696, "height": 195 },
+			"1": { "x": 62.42, "y": 13.91, "width": 801, "height": 214 },
+			"11": { "x": -17.58, "y": 13.91, "width": 634, "height": 181 },
+			"2": { "x": 42.42, "y": 13.91, "width": 782, "height": 215 },
+			"3": { "x": 12.42, "y": 13.91, "width": 779, "height": 215 },
+			"4": { "x": -17.58, "y": 13.91, "width": 779, "height": 215 },
+			"5": { "x": -47.58, "y": 13.91, "width": 779, "height": 215 },
+			"6": { "x": -77.58, "y": 13.91, "width": 785, "height": 215 },
+			"7": { "x": -77.58, "y": 13.91, "width": 787, "height": 215 },
+			"8": { "x": -37.58, "y": 13.91, "width": 779, "height": 215 },
+			"9": { "x": -17.58, "y": 13.91, "width": 778, "height": 215 }
+		},
+		"guang_": {
+			"guang_": { "x": 1.01, "y": -0.97, "rotation": -89.13, "width": 160, "height": 137 }
+		},
+		"guang_2": {
+			"guang_2": { "x": -1.32, "y": -0.4, "rotation": -90, "width": 160, "height": 137 }
+		},
+		"you": {
+			"you": { "x": 211.43, "y": 13.78, "width": 577, "height": 246 }
+		},
+		"zuo": {
+			"zuo": { "x": 226.74, "y": -11.66, "rotation": 179.73, "width": 560, "height": 246 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "1" },
+					{ "time": 0.0667, "name": "2" },
+					{ "time": 0.1333, "name": "3" },
+					{ "time": 0.2, "name": "4" },
+					{ "time": 0.2667, "name": "5" },
+					{ "time": 0.3333, "name": "6" },
+					{ "time": 0.4, "name": "7" },
+					{ "time": 0.4667, "name": "8" },
+					{ "time": 0.5333, "name": "9" },
+					{ "time": 0.6, "name": "10" },
+					{ "time": 0.6667, "name": "11" },
+					{ "time": 0.7333, "name": "11" },
+					{ "time": 0.8, "name": "11" },
+					{ "time": 1, "name": "11" }
+				]
+			},
+			"you": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff77",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffef84ff" }
+				]
+			},
+			"zuo": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff77",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"zuo": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -639.35,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8, "x": 20.15, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 20.15, "y": 0 }
+				]
+			},
+			"you": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": -607.5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8, "x": 0, "y": -17.79, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": -17.79 }
+				]
+			},
+			"guang_2": {
+				"rotate": [
+					{ "time": 0, "angle": -90 },
+					{ "time": 1, "angle": 90 }
+				]
+			},
+			"guang_": {
+				"rotate": [
+					{ "time": 0, "angle": -89.13 },
+					{ "time": 1, "angle": 90.87 }
+				]
+			}
+		}
+	}
+}
+}

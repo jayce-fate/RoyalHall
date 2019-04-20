@@ -1,12 +1,22 @@
 {
   "listdata": [
     {
+      "md5": "722693c77279719db0dd2b386ec18f06", 
+      "name": "d3.png", 
+      "path": "land/res/"
+    }, 
+    {
+      "md5": "834552925366d5fdd02c2f1239dce765", 
+      "name": "guanggao.jpg", 
+      "path": "land/res/"
+    }, 
+    {
       "md5": "6d35b4290160b387af97d1f279a348f6", 
       "name": "animation.plist", 
       "path": "land/res/animation/"
     }, 
     {
-      "md5": "8e2fbd08c0d4421a9c748340b60f17ee", 
+      "md5": "674a0e95d02a097eac1e4e44d039d6a5", 
       "name": "animation.png", 
       "path": "land/res/animation/"
     }, 
@@ -16,7 +26,7 @@
       "path": "land/res/animation/"
     }, 
     {
-      "md5": "1adfc562a89059ed6eaa17d773d780b0", 
+      "md5": "fea978569f3b962f6f8b02e4bb60e162", 
       "name": "ddz_table_ani_bomb.png", 
       "path": "land/res/animation/"
     }, 
@@ -26,7 +36,7 @@
       "path": "land/res/animation/"
     }, 
     {
-      "md5": "4069f80c0be6eab810fefa59a57badbe", 
+      "md5": "bb63a5e1d1ccd485cecd14d6b1f7bb22", 
       "name": "ddz_table_ani_common.png", 
       "path": "land/res/animation/"
     }, 
@@ -36,7 +46,7 @@
       "path": "land/res/animation/"
     }, 
     {
-      "md5": "033b2ddd80f97e5965cc4e3257170219", 
+      "md5": "91f3fc35443e6e850213ad8241d8e306", 
       "name": "ddz_table_ani_rocket.png", 
       "path": "land/res/animation/"
     }, 
@@ -46,9 +56,59 @@
       "path": "land/res/animation/"
     }, 
     {
-      "md5": "883be780fe556bb60710da1dc4098775", 
+      "md5": "37a0fadc8962597c45b3a366adeed488", 
       "name": "ddz_table_ani_shunzi.png", 
       "path": "land/res/animation/"
+    }, 
+    {
+      "md5": "7754d1441b4d661218636a67c46d398a", 
+      "name": "Button_Disable.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "28300638971e3a59c80cfa25c0594e1c", 
+      "name": "Button_Normal.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "a23c68e9236808ac42d87d9a6bac510a", 
+      "name": "Button_Press.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "975b021a65b661c1a80140405af48020", 
+      "name": "CheckBox_Disable.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "d0a27c476e447daca135da3361bf6d95", 
+      "name": "CheckBox_Normal.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "0cb391cef256ced293323ffedc8eeebe", 
+      "name": "CheckBox_Press.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "f0c340849cdf4ebe50417d64641e0072", 
+      "name": "CheckBoxNode_Disable.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "9cef70e39ed8d690c09975d81f680e9b", 
+      "name": "CheckBoxNode_Normal.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "c4d889a796de140896ca06bda6061507", 
+      "name": "ImageFile.png", 
+      "path": "land/res/Default/"
+    }, 
+    {
+      "md5": "18f25c0b86ac9449d9cc1054033eb7c2", 
+      "name": "Sprite.png", 
+      "path": "land/res/Default/"
     }, 
     {
       "md5": "e67cd582ee5fdac7cbeffb2d9a70e0db", 
@@ -56,7 +116,7 @@
       "path": "land/res/font/"
     }, 
     {
-      "md5": "f1f4731032eddf391290b1f0585c3b9b", 
+      "md5": "2c188afcd64ac042f5af254472037c1a", 
       "name": "ddz_clock_number.png", 
       "path": "land/res/font/"
     }, 
@@ -66,7 +126,7 @@
       "path": "land/res/font/"
     }, 
     {
-      "md5": "0b85a53432832f2426236d5ad5cf86ad", 
+      "md5": "dcc30a0f5e05a5d631f4da061e285aed", 
       "name": "ddz_left_card_number.png", 
       "path": "land/res/font/"
     }, 
@@ -76,12 +136,32 @@
       "path": "land/res/font/"
     }, 
     {
-      "md5": "3796ea411439a5d4ad51849bf77bbd91", 
+      "md5": "d38c29bb8f1d5e8be5ec22b3fad4cc07", 
       "name": "ddz_user_chip_number.png", 
       "path": "land/res/font/"
     }, 
     {
-      "md5": "a358d5a62334687d5740e2ed4e363bd3", 
+      "md5": "4cf25e01e0b9513dfc54489ec393ef2b", 
+      "name": "fnt_record2.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "569c67af86a37d6a458f2faed14e2e97", 
+      "name": "font_cardrecord.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "b76b186d46bb04b141737497e1ccc975", 
+      "name": "font_clock.png", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "land/res/font/"
+    }, 
+    {
+      "md5": "d358ae25e62a59bf5701d4d450dbd7f8", 
       "name": "addnum.png", 
       "path": "land/res/game/"
     }, 
@@ -91,388 +171,38 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "02f3eb3437a0bcf2967a0ce34bafe02d", 
+      "md5": "2a26b1e6fb37cf401025906d3604efdf", 
       "name": "animation.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "c52a7096da2372cd18d7e46721f0d186", 
-      "name": "AntiCheatLayer.csb", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "dd877045ff8d2290a0708e6e9cf5b7fa", 
+      "md5": "62ea348689b0a1938f812bd7831d548c", 
       "name": "bg_cover.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b101c029bab5189b1426e5713900a7b7", 
-      "name": "bg_landlord.jpg", 
+      "md5": "2d4866a8d6ddfa49dbbd725022509df5", 
+      "name": "bg_white.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "b0d377b081db6f461ba2b75ed6866089", 
-      "name": "bg_lose.png", 
+      "md5": "9f1456b0eb6bae239d5f3f34e81bdb02", 
+      "name": "CardRecordLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "4a8fa9953179893d450916e8f061f945", 
-      "name": "bg_win.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "e9af43ba193b278a81fd3700988d6c79", 
-      "name": "blank.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "607e795e96c0f48c29927a88c829f159", 
-      "name": "brow.plist", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "fc70d3f9edc60a36003958d0324d549d", 
-      "name": "brow.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "a13558acbbef03a37de60861c2885fd0", 
-      "name": "btn_change_table.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "190945aadd0465c45fd125505784127f", 
-      "name": "btn_change_table_unactive.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "8beb90b8ed2de935e610e2f316b14c4a", 
-      "name": "btn_continue.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "701d5477202dc4872a7a95ca937f368a", 
-      "name": "btn_diaog_bg.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "9ecc0771b7b93f77f7a1f1a548f640d5", 
-      "name": "btn_leave.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "2683e307d40b11dec8be1d6855bbc53f", 
-      "name": "btn_more.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "3ff09fee940e393e935312a96252abbe", 
-      "name": "btn_no_calling.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "b44d04207a741633dfe52ab8fd0aca03", 
-      "name": "btn_no_calling_unactive.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "4f88aaea97892642d6a71385c612d011", 
-      "name": "btn_noplay_invalid.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "646b2e663d9df709c950cc042bc7142a", 
-      "name": "btn_noshow.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "7522a689b84db9501aad084b352e56a7", 
-      "name": "btn_one.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "9c54710af0f7ab4f3af52844b743262d", 
-      "name": "btn_one_unactive.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "14ac6372306cc8b83610a1357ebf833a", 
-      "name": "btn_play.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "a4172227cf56652fd10594e4d66e3ab0", 
-      "name": "btn_play_invalid.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "a571530bcccb1feac29b19f84f062886", 
-      "name": "btn_star_unactive.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "b484b273e29dfbee803fd46e684b94a4", 
-      "name": "btn_start.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "35ef44e7cc5722559e4830bee2935c35", 
-      "name": "btn_three.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "7b64bb21efde626627d532070d6c776c", 
-      "name": "btn_three_unactive.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f61e7b6ff7ac93c351ff0a4e5960ae39", 
-      "name": "btn_tip.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "96f334ee45768de4f72dbcbcc7b40f3a", 
-      "name": "btn_tip_invalid.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "514ece3aa4c226cb6ca98657e52c0a29", 
-      "name": "btn_two.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "8531b91b58332ddc7c6acd30f4a0ee22", 
-      "name": "btn_two_unactive.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "4f88aaea97892642d6a71385c612d011", 
-      "name": "btn_word_buchu_disabled.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "493ff894d96e095dc03e9af5377b9f47", 
-      "name": "btn_word_fen1.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "c2c89c77e2dfeaee6dfffba5bf21a17b", 
-      "name": "btn_word_fen1_disabled.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "0b19b2d618020cf82febb97505ad7c3a", 
-      "name": "btn_word_fen2.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "d594add62d6977a8bb0f7a88bb5dbcd4", 
-      "name": "btn_word_fen2_disabled.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "63bafe0ae2fd76a02e5b172b344f558b", 
-      "name": "btn_word_fen3.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "8013990a80dea63c98c01e6e206e89eb", 
-      "name": "btn_word_fen3_disabled.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "677d224891cedb3118ed71fcbcb27ce4", 
-      "name": "btn_word_nocall.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "eee3b12d3d7fbeccbfdfaf657d23d438", 
-      "name": "btn_word_quxiaotuoguan.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "3f1e7b3352dd0f817e14e16edfb119a4", 
-      "name": "btn_word_tishi_disabled.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "93e245619f4b55dedabda557b7c1bdcf", 
-      "name": "btn_word_tishi_normal.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "1e666ab5e0dce60dcebf9add7639325c", 
-      "name": "clock01.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "57e04d5b749924942dd44747d00c468a", 
-      "name": "clock02.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f23d2fcef5ec28467acee5e1e79ff76f", 
-      "name": "clock03.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "1f23cb100808701d46f224674b64fdb3", 
-      "name": "clock04.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "979d64a682bcb69193332adde727b736", 
+      "md5": "9aaa375d7230ee925cb0cb4e4cb7d847", 
       "name": "ClockNode.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "23cf73088476156118f10bb9ac32d066", 
-      "name": "ddz_deposit_robot.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f00e226e2bd568861f7d7f9ea0c2de78", 
-      "name": "ddz_deposit_robot_eye.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "9eafc75e2486df69dbece2d4fd491de1", 
-      "name": "ddz_player_info_bg.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "2474b8d8389f4578805493451647142b", 
-      "name": "ddz_power_level_0.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "820ecc7597fa83ac5368c97e7eac4e62", 
-      "name": "ddz_power_level_1.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "44e5ed30c941b7848cf6a6cb19185492", 
-      "name": "ddz_power_level_2.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "73f19d3697dee2244a4f37f68a1ddedb", 
-      "name": "ddz_power_level_3.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "c14c43bfd6e070a5cf17ee4f1f531db9", 
-      "name": "ddz_power_level_4.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "d7ee795485e4c956c5d801c6d8865b9b", 
-      "name": "ddz_table_ani_yuandian.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "19544ada45f4091298fbebf62e9da676", 
-      "name": "ddz_table_bomb_bomb_2.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "0cd8f759f52ac2c33886c564d6fecb23", 
-      "name": "ddz_table_bomb_bomb_3.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "4ff5729f8d55c27cfcc16ac5f2cfd6c1", 
-      "name": "ddz_table_head_kuang_after.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "96484379cb441387ced686be95ce88c1", 
-      "name": "ddz_table_head_kuang_before.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "dd61271bda070465db7795502f615e15", 
-      "name": "ddz_time_power_bg.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "aec18e5ca2d05afd66d9b5fc6eb27910", 
-      "name": "ddz_user_info_chip.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "01184ea19a748aa5cc600cc3a96551e0", 
-      "name": "di.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "b0032a8d4fd9578975ff38ed5afbd5b0", 
-      "name": "erdou_deposite_none.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f83359ff3237e21b187e28285b5dc0be", 
-      "name": "erdou_deposite_normal.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f83359ff3237e21b187e28285b5dc0be", 
-      "name": "erdou_deposite_selected.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f7323ca132ee2b85465f6d4f577f446c", 
-      "name": "erdou_exit_none.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "db92686db3852dfb56b59b69073ad2bc", 
-      "name": "erdou_exit_normal.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "db92686db3852dfb56b59b69073ad2bc", 
-      "name": "erdou_exit_selected.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "49da4198f8e72ed635c625bd259a94d3", 
-      "name": "erdou_setting_none.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "d39b9154e7bc4e4850c08383ccf11331", 
-      "name": "erdou_setting_normal.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "d39b9154e7bc4e4850c08383ccf11331", 
-      "name": "erdou_setting_selected.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "489a7284bccf9578a1e9860af1f445f6", 
+      "md5": "23e01133686d2b8cb280da634a905f55", 
       "name": "game.plist", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "29fbc8a65ab0b9ae7cbae9715d86dc96", 
+      "md5": "94c16af5c95921a1b11692265c6120e6", 
       "name": "game.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "de8947b15ec346a0ae1a6bbf8d196e40", 
-      "name": "game_cardnum.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "0f1e06cac137fbc0f5e1a8b45eab8ee0", 
-      "name": "game_timenum.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f1b7058cd454ff6c3de00d76e696f745", 
-      "name": "GameChatLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
@@ -481,217 +211,177 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "edd13aa5970e81cea436d8ac9260dd6e", 
+      "md5": "0e9d264208dbd73541dbf719000186f5", 
       "name": "GameLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "5be8c2babd9fcc28389953b01f420274", 
-      "name": "gameRes.plist", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "087d96c7dc31393bcc8bc6066e1a8fce", 
+      "md5": "d794875ee7ecd0e912f8d3d0e9195298", 
       "name": "GameResultLayer.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "c30829986d794dc8619bd31771eccd5b", 
+      "md5": "dfb0e420e17b34b06b8ccce846a4ef37", 
       "name": "GameRoleInfo.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "c5ed8d4a0bd7a606ca381980bfad416f", 
+      "md5": "e570309fc45e9ac5f7390098720836cf", 
       "name": "GameRoleItem.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "49b3161669ae5a9cf87c9a12913fbae6", 
+      "md5": "29be3155801f9531df2eb4acf59b8e25", 
       "name": "head_dizhu1.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "ceb5e37bbf6547e3fca6665844c6ff81", 
+      "md5": "d4677d4b23f5e85903d213c3a189517c", 
       "name": "head_dizhu1_vip.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "e842c1c1df748cbdb3fb81c29031b332", 
+      "md5": "290c8fd495d227992db721c4e5ab927e", 
       "name": "head_dizhu2.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "f6da2382de2208a6a89c6cc0595069dd", 
+      "md5": "13dda5ae9777efd0543f272975fbbe89", 
       "name": "head_dizhu2_vip.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "ce7edffa596faed37fbb4efbf795e8e2", 
+      "md5": "30e32dda3fe9d7a54a5d12ae19cb32f3", 
       "name": "head_nongmin1.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "615b221ae95d30ae4e9f1a7fc4d804e0", 
+      "md5": "d137ca8540bd331582afd81a99068c19", 
       "name": "head_nongmin1_vip.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "9b82292f668d0f6d7213e17583d0ada1", 
+      "md5": "9cec12114ab44e3f7c62aaa255374d21", 
       "name": "head_nongmin2.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "707be9a7b4b3760676b62f81271ccbda", 
+      "md5": "7f402b6d31a997f49172a580819beab6", 
       "name": "head_nongmin2_vip.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "849532b36e8e0b309b381b316cfc5df9", 
+      "md5": "27369bae94c9202ed05e8305f7b8c654", 
       "name": "lose_img01.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "28b51e9db369f8e8ed73d1bd3cc8a038", 
+      "md5": "5de3fe6153b30e5ee6a09928bec5c314", 
       "name": "lose_img02.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "14f75bab5ae26d80d195746a117bdee5", 
+      "md5": "a94b13a6b8087b887b9d09b7a1c59cd3", 
       "name": "lose_img03.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "0cfb0afecd029174214805c311501967", 
+      "md5": "23c1901f57973346b19599f357b269e5", 
       "name": "lose_img04.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "cc491c303488e7ebb4f422b1242f9f82", 
+      "md5": "ae63164a7d341dd35d9c06c38b4d458a", 
       "name": "poker_b.plist", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "9c91f248dc55054ee6836695c9525376", 
+      "md5": "5a6d978ea6f6a25d6d91776bf3a57cc3", 
       "name": "poker_b.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "fd676b66562695348eac37639e9b0ec8", 
-      "name": "result_bg.png", 
+      "md5": "d7376ca3c4aed1d1fe5b579e2d920c94", 
+      "name": "small_bg.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "41f0cd6ba0081d5a1c8a83255c6ff900", 
-      "name": "shuzi.png", 
+      "md5": "0e3737bdc9bce2f09fb0544050f2cb9a", 
+      "name": "table_bomb_cnt_1.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "22ab2e0125d783b524cf3abdb6c5a1a1", 
-      "name": "subnum.png", 
+      "md5": "cf6fa99b9bbfde668ed605c68238322e", 
+      "name": "table_bomb_cnt_2.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "8f32921a0adafc24504219836f3aa0e3", 
-      "name": "table_btn_chat.png", 
+      "md5": "0585653e925f8323e43f7f3871789b31", 
+      "name": "table_bomb_cnt_3.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "6b521dc03aa54a11ba0e98fdb6e39f22", 
-      "name": "table_coin_bg.png", 
+      "md5": "2396242d5f95286685fc0857c611524f", 
+      "name": "table_bomb_cnt_4.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "e73067b935e054086691081a1e8f69f0", 
-      "name": "tableother.png", 
+      "md5": "453c8b88b23a4605afc66b31984311ec", 
+      "name": "table_bomb_cnt_5.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "48634ff23e331e637edaa6bde0ec0391", 
-      "name": "tag_game_elementary_level.png", 
-      "path": "land/res/game/"
+      "md5": "b76b186d46bb04b141737497e1ccc975", 
+      "name": "font_clock.png", 
+      "path": "land/res/img/"
     }, 
     {
-      "md5": "cd4d197d4e5c0f2af817646538e22790", 
-      "name": "tag_game_high_level.png", 
-      "path": "land/res/game/"
+      "md5": "a391b76097a84bfbff0adef4890c3e34", 
+      "name": "images.plist", 
+      "path": "land/res/img/"
     }, 
     {
-      "md5": "814c8e28c989e67a7f4e97916429a8f7", 
-      "name": "tag_game_middle_level.png", 
-      "path": "land/res/game/"
+      "md5": "cda67cf06f9c731fcf75b8e7591ac4ce", 
+      "name": "images.png", 
+      "path": "land/res/img/"
     }, 
     {
-      "md5": "35fabc4dad60675431372d2a35834652", 
-      "name": "tag_landlord.png", 
-      "path": "land/res/game/"
+      "md5": "db95c228a829ebb3790a0732a00b58b9", 
+      "name": "img_bg.jpg", 
+      "path": "land/res/img/"
     }, 
     {
-      "md5": "7ff93f1dba65dbe0196a0c9ac4a57b3d", 
-      "name": "tag_money.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "f88d12c355f2a088907342577e487a50", 
-      "name": "wif_1.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "a5b1566d0ff72a4535854d83ef652492", 
-      "name": "wif_2.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "c2c30b43d1ba38f7185d37c4a956ca5f", 
-      "name": "wif_3.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "5e0a2af8efa2bfa952b729843606be45", 
-      "name": "wif_4.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "1fafe3bb131aa0fec947f7bee7c9f5a1", 
-      "name": "zhunbei.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "ba9f760f091b274a7c79a3b3b00d84e7", 
-      "name": "zhuoz.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "729133a4cba3e5b871a22c9b21a57689", 
+      "md5": "a98028d22987c32e80ce756f8ee0c9f2", 
       "name": "icon_roomlist_0.png", 
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "a72fd0b8616f4a5959fe2d842c3e4c07", 
+      "md5": "f318e4f16504e1ca082bf06f3d697f6c", 
       "name": "icon_roomlist_1.png", 
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "7d848a37a5bab6ee64ddca50bc55246a", 
+      "md5": "8bd5a4dc12495282299bd434b4f7aaab", 
       "name": "icon_roomlist_2.png", 
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "277db461fa8e50912e3a7c4317e7a55e", 
+      "md5": "c30b3866abf152d380c70356c8812854", 
       "name": "roomlist_title.png", 
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "988b030c6bc85a6fda233ee96088a13f", 
+      "md5": "40926e22235531c95df0190a55bf03a3", 
       "name": "roomtable.png", 
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "6cd3bd22039a656f00db8c1cdb5d506d", 
+      "md5": "a8bdbd5169cce96f43ec22d400e4b0cd", 
       "name": "roomtable_play.png", 
       "path": "land/res/roomlist/"
     }, 
     {
-      "md5": "35f02b44520f72486eb59701097d0340", 
+      "md5": "0285243bca58255ce393b48183d5aaa1", 
       "name": "Rule.txt", 
       "path": "land/res/roomlist/"
     }, 
@@ -791,337 +481,337 @@
       "path": "land/res/sound_res/"
     }, 
     {
-      "md5": "0b3ecc50645eee9b70c1a8bab7dfc064", 
+      "md5": "4f7534096b271855a54c7387f1f6d5ea", 
       "name": "female_0_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "d2ddc5f2141bb86d18e931019158e1aa", 
+      "md5": "5a347173012c55dfe2a1c4744638c264", 
       "name": "female_1.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "f4d8f046aa1872ae65b7f656b7d21a23", 
+      "md5": "fe526728779f0d4811943c21959ceadf", 
       "name": "female_10.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "1d455cd8cd7a3bd97144e6e792ead494", 
+      "md5": "106a94808213b29857c38f3082b74ed7", 
       "name": "female_11.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "3109bf34b9bcf45b05aab7e30c978fbc", 
+      "md5": "4fd933d51c8184d3629750d341b906db", 
       "name": "female_12.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "dc2f2f3510cdc86d6273edef6206383c", 
+      "md5": "89e8e88551a8c4ff0f1568c1f6629bca", 
       "name": "female_13.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "1fc02e043e75c46045cd6d2c04a7925c", 
+      "md5": "5224d5f485979adbf0032b4e0d556522", 
       "name": "female_14.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "9039a4c59be5ad82c621e6884953d1a6", 
+      "md5": "6c7401d6b606f500188773f8e5a42253", 
       "name": "female_15.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "a3c5dcc3ff1b4766f7fe30c2bccbaee4", 
+      "md5": "4fd60322abf6811cea52e9ee90248d11", 
       "name": "female_1_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "79141ce1c97e9854c4dee73d4386d981", 
+      "md5": "85cdd2cc639d189307cf6c74f89711b2", 
       "name": "female_2.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "2aa4718e00587198c0d7a0e6767929db", 
+      "md5": "1f6b09326e148cd1c528f5c5ffd67474", 
       "name": "female_2_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "e9bbd8e77073a381d037b5193853e668", 
+      "md5": "08b90e502ddc2c13810c1000e4137fd0", 
       "name": "female_3.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "d0f81204c2b94689aa55488ed89a7ccc", 
+      "md5": "206d7eb2a84a5dcea9adbf281c4abadc", 
       "name": "female_3_point.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "06022fbb01072765a5ec537a19440dc3", 
+      "md5": "924235863d588679e6ac3d47593e17f8", 
       "name": "female_4.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "34968444751f0dd3d01f1efdc7c559f5", 
+      "md5": "b5f93c6a12e40e5f7cdc74b67eaa53e5", 
       "name": "female_5.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "7efca86c966a68990774e14a7a70a3e7", 
+      "md5": "3ad3ad8a080989dabe66244f14728032", 
       "name": "female_6.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "1887145dbce1aac734ffe607306b6af4", 
+      "md5": "078ae0bccd848506f82ad2a2defb1f5d", 
       "name": "female_7.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "047e92e064a746d19bbd641128c9b1b5", 
+      "md5": "3ce3c0fb1fcc0ce59162d68aaefb4dc8", 
       "name": "female_8.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "226f44bf008803d216da3ff2fedd2182", 
+      "md5": "5da5766c56f67be8b265490e53204cd6", 
       "name": "female_9.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "1634607361ad2dad9efb8f2c0038e17e", 
+      "md5": "3e540978521309b21abc375ebaa1919b", 
       "name": "female_airplane.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "f99bf1dbcc1a70ae60bb3bc75b17a2a9", 
+      "md5": "00898f65946cec7880a0de167fb449b4", 
       "name": "female_airplane_with_wings.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "d6ca7c56b1bfd1e9a29d5726426bd3bc", 
+      "md5": "b1f51124d5bd9fbbb20c5bee6fa818d6", 
       "name": "female_bomb.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "af0d0bd77d032b35f3dce05834bae42f", 
+      "md5": "481da8e5c30ad801f99b415a18c53258", 
       "name": "female_continuous_pair.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "79897f88d7494297139fd8fb61c03678", 
+      "md5": "f2a73eba12649709266844bb462684e2", 
       "name": "female_four_with_two.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "57d4ed27971b2b47cfaaecd8d55edcb4", 
+      "md5": "23b31d14fc051cd927addf65ece54b13", 
       "name": "female_four_with_two_pair.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "b36fc3b92c1a930bc5cab8239ea9b96b", 
+      "md5": "315c22214dfa3e73468f37a36a739b17", 
       "name": "female_no.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "274d0769f9831bf3e5262f9c965b8a6c", 
+      "md5": "788bfacabc922f131cc7cdf9463df4e0", 
       "name": "female_pair1.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "af51cf607e8dfc5fc9ec22f6a2feac53", 
+      "md5": "2af898af926fc4d59709980063af121a", 
       "name": "female_pair10.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "37df169203fee9eb253211d72cf63742", 
+      "md5": "5f8861a10e620cfcc5a3ffb11e376cbe", 
       "name": "female_pair11.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "4ac09ba8c26a6559e9e1c2b4d0fc8a3c", 
+      "md5": "3f6f6b0859d4eef3c865e86af48f383b", 
       "name": "female_pair12.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "99b59689a768bf66e7e5ce35f4cca071", 
+      "md5": "12c5b4e0b5f005ed42fac9ec27fdcd7a", 
       "name": "female_pair13.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "8c37ade24d11cc7a17bd0a4522089201", 
+      "md5": "2674f95ed0cb3a796b776323c23d0a9e", 
       "name": "female_pair2.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "ffc8145243284b4fffb5fdc72f0322eb", 
+      "md5": "c23b12a4f83ae47ec72b489d3347ced3", 
       "name": "female_pair3.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "df31e3c0d729549943bed55728614c56", 
+      "md5": "14a1f16446e041de962a18cf4ce14d03", 
       "name": "female_pair4.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "87c8437d768620ba5e09bf711e078225", 
+      "md5": "7a687be08349f60110ab1f51d96aae93", 
       "name": "female_pair5.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "aa52906ac818f9b25cb002e7f0aa4d8d", 
+      "md5": "e2de30b3af15b4df71175a5853b3d84d", 
       "name": "female_pair6.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "207089f66b5a7a519470bf3b5504630b", 
+      "md5": "aa39293e08edddc04923121bd4b77c43", 
       "name": "female_pair7.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "e4f5ea04bfa413f0fa3c50572581dc23", 
+      "md5": "c2394da32f2f1200e5b0e485ed561d0e", 
       "name": "female_pair8.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "6fa9bd94833ffc82fd53664f968b8da6", 
+      "md5": "b6d11b02fa99db938867af06672feca2", 
       "name": "female_pair9.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "cbcae8e0d50556a964c73e130b6b3210", 
+      "md5": "457da656bf849befce0fe07a0cac9d36", 
       "name": "female_pass.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "63fd5cd7af486dd69a114021a64452c6", 
+      "md5": "87eb4c1c8f1e1e459fe3fe789eb48fd9", 
       "name": "female_rocket.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "79c15e9d93eaf0a41dc3726e477c0521", 
+      "md5": "910ff6d592092c03a6e58c131f08b56e", 
       "name": "female_shunzi.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "da44d02b86797b8706519ad369275743", 
+      "md5": "7415ed420fb48c21a236a72aa859bcfc", 
       "name": "female_three_one.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "93e0af1a85ca49e10ebb21d1b01aaef5", 
+      "md5": "2bf9d8e760c3cedf250f3b43a6e57a40", 
       "name": "female_three_with_one.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "f30a16fee1e4c2badd271e9477c29c16", 
+      "md5": "da548b59198e4d7d36ca89a5edc3015e", 
       "name": "female_three_with_one_pair.mp3", 
       "path": "land/res/sound_res/female_voice/"
     }, 
     {
-      "md5": "e109d4409d3cf5edeca71ac89280bfba", 
+      "md5": "7d30dd57790b9816930ba7a1596f4e10", 
       "name": "man_0_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "046a0186c292d63ee6b89b39125c5c9b", 
+      "md5": "9280859120aef15e998c01f36a2c20b8", 
       "name": "man_1.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "332607776ad0eec793d2a624dd84e408", 
+      "md5": "960eb9f2ebb1370ee0617f3bf711a933", 
       "name": "man_10.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "715093bdcdec878770c4017ddc1154c7", 
+      "md5": "a024e0c6c9665aa68aed340e71d6de26", 
       "name": "man_11.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "ee66c6fec427d9a24ff9014510b4f8c6", 
+      "md5": "798b7f87b8284304d3c3e3ceb6b5ed95", 
       "name": "man_12.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "39a8802048b0ad064bbef0d01405b9b3", 
+      "md5": "d655b59bb08bcdb6c6b07df1d3988123", 
       "name": "man_13.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "dd26bc2dc1facb265b774816f41003dd", 
+      "md5": "880b417a33889cfa7df8c59c4e4e0c95", 
       "name": "man_14.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "c773689549c5b49bb5e88af2cfedd1d6", 
+      "md5": "7fae0f230effa48af282684239a97705", 
       "name": "man_15.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "b5d0611c7a3c1ab7a32143d7ab84cf5f", 
+      "md5": "f61b2ceb073a9687fa9e4ecd45ece637", 
       "name": "man_1_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "0f6ebc12ac12e36281e5054ec558d6d4", 
+      "md5": "21b6aa4e66c36a7e7122d5987cc88c32", 
       "name": "man_2.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "f95f6a8d9c3a272fe14e599f798acc21", 
+      "md5": "6a6c54e4167895bf4d9d34926731a730", 
       "name": "man_2_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "bee1d73e2f4b2b60e78ae32576153a24", 
+      "md5": "419493717b20089a12eae40bfafb4f4e", 
       "name": "man_3.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "e04174887226e1f2b9afe3f4d3c5a48a", 
+      "md5": "4bea9256a419522ffa1ed78820737a0d", 
       "name": "man_3_point.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "b3ecc4a4e4534ad40e01efe8a8181df8", 
+      "md5": "8f89b8c3bb8508fb80bf2846b81ed0d6", 
       "name": "man_4.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "d7d2dc499a07ecace71b03cbb1bfa875", 
+      "md5": "4e1f0ad9dd6c055a6022d23a6a0ae6d8", 
       "name": "man_5.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "4c517b6e8908a552eba4fb6ff3514d7b", 
+      "md5": "330a09410194c2d699568dbc0d507a2c", 
       "name": "man_6.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "3b81c7f1075e5b5031430bc611c8dc0a", 
+      "md5": "8e7116727e4a9d60619ac7be983754f5", 
       "name": "man_7.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "b662da35745f22e53d83cb4e7e87ab71", 
+      "md5": "5c587a00cc941956d3ab2b79b2ad6dad", 
       "name": "man_8.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "19bd7d065ca1b66414c87299a448fc88", 
+      "md5": "cd623a2bb8c3fd40df5d96e0f6a0bf86", 
       "name": "man_9.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "72ede2b3ed78a9b5e52d3250486baf0b", 
+      "md5": "d325a9baa6bbbde87059cd3c6c3230b0", 
       "name": "man_airplane.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "54f24d1f90d2a6a9822b96179a7447b8", 
+      "md5": "8178fdb90d4ed065c9e15f3f13e10cf2", 
       "name": "man_airplane_with_wings.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "14a5963731aae92cc01aa0fc1b9fe7b6", 
+      "md5": "ecee355ee250385ec76f884b5e25582a", 
       "name": "man_bomb.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1131,7 +821,7 @@
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "45700a9f696cc39f2b5db7971c726291", 
+      "md5": "c07d23c22206cb2ea15ba94368a37131", 
       "name": "man_continuous_pair.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1141,7 +831,7 @@
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "e6f61d2c9d29db3ae7a78f7a72f5a857", 
+      "md5": "57fa946f4c10b4284404d35b419df73c", 
       "name": "man_four_with_two.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1151,7 +841,7 @@
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "c118878560182d78d726c64b077bb23a", 
+      "md5": "972307db83672289e600a155a951f0bb", 
       "name": "man_no.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1166,72 +856,72 @@
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "5a2ec3fb4c5c838e5551a497deeffe1c", 
+      "md5": "034f27f953dc6d4fdae3140c0e5ccc9a", 
       "name": "man_pair1.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "0ec431456a348ed6490874f65e77bb7b", 
+      "md5": "70d3e57fb8cbb6a39c7ab6fcfcdb4242", 
       "name": "man_pair10.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "f36ba39a4f03814a4d25e855df3b81a3", 
+      "md5": "e6f4f19591075bfb52bc1a79db698d38", 
       "name": "man_pair11.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "adb499132d0e875c34f6d536f9a7c4bd", 
+      "md5": "d975c00d6b3a02866a84ff8c7d700f92", 
       "name": "man_pair12.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "a37877189250aba28d9768e1d1eb0727", 
+      "md5": "65c864d61db9dc42d37b78ecb5353910", 
       "name": "man_pair13.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "7dfb718e96b5850a9044366edae9a083", 
+      "md5": "d8647830cfe80c00dd63b1f24000c8fc", 
       "name": "man_pair2.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "29b72c28666ce12a56a03442561196b0", 
+      "md5": "faeaa422026d1a3eae86e6c3291bc3b1", 
       "name": "man_pair3.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "1dc0254c1e640a49784b27558331ebf5", 
+      "md5": "f6881323ecaf1e4098153e0d3fda3fa9", 
       "name": "man_pair4.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "3bf9528610c9a98fdc6245656052f8b2", 
+      "md5": "5c5b76dd22a07183b8987e8121717b24", 
       "name": "man_pair5.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "8e8eea72bd5ec121f8081d40b101b359", 
+      "md5": "4b9853c2dd34e72e7e6851ad743bdaea", 
       "name": "man_pair6.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "43d45ac8f5effbd67ebb966e9d44a83a", 
+      "md5": "480d67a02fb9d4dacfea80eb4a277e07", 
       "name": "man_pair7.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "0648bca7dc144b5e415c35a347925544", 
+      "md5": "889aeaaa39b4d031b84db5d7f97a5d24", 
       "name": "man_pair8.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "a50f4fcca646ecdb9fb203ea9fc58e9d", 
+      "md5": "9453c53359ae3c1dea61bfbebd672d49", 
       "name": "man_pair9.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "ce2e36740f0b9c0dab119fc72bee8b97", 
+      "md5": "96cfc2d303317a436f5dc1e89d83e1f0", 
       "name": "man_pass.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1241,27 +931,27 @@
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "c5ef5e1a9a324bc3d39725cb0af18512", 
+      "md5": "d6073361a4dec9015167739944a18641", 
       "name": "man_rocket.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "a218762df073376e25f38afe085242b8", 
+      "md5": "e65a6de5dfe1fef9858da0adce284a0b", 
       "name": "man_shunzi.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "aeadcf9b80bc679dddf136460245a425", 
+      "md5": "c6cc58d88e74566b57df24a623e3ab82", 
       "name": "man_three_one.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "7739b3d820f291e1b0a6012c23e54e60", 
+      "md5": "a45ed9d44121de86d87f87e596cebcbe", 
       "name": "man_three_with_one.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
     {
-      "md5": "7f662b1fd06b5ac3dfeadf7b192dd1b0", 
+      "md5": "607b9d15e735bcc2006c51b0e7f66871", 
       "name": "man_three_with_one_pair.mp3", 
       "path": "land/res/sound_res/male_voice/"
     }, 
@@ -1306,22 +996,22 @@
       "path": "land/src/manager/"
     }, 
     {
-      "md5": "77d8c80c3925c15206470b55936f0c91", 
+      "md5": "215c2a450155a48d2a3be13e87dfc0a1", 
       "name": "CMD_Game.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "b0f216b5f3862ec53073eec490f22a5f", 
+      "md5": "bd71cd1fae3eb60720f17600062d0f04", 
       "name": "Define.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "f159120bbe0c2abf96879eeb238c54ec", 
+      "md5": "887713dafc77ba94ad1d95877c5a4ac5", 
       "name": "GameLogic.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "3883d52e30494120650178320475945a", 
+      "md5": "1df1421d0f7bdd5b1bdf9e3819c54aa4", 
       "name": "GameLayer.luac", 
       "path": "land/src/views/"
     }, 
@@ -1336,37 +1026,42 @@
       "path": "land/src/views/"
     }, 
     {
-      "md5": "3eb38069c5fcf1e28c77420d8bf70692", 
+      "md5": "65109da1e7c7c987d82f8fcaf4c0128e", 
+      "name": "CardRecordLayer.luac", 
+      "path": "land/src/views/layer/"
+    }, 
+    {
+      "md5": "6ae8a4aecf6ae0dcb998fee04ee55b5d", 
       "name": "GameEffectLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "ba6cc947555ed1d2817267a55454fe8b", 
+      "md5": "2d6411dbc5eb549ad1f2cac41ec6ea47", 
       "name": "GameResultLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "06aec24fa5cd76f48d3f46e7ce7a2bdf", 
+      "md5": "72275a2dca931e85f314660d00ee6e49", 
       "name": "GameRoleItem.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "9ac7dd92fe41bc406870cd2329834c91", 
+      "md5": "10a3716aff01086a783e9bee0fafd25b", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "0223e586c80ac9a48926656f02f26820", 
+      "md5": "8bb20bc029687ca1549c3573a4822561", 
       "name": "CardsNode.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "a59dd8d2f615cfabdab824e9e94f1af1", 
+      "md5": "c9321c44d97891f3aee85e641af75cbc", 
       "name": "CardSprite.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 273
+      "allcount": 212
     }
   ]
 }

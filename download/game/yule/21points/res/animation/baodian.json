@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "BtwdDvFLPvY/ycg77hQB/4AFwYE", "spine": "3.7.91", "width": 91, "height": 58, "images": "E:\\工作\\SPINE\\导出PNG路径\\baodian\\images", "audio": "E:\\工作\\SPINE\\导出PNG路径\\baodian" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "10", "bone": "root", "attachment": "1" }
+],
+"skins": {
+	"default": {
+		"10": {
+			"10": { "x": 0.02, "y": 3.98, "width": 84, "height": 76 },
+			"1": { "x": 11.81, "y": 7.57, "width": 91, "height": 58 },
+			"11": { "x": 0.02, "y": 3.98, "width": 83, "height": 80 },
+			"12": { "x": 0.02, "y": 3.98, "width": 75, "height": 74 },
+			"2": { "x": 0.02, "y": 7.57, "width": 76, "height": 69 },
+			"3": { "x": 0.02, "y": 8.17, "width": 82, "height": 71 },
+			"4": { "x": 0.62, "y": 11.59, "width": 93, "height": 87 },
+			"5": { "x": 0.02, "y": 9.96, "width": 92, "height": 85 },
+			"6": { "x": 0.02, "y": 7.57, "width": 95, "height": 83 },
+			"7": { "x": 0.02, "y": 3.98, "width": 93, "height": 79 },
+			"8": { "x": 0.02, "y": 3.98, "width": 92, "height": 77 },
+			"9": { "x": 0.02, "y": 3.98, "width": 87, "height": 75 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"10": {
+				"attachment": [
+					{ "time": 0, "name": "12" },
+					{ "time": 0.0333, "name": "11" },
+					{ "time": 0.0667, "name": "10" },
+					{ "time": 0.1, "name": "9" },
+					{ "time": 0.1333, "name": "1" },
+					{ "time": 0.1667, "name": "7" },
+					{ "time": 0.2, "name": "6" },
+					{ "time": 0.2333, "name": "5" },
+					{ "time": 0.2667, "name": "4" },
+					{ "time": 0.3, "name": "3" },
+					{ "time": 0.3333, "name": "2" },
+					{ "time": 0.3667, "name": "1" }
+				]
+			}
+		}
+	}
+}
+}

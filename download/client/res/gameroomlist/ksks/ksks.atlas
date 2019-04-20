@@ -1,0 +1,139 @@
+
+ksks.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 374
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00000
+  rotate: false
+  xy: 2, 250
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00001
+  rotate: false
+  xy: 334, 374
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00002
+  rotate: false
+  xy: 2, 126
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00003
+  rotate: false
+  xy: 334, 250
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00004
+  rotate: false
+  xy: 666, 374
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00005
+  rotate: false
+  xy: 2, 2
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00006
+  rotate: false
+  xy: 334, 126
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00007
+  rotate: false
+  xy: 666, 250
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00008
+  rotate: false
+  xy: 998, 374
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00009
+  rotate: false
+  xy: 334, 2
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00010
+  rotate: false
+  xy: 666, 126
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00011
+  rotate: false
+  xy: 998, 250
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00012
+  rotate: false
+  xy: 1330, 374
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00013
+  rotate: false
+  xy: 666, 2
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00014
+  rotate: false
+  xy: 998, 126
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00015
+  rotate: false
+  xy: 1330, 250
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00016
+  rotate: false
+  xy: 1662, 374
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1
+ksks_00017
+  rotate: false
+  xy: 998, 2
+  size: 330, 122
+  orig: 330, 122
+  offset: 0, 0
+  index: -1

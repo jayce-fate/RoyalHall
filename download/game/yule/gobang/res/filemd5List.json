@@ -6,7 +6,7 @@
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "59d07b26fa4c84ffb19b0a86db11aefe", 
+      "md5": "f0483c4070956b0cc8f398f7ffeea9c4", 
       "name": "all_quit.png", 
       "path": "gobang/res/game_res/"
     }, 
@@ -16,167 +16,167 @@
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "3160c5d34a46c72683cb03a6eb9af43a", 
+      "md5": "6651919072653279622cd6ce99cdaa98", 
       "name": "box_black.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "e7f71fcf013bd1dd5b5dd3f919c74a2d", 
+      "md5": "9c8c923e50ec55cd0969a7f66bee73eb", 
       "name": "box_white.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "5701500891b7168424926fd9ccbc2dcf", 
+      "md5": "acb6c026c439f8e764b09235e2922747", 
       "name": "BT_agree_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "3fe7f5b66e705ee2723316c9c1f67b1f", 
+      "md5": "1b4515506a91d83e5f9f4066dfeb0894", 
       "name": "BT_agree_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "ef7437e0f9852e18908a449bdcd63499", 
+      "md5": "fd488c241dee66130841ecfc0629d548", 
       "name": "BT_cancel_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "a0a2a55ee907808daa9db0b38b3c9ac7", 
+      "md5": "8b24ad57153293269cf7f01913271322", 
       "name": "BT_cancel_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "61920931a9cc4902fdfeb2032739cab2", 
+      "md5": "2121e9c4710c3f3b5bad8a0c703ce70d", 
       "name": "BT_close_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "9956870aed2e636c587435c06db62a05", 
+      "md5": "5aef72ba8b04ca606eed7f1f624bd813", 
       "name": "BT_close_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "89d2e9682ac5c7ab0a3a33f92cc2f3b3", 
+      "md5": "99dbc990fa6db8b5d3e11669f0093423", 
       "name": "BT_disagree_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "2c92951cfdc2dde01234594ade87a468", 
+      "md5": "849371ae45bc0b4cff4f1c3ceebc0790", 
       "name": "BT_disagree_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "2c9e9792f34466e009ad60de678aa60f", 
+      "md5": "0be7bdc62576b3e9b7caef2ded01c298", 
       "name": "bt_fee_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "c0a5df3ffb834026f697100517ede01f", 
+      "md5": "cfd932c07310995f98c23eb9a6ae1ad9", 
       "name": "bt_fee_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "90eeab10b22b6a008b1964fcce713165", 
+      "md5": "3f1da3f9bfb0f2560bacaa589fa749e1", 
       "name": "bt_lose_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "cffd4b9bf0c43a893b11a3df782efd0c", 
+      "md5": "8ef75788c02bb88b5e01ad74f754de0f", 
       "name": "bt_lose_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "49f8c6dbac603306c15c45c9ad1009a2", 
+      "md5": "db4eaeca6766752d86481a907c0eea17", 
       "name": "BT_menu_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "77285d0e25ccecb27b1baa0d75d21f7d", 
+      "md5": "91e2bfcb334630a47ee7ba8dd5339a43", 
       "name": "BT_menu_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "553eef840e09379aa8980ea10bc42e73", 
+      "md5": "e2ee70bb544bcc8d12b5e1582242e1c9", 
       "name": "bt_peace_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "690dbfdfbab4bd97a4f566a24aa1bd51", 
+      "md5": "2a4c1431f8f377904588dda910551122", 
       "name": "bt_peace_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "db409925d274285ed0f74b2f8d6f5b15", 
+      "md5": "bbfec3c72fbba7e2f1f879080d0a28a0", 
       "name": "BT_quit_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "a9410f8d6f6313ac55ac1c5e6e37880b", 
+      "md5": "817741bd547f07913fb1aa9b9cd4ee2a", 
       "name": "BT_quit_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "985491aaeb1e3340e02808ccd5130a50", 
+      "md5": "b6c82df913773505276c5847b17cb1f1", 
       "name": "bt_regret_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "07447288ed130dbfa870b909e569c4ea", 
+      "md5": "52f5e677b5eede73aaab059b2e183257", 
       "name": "bt_regret_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "61e20c1c043154e0ea4aa9bd01a431e1", 
+      "md5": "d695291d28a2b4463885743971484980", 
       "name": "BT_set_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "9e6547decae152a6769da330b5fa7fef", 
+      "md5": "ba96e0f613c72201553fc314981d13d6", 
       "name": "BT_set_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "99e01d3ba8e5c0d4c0af33bd6419fb05", 
+      "md5": "8551ee931f15a5bb6706a689a997da64", 
       "name": "BT_suond_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "81ce425d010eec41a11e8c14e5c6ad76", 
+      "md5": "c691a7b1cd0251b8b4d90b8213735238", 
       "name": "BT_suond_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "2abad84758b887765b8c18181ae1d504", 
+      "md5": "3ae5da5864351ce4e32ccd7cba5e6c69", 
       "name": "BT_time_num.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "234a51d532c119f2ead34e452f1f1f2f", 
+      "md5": "67108714d7bd83ff2ccb6239cfbd9b63", 
       "name": "btn_ready.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "81dfefad19d3bc388c6fd6e5f36ec5b8", 
+      "md5": "68239f7d8e181da939aa43517fc272d4", 
       "name": "btn_ready_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "ea6abc73b204490b2c51ba6083f1d607", 
+      "md5": "76e490d256d0d19037b69d5bbd3b9430", 
       "name": "btn_sure_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "b4717973b4cd9338b1a857bf52adea3a", 
+      "md5": "49374be4cc74d7ad89c6188baa5919d2", 
       "name": "btn_sure_1.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "cbbd0a54956bbb1a71e153b953ed37ce", 
+      "md5": "fa33d8d19b4256cad3da37c0b6affe0f", 
       "name": "chess_0.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "8c4e0084623e356a2cc5a07ac8484301", 
+      "md5": "d8c25562035685b07a267e599749156f", 
       "name": "chess_1.png", 
       "path": "gobang/res/game_res/"
     }, 
@@ -186,12 +186,12 @@
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "d88f577ccf4b76e2072c809e593e5ed7", 
+      "md5": "06a17c3bd08c0872b7cf43feb6feceb9", 
       "name": "coach_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "13c3ca611d3f9c2e102a04fd01a40d85", 
+      "md5": "1ac9dfd2d09e636f5b29fc730b95d610", 
       "name": "effect_chess.png", 
       "path": "gobang/res/game_res/"
     }, 
@@ -201,12 +201,12 @@
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "44d2606d371d055599b2f8b4c1dd092e", 
+      "md5": "67fe068ec074656afa82c4f250bf6b33", 
       "name": "game_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "1351bab0fcb119f993ab589c3056f914", 
+      "md5": "20c200fe1d2794cf0f1948dff03c3754", 
       "name": "game_table.png", 
       "path": "gobang/res/game_res/"
     }, 
@@ -216,47 +216,47 @@
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "1d9dd79f254a33e79131409f6afbfdeb", 
+      "md5": "389c01d1c469a61a474ab2cfc3f36c53", 
       "name": "icon_ready.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "6363c9d5712a5b24d6c9e769e6143508", 
+      "md5": "39be68e4fee7394b9856adcdca19a02c", 
       "name": "menu_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "e815647cb586f89685dc0a5fd7ac39e3", 
+      "md5": "470ce413cfae5db88e66144d813b6c36", 
       "name": "num.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "2224b9614a1307f7b378a9224f4e0912", 
+      "md5": "62632c0eb75a01ce2c31e40562894028", 
       "name": "over_detail.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "99d7ee381fc11faf35f12eb4471e07ca", 
+      "md5": "27958e45de51cc2ec51cdd55f0a45467", 
       "name": "over_nick.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "9661c23641fd3c3c0c1319f9f36801cd", 
+      "md5": "2680312f6b6834b1e9e3b2acf61c2330", 
       "name": "over_title.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "59f9436cc422f6a9a589f313cffa7fe5", 
+      "md5": "b473a9f2b2bce53d3bf5c8a8230b7569", 
       "name": "player_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "412ad92998604a7431bbd251838c0078", 
+      "md5": "66df23c9be218aef28856e81d127188d", 
       "name": "round_time.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "f99d2d28039c6080026ced574f7f4372", 
+      "md5": "4dadc9a170c6f60b739656a90c5ae6f4", 
       "name": "select_icon.png", 
       "path": "gobang/res/game_res/"
     }, 
@@ -266,227 +266,227 @@
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "0bbfc5c778a7e3cee489c174284fc00c", 
+      "md5": "b8e11e176bdd470c16569387e2d699ba", 
       "name": "step_time.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "fc79e572fc233e49465106b783949865", 
+      "md5": "9ebbcd3b6370fa613af7f84dc78315ce", 
       "name": "time_bg.PNG", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "0bb7c639f4e373f718c5a1727a63e788", 
+      "md5": "5720b75566ef542691f2dcfee245c191", 
       "name": "tips_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "82214d84b2fd46bf23f268b796d495ec", 
+      "md5": "59d7f96277e2a8b2a10627c44abaae65", 
       "name": "title_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "3c95379cef157d5091e5e4962f0347ef", 
+      "md5": "abd4c62d69a7e435fd5c1bc7ee917059", 
       "name": "txt_bg.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "be015cce47fd8fcae239da2053819afe", 
+      "md5": "7459b21f70d9e159dda44a759d0e7375", 
       "name": "txt_coachFee.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "50fc80cb7863e141ae56a759d4c74313", 
+      "md5": "2a66e788fde015473e1a22713faa2fd9", 
       "name": "txt_otherUser.png", 
       "path": "gobang/res/game_res/"
     }, 
     {
-      "md5": "6803aa2a3dd5246f90c118775ee038ab", 
+      "md5": "6acffe55de71c0fbbb0558664f7d218c", 
       "name": "QiHe_Effect_00.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "59575fe37380a151d5f16ecb48c8f8ac", 
+      "md5": "a04d42075cfa741911213ab475ac886a", 
       "name": "QiHe_Effect_01.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "e0635a95ed65243501145c554ac9e779", 
+      "md5": "ec859663f564e51322c4097ec501e667", 
       "name": "QiHe_Effect_02.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "45d89d149100038af10eed35e7ca4247", 
+      "md5": "adad3abecbe43954905e626a8148f6fc", 
       "name": "QiHe_Effect_03.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "e299e5e136a4c83d00755eb0185bc299", 
+      "md5": "7d9ca30877c3fa7ebe5de2a447cf2279", 
       "name": "QiHe_Effect_04.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "0de9a5146cbb01ac06096f0639f99288", 
+      "md5": "3c051e67e66225d6e4b1c96cdc56ac5c", 
       "name": "QiHe_Effect_05.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "497a9f4da5325465a513e3e73109fd9a", 
+      "md5": "40f7e7c15ef331b022cbab822255f211", 
       "name": "QiHe_Effect_06.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "7b176fcbc6f795252e56f5db6cba4b89", 
+      "md5": "075ca12747ab4598fef3261e33f7a41e", 
       "name": "QiHe_Effect_07.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "721041ac4eee5ed4504e7fd823f895da", 
+      "md5": "29bcd849f0f1d9be88be55179d667b1e", 
       "name": "QiHe_Effect_08.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "9087568cd597354d39bb5a0272376d58", 
+      "md5": "1292a086aa78e2a79585bdfd3582e0c7", 
       "name": "QiHe_Effect_09.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "0b1bf30fb7124bf6fac6bce980e10ba3", 
+      "md5": "9c359a69e5ad5086e004bd1f8af5d77b", 
       "name": "QiHe_Effect_10.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "223ffffce0bdb363eb9417c3ba1b28f4", 
+      "md5": "bebebb34a37aa1da770d435f28d6ece1", 
       "name": "QiHe_Effect_11.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "340637de1c5f38d4b5ddf2978891fddc", 
+      "md5": "6882310a9bf371726328ce9b65245d3b", 
       "name": "QiHe_Effect_12.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "104c2f57c4c23209e6ebc3a6e8daecac", 
+      "md5": "5931532f0131c1e795ab8d6148f56ed3", 
       "name": "QiHe_Effect_13.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "9e8cf2c11162de2c023bc8d8a15aa6d8", 
+      "md5": "a69fdd225dd8ceac850d74b5fd5b40b4", 
       "name": "QiHe_Effect_14.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "93d236f207f4d235299f5d1b8fc9a75b", 
+      "md5": "4440dabc4cce9b41022430d2079dd9f2", 
       "name": "QiHe_Effect_15.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "4136b59d383a5e2218e399869aa8c6f3", 
+      "md5": "a60b5fc9297678cf1df358af7bb275e3", 
       "name": "QiHe_Effect_16.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "ee083c8f2040817518dd0c806e83efcc", 
+      "md5": "e9df43c64b9e14ed183a393f1d5f09b8", 
       "name": "QiHe_Effect_17.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "6b5a70c7530c6692d486081d3ced96ad", 
+      "md5": "c8c945acdeaed12fb6a2297add7f2f50", 
       "name": "QiHe_Effect_18.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "faf806b0e4cf9d34a89e2926535a5acc", 
+      "md5": "527733e649e4c316499ed41ff650759e", 
       "name": "QiHe_Effect_19.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "33fe045c98d69a0c0efea5794606e90d", 
+      "md5": "325b8af12d881bab31e58dbdcc06fb21", 
       "name": "QiHe_Effect_20.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "124412e3c93007e1fa49e18eb71d45ca", 
+      "md5": "72186f81cd144a9751145fd997998ab7", 
       "name": "QiHe_Effect_21.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "11b384d6ec6b8c85aa591564b12f2f1f", 
+      "md5": "53a2f10281300bc5e94965715d674719", 
       "name": "QiHe_Effect_22.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "2f5e1e853d911e7951e62bdc9d80a33a", 
+      "md5": "d4dc1f3dd75a044ca6d0b23a7864b091", 
       "name": "QiHe_Effect_23.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "edf221b1f0a3ee6a7769d3396597c54d", 
+      "md5": "0ff47c21efb0691da457801aa8c429d4", 
       "name": "QiHe_Effect_24.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "a26f72b8473608b00347d66ecef30c22", 
+      "md5": "a6d80e4664ab94e9f77da225c312d87e", 
       "name": "QiHe_Effect_25.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "3137fcb593bb8496a6096363eac7df3c", 
+      "md5": "40530296934672b5fc5025feff3a8d54", 
       "name": "QiHe_Effect_26.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "fa5a11e6a280c77876675c0f65be343a", 
+      "md5": "893f84c3df180615e136d83ae9429c82", 
       "name": "QiHe_Effect_27.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "55d71ec051672f86292bb074b353e4c7", 
+      "md5": "31b07dbba12c19d907fb065bde907a84", 
       "name": "QiHe_Effect_28.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "cafdce925048251e93466a7df635789a", 
+      "md5": "3775a2f840e0255206d7cf20ee03b7af", 
       "name": "QiHe_Effect_29.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "ed7af2aae958a71e32a698e76192d3e6", 
+      "md5": "2ab73ece68a87eac8baa79bb354a2dbb", 
       "name": "QiHe_Effect_30.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "e8c20eb3943e39c4f0ac822ef98de7da", 
+      "md5": "069bc34b8a523685c8467f1c29f1380b", 
       "name": "QiHe_Effect_31.png", 
       "path": "gobang/res/game_res/box_effect/"
     }, 
     {
-      "md5": "b3dfda7fc0e9df0945573f2403d833ec", 
+      "md5": "5e0cb65ed3921f68458fb4e239db8eee", 
       "name": "icon_roomlist_0.png", 
       "path": "gobang/res/roomlist/"
     }, 
     {
-      "md5": "b3dfda7fc0e9df0945573f2403d833ec", 
+      "md5": "5e0cb65ed3921f68458fb4e239db8eee", 
       "name": "icon_roomlist_1.png", 
       "path": "gobang/res/roomlist/"
     }, 
     {
-      "md5": "b3dfda7fc0e9df0945573f2403d833ec", 
+      "md5": "5e0cb65ed3921f68458fb4e239db8eee", 
       "name": "icon_roomlist_2.png", 
       "path": "gobang/res/roomlist/"
     }, 
     {
-      "md5": "cf41c6a3d821001f0b363fefe7330c8e", 
+      "md5": "e4b6a3497fa4cb07a923710c7290608a", 
       "name": "roomlist_title.png", 
       "path": "gobang/res/roomlist/"
     }, 
     {
-      "md5": "08847b2463a6056b36158e68cace24d5", 
+      "md5": "f467b3779585ac7285ee6d0bf296212d", 
       "name": "roomtable.png", 
       "path": "gobang/res/roomlist/"
     }, 
     {
-      "md5": "a59b9a60373bbe01a61d09b2e0446dbe", 
+      "md5": "67222adcf2ed475b2133213c135a901c", 
       "name": "roomtable_play.png", 
       "path": "gobang/res/roomlist/"
     }, 

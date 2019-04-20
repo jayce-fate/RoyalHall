@@ -1,0 +1,125 @@
+
+spine_25.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 220, 185
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 220, 120
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 420, 185
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 220, 55
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 420, 120
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 620, 185
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 420, 55
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 620, 120
+  size: 198, 63
+  orig: 198, 63
+  offset: 0, 0
+  index: -1
+cm1
+  rotate: false
+  xy: 2, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+cm2
+  rotate: true
+  xy: 220, 12
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 32
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+pk1
+  rotate: true
+  xy: 620, 24
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+pk2
+  rotate: false
+  xy: 940, 154
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+pk3
+  rotate: true
+  xy: 940, 87
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+pk4
+  rotate: false
+  xy: 820, 33
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+pk5
+  rotate: false
+  xy: 720, 21
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 820, 131
+  size: 118, 117
+  orig: 118, 117
+  offset: 0, 0
+  index: -1
