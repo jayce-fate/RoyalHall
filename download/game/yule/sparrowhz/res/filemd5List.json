@@ -1591,7 +1591,7 @@
       "path": "sparrowhz/src/tools/"
     }, 
     {
-      "md5": "bf253aa0dc8ce9026d45c08ed372524b", 
+      "md5": "519b5b9ec36666151ae5c8b1f498a975", 
       "name": "GameLayer.luac", 
       "path": "sparrowhz/src/views/"
     }, 
@@ -1611,7 +1611,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "md5": "63d1dfbece867e53819763f45acd6c37", 
+      "md5": "f957e14ace453ca544bdad568cae43b9", 
       "name": "GameViewLayer.luac", 
       "path": "sparrowhz/src/views/layer/"
     }, 

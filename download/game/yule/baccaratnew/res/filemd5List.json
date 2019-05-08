@@ -11,31 +11,6 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "48d5edc694d993bf8a898ea83da48567", 
-      "name": "bjl_game_chip_0_0.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "bd4f7877485544c7faa1190478d9b050", 
-      "name": "bjl_game_chip_1_0.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "25c056aa18644f1a3ec5cdffe909b461", 
-      "name": "bjl_game_chip_2_0.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "cadd1a58f91c6d750bded6f9eef93d0e", 
-      "name": "bjl_game_chip_3_0.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
-      "md5": "feb5a30a006c5a488a6e538a83194c2f", 
-      "name": "bjl_game_chip_4_0.png", 
-      "path": "baccaratnew/res/game/"
-    }, 
-    {
       "md5": "768e788d1011b7edd1d378abad801d7e", 
       "name": "btn.csb", 
       "path": "baccaratnew/res/game/"
@@ -141,12 +116,12 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "8be36ab4866dfef3abf2806beb25066f", 
+      "md5": "ce4283f0997a1009183f29ee7224d3f8", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "f6b3840e1c87ceafd8085f284dcaa85d", 
+      "md5": "f5a81b612e46dc7ff3821f806c7d9143", 
       "name": "GameResultLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -241,7 +216,7 @@
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
-      "md5": "69a622eba9fe8f3538babd9c67941ccd", 
+      "md5": "8f13900815e9328911f649fabbb6a968", 
       "name": "dfjs.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
@@ -366,8 +341,38 @@
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
+      "md5": "255b6e234d2becd0b284b0e8b85b4b45", 
+      "name": "xian1.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "a749df6864aa82126437e2b70042cde4", 
+      "name": "xian_xz1.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
       "md5": "a9b26da5dec74bec3821b88cff3c4a4a", 
       "name": "xx.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "ab560a24e2294793b54ff3e426b15330", 
+      "name": "xy6.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "97dd915039807e86b0b97eb49988772e", 
+      "name": "xy6_xz.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "8727694579200e1a6582c2ce8bf297af", 
+      "name": "zhuang1.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "43035770288880d1ce1d6f2b9bfaa68a", 
+      "name": "zhuang_xz1.png", 
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
@@ -391,7 +396,7 @@
       "path": "baccaratnew/res/roomlist/"
     }, 
     {
-      "md5": "8034e6e65ffeaa4eeae52c43187fa83a", 
+      "md5": "330cebead60070747f6ec1c60aa0ab7e", 
       "name": "Rule.txt", 
       "path": "baccaratnew/res/roomlist/"
     }, 
@@ -671,7 +676,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "39d337f720e42d8d49bf5cd5c5f27957", 
+      "md5": "2bb69271cf36895e0c0ce8e6a9791fe7", 
       "name": "CMD_Game.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -686,7 +691,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "3d9ec5ca7c4b28b1d67502462f573f93", 
+      "md5": "5b0a708f7c564d4e6c3dd46e985fb2b2", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -696,7 +701,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "9426916dcae719493be968be0c3dfa51", 
+      "md5": "1be246f91bdb98fe2142b8ab544b6050", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -706,7 +711,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "1c8ce4cc32ed91cd501c3c0a26c580a6", 
+      "md5": "9d8b92b2eb4a953ec4c434b9360e2091", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -716,7 +721,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "3c6dc676304e09486a0e4b89fe11f254", 
+      "md5": "a568e71d9b0faf95648bf64318159d81", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -741,12 +746,12 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "cf2a47507c45d62f81cc474dea41d9ad", 
+      "md5": "80c259332792b2a5885dc2f5558e24d7", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 149
+      "allcount": 150
     }
   ]
 }

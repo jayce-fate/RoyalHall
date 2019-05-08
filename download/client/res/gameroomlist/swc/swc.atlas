@@ -1,0 +1,27 @@
+
+swc.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 334, 119
+  orig: 334, 119
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 334, 119
+  orig: 334, 119
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 338, 34
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1

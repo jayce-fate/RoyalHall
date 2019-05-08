@@ -36,6 +36,11 @@
       "path": "21points/res/21res/"
     }, 
     {
+      "md5": "07781662a25efb5e70582f3ab868de7d", 
+      "name": "ksyx.png", 
+      "path": "21points/res/21res/"
+    }, 
+    {
       "md5": "f89ded5fa3157acf2b75b1cf3163d6e2", 
       "name": "max.png", 
       "path": "21points/res/21res/"
@@ -156,7 +161,7 @@
       "path": "21points/res/game/"
     }, 
     {
-      "md5": "f6b727708a3e9039ae00dd0a0f1b75d1", 
+      "md5": "d8ad88e70fe1fb741248c5c950625950", 
       "name": "GameScene.csb", 
       "path": "21points/res/game/"
     }, 
@@ -266,7 +271,7 @@
       "path": "21points/src/models/"
     }, 
     {
-      "md5": "5c7e57b34262b17c561266675a741bff", 
+      "md5": "d67330f3f2b5b400901df598177450ee", 
       "name": "GameLayer.luac", 
       "path": "21points/src/views/"
     }, 
@@ -281,12 +286,12 @@
       "path": "21points/src/views/layer/"
     }, 
     {
-      "md5": "15224dbf7a8737fe5fe3c6d5e0d207d0", 
+      "md5": "2bbaab04ae8aa2cf2f1afce630d74dff", 
       "name": "GameViewLayer.luac", 
       "path": "21points/src/views/layer/"
     }, 
     {
-      "allcount": 57
+      "allcount": 58
     }
   ]
 }

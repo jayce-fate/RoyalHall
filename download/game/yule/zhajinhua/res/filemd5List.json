@@ -406,7 +406,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "42851f659bd0f259ccc04c0e0ddda9a5", 
+      "md5": "223cf045622ba682c2a5484205b69f19", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -426,12 +426,12 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "67cd3d136b38d64cd7e12819a15e22d7", 
+      "md5": "08c3e1b8bdcc0bac05876ef82e76e444", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "9dd6e653005eb67cc6f263556c084f28", 
+      "md5": "58590bc4b34c3177b9e7f96acbebabca", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 

@@ -161,7 +161,7 @@
       "path": "oxnew/res/roomlist/"
     }, 
     {
-      "md5": "179926544284931872d2d4fa8400bdaf", 
+      "md5": "ed13c3bd76ac33f1a503d59d1a54aebd", 
       "name": "Rule.txt", 
       "path": "oxnew/res/roomlist/"
     }, 
@@ -411,7 +411,7 @@
       "path": "oxnew/src/views/layer/"
     }, 
     {
-      "md5": "6d71a7832414f8ae5a8b94f93b58675a", 
+      "md5": "9a71aa20a0e7038e1990d067cbdc8246", 
       "name": "GameViewLayer.luac", 
       "path": "oxnew/src/views/layer/"
     }, 

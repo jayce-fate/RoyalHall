@@ -56,13 +56,23 @@
       "path": "pai9/res/animation/shaizi/"
     }, 
     {
-      "md5": "04caa47ab65693fe5ab557827fcc3aef", 
-      "name": "cardpai9.plist", 
+      "md5": "e84b115010d098c41f5244395c3c540f", 
+      "name": "bt.png", 
       "path": "pai9/res/game/"
     }, 
     {
-      "md5": "a5b1e6ade98c75578adb859cd80c31d9", 
-      "name": "cardpai9.png", 
+      "md5": "d37059e05a7519cd901cb0f11be1e1a4", 
+      "name": "card.plist", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "b2984a5e7a99f6ea43cb6288fc0912b0", 
+      "name": "card.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "51de1a643770c5ba6ad5e9493206fe4d", 
+      "name": "common_whiteboard_bg.png", 
       "path": "pai9/res/game/"
     }, 
     {
@@ -71,13 +81,48 @@
       "path": "pai9/res/game/"
     }, 
     {
+      "md5": "193d9403ccfaa0a140fc4663440f8de3", 
+      "name": "di1.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "7745d533f9d2a4e71858dbd08e738f11", 
+      "name": "dp.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "6461a2c244b0b033e04e8b7570b33677", 
+      "name": "dp_h.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
       "md5": "4c8ad1fae5cda470ba202e3cbc2a35e8", 
       "name": "dpdaxiao_sm.png", 
       "path": "pai9/res/game/"
     }, 
     {
+      "md5": "cef328bb4a08bda27b50cbee1b1acce0", 
+      "name": "dpdx.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "8e6531708bfe4b632ee21fc178968012", 
+      "name": "dpdx_h.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
       "md5": "6a5b23894aadb128245321ccaa5bd6ca", 
       "name": "dpdx_sm.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "9782fc4bbce1107a302d9a32737bc17c", 
+      "name": "dpsm.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "015a4e7992e69839b604186baa9a96c9", 
+      "name": "dpsm_h.png", 
       "path": "pai9/res/game/"
     }, 
     {
@@ -91,8 +136,13 @@
       "path": "pai9/res/game/"
     }, 
     {
-      "md5": "d02751b467084efaddfd9ba098d33b58", 
+      "md5": "0d6dd1cbdab9b2101f0c5885bbf42c24", 
       "name": "GameScene.csb", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "00607eacda388f8439c6b0da4638f742", 
+      "name": "qx.png", 
       "path": "pai9/res/game/"
     }, 
     {
@@ -106,8 +156,18 @@
       "path": "pai9/res/game/"
     }, 
     {
-      "md5": "51dd2c831bc0cec72527b37d2b2c2b50", 
+      "md5": "5648ff57d302fab63356a7c2dd44be95", 
       "name": "RuleLayer.csb", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "74ee3b346c8dc193d8960b72e10a9b93", 
+      "name": "wfjs.png", 
+      "path": "pai9/res/game/"
+    }, 
+    {
+      "md5": "8cb18a2baa6e4ae20e511286c87a8d5e", 
+      "name": "wfjs_h.png", 
       "path": "pai9/res/game/"
     }, 
     {
@@ -146,21 +206,6 @@
       "path": "pai9/res/pai9res/"
     }, 
     {
-      "md5": "4c8ad1fae5cda470ba202e3cbc2a35e8", 
-      "name": "dpdaxiao_sm.png", 
-      "path": "pai9/res/pai9res/"
-    }, 
-    {
-      "md5": "6a5b23894aadb128245321ccaa5bd6ca", 
-      "name": "dpdx_sm.png", 
-      "path": "pai9/res/pai9res/"
-    }, 
-    {
-      "md5": "0f47f688206efd6a572593a642927e4e", 
-      "name": "dpsm_sm.png", 
-      "path": "pai9/res/pai9res/"
-    }, 
-    {
       "md5": "d6a2fcef04650d30447425fa9db11fd9", 
       "name": "fnt1.png", 
       "path": "pai9/res/pai9res/"
@@ -196,6 +241,16 @@
       "path": "pai9/res/pai9res/"
     }, 
     {
+      "md5": "e18309bff283690a54b69f9461042a92", 
+      "name": "zb2.png", 
+      "path": "pai9/res/pai9res/"
+    }, 
+    {
+      "md5": "9c3849dc1fd9ed073449b5b50a633f40", 
+      "name": "zhez.png", 
+      "path": "pai9/res/pai9res/"
+    }, 
+    {
       "md5": "080abe5be28b68b9a529bf9fa562e962", 
       "name": "zhuang.png", 
       "path": "pai9/res/pai9res/"
@@ -211,22 +266,22 @@
       "path": "pai9/res/roomlist/"
     }, 
     {
-      "md5": "179926544284931872d2d4fa8400bdaf", 
+      "md5": "ed79a479ce3398f378c1957f2c6d0c12", 
       "name": "Rule.txt", 
       "path": "pai9/res/roomlist/"
     }, 
     {
-      "md5": "6a5b23894aadb128245321ccaa5bd6ca", 
+      "md5": "4c8ad1fae5cda470ba202e3cbc2a35e8", 
       "name": "rule_2.png", 
       "path": "pai9/res/roomlist/"
     }, 
     {
-      "md5": "4c8ad1fae5cda470ba202e3cbc2a35e8", 
+      "md5": "51b09bb03066499053d08985b611ea2c", 
       "name": "rule_3.png", 
       "path": "pai9/res/roomlist/"
     }, 
     {
-      "md5": "0f47f688206efd6a572593a642927e4e", 
+      "md5": "6a5b23894aadb128245321ccaa5bd6ca", 
       "name": "rule_4.png", 
       "path": "pai9/res/roomlist/"
     }, 
@@ -271,6 +326,16 @@
       "path": "pai9/res/sound/"
     }, 
     {
+      "md5": "f283a720018e0027548d4aab41e9de39", 
+      "name": "c_place_cn.wav", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "ced92613990690a81051a46c43a69659", 
+      "name": "Click.wav", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
       "md5": "d5d809feba10362f1abc56bbcd65aac1", 
       "name": "douniu_banker0.mp3", 
       "path": "pai9/res/sound/"
@@ -306,6 +371,56 @@
       "path": "pai9/res/sound/"
     }, 
     {
+      "md5": "bcb15be555f9015c177d94dcca55303f", 
+      "name": "ErBaGang_0.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "eade77db671b852b436a9660aadc5a98", 
+      "name": "ErBaGang_1.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "0ddbe66bf0598272035e997282b70331", 
+      "name": "ErBaGang_2.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "5a4b88c163f02c411d02f8f1cd4d72a4", 
+      "name": "ErBaGang_3.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "0b124a3aeab6916730510af8a106e58d", 
+      "name": "ErBaGang_4.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "b549109f6234baa1b6f32cccd4fcdd55", 
+      "name": "ErBaGang_5.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "a130b1b5f61f96aa954b911eaf90556f", 
+      "name": "ErBaGang_6.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "6fa9276a670c92e60b7f3ee81e2f56ac", 
+      "name": "ErBaGang_7.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "85cb384a18fb351bb4001f6802376455", 
+      "name": "ErBaGang_8.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "7d7a47df306fba108d277edf19a11731", 
+      "name": "ErBaGang_9.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
       "md5": "9f73080c575ad208af1c31800d56f26b", 
       "name": "GAME_END.WAV", 
       "path": "pai9/res/sound/"
@@ -321,6 +436,11 @@
       "path": "pai9/res/sound/"
     }, 
     {
+      "md5": "361a9439cdf1f31dc3849224adb285b8", 
+      "name": "GAME_START.wav", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
       "md5": "76cdaecfbc4cafaf155f2c85e20b1a83", 
       "name": "GAME_WARN.WAV", 
       "path": "pai9/res/sound/"
@@ -328,6 +448,41 @@
     {
       "md5": "a89c408e570913f058defccc063fff02", 
       "name": "OPEN_CARD.wav", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "525baaebe3ce293153ed67f938273b13", 
+      "name": "q0.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "5bc958592384265667d9bc03f049c19d", 
+      "name": "q1.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "1df10876fa0445f4a044fd93e86ea940", 
+      "name": "q2.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "37c3e4fcf2c77fba9ef4eb2fd3255b2f", 
+      "name": "q3.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "9a7fca7c9aeedd5ac822ce4b853bc402", 
+      "name": "q4.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "91268be3490cfb5500f591a4c4b5ee6e", 
+      "name": "shaizi.mp3", 
+      "path": "pai9/res/sound/"
+    }, 
+    {
+      "md5": "d1f59a97da43f501dd0148ecedbd06e3", 
+      "name": "youxikaishi.mp3", 
       "path": "pai9/res/sound/"
     }, 
     {
@@ -471,7 +626,57 @@
       "path": "pai9/res/sound/girls/"
     }, 
     {
-      "md5": "c5353637ce8429c2f97db35410802b2d", 
+      "md5": "bcb15be555f9015c177d94dcca55303f", 
+      "name": "0dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "4a45737ff270f2d155542287997e2cb0", 
+      "name": "1dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "18ce4b4a74bc5e1cb77c06419a49435c", 
+      "name": "2dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "8467cc6782bb74520461fe7804e83856", 
+      "name": "3dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "7ce192b7e8d5acfa4828bd8d78b13e50", 
+      "name": "4dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "a6dc85849e3f41473379f9e0d9826250", 
+      "name": "5dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "6dd18bd5ea7a7da499371715b9949f24", 
+      "name": "6dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "6fa9276a670c92e60b7f3ee81e2f56ac", 
+      "name": "7dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "5e82e3827818c7762a73eac6b550a6fa", 
+      "name": "8dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "42efe06d6d1968fde83b5a7e9887305d", 
+      "name": "9dian.mp3", 
+      "path": "pai9/res/sound/point/"
+    }, 
+    {
+      "md5": "3e5c16430af73fa80500e68d6c6c8d1b", 
       "name": "CMD_Game.luac", 
       "path": "pai9/src/models/"
     }, 
@@ -486,7 +691,7 @@
       "path": "pai9/src/tools/"
     }, 
     {
-      "md5": "6118079ef674bf7a3c2593a68b777cbf", 
+      "md5": "24581e13da130fa82bf94fd02e7f48c2", 
       "name": "GameLayer.luac", 
       "path": "pai9/src/views/"
     }, 
@@ -496,27 +701,32 @@
       "path": "pai9/src/views/"
     }, 
     {
-      "md5": "15e451172749cc331fb33d64ff0776ee", 
+      "md5": "a82693fec40e7c00b3353dcc9de294e5", 
       "name": "GameRoomListLayer.luac", 
       "path": "pai9/src/views/"
     }, 
     {
-      "md5": "b2d72f322cc757c8241a1340c3bbe5fb", 
+      "md5": "2b4a663efbfe9126da0294ba982e461c", 
       "name": "RuleLayer.luac", 
       "path": "pai9/src/views/"
     }, 
     {
-      "md5": "96fa8606717b1546e2647bb0c90ed620", 
+      "md5": "e3b20f6fa0239c6a2e475998c6ae4154", 
       "name": "CardSprite.luac", 
       "path": "pai9/src/views/layer/"
     }, 
     {
-      "md5": "afc5cf86405eac839551679f7566d497", 
+      "md5": "3df42ed1f20801d9c190189b0f58fbfc", 
       "name": "GameViewLayer.luac", 
       "path": "pai9/src/views/layer/"
     }, 
     {
-      "allcount": 103
+      "md5": "e6093b654d88d0cb3a45f6f0e0f48a38", 
+      "name": "ResultLayer.luac", 
+      "path": "pai9/src/views/layer/"
+    }, 
+    {
+      "allcount": 145
     }
   ]
 }

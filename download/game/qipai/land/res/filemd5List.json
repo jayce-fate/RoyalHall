@@ -196,6 +196,11 @@
       "path": "land/res/game/"
     }, 
     {
+      "md5": "c1a8d71ac292aae8049dc6f6040ac8f9", 
+      "name": "ddz_poker_element.png", 
+      "path": "land/res/game/"
+    }, 
+    {
       "md5": "23e01133686d2b8cb280da634a905f55", 
       "name": "game.plist", 
       "path": "land/res/game/"
@@ -226,13 +231,13 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "e570309fc45e9ac5f7390098720836cf", 
+      "md5": "5b96b1bf205226f68687147afb88a46f", 
       "name": "GameRoleItem.csb", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "29be3155801f9531df2eb4acf59b8e25", 
-      "name": "head_dizhu1.png", 
+      "md5": "93831d4af77a4b04620cb96cad4f7d90", 
+      "name": "head_dizhu.png", 
       "path": "land/res/game/"
     }, 
     {
@@ -241,28 +246,18 @@
       "path": "land/res/game/"
     }, 
     {
-      "md5": "290c8fd495d227992db721c4e5ab927e", 
-      "name": "head_dizhu2.png", 
-      "path": "land/res/game/"
-    }, 
-    {
       "md5": "13dda5ae9777efd0543f272975fbbe89", 
       "name": "head_dizhu2_vip.png", 
       "path": "land/res/game/"
     }, 
     {
-      "md5": "30e32dda3fe9d7a54a5d12ae19cb32f3", 
-      "name": "head_nongmin1.png", 
+      "md5": "36961fc0b3c85ebb407e459a595c4a05", 
+      "name": "head_nongmin.png", 
       "path": "land/res/game/"
     }, 
     {
       "md5": "d137ca8540bd331582afd81a99068c19", 
       "name": "head_nongmin1_vip.png", 
-      "path": "land/res/game/"
-    }, 
-    {
-      "md5": "9cec12114ab44e3f7c62aaa255374d21", 
-      "name": "head_nongmin2.png", 
       "path": "land/res/game/"
     }, 
     {
@@ -336,12 +331,12 @@
       "path": "land/res/img/"
     }, 
     {
-      "md5": "a391b76097a84bfbff0adef4890c3e34", 
+      "md5": "53ff8bcbca07ec1d809a31a2f41fc5d1", 
       "name": "images.plist", 
       "path": "land/res/img/"
     }, 
     {
-      "md5": "cda67cf06f9c731fcf75b8e7591ac4ce", 
+      "md5": "6760b2c976a8f889823207c927b89d71", 
       "name": "images.png", 
       "path": "land/res/img/"
     }, 
@@ -1006,12 +1001,12 @@
       "path": "land/src/models/"
     }, 
     {
-      "md5": "887713dafc77ba94ad1d95877c5a4ac5", 
+      "md5": "e978501f127d49956be4413bc51a8c72", 
       "name": "GameLogic.luac", 
       "path": "land/src/models/"
     }, 
     {
-      "md5": "1df1421d0f7bdd5b1bdf9e3819c54aa4", 
+      "md5": "8a4429552c0084c958879906bf715f65", 
       "name": "GameLayer.luac", 
       "path": "land/src/views/"
     }, 
@@ -1041,27 +1036,27 @@
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "72275a2dca931e85f314660d00ee6e49", 
+      "md5": "188e00d58802ca0075a0f8e6d57246d5", 
       "name": "GameRoleItem.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "10a3716aff01086a783e9bee0fafd25b", 
+      "md5": "216728b7c4503b5e03bfe5718674f3b4", 
       "name": "GameViewLayer.luac", 
       "path": "land/src/views/layer/"
     }, 
     {
-      "md5": "8bb20bc029687ca1549c3573a4822561", 
+      "md5": "b4e47e1242fa743c1a7baee1ddd3357f", 
       "name": "CardsNode.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "md5": "c9321c44d97891f3aee85e641af75cbc", 
+      "md5": "221c34dfc1999e098b003ffce3265d36", 
       "name": "CardSprite.luac", 
       "path": "land/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 212
+      "allcount": 211
     }
   ]
 }

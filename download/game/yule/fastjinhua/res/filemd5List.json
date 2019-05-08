@@ -181,7 +181,7 @@
       "path": "fastjinhua/src/tools/"
     }, 
     {
-      "md5": "b256f9a516ea352d3535af2279e58628", 
+      "md5": "b202536dc34fd9a1205f86b85d25fbd3", 
       "name": "GameLayer.luac", 
       "path": "fastjinhua/src/views/"
     }, 
@@ -201,7 +201,7 @@
       "path": "fastjinhua/src/views/layer/"
     }, 
     {
-      "md5": "897d2f308b5246bdaf453a1ac2ac0434", 
+      "md5": "cccc448492d44ffe9fae26aa82db9a6c", 
       "name": "GameViewLayer.luac", 
       "path": "fastjinhua/src/views/layer/"
     }, 

@@ -146,12 +146,12 @@
       "path": "3gong/res/game/"
     }, 
     {
-      "md5": "5593f249200975f3654e3bc34e5e461b", 
+      "md5": "6365925389619ae635ed99b202822916", 
       "name": "3gongScene.plist", 
       "path": "3gong/res/gameScene_3gong/"
     }, 
     {
-      "md5": "45819132efb6000eb4f81cddc99e3f3f", 
+      "md5": "ea4d3f342b0f72745caa2ed99509f7db", 
       "name": "3gongScene.png", 
       "path": "3gong/res/gameScene_3gong/"
     }, 
@@ -411,7 +411,7 @@
       "path": "3gong/src/views/layer/"
     }, 
     {
-      "md5": "97b58a3cd6c26e04ffe4d673dc4f991a", 
+      "md5": "db46b5b4a2cd906d4f3ead9f19a759d4", 
       "name": "GameViewLayer.luac", 
       "path": "3gong/src/views/layer/"
     }, 

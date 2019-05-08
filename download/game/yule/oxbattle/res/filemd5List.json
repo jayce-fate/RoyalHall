@@ -76,8 +76,23 @@
       "path": "oxbattle/res/game_res/"
     }, 
     {
+      "md5": "e9ea23698042a13bc3d7a84dd7636cac", 
+      "name": "brnn_info_table_4.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "f66781b035e36141e5da8e031e28259f", 
+      "name": "db.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
       "md5": "d53b947235e4b363c13736d8372cb152", 
       "name": "GameLayer.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "e8fbb3a3b44756d84897835f5b45fcfa", 
+      "name": "gb.png", 
       "path": "oxbattle/res/game_res/"
     }, 
     {
@@ -126,7 +141,7 @@
       "path": "oxbattle/res/roomlist/"
     }, 
     {
-      "md5": "617f1fd17c477bd1417c3602c327e76f", 
+      "md5": "2915933f138d46abbf65f23ca74b5aea", 
       "name": "Rule.txt", 
       "path": "oxbattle/res/roomlist/"
     }, 
@@ -431,7 +446,7 @@
       "path": "oxbattle/res/userlist/"
     }, 
     {
-      "md5": "e86d805a8389147e287819281d8bcf30", 
+      "md5": "cd1dc7e04a859c781937d912ad10a928", 
       "name": "CMD_Game.luac", 
       "path": "oxbattle/src/models/"
     }, 
@@ -441,7 +456,7 @@
       "path": "oxbattle/src/models/"
     }, 
     {
-      "md5": "b36097c662754e8b89322990f1937397", 
+      "md5": "65c58311d08f784e9547b4936a60d702", 
       "name": "GameLogic.luac", 
       "path": "oxbattle/src/models/"
     }, 
@@ -481,7 +496,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "b05be1f00da679e92573aab6c638dd0a", 
+      "md5": "69dc68fa8d6422d5150da69a143c4094", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -501,12 +516,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "ccb3e1e6ce3ca9c59369742e6d9dd487", 
+      "md5": "7910c3f743fae67f0864033be30a054c", 
       "name": "UserListLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "allcount": 101
+      "allcount": 104
     }
   ]
 }

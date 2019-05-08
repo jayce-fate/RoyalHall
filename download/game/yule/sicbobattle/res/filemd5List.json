@@ -576,7 +576,7 @@
       "path": "sicbobattle/src/views/"
     }, 
     {
-      "md5": "04d1a453b7c3d7e8cdad0f48ed6a051b", 
+      "md5": "f51031785a47e350294709a6a357857f", 
       "name": "GameViewLayer.luac", 
       "path": "sicbobattle/src/views/layer/"
     }, 
@@ -596,7 +596,7 @@
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 
     {
-      "md5": "760e385396440691a7fa860bd193c3a1", 
+      "md5": "4993e66a30c80272973625313dc8274e", 
       "name": "UserListLayer.luac", 
       "path": "sicbobattle/src/views/layer/userlist/"
     }, 

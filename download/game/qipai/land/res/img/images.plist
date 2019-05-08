@@ -312,17 +312,6 @@
 				<key>sourceSize</key>
 				<string>{1370,94}</string>
 			</dict>
-			<key>img/frame_box.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{710,697},{111,111}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{111,111}</string>
-			</dict>
 			<key>img/frame_goldcoin.png</key>
 			<dict>
 				<key>frame</key>
@@ -333,17 +322,6 @@
 				<false />
 				<key>sourceSize</key>
 				<string>{236,44}</string>
-			</dict>
-			<key>img/frame_rectangle.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{580,1291},{100,100}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{100,100}</string>
 			</dict>
 			<key>img/frame_top.png</key>
 			<dict>
@@ -674,6 +652,28 @@
 				<true />
 				<key>sourceSize</key>
 				<string>{497,47}</string>
+			</dict>
+			<key>img/head_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,697},{111,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,111}</string>
+			</dict>
+			<key>img/head_frame_fore.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{580,1291},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>
