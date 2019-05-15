@@ -396,8 +396,13 @@
       "path": "client/res/announcement/"
     }, 
     {
-      "md5": "cd8f5819f8b808ed582ec6d4d8f143cd", 
+      "md5": "1a4b825ab1e24f9937ad08ded7b82278", 
       "name": "AncmtNode.csb", 
+      "path": "client/res/announcement/"
+    }, 
+    {
+      "md5": "d1eb083018730bdbde5455ea92a4fce8", 
+      "name": "AnnouncementMenuNode.csb", 
       "path": "client/res/announcement/"
     }, 
     {
@@ -1716,7 +1721,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "2c4b32b58cd3b783e3c7e325871d8f53", 
+      "md5": "3df105f566a331ff37841d7468aa271b", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -3066,7 +3071,7 @@
       "path": "client/src/app/controllers/"
     }, 
     {
-      "md5": "e4722a4cc68a6ca4177ae3684fcc3a1e", 
+      "md5": "0ba7db48d1a91b79c4758070cd6968d1", 
       "name": "AppDF.luac", 
       "path": "client/src/app/models/"
     }, 
@@ -3156,7 +3161,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "8698954160bfa9cbbde6c167836ee492", 
+      "md5": "3e09cb7d9202394a61beb1d4c83050f7", 
       "name": "GameModel.luac", 
       "path": "client/src/gamemodel/"
     }, 
@@ -3171,7 +3176,7 @@
       "path": "client/src/header/"
     }, 
     {
-      "md5": "28e54e1c350093e1218275becfcffff0", 
+      "md5": "ec0baebc14a508f7edae18a01123b39d", 
       "name": "CMD_GameServer.luac", 
       "path": "client/src/header/"
     }, 
@@ -3236,12 +3241,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "bf05efcde31d1762b0c705a75e1e3aa5", 
+      "md5": "9c0eb8a6bacbe6517c7638f6000e470b", 
       "name": "FriendMgr.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "0b6ba999586ee9d32d27b6be4d348db0", 
+      "md5": "c8f694b2759f64976d140756f7f18a22", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -3286,18 +3291,13 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "d10c7db99b2b26f995582bba4c0f1eba", 
+      "md5": "0c17f7c7b0c451474929d8ee709cc4b9", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "919facc6ab74b9d3f8585cece9c840f8", 
+      "md5": "3973bbdce6533c5c3eeacac92c780917", 
       "name": "ClientScene.luac", 
-      "path": "client/src/plaza/views/"
-    }, 
-    {
-      "md5": "668fbf5ea5cfcf756387e1c86df0ec9c", 
-      "name": "ForestDanceScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
     {
@@ -3401,7 +3401,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "5001c68b79272a94f638ab29b260588d", 
+      "md5": "f29d582b3fa3505b776e1fbf3b4fa4c9", 
       "name": "AgentLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -3411,32 +3411,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c8a83978e29808af2a5ff52b8178786e", 
+      "md5": "d932f020769c0e6824a6bfd28b69b8dd", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ac58c8e99ca75b5567f4afe562580f8f", 
-      "name": "BagDetailLayer.luac", 
-      "path": "client/src/plaza/views/layer/plaza/"
-    }, 
-    {
-      "md5": "4b0f21de22f2bfe8918dc5542c57a362", 
-      "name": "BagLayer.luac", 
-      "path": "client/src/plaza/views/layer/plaza/"
-    }, 
-    {
-      "md5": "fcfdb643e64bc2cbb018d6958cff16cf", 
-      "name": "BagRecordLayer.luac", 
-      "path": "client/src/plaza/views/layer/plaza/"
-    }, 
-    {
-      "md5": "3d9d293690d356a2a89436e8c186fe99", 
-      "name": "BagTransLayer.luac", 
-      "path": "client/src/plaza/views/layer/plaza/"
-    }, 
-    {
-      "md5": "3385895bb41b1603a908e6a6e0d0b8f8", 
+      "md5": "5b0cd5d422bf71ac786a5b554f457ae5", 
       "name": "BankChooseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -3526,18 +3506,13 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9c12ee33c88fbc5d52903f6c05caeb84", 
+      "md5": "8bc4de1e4a6bceb58f6bff9d3348166a", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
       "md5": "441c0a6a29f253f1a4106a78de422219", 
       "name": "HallMessageLayer.luac", 
-      "path": "client/src/plaza/views/layer/plaza/"
-    }, 
-    {
-      "md5": "eb965e66c8f3434c9fef690ba0721b57", 
-      "name": "IntroduceLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -3586,7 +3561,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "06f87b66edc1b66347e7ca275abab58a", 
+      "md5": "d32819c45fb7ad40239a57ce78683a07", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -3601,7 +3576,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "71b26f15f054c3efda3d16d4d0e9c75c", 
+      "md5": "5be59e740e3e1a15832d46671648efb5", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -3621,7 +3596,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "5c7c21296c0090e67b3e35a1625568f9", 
+      "md5": "f3cc8d00c3775a542eeb228a7a7f96e2", 
       "name": "SettingLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -3671,12 +3646,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "85945c8c183a3fa66628595920c3e631", 
+      "md5": "6a14dd48e8efe7b7506a191c44bc6d6f", 
       "name": "ToastBLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1ad48c4420c061cd5bdce5e202adebb9", 
+      "md5": "f7a0fbfec8ea6c89d341cf02c68a452f", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -3706,7 +3681,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b6f15cfa964a97efd8310d6b3f443328", 
+      "md5": "c04e80031cb5199959f21ddae71b8ada", 
       "name": "RoomLayer.luac", 
       "path": "client/src/plaza/views/layer/room/"
     }, 
@@ -3816,7 +3791,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 763
+      "allcount": 758
     }
   ]
 }

@@ -466,7 +466,7 @@
       "path": "oxbattle/src/tools/"
     }, 
     {
-      "md5": "962197bc2fb9142a632e63de8596ba56", 
+      "md5": "35fbdf6c163d4445e71fc4a9ef838782", 
       "name": "GameLayer.luac", 
       "path": "oxbattle/src/views/"
     }, 
@@ -496,7 +496,7 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "69dc68fa8d6422d5150da69a143c4094", 
+      "md5": "64f1fe2a6d4b53041a15aed89e0998a1", 
       "name": "GameViewLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
@@ -511,12 +511,12 @@
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "a7862fa7c70c906f8374413daec93d6f", 
+      "md5": "355d736f4c15bf2a87bc85a5796cee71", 
       "name": "UserItem.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 
     {
-      "md5": "7910c3f743fae67f0864033be30a054c", 
+      "md5": "04064d93facd97eb3ca2278f6f2bb581", 
       "name": "UserListLayer.luac", 
       "path": "oxbattle/src/views/layer/"
     }, 

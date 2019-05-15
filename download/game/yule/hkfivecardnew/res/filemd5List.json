@@ -176,7 +176,7 @@
       "path": "hkfivecardnew/res/roomlist/"
     }, 
     {
-      "md5": "4f2532dfedfd511e97e9b271e447c704", 
+      "md5": "2ec3e7e96cb1ebbca3c65fb6faeb7c5a", 
       "name": "Rule.txt", 
       "path": "hkfivecardnew/res/roomlist/"
     }, 
@@ -356,7 +356,7 @@
       "path": "hkfivecardnew/src/models/"
     }, 
     {
-      "md5": "6e82d431a3f5263512d085a810fb124d", 
+      "md5": "e0cbb0a15300b0b1e332a23c3669a815", 
       "name": "GameLayer.luac", 
       "path": "hkfivecardnew/src/views/"
     }, 
@@ -376,7 +376,7 @@
       "path": "hkfivecardnew/src/views/layer/"
     }, 
     {
-      "md5": "3041c347689454e376314472ceacc75a", 
+      "md5": "c9efd5f2b07ed1935fb35c527d598df2", 
       "name": "GameViewLayer.luac", 
       "path": "hkfivecardnew/src/views/layer/"
     }, 

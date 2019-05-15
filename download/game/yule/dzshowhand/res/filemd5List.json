@@ -341,7 +341,7 @@
       "path": "dzshowhand/src/tools/"
     }, 
     {
-      "md5": "dde26d69165e287b5e75c14a85bc585a", 
+      "md5": "849862ebb33b02209b375a2d69e2b1e4", 
       "name": "GameLayer.luac", 
       "path": "dzshowhand/src/views/"
     }, 
@@ -361,7 +361,7 @@
       "path": "dzshowhand/src/views/layer/"
     }, 
     {
-      "md5": "1c572f2173df0a1b5f5a487f24627beb", 
+      "md5": "9843947428c838a63f1f7c70ec11c329", 
       "name": "GameViewLayer.luac", 
       "path": "dzshowhand/src/views/layer/"
     }, 

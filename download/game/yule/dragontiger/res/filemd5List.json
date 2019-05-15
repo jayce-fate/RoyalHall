@@ -826,7 +826,7 @@
       "path": "dragontiger/src/models/"
     }, 
     {
-      "md5": "64d263769f4f0d85e6fa044d83a4cf53", 
+      "md5": "a9efa2e52a36ca28a7a387752b87049d", 
       "name": "GameLayer.luac", 
       "path": "dragontiger/src/views/"
     }, 
@@ -841,7 +841,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "4dd8746d80553f7801a5f97af7302f6e", 
+      "md5": "4b191cbc80cd7a3260ee45547348f232", 
       "name": "GameViewLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -851,7 +851,7 @@
       "path": "dragontiger/src/views/layer/"
     }, 
     {
-      "md5": "b44eb77433c623e15610597c77d247e9", 
+      "md5": "32e51957b25375d006dbd1d04f14602c", 
       "name": "SettingLayer.luac", 
       "path": "dragontiger/src/views/layer/"
     }, 
@@ -896,7 +896,7 @@
       "path": "dragontiger/src/views/layer/userlist/"
     }, 
     {
-      "md5": "10c87467846969df04d44ca1ac880aaa", 
+      "md5": "a4bc0bbf841162602c191154596546f3", 
       "name": "UserListLayer.luac", 
       "path": "dragontiger/src/views/layer/userlist/"
     }, 

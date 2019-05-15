@@ -721,7 +721,7 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "3abbe98522491f217051d7718375c52f", 
+      "md5": "53f18b61a297d3ec68cf7e5a33e040d2", 
       "name": "GameLayer.luac", 
       "path": "28gbattle/src/views/"
     }, 
@@ -751,7 +751,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "e6c6580dd49edaa5d2187029f45c08d2", 
+      "md5": "6a88d9b235fccafc779ef6bb657e721b", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -771,7 +771,7 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "1f0cb4894985036f91ac2a0f451690f4", 
+      "md5": "f61d5d88df329f3050f637e8bfa002dd", 
       "name": "UserListLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 

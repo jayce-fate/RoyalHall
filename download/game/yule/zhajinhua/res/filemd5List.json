@@ -406,7 +406,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "223cf045622ba682c2a5484205b69f19", 
+      "md5": "c7ea3e3931ce7847950f5dabd3cb1114", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -431,7 +431,7 @@
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "58590bc4b34c3177b9e7f96acbebabca", 
+      "md5": "765ba8180a7795b28836f991eb89d99c", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 

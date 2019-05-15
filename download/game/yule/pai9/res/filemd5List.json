@@ -136,7 +136,7 @@
       "path": "pai9/res/game/"
     }, 
     {
-      "md5": "0d6dd1cbdab9b2101f0c5885bbf42c24", 
+      "md5": "7ee200bc77d543b46346912b5cbee1c8", 
       "name": "GameScene.csb", 
       "path": "pai9/res/game/"
     }, 
@@ -691,7 +691,7 @@
       "path": "pai9/src/tools/"
     }, 
     {
-      "md5": "24581e13da130fa82bf94fd02e7f48c2", 
+      "md5": "e802b0efc042b594e184d8b936121d35", 
       "name": "GameLayer.luac", 
       "path": "pai9/src/views/"
     }, 
@@ -716,12 +716,12 @@
       "path": "pai9/src/views/layer/"
     }, 
     {
-      "md5": "3df42ed1f20801d9c190189b0f58fbfc", 
+      "md5": "4102e7dc914c7eb1741ff26122b8a642", 
       "name": "GameViewLayer.luac", 
       "path": "pai9/src/views/layer/"
     }, 
     {
-      "md5": "e6093b654d88d0cb3a45f6f0e0f48a38", 
+      "md5": "ea45dc1ae34081a14fe785e874f71bfd", 
       "name": "ResultLayer.luac", 
       "path": "pai9/src/views/layer/"
     }, 

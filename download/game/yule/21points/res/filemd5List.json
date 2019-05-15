@@ -271,7 +271,7 @@
       "path": "21points/src/models/"
     }, 
     {
-      "md5": "d67330f3f2b5b400901df598177450ee", 
+      "md5": "7b3ca9aae0f44d00f926dba215aa2d74", 
       "name": "GameLayer.luac", 
       "path": "21points/src/views/"
     }, 
@@ -286,7 +286,7 @@
       "path": "21points/src/views/layer/"
     }, 
     {
-      "md5": "2bbaab04ae8aa2cf2f1afce630d74dff", 
+      "md5": "3b9a4d7b66283f8f7424ef16e2bb0754", 
       "name": "GameViewLayer.luac", 
       "path": "21points/src/views/layer/"
     }, 

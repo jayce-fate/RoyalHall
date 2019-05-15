@@ -391,7 +391,7 @@
       "path": "3gong/src/tools/"
     }, 
     {
-      "md5": "b21dcc61c76c6130458db127e16f80de", 
+      "md5": "36773bc7df808d7e00934553fcf2d5cf", 
       "name": "GameLayer.luac", 
       "path": "3gong/src/views/"
     }, 
@@ -411,7 +411,7 @@
       "path": "3gong/src/views/layer/"
     }, 
     {
-      "md5": "db46b5b4a2cd906d4f3ead9f19a759d4", 
+      "md5": "f84f5c3e4b45839a5d163283db1c9870", 
       "name": "GameViewLayer.luac", 
       "path": "3gong/src/views/layer/"
     }, 
