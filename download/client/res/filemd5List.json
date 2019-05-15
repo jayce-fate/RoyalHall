@@ -1561,8 +1561,18 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "5c3dda61bd5c2a481e1303bc2c6dc870", 
+      "name": "mailbo_checkbox_mark1.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "6097073658b699822c189d374f441982", 
       "name": "mailbox_btn_delete.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "6097073658b699822c189d374f441982", 
+      "name": "mailbox_btn_delete1.png", 
       "path": "client/res/mailbox/"
     }, 
     {
@@ -1571,8 +1581,18 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "93c2a88a3dd3869f92c1280999ee6221", 
+      "name": "mailbox_btn_select_all1.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "9ef08cb661037bebb02c7b82296bbf85", 
       "name": "mailbox_cell_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "9ef08cb661037bebb02c7b82296bbf85", 
+      "name": "mailbox_cell_bg1.png", 
       "path": "client/res/mailbox/"
     }, 
     {
@@ -1581,8 +1601,18 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "10b21e06842c34392144dd3202f16c49", 
+      "name": "mailbox_checkbox_bg1.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "1ef9177189edd2024b3d0c8dc28e36c0", 
       "name": "mailbox_list_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "1ef9177189edd2024b3d0c8dc28e36c0", 
+      "name": "mailbox_list_bg1.png", 
       "path": "client/res/mailbox/"
     }, 
     {
@@ -1591,8 +1621,18 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "04a48028f33a393c52491aaf87089946", 
+      "name": "mailbox_mail_read1.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "b91529ebec97169fafa180ac08e7715c", 
       "name": "mailbox_mail_unread.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "b91529ebec97169fafa180ac08e7715c", 
+      "name": "mailbox_mail_unread1.png", 
       "path": "client/res/mailbox/"
     }, 
     {
@@ -1601,13 +1641,28 @@
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "1337e3f154d4de9215d85b5b04aab7d1", 
+      "name": "mailbox_title1.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "3a44ebd8ff2e91f4563e86fb8ca3e9ba", 
       "name": "MailBoxCellNode.csb", 
       "path": "client/res/mailbox/"
     }, 
     {
+      "md5": "3a44ebd8ff2e91f4563e86fb8ca3e9ba", 
+      "name": "MailBoxCellNode1.csb", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "2167970cf9d8ae7d48a8a1bc8a270ee6", 
       "name": "MailBoxNode.csb", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "2167970cf9d8ae7d48a8a1bc8a270ee6", 
+      "name": "MailBoxNode1.csb", 
       "path": "client/res/mailbox/"
     }, 
     {
@@ -3071,7 +3126,7 @@
       "path": "client/src/app/controllers/"
     }, 
     {
-      "md5": "0ba7db48d1a91b79c4758070cd6968d1", 
+      "md5": "d1c37f681f6f2bcf21e669c4eca5197d", 
       "name": "AppDF.luac", 
       "path": "client/src/app/models/"
     }, 
@@ -3791,7 +3846,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 758
+      "allcount": 769
     }
   ]
 }
