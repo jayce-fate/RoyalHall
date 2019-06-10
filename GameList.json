@@ -101,7 +101,7 @@
 				"ModuleName":"yule.pai9",
 				"ClientVersion":"101122049",
 				"ResVersion":"104",
-				"SortID":"0",
+				"SortID":"1",
 				"KindMark":"3"
 			},
 			{
@@ -181,7 +181,7 @@
 				"ModuleName":"yule.xlkpy",
 				"ClientVersion":"101122049",
 				"ResVersion":"1",
-				"SortID":"1000",
+				"SortID":"0",
 				"KindMark":"3"
 			},
 			{
