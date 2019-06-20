@@ -14,6 +14,16 @@
 		"isOpenCard":0,
 		"CUSTOMER_SERVICE":"https://chat.livechatvalue.com/chat/chatClient/chatbox.jsp?companyID=1139688&configID=90767&jid=9888126934&s=1",
 		"gamelist":[
+            {
+                "KindID":"3",
+                "KindName":"德州扑克",
+                "TypeID":"0",
+                "ModuleName":"yule.dzshowhand",
+                "ClientVersion":"101122049",
+                "ResVersion":"44",
+                "SortID":"0",
+                "KindMark":"3"
+            },
 			{
 				"KindID":"6",
 				"KindName":"诈金花",
